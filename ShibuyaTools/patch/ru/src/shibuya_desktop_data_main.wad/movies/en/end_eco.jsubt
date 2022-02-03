@@ -1,0 +1,500 @@
+[
+  {
+    "TimeStart": 57.5,
+    "TimeEnd": 64,
+    "PositionX": 0.06,
+    "PositionY": 0.17,
+    "Text": "<i>6 апреля</i>"
+  },
+  {
+    "TimeStart": 61,
+    "TimeEnd": 64,
+    "PositionX": 0.1,
+    "PositionY": 0.74,
+    "Text": "<i>6 апреля — начало съемок</i>"
+  },
+  {
+    "TimeStart": 64,
+    "TimeEnd": 72,
+    "PositionX": 0.06,
+    "PositionY": 0.17,
+    "Text": "<i>10 апреля</i>"
+  },
+  {
+    "TimeStart": 68,
+    "TimeEnd": 69,
+    "PositionX": 0.1,
+    "PositionY": 0.74,
+    "Text": "<i>Бедняжка!</i>"
+  },
+  {
+    "TimeStart": 69,
+    "TimeEnd": 70.8,
+    "PositionX": 0.1,
+    "PositionY": 0.74,
+    "Text": "<i>Бедняжка!
+Ох, мы заставили ее плакать!</i>"
+  },
+  {
+    "TimeStart": 72,
+    "TimeEnd": 85,
+    "PositionX": 0.06,
+    "PositionY": 0.17,
+    "Text": "<i>21 апреля</i>"
+  },
+  {
+    "TimeStart": 73.6,
+    "TimeEnd": 78,
+    "PositionX": 0.1,
+    "PositionY": 0.74,
+    "Text": "<i>Здорово, наверное, быть
+в этом месте главным.</i>"
+  },
+  {
+    "TimeStart": 81,
+    "TimeEnd": 82.2,
+    "PositionX": 0.1,
+    "PositionY": 0.74,
+    "Text": "Удивительно!"
+  },
+  {
+    "TimeStart": 82.7,
+    "TimeEnd": 85.2,
+    "PositionX": 0.1,
+    "PositionY": 0.74,
+    "Text": "Хотя у тебя были связаны руки."
+  },
+  {
+    "TimeStart": 85.2,
+    "TimeEnd": 100,
+    "PositionX": 0.06,
+    "PositionY": 0.17,
+    "Text": "<i>22 апреля</i>"
+  },
+  {
+    "TimeStart": 85.3,
+    "TimeEnd": 88.5,
+    "PositionX": 0.20,
+    "PositionY": 0.74,
+    "Text": "<i>Китадзима, автор сценария</i>"
+  },
+  {
+    "TimeStart": 87.8,
+    "TimeEnd": 88.5,
+    "PositionX": 0.1,
+    "PositionY": 0.74,
+    "Text": "Бум!"
+  },
+  {
+    "TimeStart": 96.2,
+    "TimeEnd": 98,
+    "PositionX": 0.1,
+    "PositionY": 0.74,
+    "Text": "Ты в порядке?"
+  },
+  {
+    "TimeStart": 100,
+    "TimeEnd": 115,
+    "PositionX": 0.06,
+    "PositionY": 0.17,
+    "Text": "<i>24 апреля</i>"
+  },
+  {
+    "TimeStart": 100,
+    "TimeEnd": 104.3,
+    "PositionX": 0.1,
+    "PositionY": 0.74,
+    "Text": "<i>В игре Татено довольно крут, но...</i>"
+  },
+  {
+    "TimeStart": 112.4,
+    "TimeEnd": 113.7,
+    "PositionX": 0.1,
+    "PositionY": 0.74,
+    "Text": "Я тоже~"
+  },
+  {
+    "TimeStart": 115,
+    "TimeEnd": 126,
+    "PositionX": 0.06,
+    "PositionY": 0.17,
+    "Text": "<i>30 мая</i>"
+  },
+  {
+    "TimeStart": 116.5,
+    "TimeEnd": 120.1,
+    "PositionX": 0.1,
+    "PositionY": 0.74,
+    "Text": "Отличная работа!"
+  },
+  {
+    "TimeStart": 122.3,
+    "TimeEnd": 125,
+    "PositionX": 0.1,
+    "PositionY": 0.74,
+    "Text": "Мы это сделали! У-х-ху-у!"
+  },
+  {
+    "TimeStart": 126,
+    "TimeEnd": 138,
+    "PositionX": 0.06,
+    "PositionY": 0.17,
+    "Text": "<i>13 мая</i>"
+  },
+  {
+    "TimeStart": 127,
+    "TimeEnd": 131.7,
+    "PositionX": 0.1,
+    "PositionY": 0.74,
+    "Text": "<i>Наконец раскрыта!
+Макико Моро, играет роль Руми</i>"
+  },
+  {
+    "TimeStart": 134,
+    "TimeEnd": 136.4,
+    "PositionX": 0.1,
+    "PositionY": 0.74,
+    "Text": "Да, да, постановка идеальна."
+  },
+  {
+    "TimeStart": 138,
+    "TimeEnd": 162,
+    "PositionX": 0.06,
+    "PositionY": 0.17,
+    "Text": "<i>15 мая</i>"
+  },
+  {
+    "TimeStart": 138,
+    "TimeEnd": 143.8,
+    "PositionX": 0.1,
+    "PositionY": 0.74,
+    "Text": "Уже поздно, но можно
+получить комментарий?"
+  },
+  {
+    "TimeStart": 144.4,
+    "TimeEnd": 145.2,
+    "PositionX": 0.1,
+    "PositionY": 0.74,
+    "Text": "Я хочу домой."
+  },
+  {
+    "TimeStart": 145.3,
+    "TimeEnd": 146.5,
+    "PositionX": 0.1,
+    "PositionY": 0.74,
+    "Text": "Эй, подожди."
+  },
+  {
+    "TimeStart": 146.5,
+    "TimeEnd": 148.2,
+    "PositionX": 0.1,
+    "PositionY": 0.74,
+    "Text": "Подожди, подожди, подожди."
+  },
+  {
+    "TimeStart": 150.5,
+    "TimeEnd": 153,
+    "PositionX": 0.1,
+    "PositionY": 0.80,
+    "Text": "<i>Время конфронтации.</i>"
+  },
+  {
+    "TimeStart": 152,
+    "TimeEnd": 153,
+    "PositionX": 0.1,
+    "PositionY": 0.74,
+    "Text": "Верно."
+  },
+  {
+    "TimeStart": 153.5,
+    "TimeEnd": 154.1,
+    "PositionX": 0.2,
+    "PositionY": 0.74,
+    "Text": "Что?"
+  },
+  {
+    "TimeStart": 154.1,
+    "TimeEnd": 155.1,
+    "PositionX": 0.1,
+    "PositionY": 0.74,
+    "Text": "Время нам выяснить отношения."
+  },
+  {
+    "TimeStart": 155.3,
+    "TimeEnd": 156.5,
+    "PositionX": 0.2,
+    "PositionY": 0.74,
+    "Text": "Даааа"
+  },
+  {
+    "TimeStart": 157,
+    "TimeEnd": 158,
+    "PositionX": 0.1,
+    "PositionY": 0.74,
+    "Text": "Я доберусь до тебяяя!"
+  },
+  {
+    "TimeStart": 158.3,
+    "TimeEnd": 159.3,
+    "PositionX": 0.3,
+    "PositionY": 0.74,
+    "Text": "Ты ублюдок"
+  },
+  {
+    "TimeStart": 159.3,
+    "TimeEnd": 160.3,
+    "PositionX": 0.1,
+    "PositionY": 0.74,
+    "Text": "Ты ублюдок"
+  },
+  {
+    "TimeStart": 162,
+    "TimeEnd": 204,
+    "PositionX": 0.06,
+    "PositionY": 0.17,
+    "Text": "<i>17 мая</i>"
+  },
+  {
+    "TimeStart": 164,
+    "TimeEnd": 168.5,
+    "PositionX": 0.1,
+    "PositionY": 0.74,
+    "Text": "<i>Из-за авторских прав пришлось
+сделать размытое изображение</i>"
+  },
+  {
+    "TimeStart": 168.5,
+    "TimeEnd": 171.5,
+    "PositionX": 0.1,
+    "PositionY": 0.74,
+    "Text": "<i>Но это Татено</i>"
+  },
+  {
+    "TimeStart": 173.5,
+    "TimeEnd": 175.7,
+    "PositionX": 0.1,
+    "PositionY": 0.74,
+    "Text": "\"Ты мой сын\""
+  },
+  {
+    "TimeStart": 175.8,
+    "TimeEnd": 176.5,
+    "PositionX": 0.1,
+    "PositionY": 0.74,
+    "Text": "А?"
+  },
+  {
+    "TimeStart": 187.5,
+    "TimeEnd": 190.2,
+    "PositionX": 0.1,
+    "PositionY": 0.74,
+    "Text": "Три наши милые сестры..."
+  },
+  {
+    "TimeStart": 190.8,
+    "TimeEnd": 192.5,
+    "PositionX": 0.1,
+    "PositionY": 0.74,
+    "Text": "Угу"
+  },
+  {
+    "TimeStart": 193.3,
+    "TimeEnd": 194.8,
+    "PositionX": 0.1,
+    "PositionY": 0.74,
+    "Text": "Хаха. Только одна из вас, да?"
+  },
+  {
+    "TimeStart": 204,
+    "TimeEnd": 212,
+    "PositionX": 0.06,
+    "PositionY": 0.17,
+    "Text": "<i>18 мая</i>"
+  },
+  {
+    "TimeStart": 205.3,
+    "TimeEnd": 207.5,
+    "PositionX": 0.1,
+    "PositionY": 0.74,
+    "Text": "Что ты делаешь?!"
+  },
+  {
+    "TimeStart": 212,
+    "TimeEnd": 223,
+    "PositionX": 0.06,
+    "PositionY": 0.17,
+    "Text": "<i>19 мая</i>"
+  },
+  {
+    "TimeStart": 215.3,
+    "TimeEnd": 217.8,
+    "PositionX": 0.1,
+    "PositionY": 0.74,
+    "Text": "Как игра \"позвонить и убежать\"..."
+  },
+  {
+    "TimeStart": 223,
+    "TimeEnd": 249,
+    "PositionX": 0.06,
+    "PositionY": 0.17,
+    "Text": "<i>21 мая</i>"
+  },
+  {
+    "TimeStart": 230.5,
+    "TimeEnd": 233.5,
+    "PositionX": 0.1,
+    "PositionY": 0.74,
+    "Text": "О, это жутко!"
+  },
+  {
+    "TimeStart": 249,
+    "TimeEnd": 257,
+    "PositionX": 0.06,
+    "PositionY": 0.17,
+    "Text": "<i>24 мая</i>"
+  },
+  {
+    "TimeStart": 250,
+    "TimeEnd": 252.8,
+    "PositionX": 0.1,
+    "PositionY": 0.74,
+    "Text": "Смотрите, как я живу!"
+  },
+  {
+    "TimeStart": 255,
+    "TimeEnd": 257.8,
+    "PositionX": 0.1,
+    "PositionY": 0.74,
+    "Text": "Спасибо за шоу!"
+  },
+  {
+    "TimeStart": 257,
+    "TimeEnd": 302,
+    "PositionX": 0.06,
+    "PositionY": 0.17,
+    "Text": "<i>28 мая</i>"
+  },
+  {
+    "TimeStart": 269,
+    "TimeEnd": 271.2,
+    "PositionX": 0.1,
+    "PositionY": 0.74,
+    "Text": "Почему это так хорошо
+на тебе смотрится?"
+  },
+  {
+    "TimeStart": 278,
+    "TimeEnd": 278.5,
+    "PositionX": 0.1,
+    "PositionY": 0.74,
+    "Text": "Бам!"
+  },
+  {
+    "TimeStart": 281,
+    "TimeEnd": 282.5,
+    "PositionX": 0.1,
+    "PositionY": 0.74,
+    "Text": "Прости!"
+  },
+  {
+    "TimeStart": 282.5,
+    "TimeEnd": 286.3,
+    "PositionX": 0.1,
+    "PositionY": 0.74,
+    "Text": "У Ачи мысли в стиле ретро"
+  },
+  {
+    "TimeStart": 286.8,
+    "TimeEnd": 289.3,
+    "PositionX": 0.1,
+    "PositionY": 0.74,
+    "Text": "Вот ЭТО у Ачи в голове?"
+  },
+  {
+    "TimeStart": 291.2,
+    "TimeEnd": 294,
+    "PositionX": 0.1,
+    "PositionY": 0.74,
+    "Text": "Подсознание у Ачи брутальное"
+  },
+  {
+    "TimeStart": 294,
+    "TimeEnd": 297.3,
+    "PositionX": 0.1,
+    "PositionY": 0.74,
+    "Text": "<i>Лиланд тоже снялся</i>"
+  },
+  {
+    "TimeStart": 299.3,
+    "TimeEnd": 300.8,
+    "PositionX": 0.1,
+    "PositionY": 0.74,
+    "Text": "Я этого ждал 5 часов."
+  },
+  {
+    "TimeStart": 300.8,
+    "TimeEnd": 302.5,
+    "PositionX": 0.1,
+    "PositionY": 0.74,
+    "Text": "5 часов!"
+  },
+  {
+    "TimeStart": 302,
+    "TimeEnd": 334,
+    "PositionX": 0.06,
+    "PositionY": 0.17,
+    "Text": "<i>31 мая</i>"
+  },
+  {
+    "TimeStart": 303.8,
+    "TimeEnd": 308.5,
+    "PositionX": 0.1,
+    "PositionY": 0.74,
+    "Text": "Это последняя съёмка
+после 60-дневного приключения!"
+  },
+  {
+    "TimeStart": 309.3,
+    "TimeEnd": 310.5,
+    "PositionX": 0.1,
+    "PositionY": 0.74,
+    "Text": "В самом деле?"
+  },
+  {
+    "TimeStart": 310.5,
+    "TimeEnd": 311.5,
+    "PositionX": 0.1,
+    "PositionY": 0.74,
+    "Text": "Поживем — увидим!"
+  },
+  {
+    "TimeStart": 311.8,
+    "TimeEnd": 313.8,
+    "PositionX": 0.1,
+    "PositionY": 0.74,
+    "Text": "Они снова могут
+вызвать нас в Сибую."
+  },
+  {
+    "TimeStart": 316.5,
+    "TimeEnd": 318.5,
+    "PositionX": 0.1,
+    "PositionY": 0.74,
+    "Text": "Не смотри на меня так! Ха-ха!"
+  },
+  {
+    "TimeStart": 320.5,
+    "TimeEnd": 325.3,
+    "PositionX": 0.1,
+    "PositionY": 0.74,
+    "Text": "Но это действительно конец!"
+  },
+  {
+    "TimeStart": 328.8,
+    "TimeEnd": 334.5,
+    "PositionX": 0.1,
+    "PositionY": 0.74,
+    "Text": "<i>31 мая съёмки завершены!</i>"
+  }
+]

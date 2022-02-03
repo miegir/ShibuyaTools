@@ -1,0 +1,1917 @@
+[
+  {
+    "key": "I don’t want to know how people feel.",
+    "trx": "Я не хочу знать, что чувствуют люди.",
+    "val": "I don’t want to know how people feel."
+  },
+  {
+    "key": "All I want to know is what viruses feel.",
+    "trx": "Все, что я хочу знать, - это то, что чувствуют вирусы.",
+    "val": "All I want to know is what viruses feel."
+  },
+  {
+    "key": "I prefer viruses",
+    "trx": "Я предпочитаю вирусы",
+    "val": "I prefer viruses"
+  },
+  {
+    "key": "because they make no move to encroach on",
+    "trx": "потому что они не предпринимают никаких попыток посягнуть на",
+    "val": "because they make no move to encroach on"
+  },
+  {
+    "key": "me from the other side of my microscope.",
+    "trx": "я с другой стороны моего микроскопа.",
+    "val": "me from the other side of my microscope."
+  },
+  {
+    "key": "They leave me free",
+    "trx": "Они оставляют меня свободным",
+    "val": "They leave me free"
+  },
+  {
+    "key": "to let my thoughts wander as I wish.",
+    "trx": "позволить своим мыслям блуждать так, как я хочу.",
+    "val": "to let my thoughts wander as I wish."
+  },
+  {
+    "key": "And while it may be true",
+    "trx": "И хотя это может быть правдой",
+    "val": "And while it may be true"
+  },
+  {
+    "key": "to say I understand viruses,",
+    "trx": "сказать, что я понимаю вирусы,",
+    "val": "to say I understand viruses,"
+  },
+  {
+    "key": "I have never been able to",
+    "trx": "Я никогда не был в состоянии",
+    "val": "I have never been able to"
+  },
+  {
+    "key": "understand my fellow humans.",
+    "trx": "пойми моих собратьев-людей.",
+    "val": "understand my fellow humans."
+  },
+  {
+    "key": "I don’t know them.",
+    "trx": "Я их не знаю.",
+    "val": "I don’t know them."
+  },
+  {
+    "key": "I don’t know a single",
+    "trx": "Я не знаю ни одного",
+    "val": "I don’t know a single"
+  },
+  {
+    "key": "fundamental thing about them.",
+    "trx": "фундаментальная вещь в них.",
+    "val": "fundamental thing about them."
+  },
+  {
+    "key": "With Tanaka dead, trying to use the backup passwords for the fingerprint scanner had become a hopeless endeavor.",
+    "trx": "После смерти Танаки попытка использовать резервные пароли для сканера отпечатков пальцев стала безнадежной попыткой.",
+    "val": "With Tanaka dead, trying to use the backup passwords for the fingerprint scanner had become a hopeless endeavor."
+  },
+  {
+    "key": "The only remaining means of gaining entry to the storage area was to issue an emergency unlock request to the electronic lock manufacturer.",
+    "trx": "Единственным оставшимся способом проникнуть в хранилище было отправить производителю электронного замка запрос на экстренную разблокировку.",
+    "val": "The only remaining means of gaining entry to the storage area was to issue an emergency unlock request to the electronic lock manufacturer."
+  },
+  {
+    "key": "And in order to do that, they needed approval from the six members of the board of directors.",
+    "trx": "И для того, чтобы сделать это, им требовалось одобрение шести членов совета директоров.",
+    "val": "And in order to do that, they needed approval from the six members of the board of directors."
+  },
+  {
+    "key": "Returning to his study, Osawa called Makino’s personal cell phone.",
+    "trx": "Вернувшись в свой кабинет, Осава позвонил на личный мобильный телефон Макино.",
+    "val": "Returning to his study, Osawa called Makino’s personal cell phone."
+  },
+  {
+    "key": "“What is it?” Makino said gruffly as soon as he picked up.",
+    "trx": "\"что это?\" - хрипло сказал Макино, как только взял трубку.",
+    "val": "“What is it?” Makino said gruffly as soon as he picked up."
+  },
+  {
+    "key": "Osawa informed him of the situation, ",
+    "trx": "Осава проинформировал его о сложившейся ситуации, ",
+    "val": "Osawa informed him of the situation, "
+  },
+  {
+    "key": "including Tanaka’s death ",
+    "trx": "включая смерть Танаки ",
+    "val": "including Tanaka’s death "
+  },
+  {
+    "key": "and the fact that Maria was infected.",
+    "trx": "и тот факт, что Мария была заражена.",
+    "val": "and the fact that Maria was infected."
+  },
+  {
+    "key": "The news left Makino at a loss for words.",
+    "trx": "Эта новость повергла Макино в растерянность.",
+    "val": "The news left Makino at a loss for words."
+  },
+  {
+    "key": "“Please,” Osawa begged, ",
+    "trx": "”Пожалуйста\", - взмолился Осава, ",
+    "val": "“Please,” Osawa begged, "
+  },
+  {
+    "key": "“you need to hold an emergency board meeting.”",
+    "trx": "“вам нужно провести экстренное заседание правления”.",
+    "val": "“you need to hold an emergency board meeting.”"
+  },
+  {
+    "key": "Makino was silent for a few moments. ",
+    "trx": "Макино несколько мгновений молчал. ",
+    "val": "Makino was silent for a few moments. "
+  },
+  {
+    "key": "“I’m afraid I can’t do that.”",
+    "trx": "“Боюсь, я не могу этого сделать\".",
+    "val": "“I’m afraid I can’t do that.”"
+  },
+  {
+    "key": "“Why not?! ",
+    "trx": "“Почему бы и нет?! ",
+    "val": "“Why not?! "
+  },
+  {
+    "key": "Are you just going to sit by and let my daughter die?!” Osawa raged.",
+    "trx": "Ты что, собираешься просто сидеть и смотреть, как моя дочь умирает?!” Осава пришел в ярость.",
+    "val": "Are you just going to sit by and let my daughter die?!” Osawa raged."
+  },
+  {
+    "key": "“And not just her! ",
+    "trx": "“И не только она! ",
+    "val": "“And not just her! "
+  },
+  {
+    "key": "If Maria goes symptomatic...” ",
+    "trx": "Если у Марии появятся симптомы...” ",
+    "val": "If Maria goes symptomatic...” "
+  },
+  {
+    "key": "If Maria goes symptomatic...",
+    "trx": "Если у Марии появятся симптомы...",
+    "val": "If Maria goes symptomatic..."
+  },
+  {
+    "key": "That was still only an ‘if,’ but Osawa was reluctant to put his fears into words.",
+    "trx": "Это все еще было только \"если\", но Осава не хотел облекать свои страхи в слова.",
+    "val": "That was still only an ‘if,’ but Osawa was reluctant to put his fears into words."
+  },
+  {
+    "key": "“If she goes symptomatic, the Ua virus will sweep through all of Tokyo!”",
+    "trx": "“Если у нее появятся симптомы, вирус Ua пронесется по всему Токио!”",
+    "val": "“If she goes symptomatic, the Ua virus will sweep through all of Tokyo!”"
+  },
+  {
+    "key": "“I realize that,” Makino replied. ",
+    "trx": "“Я понимаю это”, - ответил Макино. ",
+    "val": "“I realize that,” Makino replied. "
+  },
+  {
+    "key": "“But one of the board members is overseas on business. ",
+    "trx": "“Но один из членов правления находится за границей по делам. ",
+    "val": "“But one of the board members is overseas on business. "
+  },
+  {
+    "key": "Holding a meeting is impossible.”",
+    "trx": "Проведение собрания невозможно”.",
+    "val": "Holding a meeting is impossible.”"
+  },
+  {
+    "key": "Despite the gravity of the situation, he sounded astoundingly nonchalant.",
+    "trx": "Несмотря на серьезность ситуации, его голос звучал поразительно беззаботно.",
+    "val": "Despite the gravity of the situation, he sounded astoundingly nonchalant."
+  },
+  {
+    "key": "Osawa couldn’t back down now. ",
+    "trx": "Теперь Осава не мог отступить. ",
+    "val": "Osawa couldn’t back down now. "
+  },
+  {
+    "key": "“There must be some other option! Like a web conference, or something!”",
+    "trx": "“Должен быть какой-то другой вариант! Как веб-конференция или что-то в этом роде!”",
+    "val": "“There must be some other option! Like a web conference, or something!”"
+  },
+  {
+    "key": "“That doesn’t help us if we can’t get in touch with him,” Makino huffed. ",
+    "trx": "“Это нам не поможет, если мы не сможем с ним связаться”, - фыркнул Макино. ",
+    "val": "“That doesn’t help us if we can’t get in touch with him,” Makino huffed. "
+  },
+  {
+    "key": "“He ",
+    "trx": "“Он ",
+    "val": "“He "
+  },
+  {
+    "key": "went missing",
+    "trx": "пропал без вести",
+    "val": "went missing"
+  },
+  {
+    "key": " a few days ago, in the middle of his business trip.”",
+    "trx": " несколько дней назад, в середине его деловой поездки.”",
+    "val": " a few days ago, in the middle of his business trip.”"
+  },
+  {
+    "key": "Osawa was almost too appalled to be angry. ",
+    "trx": "Осава был слишком потрясен, чтобы злиться. ",
+    "val": "Osawa was almost too appalled to be angry. "
+  },
+  {
+    "key": "“That’s the most ridiculous lie I’ve ever heard!”",
+    "trx": "“Это самая нелепая ложь, которую я когда-либо слышал!”",
+    "val": "“That’s the most ridiculous lie I’ve ever heard!”"
+  },
+  {
+    "key": "“Would you like to speak to my on-site contact, if you don’t believe me?”",
+    "trx": "“Не хотели бы вы поговорить с моим контактным лицом на месте, если вы мне не верите?”",
+    "val": "“Would you like to speak to my on-site contact, if you don’t believe me?”"
+  },
+  {
+    "key": "This was like arguing with a child.",
+    "trx": "Это было все равно что спорить с ребенком.",
+    "val": "This was like arguing with a child."
+  },
+  {
+    "key": "If Makino was deliberately working against him, he’d never know if this disappearance was real or not.",
+    "trx": "Если бы Макино намеренно работал против него, он бы никогда не узнал, было ли это исчезновение реальным или нет.",
+    "val": "If Makino was deliberately working against him, he’d never know if this disappearance was real or not."
+  },
+  {
+    "key": "“In that case, can you please appoint a representative in his stead?” Osawa pleaded.",
+    "trx": "“В таком случае, не могли бы вы, пожалуйста, назначить представителя вместо него?” - взмолился Осава.",
+    "val": "“In that case, can you please appoint a representative in his stead?” Osawa pleaded."
+  },
+  {
+    "key": "“Selecting a representative is a complicated process. ",
+    "trx": "“Выбор представителя - сложный процесс. ",
+    "val": "“Selecting a representative is a complicated process. "
+  },
+  {
+    "key": "Even if we started right now, ",
+    "trx": "Даже если бы мы начали прямо сейчас, ",
+    "val": "Even if we started right now, "
+  },
+  {
+    "key": "it would take until sometime tomorrow afternoon to complete.”",
+    "trx": "для завершения потребуется время до завтрашнего полудня.”",
+    "val": "it would take until sometime tomorrow afternoon to complete.”"
+  },
+  {
+    "key": "Tomorrow afternoon...",
+    "trx": "Завтра днем...",
+    "val": "Tomorrow afternoon..."
+  },
+  {
+    "key": "By then, it would be too late for any of this to matter.",
+    "trx": "К тому времени будет уже слишком поздно, чтобы все это имело значение.",
+    "val": "By then, it would be too late for any of this to matter."
+  },
+  {
+    "key": "“Sir, can’t you see how absurd the things you’re saying are?!”",
+    "trx": "“Сэр, разве вы не видите, насколько абсурдны вещи, которые вы говорите?!”",
+    "val": "“Sir, can’t you see how absurd the things you’re saying are?!”"
+  },
+  {
+    "key": "“What would you have me do?!” Makino barked. ",
+    "trx": "“Что ты хочешь, чтобы я сделал?!” - рявкнул Макино. ",
+    "val": "“What would you have me do?!” Makino barked. "
+  },
+  {
+    "key": "“These are the realities of corporate politics!”",
+    "trx": "“Таковы реалии корпоративной политики!”",
+    "val": "“These are the realities of corporate politics!”"
+  },
+  {
+    "key": "“I understand, sir. ",
+    "trx": "“Я понимаю, сэр. ",
+    "val": "“I understand, sir. "
+  },
+  {
+    "key": "You will do nothing for my daughter. ",
+    "trx": "Ты ничего не сделаешь для моей дочери. ",
+    "val": "You will do nothing for my daughter. "
+  },
+  {
+    "key": "That’s what you’re saying.”",
+    "trx": "Вот что ты хочешь сказать.”",
+    "val": "That’s what you’re saying.”"
+  },
+  {
+    "key": "“That’s ",
+    "trx": "“Это ",
+    "val": "“That’s "
+  },
+  {
+    "key": "not",
+    "trx": "нет",
+    "val": "not"
+  },
+  {
+    "key": " what I’m saying,” Makino replied. ",
+    "trx": " то, что я говорю, - ответил Макино. ",
+    "val": " what I’m saying,” Makino replied. "
+  },
+  {
+    "key": "“Look—I’ll see what I can do to appoint a representative more quickly.”",
+    "trx": "“Послушайте, я посмотрю, что я могу сделать, чтобы быстрее назначить представителя”.",
+    "val": "“Look—I’ll see what I can do to appoint a representative more quickly.”"
+  },
+  {
+    "key": "He hung up.",
+    "trx": "Он повесил трубку.",
+    "val": "He hung up."
+  },
+  {
+    "key": "His tone had suggested that waiting for an appointee wouldn’t be a terribly hopeful prospect.",
+    "trx": "Его тон наводил на мысль, что ожидание назначенца не будет очень обнадеживающей перспективой.",
+    "val": "His tone had suggested that waiting for an appointee wouldn’t be a terribly hopeful prospect."
+  },
+  {
+    "key": "I have no more allies,",
+    "trx": "У меня больше нет союзников,",
+    "val": "I have no more allies,"
+  },
+  {
+    "key": " Osawa thought. ",
+    "trx": " Осава задумался. ",
+    "val": " Osawa thought. "
+  },
+  {
+    "key": "All I have left now are foes.",
+    "trx": "Все, что у меня сейчас осталось, - это враги.",
+    "val": "All I have left now are foes."
+  },
+  {
+    "key": "He couldn’t count on anyone anymore.",
+    "trx": "Он больше ни на кого не мог рассчитывать.",
+    "val": "He couldn’t count on anyone anymore."
+  },
+  {
+    "key": "Osawa was just going to have to get the antiviral by himself.",
+    "trx": "Осаве просто нужно было самому получить противовирусное средство.",
+    "val": "Osawa was just going to have to get the antiviral by himself."
+  },
+  {
+    "key": "Still, he’d just have to take Makino at his word.",
+    "trx": "Тем не менее, ему просто придется поверить Макино на слово.",
+    "val": "Still, he’d just have to take Makino at his word."
+  },
+  {
+    "key": "Right now, that was his only course of action.",
+    "trx": "Прямо сейчас это был его единственный способ действий.",
+    "val": "Right now, that was his only course of action."
+  },
+  {
+    "key": "Still, he’d just have to take Makino at his word.",
+    "trx": "Тем не менее, ему просто придется поверить Макино на слово.",
+    "val": "Still, he’d just have to take Makino at his word."
+  },
+  {
+    "key": "Right now, that was his only course of action.",
+    "trx": "Прямо сейчас это был его единственный способ действий.",
+    "val": "Right now, that was his only course of action."
+  },
+  {
+    "key": "Osawa sat down in front of his computer and quietly closed his eyes.",
+    "trx": "Осава сел перед своим компьютером и тихо закрыл глаза.",
+    "val": "Osawa sat down in front of his computer and quietly closed his eyes."
+  },
+  {
+    "key": "If only I could just go to sleep and wake up tomorrow morning and find all of this resolved. ",
+    "trx": "Если бы только я мог просто лечь спать, а завтра утром проснуться и обнаружить, что все это решено. ",
+    "val": "If only I could just go to sleep and wake up tomorrow morning and find all of this resolved. "
+  },
+  {
+    "key": "All I’m asking for is a miracle.",
+    "trx": "Все, о чем я прошу, - это о чуде.",
+    "val": "All I’m asking for is a miracle."
+  },
+  {
+    "key": "But he knew reality would never be so kind.",
+    "trx": "Но он знал, что реальность никогда не будет такой доброй.",
+    "val": "But he knew reality would never be so kind."
+  },
+  {
+    "key": "He could hold his eyes shut as long as he wanted and it wouldn’t make this hopeless situation go away.",
+    "trx": "Он мог держать глаза закрытыми столько, сколько хотел, и это не заставило бы эту безнадежную ситуацию исчезнуть.",
+    "val": "He could hold his eyes shut as long as he wanted and it wouldn’t make this hopeless situation go away."
+  },
+  {
+    "key": "He felt the anxiety welling up inside him until it seemed like he was going to explode.",
+    "trx": "Он чувствовал, как внутри него нарастает тревога, пока ему не показалось, что он вот-вот взорвется.",
+    "val": "He felt the anxiety welling up inside him until it seemed like he was going to explode."
+  },
+  {
+    "key": "Needing a distraction from his helplessness, Osawa opened up AyaNET.",
+    "trx": "Нуждаясь в отвлечении от своей беспомощности, Осава открыл Айанет.",
+    "val": "Needing a distraction from his helplessness, Osawa opened up AyaNET."
+  },
+  {
+    "key": "He knew this was mere escapism, but he couldn’t just sit and do nothing while waiting for Makino to call back.",
+    "trx": "Он знал, что это был просто эскапизм, но он не мог просто сидеть и ничего не делать, ожидая, когда Макино перезвонит.",
+    "val": "He knew this was mere escapism, but he couldn’t just sit and do nothing while waiting for Makino to call back."
+  },
+  {
+    "key": "He posted a new topic with the title ‘Aya Fortune-Teller.’",
+    "trx": "Он опубликовал новую тему с названием \"Айя Гадалка\".",
+    "val": "He posted a new topic with the title ‘Aya Fortune-Teller.’"
+  },
+  {
+    "key": "I tried the Aya Fortune-Teller.",
+    "trx": "Я попробовал обратиться к Гадалке Айя.",
+    "val": "I tried the Aya Fortune-Teller."
+  },
+  {
+    "key": "My results basically said I was a bad person who can’t connect to the people around me.",
+    "trx": "Мои результаты в основном говорили о том, что я плохой человек, который не может общаться с окружающими меня людьми.",
+    "val": "My results basically said I was a bad person who can’t connect to the people around me."
+  },
+  {
+    "key": "And you know what? That’s exactly right.",
+    "trx": "И знаешь что? Это совершенно верно.",
+    "val": "And you know what? That’s exactly right."
+  },
+  {
+    "key": "I’m only interested in my own little world.",
+    "trx": "Меня интересует только мой собственный маленький мирок.",
+    "val": "I’m only interested in my own little world."
+  },
+  {
+    "key": "That’s probably why my wife and my assistant at work got so fed up with me.",
+    "trx": "Наверное, поэтому моя жена и мой помощник на работе так надоели мне.",
+    "val": "That’s probably why my wife and my assistant at work got so fed up with me."
+  },
+  {
+    "key": "It’s the same with my two daughters.",
+    "trx": "То же самое и с двумя моими дочерьми.",
+    "val": "It’s the same with my two daughters."
+  },
+  {
+    "key": "What sort of things are they interested in? ",
+    "trx": "Какие вещи их интересуют? ",
+    "val": "What sort of things are they interested in? "
+  },
+  {
+    "key": "Do they have a lot of friends? ",
+    "trx": "Много ли у них друзей? ",
+    "val": "Do they have a lot of friends? "
+  },
+  {
+    "key": "What are their aspirations for the future?",
+    "trx": "Каковы их устремления в будущее?",
+    "val": "What are their aspirations for the future?"
+  },
+  {
+    "key": "I don’t know any of those things. ",
+    "trx": "Я ничего из этого не знаю. ",
+    "val": "I don’t know any of those things. "
+  },
+  {
+    "key": "It never even occurred to me to find out.",
+    "trx": "Мне даже в голову не приходило это выяснить.",
+    "val": "It never even occurred to me to find out."
+  },
+  {
+    "key": "I’m such a terrible father.",
+    "trx": "Я такой ужасный отец.",
+    "val": "I’m such a terrible father."
+  },
+  {
+    "key": "Osawa’s fingers ceased their tapping on the keyboard as he thought back to when Maria and Hitomi were younger.",
+    "trx": "Пальцы Осавы перестали стучать по клавиатуре, когда он вспомнил времена, когда Мария и Хитоми были моложе.",
+    "val": "Osawa’s fingers ceased their tapping on the keyboard as he thought back to when Maria and Hitomi were younger."
+  },
+  {
+    "key": "“Daddy!”",
+    "trx": "“Папа!”",
+    "val": "“Daddy!”"
+  },
+  {
+    "key": "“Daddy!”",
+    "trx": "“Папа!”",
+    "val": "“Daddy!”"
+  },
+  {
+    "key": "The two girls would follow him around like a pair of puppies.",
+    "trx": "Две девочки ходили за ним повсюду, как пара щенков.",
+    "val": "The two girls would follow him around like a pair of puppies."
+  },
+  {
+    "key": "Their father was their everything—that much was clear just by looking at their faces.",
+    "trx": "Их отец был для них всем — это было ясно, просто взглянув на их лица.",
+    "val": "Their father was their everything—that much was clear just by looking at their faces."
+  },
+  {
+    "key": "He’d felt a ticklish giddiness at having his girls cling to him so.",
+    "trx": "Он чувствовал щекотливое головокружение оттого, что его девочки так цеплялись за него.",
+    "val": "He’d felt a ticklish giddiness at having his girls cling to him so."
+  },
+  {
+    "key": "He’d never felt anything like it in his life.",
+    "trx": "Он никогда в жизни не испытывал ничего подобного.",
+    "val": "He’d never felt anything like it in his life."
+  },
+  {
+    "key": "But there were times where he also found it tiresome.",
+    "trx": "Но были времена, когда он также находил это утомительным.",
+    "val": "But there were times where he also found it tiresome."
+  },
+  {
+    "key": "I am sick of being the person I am.",
+    "trx": "Мне надоело быть тем человеком, которым я являюсь.",
+    "val": "I am sick of being the person I am."
+  },
+  {
+    "key": "There’s nothing I can do about that, though.",
+    "trx": "Однако я ничего не могу с этим поделать.",
+    "val": "There’s nothing I can do about that, though."
+  },
+  {
+    "key": "I’m sure it’s far too late for me to change.",
+    "trx": "Я уверен, что мне уже слишком поздно меняться.",
+    "val": "I’m sure it’s far too late for me to change."
+  },
+  {
+    "key": "He poured out all his negative emotions into his post.",
+    "trx": "Он вылил все свои негативные эмоции в свой пост.",
+    "val": "He poured out all his negative emotions into his post."
+  },
+  {
+    "key": "It felt like stream-of-consciousness drivel, but he didn’t hesitate to write it down all the same.",
+    "trx": "Это было похоже на чушь из потока сознания, но он все равно, не колеблясь, записал это.",
+    "val": "It felt like stream-of-consciousness drivel, but he didn’t hesitate to write it down all the same."
+  },
+  {
+    "key": "He wanted other people to know what a miserable excuse for a human being he was.",
+    "trx": "Он хотел, чтобы другие люди знали, каким жалким подобием человеческого существа он был.",
+    "val": "He wanted other people to know what a miserable excuse for a human being he was."
+  },
+  {
+    "key": "At last, when he couldn’t think of anything else to add, he posted his bitter confession to the forum.",
+    "trx": "Наконец, когда он не смог придумать, что еще добавить, он опубликовал свое горькое признание на форуме.",
+    "val": "At last, when he couldn’t think of anything else to add, he posted his bitter confession to the forum."
+  },
+  {
+    "key": "He was staring numbly at the monitor when he heard a furious shout from the next room.",
+    "trx": "Он оцепенело уставился на монитор, когда услышал яростный крик из соседней комнаты.",
+    "val": "He was staring numbly at the monitor when he heard a furious shout from the next room."
+  },
+  {
+    "key": "“You have got to be ",
+    "trx": "“Ты должен быть ",
+    "val": "“You have got to be "
+  },
+  {
+    "key": "kidding",
+    "trx": "ребячество",
+    "val": "kidding"
+  },
+  {
+    "key": " me!”",
+    "trx": " я!”",
+    "val": " me!”"
+  },
+  {
+    "key": "It was Kajiwara—and Osawa had never heard him so angry.",
+    "trx": "Это был Кадзивара — и Осава никогда не слышал, чтобы он был так зол.",
+    "val": "It was Kajiwara—and Osawa had never heard him so angry."
+  },
+  {
+    "key": "Osawa headed into the living room, and found Kajiwara embroiled in a vehement argument with the other detectives.",
+    "trx": "Осава направился в гостиную и обнаружил Кадзивару, вовлеченного в яростный спор с другими детективами.",
+    "val": "Osawa headed into the living room, and found Kajiwara embroiled in a vehement argument with the other detectives."
+  },
+  {
+    "key": "“I don’t care ",
+    "trx": "“Мне все равно ",
+    "val": "“I don’t care "
+  },
+  {
+    "key": "what",
+    "trx": "что",
+    "val": "what"
+  },
+  {
+    "key": " HQ’s policy is—I will ",
+    "trx": " Политика штаб—квартиры такова - я буду ",
+    "val": " HQ’s policy is—I will "
+  },
+  {
+    "key": "not",
+    "trx": "нет",
+    "val": "not"
+  },
+  {
+    "key": " just quietly go along with this!” ",
+    "trx": " просто спокойно соглашайся с этим!” ",
+    "val": " just quietly go along with this!” "
+  },
+  {
+    "key": "Kajiwara had already screamed himself red in the face.",
+    "trx": "Кадзивара уже успел покраснеть от крика.",
+    "val": "Kajiwara had already screamed himself red in the face."
+  },
+  {
+    "key": "“You’re out of line,” snapped one ",
+    "trx": "“Ты переступаешь черту”, - огрызнулся один из них ",
+    "val": "“You’re out of line,” snapped one "
+  },
+  {
+    "key": "MPD detective",
+    "trx": "Детектив полиции",
+    "val": "MPD detective"
+  },
+  {
+    "key": ". ",
+    "trx": ". ",
+    "val": ". "
+  },
+  {
+    "key": "“Hold your tongue.”",
+    "trx": "“Придержи свой язык”.",
+    "val": "“Hold your tongue.”"
+  },
+  {
+    "key": "“I don’t care if I’m out line!” ",
+    "trx": "“Мне все равно, если я выйду за рамки!” ",
+    "val": "“I don’t care if I’m out line!” "
+  },
+  {
+    "key": "“You may have talent, I’ll give you that,” the other detective said. ",
+    "trx": "“Возможно, у вас есть талант, я отдаю вам должное”, - сказал другой детектив. ",
+    "val": "“You may have talent, I’ll give you that,” the other detective said. "
+  },
+  {
+    "key": "“But you’re a precinct detective, and this isn’t your jurisdiction. ",
+    "trx": "“Но вы участковый детектив, и это не ваша юрисдикция. ",
+    "val": "“But you’re a precinct detective, and this isn’t your jurisdiction. "
+  },
+  {
+    "key": "It’s not your place to question orders from higher up.”",
+    "trx": "Не твое дело подвергать сомнению приказы вышестоящих.”",
+    "val": "It’s not your place to question orders from higher up.”"
+  },
+  {
+    "key": "Wait,",
+    "trx": "Подождите,",
+    "val": "Wait,"
+  },
+  {
+    "key": " Osawa thought. ",
+    "trx": " Осава задумался. ",
+    "val": " Osawa thought. "
+  },
+  {
+    "key": "Kajiwara really",
+    "trx": "Кадзивара действительно",
+    "val": "Kajiwara really"
+  },
+  {
+    "key": " is ",
+    "trx": " является ",
+    "val": " is "
+  },
+  {
+    "key": "a real detective after all?",
+    "trx": "в конце концов, настоящий детектив?",
+    "val": "a real detective after all?"
+  },
+  {
+    "key": "“Go on. Explain the situation to Mr. Osawa.”",
+    "trx": "“Продолжай. Объясните ситуацию мистеру Осаве.”",
+    "val": "“Go on. Explain the situation to Mr. Osawa.”"
+  },
+  {
+    "key": "Kajiwara bit his lip in frustration at the other detective’s order. ",
+    "trx": "Кадзивара закусил губу в отчаянии от приказа другого детектива. ",
+    "val": "Kajiwara bit his lip in frustration at the other detective’s order. "
+  },
+  {
+    "key": "“Very well,” he said.",
+    "trx": "“Очень хорошо\", ” сказал он.",
+    "val": "“Very well,” he said."
+  },
+  {
+    "key": "But before he could say more, Osawa noticed that the police equipment had all been cleared off of the table.",
+    "trx": "Но прежде чем он успел сказать что-то еще, Осава заметил, что все полицейское оборудование было убрано со стола.",
+    "val": "But before he could say more, Osawa noticed that the police equipment had all been cleared off of the table."
+  },
+  {
+    "key": "“Hold on!” Osawa said. ",
+    "trx": "“Держись!” - сказал Осава. ",
+    "val": "“Hold on!” Osawa said. "
+  },
+  {
+    "key": "“What’s going on? Has something happened?”",
+    "trx": "“Что происходит? Что-то случилось?”",
+    "val": "“What’s going on? Has something happened?”"
+  },
+  {
+    "key": "“Allow me to explain, sir,”",
+    "trx": "“Позвольте мне объяснить, сэр,”",
+    "val": "“Allow me to explain, sir,”"
+  },
+  {
+    "key": " Kajiwara said. ",
+    "trx": " Сказал Кадзивара. ",
+    "val": " Kajiwara said. "
+  },
+  {
+    "key": "His bitterness showed plainly on his face.",
+    "trx": "Горечь ясно читалась на его лице.",
+    "val": "His bitterness showed plainly on his face."
+  },
+  {
+    "key": "“We’ve been ",
+    "trx": "“Мы были ",
+    "val": "“We’ve been "
+  },
+  {
+    "key": "recalled",
+    "trx": "отозванный",
+    "val": "recalled"
+  },
+  {
+    "key": ", sir.”",
+    "trx": ", сэр.”",
+    "val": ", sir.”"
+  },
+  {
+    "key": "Osawa narrowed his eyes, fighting to keep the confusion from his face. ",
+    "trx": "Осава прищурил глаза, стараясь скрыть замешательство на лице. ",
+    "val": "Osawa narrowed his eyes, fighting to keep the confusion from his face. "
+  },
+  {
+    "key": "“I...",
+    "trx": "“Я...",
+    "val": "“I..."
+  },
+  {
+    "key": "What do you mean by that?”",
+    "trx": "Что вы имеете в виду под этим?”",
+    "val": "What do you mean by that?”"
+  },
+  {
+    "key": "He was shaking, terrified to have his suspicions confirmed.",
+    "trx": "Его трясло, он боялся, что его подозрения подтвердятся.",
+    "val": "He was shaking, terrified to have his suspicions confirmed."
+  },
+  {
+    "key": "“I’m truly sorry, sir. ",
+    "trx": "“Я искренне сожалею, сэр. ",
+    "val": "“I’m truly sorry, sir. "
+  },
+  {
+    "key": "For having been unable to help you.” ",
+    "trx": "За то, что не смог тебе помочь.” ",
+    "val": "For having been unable to help you.” "
+  },
+  {
+    "key": "Kajiwara gave a deep and solemn bow.",
+    "trx": "Кадзивара отвесил глубокий и торжественный поклон.",
+    "val": "Kajiwara gave a deep and solemn bow."
+  },
+  {
+    "key": "“But...Maria...",
+    "trx": "\"но...Мария...",
+    "val": "“But...Maria..."
+  },
+  {
+    "key": "what’s going to happen to Maria?”",
+    "trx": "что будет с Марией?”",
+    "val": "what’s going to happen to Maria?”"
+  },
+  {
+    "key": "“Another unit has been tasked with bringing your daughter into custody, sir.”",
+    "trx": "“Другому подразделению поручено взять вашу дочь под стражу, сэр”.",
+    "val": "“Another unit has been tasked with bringing your daughter into custody, sir.”"
+  },
+  {
+    "key": "That much, at least, Osawa could process. ",
+    "trx": "Это, по крайней мере, Осава мог переварить. ",
+    "val": "That much, at least, Osawa could process. "
+  },
+  {
+    "key": "“You’re going to place her under quarantine, aren’t you?”",
+    "trx": "“Вы собираетесь поместить ее в карантин, не так ли?”",
+    "val": "“You’re going to place her under quarantine, aren’t you?”"
+  },
+  {
+    "key": "Kajiwara’s lips stiffened, but he nodded. ",
+    "trx": "Губы Кадзивары напряглись, но он кивнул. ",
+    "val": "Kajiwara’s lips stiffened, but he nodded. "
+  },
+  {
+    "key": "“In order to minimize the spread of the virus. So I’m told.”",
+    "trx": "“Для того, чтобы свести к минимуму распространение вируса. Так мне сказали.”",
+    "val": "“Чтобы свести распространение вируса к минимуму. Так мне сказали.”"
+  },
+  {
+    "key": "“No!” Osawa cried. ",
+    "trx": "\"нет!” - воскликнул Осава. ",
+    "val": "“No!” Osawa cried. "
+  },
+  {
+    "key": "“You can’t do that! ",
+    "trx": "“Ты не можешь этого сделать! ",
+    "val": "“You can’t do that! "
+  },
+  {
+    "key": "If you do, there won’t be any way to save her!”",
+    "trx": "Если ты это сделаешь, то не будет никакого способа спасти ее!”",
+    "val": "If you do, there won’t be any way to save her!”"
+  },
+  {
+    "key": "His head spun.",
+    "trx": "У него закружилась голова.",
+    "val": "His head spun."
+  },
+  {
+    "key": "“Please, I beg of you! ",
+    "trx": "“Пожалуйста, я умоляю вас! ",
+    "val": "“Please, I beg of you! "
+  },
+  {
+    "key": "You need to get Maria to me! ",
+    "trx": "Ты должен привести Марию ко мне! ",
+    "val": "You need to get Maria to me! "
+  },
+  {
+    "key": "I might be able to save her!”",
+    "trx": "Я мог бы спасти ее!”",
+    "val": "I might be able to save her!”"
+  },
+  {
+    "key": "When Kajiwara didn’t respond, he turned to the other detectives.",
+    "trx": "Когда Кадзивара не ответил, он повернулся к другим детективам.",
+    "val": "When Kajiwara didn’t respond, he turned to the other detectives."
+  },
+  {
+    "key": "“Please! ",
+    "trx": "“Пожалуйста! ",
+    "val": "“Please! "
+  },
+  {
+    "key": "Don’t—you ",
+    "trx": "Не... ты ",
+    "val": "Don’t—you "
+  },
+  {
+    "key": "can’t",
+    "trx": "Не могу",
+    "val": "can’t"
+  },
+  {
+    "key": " place Maria under quarantine!”",
+    "trx": " поместите Марию в карантин!”",
+    "val": " place Maria under quarantine!”"
+  },
+  {
+    "key": "But the detectives’ only answer was to avert their eyes.",
+    "trx": "Но единственным ответом детективов было отвести глаза.",
+    "val": "But the detectives’ only answer was to avert their eyes."
+  },
+  {
+    "key": "“Why are you all ignoring me?! ",
+    "trx": "“Почему вы все игнорируете меня?! ",
+    "val": "“Why are you all ignoring me?! "
+  },
+  {
+    "key": "Please, you have to listen! ",
+    "trx": "Пожалуйста, вы должны выслушать! ",
+    "val": "Please, you have to listen! "
+  },
+  {
+    "key": "If you bring her to me, I can figure something out! ",
+    "trx": "Если ты приведешь ее ко мне, я смогу что-нибудь придумать! ",
+    "val": "If you bring her to me, I can figure something out! "
+  },
+  {
+    "key": "I know I can!”",
+    "trx": "Я знаю, что могу!”",
+    "val": "I know I can!”"
+  },
+  {
+    "key": "He plunked himself down on the floor, yelling and flailing his arms like a child throwing a tantrum.",
+    "trx": "Он рухнул на пол, крича и размахивая руками, как ребенок, закативший истерику.",
+    "val": "He plunked himself down on the floor, yelling and flailing his arms like a child throwing a tantrum."
+  },
+  {
+    "key": "The detectives exchanged sullen looks with one another, and then walked off and left him there.",
+    "trx": "Детективы обменялись угрюмыми взглядами друг с другом, а затем ушли, оставив его там.",
+    "val": "The detectives exchanged sullen looks with one another, and then walked off and left him there."
+  },
+  {
+    "key": "He knew he must be a sorry sight, but nevertheless he kept shouting after them.",
+    "trx": "Он знал, что, должно быть, представляет собой жалкое зрелище, но тем не менее продолжал кричать им вслед.",
+    "val": "He knew he must be a sorry sight, but nevertheless he kept shouting after them."
+  },
+  {
+    "key": "“Please! Don’t stand by",
+    "trx": "“Пожалуйста! Не стой в стороне",
+    "val": "“Please! Don’t stand by"
+  },
+  {
+    "key": "and let my daughter die!”",
+    "trx": "и пусть моя дочь умрет!”",
+    "val": "and let my daughter die!”"
+  },
+  {
+    "key": "Only Kajiwara remained with him in the living room. ",
+    "trx": "Только Кадзивара остался с ним в гостиной. ",
+    "val": "Only Kajiwara remained with him in the living room. "
+  },
+  {
+    "key": "“I’m sorry, sir. ",
+    "trx": "“Я сожалею, сэр. ",
+    "val": "“I’m sorry, sir. "
+  },
+  {
+    "key": "This was beyond my ability to stop.” ",
+    "trx": "Это было выше моих сил, чтобы остановиться”. ",
+    "val": "This was beyond my ability to stop.” "
+  },
+  {
+    "key": "He gave another apologetic bow.",
+    "trx": "Он отвесил еще один извиняющийся поклон.",
+    "val": "He gave another apologetic bow."
+  },
+  {
+    "key": "Osawa felt suddenly deflated. ",
+    "trx": "Осава внезапно почувствовал себя опустошенным. ",
+    "val": "Osawa felt suddenly deflated. "
+  },
+  {
+    "key": "“No. You’ve done a fine job, Detective Kajiwara. ",
+    "trx": "\"Нет. Вы проделали прекрасную работу, детектив Кадзивара. ",
+    "val": "“No. You’ve done a fine job, Detective Kajiwara. "
+  },
+  {
+    "key": "It’s me who should be sorry. ",
+    "trx": "Это я должен извиняться. ",
+    "val": "It’s me who should be sorry. "
+  },
+  {
+    "key": "I’ve made such a disgraceful display of myself.”",
+    "trx": "Я выставил себя в таком позорном свете.”",
+    "val": "I’ve made such a disgraceful display of myself.”"
+  },
+  {
+    "key": "“That’s not true, sir. ",
+    "trx": "“Это неправда, сэр. ",
+    "val": "“That’s not true, sir. "
+  },
+  {
+    "key": "In fact I’m deeply moved.",
+    "trx": "На самом деле я глубоко тронут.",
+    "val": "In fact I’m deeply moved."
+  },
+  {
+    "key": "I can tell how much Maria must mean to you.”",
+    "trx": "Я могу сказать, как много Мария должна значить для тебя.”",
+    "val": "I can tell how much Maria must mean to you.”"
+  },
+  {
+    "key": "Osawa shook his head. ",
+    "trx": "Осава покачал головой. ",
+    "val": "Osawa shook his head. "
+  },
+  {
+    "key": "“If I’d really been thinking about Maria, I would have made an effort to work with you detectives more. ",
+    "trx": "“Если бы я действительно думал о Марии, я бы приложил усилия, чтобы больше работать с вами, детективами. ",
+    "val": "“If I’d really been thinking about Maria, I would have made an effort to work with you detectives more. "
+  },
+  {
+    "key": "That was all just—self-absorbed shouting. ",
+    "trx": "Все это было просто — эгоцентричный крик. ",
+    "val": "That was all just—self-absorbed shouting. "
+  },
+  {
+    "key": "A moment of emotional selfishness.”",
+    "trx": "Момент эмоционального эгоизма.”",
+    "val": "A moment of emotional selfishness.”"
+  },
+  {
+    "key": "“And yet, ",
+    "trx": "“И все же, ",
+    "val": "“And yet, "
+  },
+  {
+    "key": "as a result, you convinced me to stay here with you.”",
+    "trx": "в результате ты убедил меня остаться здесь с тобой.”",
+    "val": "as a result, you convinced me to stay here with you.”"
+  },
+  {
+    "key": "Kajiwara proceeded to pull out his phone and put in a request with the task force headquarters to remain at the Osawa residence.",
+    "trx": "Кадзивара достал свой телефон и отправил запрос в штаб-квартиру целевой группы, чтобы остаться в резиденции Осава.",
+    "val": "Kajiwara proceeded to pull out his phone and put in a request with the task force headquarters to remain at the Osawa residence."
+  },
+  {
+    "key": "He got into a heated spat with his commanding officer, ",
+    "trx": "Он вступил в горячую ссору со своим командиром, ",
+    "val": "He got into a heated spat with his commanding officer, "
+  },
+  {
+    "key": "but ultimately received permission to stay on as the police liaison with Osawa.",
+    "trx": "но в конечном счете получил разрешение остаться в качестве полицейского связного с Осавой.",
+    "val": "but ultimately received permission to stay on as the police liaison with Osawa."
+  },
+  {
+    "key": "“Well,” the detective said when he’d hung up. “You see? There are some people who are legitimately moved by a parental display of emotion. ",
+    "trx": "“Хорошо”, - сказал детектив, когда он повесил трубку. “Ты видишь? Есть некоторые люди, которых законно трогает проявление родительских эмоций. ",
+    "val": "“Well,” the detective said when he’d hung up. “You see? There are some people who are legitimately moved by a parental display of emotion. "
+  },
+  {
+    "key": "Even if I’m not certain that I can do very much in staying here with you.”",
+    "trx": "Даже если я не уверен, что смогу сделать очень много, оставаясь здесь с тобой.”",
+    "val": "Even if I’m not certain that I can do very much in staying here with you.”"
+  },
+  {
+    "key": "“That’s not true,” Osawa replied. ",
+    "trx": "“Это неправда”, - ответил Осава. ",
+    "val": "“That’s not true,” Osawa replied. "
+  },
+  {
+    "key": "“There’s plenty you can help me with.” ",
+    "trx": "“Ты можешь мне во многом помочь”. ",
+    "val": "“There’s plenty you can help me with.” "
+  },
+  {
+    "key": "He looked into Kajiwara’s face and smiled. ",
+    "trx": "Он посмотрел в лицо Кадзиваре и улыбнулся. ",
+    "val": "He looked into Kajiwara’s face and smiled. "
+  },
+  {
+    "key": "“For instance...” ",
+    "trx": "\"Например...” ",
+    "val": "“For instance...” "
+  },
+  {
+    "key": "“...I can have a banana whenever I want.”",
+    "trx": "”...Я могу съесть банан, когда захочу\".",
+    "val": "“...I can have a banana whenever I want.”"
+  },
+  {
+    "key": "“...you find things that have gone missing.”",
+    "trx": "“...ты находишь пропавшие вещи”.",
+    "val": "“...you find things that have gone missing.”"
+  },
+  {
+    "key": "“...that fried egg on rice you made me was delicious.”",
+    "trx": "“...та яичница с рисом, которую ты мне приготовила, была восхитительна”.",
+    "val": "“...that fried egg on rice you made me was delicious.”"
+  },
+  {
+    "key": "“...I can have a banana whenever I want.”",
+    "trx": "”...Я могу съесть банан, когда захочу\".",
+    "val": "“...I can have a banana whenever I want.”"
+  },
+  {
+    "key": "Kajiwara returned Osawa’s grin even more brightly. ",
+    "trx": "Кадзивара улыбнулся в ответ Осаве еще более лучезарно. ",
+    "val": "Kajiwara returned Osawa’s grin even more brightly. "
+  },
+  {
+    "key": "“Yes, yes, ",
+    "trx": "“Да, да, ",
+    "val": "“Yes, yes, "
+  },
+  {
+    "key": "of course. ",
+    "trx": "конечно. ",
+    "val": "of course. "
+  },
+  {
+    "key": "By all means, have as many as you like.”",
+    "trx": "Во что бы то ни стало, бери столько, сколько захочешь.”",
+    "val": "By all means, have as many as you like.”"
+  },
+  {
+    "key": "He then produced a pair of bananas from his pocket, handing one to his companion.",
+    "trx": "Затем он достал из кармана пару бананов и протянул один своему спутнику.",
+    "val": "He then produced a pair of bananas from his pocket, handing one to his companion."
+  },
+  {
+    "key": "Osawa peeled his banana and took a hearty bite.",
+    "trx": "Осава очистил свой банан и откусил большой кусок.",
+    "val": "Osawa peeled his banana and took a hearty bite."
+  },
+  {
+    "key": "The mild sweetness was pleasant and soothing.",
+    "trx": "Мягкая сладость была приятной и успокаивающей.",
+    "val": "The mild sweetness was pleasant and soothing."
+  },
+  {
+    "key": "It was a flavor that brought back memories.",
+    "trx": "Это был аромат, который навевал воспоминания.",
+    "val": "It was a flavor that brought back memories."
+  },
+  {
+    "key": "“I often eat bananas when I go the park with my daughter,” ",
+    "trx": "“Я часто ем бананы, когда гуляю в парке со своей дочерью”. ",
+    "val": "“I often eat bananas when I go the park with my daughter,” "
+  },
+  {
+    "key": "Kajiwara muttered between mouthfuls.",
+    "trx": "- пробормотал Кадзивара между набитыми ртами.",
+    "val": "Kajiwara muttered between mouthfuls."
+  },
+  {
+    "key": "“I didn’t realize you had a daughter, Detective.”",
+    "trx": "“Я не знал, что у вас есть дочь, детектив”.",
+    "val": "“I didn’t realize you had a daughter, Detective.”"
+  },
+  {
+    "key": "“She just started grade school this year.”",
+    "trx": "“Она только в этом году пошла в начальную школу”.",
+    "val": "“She just started grade school this year.”"
+  },
+  {
+    "key": "“Oh really? ",
+    "trx": "“О, правда? ",
+    "val": "“Oh really? "
+  },
+  {
+    "key": "She must be adorable.”",
+    "trx": "Она, должно быть, очаровательна.”",
+    "val": "She must be adorable.”"
+  },
+  {
+    "key": "“Well, I don’t get to see her as much as I’d like...” ",
+    "trx": "“Ну, я не могу видеть ее так часто, как хотелось бы...” ",
+    "val": "“Well, I don’t get to see her as much as I’d like...” "
+  },
+  {
+    "key": "A lonely sort of smile crossed Kajiwara’s face.",
+    "trx": "На лице Кадзивары промелькнуло подобие одинокой улыбки.",
+    "val": "A lonely sort of smile crossed Kajiwara’s face."
+  },
+  {
+    "key": "“Why’s that?”",
+    "trx": "“Почему это?”",
+    "val": "“Why’s that?”"
+  },
+  {
+    "key": "“Doing this job caused me to neglect my family...",
+    "trx": "“Выполнение этой работы заставило меня пренебречь своей семьей...",
+    "val": "“Doing this job caused me to neglect my family..."
+  },
+  {
+    "key": "finally, about two years ago, my wife hit me with the divorce paperwork. ",
+    "trx": "наконец, около двух лет назад моя жена ударила меня документами о разводе. ",
+    "val": "finally, about two years ago, my wife hit me with the divorce paperwork. "
+  },
+  {
+    "key": "I wanted to be able to keep our daughter with me, but...",
+    "trx": "Я хотел иметь возможность оставить нашу дочь при себе, но...",
+    "val": "I wanted to be able to keep our daughter with me, but..."
+  },
+  {
+    "key": "well, the law tends to favor the mother when it comes to custody issues...” ",
+    "trx": "ну, закон, как правило, благосклонен к матери, когда дело доходит до вопросов опеки...” ",
+    "val": "well, the law tends to favor the mother when it comes to custody issues...” "
+  },
+  {
+    "key": "The detective then pulled two bars of chocolate from his pocket. ",
+    "trx": "Затем детектив вытащил из кармана две плитки шоколада. ",
+    "val": "The detective then pulled two bars of chocolate from his pocket. "
+  },
+  {
+    "key": "“It’s good to have something sweet when you’re exhausted,” he said.",
+    "trx": "“Хорошо съесть что-нибудь сладкое, когда ты устал”, - сказал он.",
+    "val": "“It’s good to have something sweet when you’re exhausted,” he said."
+  },
+  {
+    "key": "Osawa took one, but said nothing.",
+    "trx": "Осава взял один, но ничего не сказал.",
+    "val": "Osawa took one, but said nothing."
+  },
+  {
+    "key": "“More recently, my ex-wife has been talking about getting remarried,” Kajiwara continued. ",
+    "trx": "“Совсем недавно моя бывшая жена заговорила о том, чтобы снова выйти замуж\", - продолжил Кадзивара. ",
+    "val": "“More recently, my ex-wife has been talking about getting remarried,” Kajiwara continued. "
+  },
+  {
+    "key": "“And she wants me to stop seeing our daughter.” ",
+    "trx": "“И она хочет, чтобы я перестал видеться с нашей дочерью”. ",
+    "val": "“And she wants me to stop seeing our daughter.” "
+  },
+  {
+    "key": "He bit into his own chocolate bar with a soft snap. ",
+    "trx": "Он откусил свой собственный шоколадный батончик с мягким хрустом. ",
+    "val": "He bit into his own chocolate bar with a soft snap. "
+  },
+  {
+    "key": "“It’s no less than I deserve, ",
+    "trx": "“Это не меньше, чем я заслуживаю, ",
+    "val": "“It’s no less than I deserve, "
+  },
+  {
+    "key": "but it still hurts.”",
+    "trx": "но все равно больно.”",
+    "val": "but it still hurts.”"
+  },
+  {
+    "key": "Osawa couldn’t help but sympathize—the man was losing his daughter.",
+    "trx": "Осава не мог не посочувствовать — этот человек терял свою дочь.",
+    "val": "Osawa couldn’t help but sympathize—the man was losing his daughter."
+  },
+  {
+    "key": "Here was someone he could really talk to.",
+    "trx": "Здесь был кто-то, с кем он действительно мог поговорить.",
+    "val": "Here was someone he could really talk to."
+  },
+  {
+    "key": "He was sure of that much now.",
+    "trx": "Теперь он был в этом уверен.",
+    "val": "He was sure of that much now."
+  },
+  {
+    "key": "“Detective, ",
+    "trx": "“Детектив, ",
+    "val": "“Detective, "
+  },
+  {
+    "key": "I apologize. ",
+    "trx": "Я прошу прощения. ",
+    "val": "I apologize. "
+  },
+  {
+    "key": "I’ve kept things from you, because I was worried that they involved classified corporate information.”",
+    "trx": "Я скрывал от тебя кое-что, потому что беспокоился, что это связано с секретной корпоративной информацией.”",
+    "val": "I’ve kept things from you, because I was worried that they involved classified corporate information.”"
+  },
+  {
+    "key": "“Oh?” ",
+    "trx": "\"о?” ",
+    "val": "“Oh?” "
+  },
+  {
+    "key": "Kajiwara’s eyes glimmered with interest. ",
+    "trx": "Глаза Кадзивары заблестели интересом. ",
+    "val": "Kajiwara’s eyes glimmered with interest. "
+  },
+  {
+    "key": "“Earlier today, I received some emails. ",
+    "trx": "“Ранее сегодня я получил несколько электронных писем. ",
+    "val": "“Earlier today, I received some emails. "
+  },
+  {
+    "key": "They could be pertinent to the case.”",
+    "trx": "Они могут иметь отношение к делу.”",
+    "val": "They could be pertinent to the case.”"
+  },
+  {
+    "key": "“Would you mind letting me see them?”",
+    "trx": "“Вы не могли бы позволить мне взглянуть на них?”",
+    "val": "“Would you mind letting me see them?”"
+  },
+  {
+    "key": "Osawa shook his head. “On the contrary.”",
+    "trx": "Осава покачал головой. “Как раз наоборот”.",
+    "val": "Osawa shook his head. “On the contrary.”"
+  },
+  {
+    "key": "Back in front of his computer, Osawa saw that AyaNET was still open.",
+    "trx": "Вернувшись к своему компьютеру, Осава увидел, что Аянет все еще открыт.",
+    "val": "Back in front of his computer, Osawa saw that AyaNET was still open."
+  },
+  {
+    "key": "Pretty Honey had responded to his forum post.",
+    "trx": "Красотка Хани ответила на его сообщение на форуме.",
+    "val": "Pretty Honey had responded to his forum post."
+  },
+  {
+    "key": "“One moment. Just let me read this.”",
+    "trx": "“Одну минуту. Просто дай мне прочитать это\".",
+    "val": "“One moment. Just let me read this.”"
+  },
+  {
+    "key": "Osawa read the response.",
+    "trx": "Осава прочитал ответ.",
+    "val": "Osawa read the response."
+  },
+  {
+    "key": "This was no time to be looking at the Internet.",
+    "trx": "Сейчас было не время заглядывать в Интернет.",
+    "val": "This was no time to be looking at the Internet."
+  },
+  {
+    "key": "Osawa closed the browser.",
+    "trx": "Осава закрыл браузер.",
+    "val": "Osawa closed the browser."
+  },
+  {
+    "key": "“One moment. ",
+    "trx": "“Одну минуту. ",
+    "val": "“One moment. "
+  },
+  {
+    "key": "Just let me read this.”",
+    "trx": "Просто дай мне прочитать это\".",
+    "val": "Just let me read this.”"
+  },
+  {
+    "key": "Osawa read the response.",
+    "trx": "Осава прочитал ответ.",
+    "val": "Osawa read the response."
+  },
+  {
+    "key": "I got that same result!",
+    "trx": "Я получил тот же результат!",
+    "val": "I got that same result!"
+  },
+  {
+    "key": "Do you really think it’s too late?",
+    "trx": "Ты действительно думаешь, что уже слишком поздно?",
+    "val": "Do you really think it’s too late?"
+  },
+  {
+    "key": "It’s never too late.",
+    "trx": "Никогда не бывает слишком поздно.",
+    "val": "It’s never too late."
+  },
+  {
+    "key": "Every family has its share of problems.",
+    "trx": "У каждой семьи есть своя доля проблем.",
+    "val": "Every family has its share of problems."
+  },
+  {
+    "key": "Like, you’ll never find one that doesn’t, I’m sure.",
+    "trx": "Например, я уверен, что вы никогда не найдете того, кто этого не делает.",
+    "val": "Like, you’ll never find one that doesn’t, I’m sure."
+  },
+  {
+    "key": "When it comes to family, there’s no such thing as “Game Over.”",
+    "trx": "Когда дело доходит до семьи, нет такого понятия, как “Игра окончена”.",
+    "val": "When it comes to family, there’s no such thing as “Game Over.”"
+  },
+  {
+    "key": "So don’t let it get you down, Julie!",
+    "trx": "Так что не позволяй этому расстраивать тебя, Джули!",
+    "val": "So don’t let it get you down, Julie!"
+  },
+  {
+    "key": "Besides, I did learn one thing from reading your post.",
+    "trx": "Кроме того, я узнал одну вещь, прочитав ваш пост.",
+    "val": "Besides, I did learn one thing from reading your post."
+  },
+  {
+    "key": "Kajiwara peered into the monitor. ",
+    "trx": "Кадзивара вгляделся в монитор. ",
+    "val": "Kajiwara peered into the monitor. "
+  },
+  {
+    "key": "“A young girl is posting to a forum for people forty and older?”",
+    "trx": "“Молодая девушка размещает сообщения на форуме для людей сорока и старше?”",
+    "val": "“A young girl is posting to a forum for people forty and older?”"
+  },
+  {
+    "key": "“It’s Pretty Honey. She always replies to my threads.”",
+    "trx": "“Это Довольно Мило. Она всегда отвечает на мои темы.”",
+    "val": "“It’s Pretty Honey. She always replies to my threads.”"
+  },
+  {
+    "key": "The detective furrowed his brow. ",
+    "trx": "Детектив нахмурил брови. ",
+    "val": "The detective furrowed his brow. "
+  },
+  {
+    "key": "“I see.”",
+    "trx": "“Я понимаю”.",
+    "val": "“I see.”"
+  },
+  {
+    "key": "“Is something the matter?”",
+    "trx": "“Что-то случилось?”",
+    "val": "“Is something the matter?”"
+  },
+  {
+    "key": "“No. ",
+    "trx": "\"Нет. ",
+    "val": "“No. "
+  },
+  {
+    "key": "That last line there just has me curious, is all. ",
+    "trx": "Эта последняя строчка просто вызывает у меня любопытство, вот и все. ",
+    "val": "That last line there just has me curious, is all. "
+  },
+  {
+    "key": "A young girl writing something like that...",
+    "trx": "Молодая девушка, пишущая что-то подобное...",
+    "val": "A young girl writing something like that..."
+  },
+  {
+    "key": "well, that’s neither here nor there right now. ",
+    "trx": "ну, сейчас это ни к чему и ни к чему. ",
+    "val": "well, that’s neither here nor there right now. "
+  },
+  {
+    "key": "Let me see those emails, if you would.”",
+    "trx": "Дайте мне посмотреть эти электронные письма, если хотите”.",
+    "val": "Let me see those emails, if you would.”"
+  },
+  {
+    "key": "Osawa opened his email.",
+    "trx": "Осава открыл свою электронную почту.",
+    "val": "Osawa opened his email."
+  },
+  {
+    "key": "He pulled up the images of the human testing on the monitor.",
+    "trx": "Он вывел на монитор изображения тестирования людей.",
+    "val": "He pulled up the images of the human testing on the monitor."
+  },
+  {
+    "key": "“What...",
+    "trx": "“Что...",
+    "val": "“What..."
+  },
+  {
+    "key": "is this?” ",
+    "trx": "это что?” ",
+    "val": "is this?” "
+  },
+  {
+    "key": "Kajiwara stared at the monitor as if unable to look away.",
+    "trx": "Кадзивара уставился на монитор, как будто не мог отвести взгляд.",
+    "val": "Kajiwara stared at the monitor as if unable to look away."
+  },
+  {
+    "key": "“These are images from unauthorized clinical testing of an antiviral drug I developed, carried out by my company without my knowledge.”",
+    "trx": "“Это изображения несанкционированных клинических испытаний разработанного мной противовирусного препарата, проведенных моей компанией без моего ведома”.",
+    "val": "“These are images from unauthorized clinical testing of an antiviral drug I developed, carried out by my company without my knowledge.”"
+  },
+  {
+    "key": "“Images of a—",
+    "trx": "“Изображения одного—",
+    "val": "“Images of a—"
+  },
+  {
+    "key": "I’m sorry, what was that?” ",
+    "trx": "Простите, что это было?” ",
+    "val": "I’m sorry, what was that?” "
+  },
+  {
+    "key": "The detective frowned at the unfamiliar terminology.",
+    "trx": "Детектив нахмурился, услышав незнакомую терминологию.",
+    "val": "The detective frowned at the unfamiliar terminology."
+  },
+  {
+    "key": "“In simple terms, the antiviral is a wonder drug to combat the Ua virus.”",
+    "trx": "“Проще говоря, противовирусное средство - это чудо-лекарство для борьбы с вирусом Ua”.",
+    "val": "“In simple terms, the antiviral is a wonder drug to combat the Ua virus.”"
+  },
+  {
+    "key": "“Hold on. ",
+    "trx": "“Подожди. ",
+    "val": "“Hold on. "
+  },
+  {
+    "key": "Maria is infected with the Ua virus, isn’t that right?”",
+    "trx": "Мария заражена вирусом Ua, не так ли?”",
+    "val": "Maria is infected with the Ua virus, isn’t that right?”"
+  },
+  {
+    "key": "“Yes. Ua is a species of virus discovered in South Africa relatively recently. ",
+    "trx": "\"да. Ua - это разновидность вируса, обнаруженная в Южной Африке относительно недавно. ",
+    "val": "“Yes. Ua is a species of virus discovered in South Africa relatively recently. "
+  },
+  {
+    "key": "Roughly twelve hours after infection, ",
+    "trx": "Примерно через двенадцать часов после заражения, ",
+    "val": "Roughly twelve hours after infection, "
+  },
+  {
+    "key": "patients develop a cough, ",
+    "trx": "у пациентов развивается кашель, ",
+    "val": "patients develop a cough, "
+  },
+  {
+    "key": "then a fever, ",
+    "trx": "затем лихорадка, ",
+    "val": "then a fever, "
+  },
+  {
+    "key": "then begin vomiting, ",
+    "trx": "затем начинается рвота, ",
+    "val": "then begin vomiting, "
+  },
+  {
+    "key": "and ultimately begin to bleed uncontrollably from all over, resulting in death. ",
+    "trx": "и в конечном счете начинают бесконтрольно кровоточить со всех сторон, что приводит к смерти. ",
+    "val": "and ultimately begin to bleed uncontrollably from all over, resulting in death. "
+  },
+  {
+    "key": "The mortality rate is...” ",
+    "trx": "Уровень смертности составляет...” ",
+    "val": "The mortality rate is...” "
+  },
+  {
+    "key": "Osawa was reluctant to say it.",
+    "trx": "Осава не хотел этого говорить.",
+    "val": "Osawa was reluctant to say it."
+  },
+  {
+    "key": "Kajiwara held his breath, waiting.",
+    "trx": "Кадзивара затаил дыхание в ожидании.",
+    "val": "Kajiwara held his breath, waiting."
+  },
+  {
+    "key": "“...it’s nearly one hundred percent.”",
+    "trx": "\"...это почти сто процентов”.",
+    "val": "“...it’s nearly one hundred percent.”"
+  },
+  {
+    "key": "Kajiwara shuddered. ",
+    "trx": "Кадзивара вздрогнул. ",
+    "val": "Kajiwara shuddered. "
+  },
+  {
+    "key": "“But—wait,” he said after a moment. ",
+    "trx": "\"Но... подождите\", — сказал он через мгновение. ",
+    "val": "“But—wait,” he said after a moment. "
+  },
+  {
+    "key": "“If you have this wonder drug, then Maria—”",
+    "trx": "“Если у тебя есть это чудо—лекарство, то Мария...”",
+    "val": "“If you have this wonder drug, then Maria—”"
+  },
+  {
+    "key": "Osawa shook his head. ",
+    "trx": "Осава покачал головой. ",
+    "val": "Osawa shook his head. "
+  },
+  {
+    "key": "“Without Tanaka, I have no means of getting it out of the lab.”",
+    "trx": "“Без Танаки у меня нет возможности вытащить его из лаборатории”.",
+    "val": "“Without Tanaka, I have no means of getting it out of the lab.”"
+  },
+  {
+    "key": "Kajiwara’s frown deepened. ",
+    "trx": "Кадзивара нахмурился еще сильнее. ",
+    "val": "Kajiwara’s frown deepened. "
+  },
+  {
+    "key": "“I see. ",
+    "trx": "“Я понимаю. ",
+    "val": "“I see. "
+  },
+  {
+    "key": "It may not be much to go on, but I think we can put together at least one piece of our little ",
+    "trx": "Возможно, это не так уж много для продолжения, но я думаю, что мы сможем собрать воедино хотя бы одну частичку нашего маленького ",
+    "val": "It may not be much to go on, but I think we can put together at least one piece of our little "
+  },
+  {
+    "key": "mystery",
+    "trx": "тайна",
+    "val": "mystery"
+  },
+  {
+    "key": " here. ",
+    "trx": " здесь. ",
+    "val": " here. "
+  },
+  {
+    "key": "It may not be much to go on, but I think we can put together at least one piece of our little ",
+    "trx": "Возможно, это не так уж много для продолжения, но я думаю, что мы сможем собрать воедино хотя бы одну частичку нашего маленького ",
+    "val": "It may not be much to go on, but I think we can put together at least one piece of our little "
+  },
+  {
+    "key": "mystery",
+    "trx": "тайна",
+    "val": "mystery"
+  },
+  {
+    "key": " here. ",
+    "trx": " здесь. ",
+    "val": " here. "
+  },
+  {
+    "key": "Pardon me one moment.”",
+    "trx": "Извините меня на минутку.”",
+    "val": "Pardon me one moment.”"
+  },
+  {
+    "key": "Kajiwara inspected the email address of the sender, “A,” then brought up the mail header.",
+    "trx": "Кадзивара проверил адрес электронной почты отправителя, “А”, затем поднял заголовок письма.",
+    "val": "Kajiwara inspected the email address of the sender, “A,” then brought up the mail header."
+  },
+  {
+    "key": "“You don’t see email addresses like this much. ",
+    "trx": "“Вы не часто видите такие адреса электронной почты. ",
+    "val": "“You don’t see email addresses like this much. "
+  },
+  {
+    "key": "It’s seemingly from a foreign country, but that may be fake.”",
+    "trx": "Похоже, он из другой страны, но это может быть подделкой.”",
+    "val": "It’s seemingly from a foreign country, but that may be fake.”"
+  },
+  {
+    "key": "“You can tell that just from the email?”",
+    "trx": "“Вы можете сказать это только по электронной почте?”",
+    "val": "“You can tell that just from the email?”"
+  },
+  {
+    "key": "The detective flashed a little grin. ",
+    "trx": "Детектив слегка ухмыльнулся. ",
+    "val": "The detective flashed a little grin. "
+  },
+  {
+    "key": "“Take a look here. ",
+    "trx": "“Взгляни сюда. ",
+    "val": "“Take a look here. "
+  },
+  {
+    "key": "So if we just do this, ",
+    "trx": "Так что, если мы просто сделаем это, ",
+    "val": "So if we just do this, "
+  },
+  {
+    "key": "and then this...” ",
+    "trx": "а потом это...” ",
+    "val": "and then this...” "
+  },
+  {
+    "key": "His fingers flew over the keyboard, calling up the header details, ",
+    "trx": "Его пальцы порхали по клавиатуре, вызывая детали заголовка, ",
+    "val": "His fingers flew over the keyboard, calling up the header details, "
+  },
+  {
+    "key": "singling out the [Received: from] field.",
+    "trx": "выделяя поле [Получено: от].",
+    "val": "singling out the [Received: from] field."
+  },
+  {
+    "key": "“This set of four numbers at the bottom is the sender’s IP address. ",
+    "trx": "“Этот набор из четырех цифр внизу - IP-адрес отправителя. ",
+    "val": "“This set of four numbers at the bottom is the sender’s IP address. "
+  },
+  {
+    "key": "Think of it as an ordinarily hidden location marker of sorts.”",
+    "trx": "Думайте об этом как о своего рода обычном скрытом маркере местоположения.”",
+    "val": "Think of it as an ordinarily hidden location marker of sorts.”"
+  },
+  {
+    "key": "As he spoke, the detective pulled up a website called “IP Station.”",
+    "trx": "Пока он говорил, детектив открыл веб-сайт под названием “IP-станция”.",
+    "val": "As he spoke, the detective pulled up a website called “IP Station.”"
+  },
+  {
+    "key": "He copied and pasted the set of four numbers and pressed the Enter key.",
+    "trx": "Он скопировал и вставил набор из четырех цифр и нажал клавишу Ввода.",
+    "val": "He copied and pasted the set of four numbers and pressed the Enter key."
+  },
+  {
+    "key": "The monitor showed the name of the ",
+    "trx": "На мониторе высветилось название ",
+    "val": "The monitor showed the name of the "
+  },
+  {
+    "key": "provider",
+    "trx": "поставщик",
+    "val": "provider"
+  },
+  {
+    "key": ", connection method, and other such details.",
+    "trx": ", способ подключения и другие подобные детали.",
+    "val": ", connection method, and other such details."
+  },
+  {
+    "key": "Osawa couldn’t make heads or tails of most of it, but one thing drew his eye.",
+    "trx": "Осава не мог разобрать большую часть этого, но одна вещь привлекла его внимание.",
+    "val": "Osawa couldn’t make heads or tails of most of it, but one thing drew his eye."
+  },
+  {
+    "key": "Access Point: Shibuya Ward, Tokyo",
+    "trx": "Точка доступа: Округ Сибуя, Токио",
+    "val": "Access Point: Shibuya Ward, Tokyo"
+  },
+  {
+    "key": "Kajiwara went into the email program’s options and checked the server info for Osawa’s connection.",
+    "trx": "Кадзивара зашел в настройки почтовой программы и проверил информацию о сервере для подключения Осавы.",
+    "val": "Kajiwara went into the email program’s options and checked the server info for Osawa’s connection."
+  },
+  {
+    "key": "“Hmm...” ",
+    "trx": "“Хм...” ",
+    "val": "“Hmm...” "
+  },
+  {
+    "key": "Deep furrows formed in his forehead.",
+    "trx": "На его лбу образовались глубокие борозды.",
+    "val": "Deep furrows formed in his forehead."
+  },
+  {
+    "key": "“This here—",
+    "trx": "“Это здесь—",
+    "val": "“This here—"
+  },
+  {
+    "key": "this is the same provider that you use, Mr. Osawa.”",
+    "trx": "это тот же провайдер, которым пользуетесь вы, мистер Осава.”",
+    "val": "this is the same provider that you use, Mr. Osawa.”"
+  },
+  {
+    "key": "“What does that mean?”",
+    "trx": "“Что это значит?”",
+    "val": "“What does that mean?”"
+  },
+  {
+    "key": "“What kind of Internet connection do you have here at your house?”",
+    "trx": "“Какое подключение к Интернету у вас есть здесь, в вашем доме?”",
+    "val": "“What kind of Internet connection do you have here at your house?”"
+  },
+  {
+    "key": "“What sort? ",
+    "trx": "“Какого рода? ",
+    "val": "“What sort? "
+  },
+  {
+    "key": "Um, well, it’s plugged in over there, but...” ",
+    "trx": "Эм, ну, он подключен вон там, но...” ",
+    "val": "Um, well, it’s plugged in over there, but...” "
+  },
+  {
+    "key": "Osawa pointed at the router.",
+    "trx": "Осава указал на маршрутизатор.",
+    "val": "Osawa pointed at the router."
+  },
+  {
+    "key": "“And does everyone in your family use that same line?”",
+    "trx": "“И все ли в вашей семье пользуются этой же линией?”",
+    "val": "“And does everyone in your family use that same line?”"
+  },
+  {
+    "key": "“Um...",
+    "trx": "“Эм...",
+    "val": "“Um..."
+  },
+  {
+    "key": "yes, I think so.”",
+    "trx": "да, я так думаю.”",
+    "val": "yes, I think so.”"
+  },
+  {
+    "key": "Kajiwara opened up a ",
+    "trx": "Кадзивара открыл ",
+    "val": "Kajiwara opened up a "
+  },
+  {
+    "key": "command prompt",
+    "trx": "командная строка",
+    "val": "command prompt"
+  },
+  {
+    "key": ", then typed “ipconfig.”",
+    "trx": ", затем набрал “ipconfig”.",
+    "val": ", then typed “ipconfig.”"
+  },
+  {
+    "key": "“Okay, so, ",
+    "trx": "“Хорошо, так что, ",
+    "val": "“Okay, so, "
+  },
+  {
+    "key": "if the same numbers we saw before pop up here, ",
+    "trx": "если здесь появятся те же цифры, которые мы видели раньше, ",
+    "val": "if the same numbers we saw before pop up here, "
+  },
+  {
+    "key": "that’s a bad sign.”",
+    "trx": "это плохой знак.”",
+    "val": "that’s a bad sign.”"
+  },
+  {
+    "key": "“Oh?” ",
+    "trx": "\"о?” ",
+    "val": "“Oh?” "
+  },
+  {
+    "key": "Osawa stared at the monitor.",
+    "trx": "Осава уставился на монитор.",
+    "val": "Osawa stared at the monitor."
+  },
+  {
+    "key": "Kajiwara pressed Enter, and a black window covered in white alphanumeric characters appeared.",
+    "trx": "Кадзивара нажал Ввод, и появилось черное окно, покрытое белыми буквенно-цифровыми символами.",
+    "val": "Kajiwara pressed Enter, and a black window covered in white alphanumeric characters appeared."
+  },
+  {
+    "key": "“What the heck?” ",
+    "trx": "“Что за черт?” ",
+    "val": "“What the heck?” "
+  },
+  {
+    "key": "Kajiwara muttered under his breath.",
+    "trx": "Кадзивара пробормотал что-то себе под нос.",
+    "val": "Kajiwara muttered under his breath."
+  },
+  {
+    "key": "“Wait, what’s going on?” Osawa asked. ",
+    "trx": "“Подожди, что происходит?” - спросил Осава. ",
+    "val": "“Wait, what’s going on?” Osawa asked. "
+  },
+  {
+    "key": "“Explain simply, so that I can understand.”",
+    "trx": "“Объясни просто, чтобы я мог понять”.",
+    "val": "“Explain simply, so that I can understand.”"
+  },
+  {
+    "key": "“Faking an email address is simple enough, ",
+    "trx": "“Подделать адрес электронной почты достаточно просто, ",
+    "val": "“Faking an email address is simple enough, "
+  },
+  {
+    "key": "but the typical person wouldn’t be able to fake an IP. ",
+    "trx": "но обычный человек не смог бы подделать IP-адрес. ",
+    "val": "but the typical person wouldn’t be able to fake an IP. "
+  },
+  {
+    "key": "It’s very likely that these emails were sent from another computer inside this house.”",
+    "trx": "Очень вероятно, что эти электронные письма были отправлены с другого компьютера в этом доме”.",
+    "val": "It’s very likely that these emails were sent from another computer inside this house.”"
+  },
+  {
+    "key": "Osawa had to stifle a gasp.",
+    "trx": "Осаве пришлось подавить вздох.",
+    "val": "Osawa had to stifle a gasp."
+  },
+  {
+    "key": "The emails had been sent from his own house at around 11 o’clock that morning.",
+    "trx": "Электронные письма были отправлены из его собственного дома около 11 часов утра.",
+    "val": "The emails had been sent from his own house at around 11 o’clock that morning."
+  },
+  {
+    "key": "Since Osawa hadn’t sent them himself, that left only one possible culprit:",
+    "trx": "Поскольку Осава не посылал их сам, оставался только один возможный виновник:",
+    "val": "Since Osawa hadn’t sent them himself, that left only one possible culprit:"
+  },
+  {
+    "key": "Ai.",
+    "trx": "Искусственный интеллект.",
+    "val": "Ai."
+  },
+  {
+    "key": "Suddenly, his phone rang, nearly startling him out of his seat.",
+    "trx": "Внезапно у него зазвонил телефон, чуть не заставив его вскочить со стула.",
+    "val": "Suddenly, his phone rang, nearly startling him out of his seat."
+  },
+  {
+    "key": "Makino’s name showed on the incoming call display.",
+    "trx": "Имя Макино высветилось на дисплее входящего вызова.",
+    "val": "Makino’s name showed on the incoming call display."
+  },
+  {
+    "key": "Osawa quickly picked up.",
+    "trx": "Осава быстро взял трубку.",
+    "val": "Osawa quickly picked up."
+  },
+  {
+    "key": "“Is there an update on the emergency board meeting?!” he blurted.",
+    "trx": "“Есть ли последние новости о чрезвычайном заседании совета директоров?!” - выпалил он.",
+    "val": "“Is there an update on the emergency board meeting?!” he blurted."
+  },
+  {
+    "key": "Makino’s voice was quiet and subdued. ",
+    "trx": "Голос Макино был тихим и приглушенным. ",
+    "val": "Makino’s voice was quiet and subdued. "
+  },
+  {
+    "key": "“I tried pulling whatever strings I could, ",
+    "trx": "“Я пытался дергать за все ниточки, какие только мог, ",
+    "val": "“I tried pulling whatever strings I could, "
+  },
+  {
+    "key": "but to no avail. ",
+    "trx": "но безрезультатно. ",
+    "val": "but to no avail. "
+  },
+  {
+    "key": "I’m afraid holding a board meeting today just won’t be possible.”",
+    "trx": "Боюсь, провести сегодняшнее заседание правления просто невозможно\".",
+    "val": "I’m afraid holding a board meeting today just won’t be possible.”"
+  },
+  {
+    "key": "The phone fell from Osawa’s hand.",
+    "trx": "Телефон выпал из руки Осавы.",
+    "val": "The phone fell from Osawa’s hand."
+  },
+  {
+    "key": "His only possible means of saving Maria",
+    "trx": "Его единственный возможный способ спасти Марию",
+    "val": "His only possible means of saving Maria"
+  },
+  {
+    "key": "was now gone.",
+    "trx": "теперь он исчез.",
+    "val": "was now gone."
+  }
+]

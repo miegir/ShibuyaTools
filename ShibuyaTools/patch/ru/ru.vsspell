@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Visual Studio Spell Checker configuration file - [https://github.com/EWSoftware/VSSpellChecker]
+     Do not edit the XML.  Use the configuration file editor in Visual Studio to modify the settings. -->
+<SpellCheckerConfiguration Format="2018.8.16.0">
+  <InheritAdditionalDictionaryFolders>False</InheritAdditionalDictionaryFolders>
+  <AdditionalDictionaryFolders>
+    <Folder>.\dic</Folder>
+  </AdditionalDictionaryFolders>
+  <SelectedLanguages>
+    <LanguageName>ru-RU</LanguageName>
+    <LanguageName>en-US</LanguageName>
+  </SelectedLanguages>
+  <InheritIgnoredClassifications>True</InheritIgnoredClassifications>
+  <IgnoredClassifications />
+  <InheritIgnoredWords>False</InheritIgnoredWords>
+  <IgnoredWordsFile></IgnoredWordsFile>
+  <InheritExclusionExpressions>False</InheritExclusionExpressions>
+  <InheritIgnoredFilePatterns>False</InheritIgnoredFilePatterns>
+  <InheritXmlSettings>True</InheritXmlSettings>
+  <ExclusionExpressions>
+    <Expression Match="\&quot;(key|trx)\&quot;.*$(?# key/trx lines)" />
+  </ExclusionExpressions>
+  <SpellCheckAsYouType>True</SpellCheckAsYouType>
+  <IncludeInProjectSpellCheck>True</IncludeInProjectSpellCheck>
+  <DetectDoubledWords>False</DetectDoubledWords>
+  <IgnoreWordsWithDigits>True</IgnoreWordsWithDigits>
+  <IgnoreWordsInAllUppercase>False</IgnoreWordsInAllUppercase>
+  <IgnoreWordsInMixedCase>True</IgnoreWordsInMixedCase>
+  <IgnoreFormatSpecifiers>True</IgnoreFormatSpecifiers>
+  <IgnoreFilenamesAndEMailAddresses>True</IgnoreFilenamesAndEMailAddresses>
+  <IgnoreXmlElementsInText>True</IgnoreXmlElementsInText>
+  <TreatUnderscoreAsSeparator>False</TreatUnderscoreAsSeparator>
+  <IgnoreMnemonics>True</IgnoreMnemonics>
+  <IgnoreCharacterClass>None</IgnoreCharacterClass>
+  <IgnoredWords />
+  <IgnoredFilePatterns />
+  <CadOptions>
+    <ImportCodeAnalysisDictionaries>True</ImportCodeAnalysisDictionaries>
+    <TreatUnrecognizedWordsAsMisspelled>True</TreatUnrecognizedWordsAsMisspelled>
+    <TreatDeprecatedTermsAsMisspelled>True</TreatDeprecatedTermsAsMisspelled>
+    <TreatCompoundTermsAsMisspelled>True</TreatCompoundTermsAsMisspelled>
+    <TreatCasingExceptionsAsIgnoredWords>False</TreatCasingExceptionsAsIgnoredWords>
+    <RecognizedWordHandling>IgnoreAllWords</RecognizedWordHandling>
+  </CadOptions>
+  <CSharpOptions>
+    <IgnoreXmlDocComments>False</IgnoreXmlDocComments>
+    <IgnoreDelimitedComments>False</IgnoreDelimitedComments>
+    <IgnoreStandardSingleLineComments>False</IgnoreStandardSingleLineComments>
+    <IgnoreQuadrupleSlashComments>False</IgnoreQuadrupleSlashComments>
+    <IgnoreNormalStrings>False</IgnoreNormalStrings>
+    <IgnoreVerbatimStrings>False</IgnoreVerbatimStrings>
+    <IgnoreInterpolatedStrings>False</IgnoreInterpolatedStrings>
+    <ApplyToAllCStyleLanguages>False</ApplyToAllCStyleLanguages>
+  </CSharpOptions>
+</SpellCheckerConfiguration>

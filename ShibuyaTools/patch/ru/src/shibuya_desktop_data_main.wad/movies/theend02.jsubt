@@ -1,0 +1,14 @@
+[
+	{
+		"TimeStart" : 0,
+		"TimeEnd" : 10,
+		"Text" : "<i>КОНЕЦ</i>",
+		"PositionY": 0.78
+	},
+	{
+		"TimeStart" : 0,
+		"TimeEnd" : 10,
+		"Text" : "<i>ЕЁ ИСТОРИИ. И...</i>",
+		"PositionY": 0.89
+	}
+]

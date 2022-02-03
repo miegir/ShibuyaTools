@@ -1,0 +1,5252 @@
+[
+  {
+    "key": "Huff...",
+    "trx": "Пыхтеть...",
+    "val": "Huff..."
+  },
+  {
+    "key": "huff...",
+    "trx": "пыхтеть...",
+    "val": "huff..."
+  },
+  {
+    "key": "huff...",
+    "trx": "пыхтеть...",
+    "val": "huff..."
+  },
+  {
+    "key": "Labored breathing came from a shrub along the road where the minivan had exploded.",
+    "trx": "Затрудненное дыхание доносилось из кустарника вдоль дороги, где взорвался микроавтобус.",
+    "val": "Labored breathing came from a shrub along the road where the minivan had exploded."
+  },
+  {
+    "key": "“Hmph. ",
+    "trx": "“Хм. ",
+    "val": "“Hmph. "
+  },
+  {
+    "key": "This damage...",
+    "trx": "Этот ущерб...",
+    "val": "This damage..."
+  },
+  {
+    "key": "it’s...way worse than I thought.” ",
+    "trx": "это...намного хуже, чем я думал.” ",
+    "val": "it’s...way worse than I thought.” "
+  },
+  {
+    "key": "The muttering voice was punctuated by further halting breaths.",
+    "trx": "Бормочущий голос перемежался дальнейшими прерывистыми вдохами.",
+    "val": "The muttering voice was punctuated by further halting breaths."
+  },
+  {
+    "key": "And the speaker had a name...",
+    "trx": "И у говорившего было имя...",
+    "val": "And the speaker had a name..."
+  },
+  {
+    "key": ",\\",
+    "trx": ",\\",
+    "val": ",\\"
+  },
+  {
+    "key": "4:00pm",
+    "trx": "4:00 вечера",
+    "val": "4:00pm"
+  },
+  {
+    "key": "“What the heck?! ",
+    "trx": "“Что за черт?! ",
+    "val": "“What the heck?! "
+  },
+  {
+    "key": "What’s going on?!” cried Big Joe, ",
+    "trx": "Что происходит?! - закричал Большой Джо, ",
+    "val": "What’s going on?!” cried Big Joe, "
+  },
+  {
+    "key": "gazing up at the rising plume of black smoke.",
+    "trx": "пристально глядя на поднимающийся столб черного дыма.",
+    "val": "gazing up at the rising plume of black smoke."
+  },
+  {
+    "key": "A crowd of emergency workers and curious onlookers milled about the scene of the explosion, but none noticed the empty can standing by the roadside.",
+    "trx": "Толпа спасателей и любопытных зевак толпилась вокруг места взрыва, но никто не заметил пустую банку, стоявшую на обочине дороги.",
+    "val": "A crowd of emergency workers and curious onlookers milled about the scene of the explosion, but none noticed the empty can standing by the roadside."
+  },
+  {
+    "key": "“Hey, Flaps!” ",
+    "trx": "“Эй, закрылки!” ",
+    "val": "“Hey, Flaps!” "
+  },
+  {
+    "key": "Big Joe turned to the dumbstruck juice box sitting beside him. ",
+    "trx": "Большой Джо повернулся к ошарашенной коробке с соком, сидевшей рядом с ним. ",
+    "val": "Big Joe turned to the dumbstruck juice box sitting beside him. "
+  },
+  {
+    "key": "“What do you think?!”",
+    "trx": "“А ты как думаешь?!”",
+    "val": "“What do you think?!”"
+  },
+  {
+    "key": "“I dunno. ",
+    "trx": "“Я не знаю. ",
+    "val": "“I dunno. "
+  },
+  {
+    "key": "I mean, how am ",
+    "trx": "Я имею в виду, как я ",
+    "val": "I mean, how am "
+  },
+  {
+    "key": "I",
+    "trx": "Я",
+    "val": "I"
+  },
+  {
+    "key": " supposed to know?” ",
+    "trx": " предполагается, что ты знаешь?” ",
+    "val": " supposed to know?” "
+  },
+  {
+    "key": "Flaps gave a shrug. ",
+    "trx": "Закрылки пожал плечами. ",
+    "val": "Flaps gave a shrug. "
+  },
+  {
+    "key": "“Though there is one thing I ",
+    "trx": "“Хотя есть одна вещь, которую я ",
+    "val": "“Though there is one thing I "
+  },
+  {
+    "key": "do",
+    "trx": "делать",
+    "val": "do"
+  },
+  {
+    "key": " know for sure.” ",
+    "trx": " знаю наверняка.” ",
+    "val": " know for sure.” "
+  },
+  {
+    "key": "His expression turned grim. ",
+    "trx": "Выражение его лица стало мрачным. ",
+    "val": "His expression turned grim. "
+  },
+  {
+    "key": "“We’ve lost a lot of our friends.” ",
+    "trx": "“Мы потеряли многих наших друзей”. ",
+    "val": "“We’ve lost a lot of our friends.” "
+  },
+  {
+    "key": "It wasn’t just humans who had been caught up in the explosion.",
+    "trx": "Взрыв затронул не только людей.",
+    "val": "It wasn’t just humans who had been caught up in the explosion."
+  },
+  {
+    "key": "A bag of recyclables near the minivan had also been caught in the blast, and all the trash inside it had been burned to cinders.",
+    "trx": "Мешок с вторсырьем рядом с микроавтобусом также попал под взрыв, и весь мусор внутри него сгорел дотла.",
+    "val": "A bag of recyclables near the minivan had also been caught in the blast, and all the trash inside it had been burned to cinders."
+  },
+  {
+    "key": "Like Flaps and Big Joe, the other trash had been waiting to be brought to the recycling plant to start a new life.",
+    "trx": "Как и Флэпс и Большой Джо, остальной мусор ждал, когда его доставят на завод по переработке отходов, чтобы начать новую жизнь.",
+    "val": "Like Flaps and Big Joe, the other trash had been waiting to be brought to the recycling plant to start a new life."
+  },
+  {
+    "key": "“Dammit. ",
+    "trx": "“Черт возьми. ",
+    "val": "“Dammit. "
+  },
+  {
+    "key": "And right when we were all on the cusp of being reborn!” ",
+    "trx": "И как раз тогда, когда мы все были на пороге возрождения!” ",
+    "val": "And right when we were all on the cusp of being reborn!” "
+  },
+  {
+    "key": "Big Joe bit his lip in frustration. ",
+    "trx": "Большой Джо в отчаянии прикусил губу. ",
+    "val": "Big Joe bit his lip in frustration. "
+  },
+  {
+    "key": "“Cardburt, ",
+    "trx": "“Кардберт, ",
+    "val": "“Cardburt, "
+  },
+  {
+    "key": "Alumi-Mom, ",
+    "trx": "Алуми-Мама, ",
+    "val": "Alumi-Mom, "
+  },
+  {
+    "key": "Ol’ Scraps...",
+    "trx": "Старые Объедки...",
+    "val": "Ol’ Scraps..."
+  },
+  {
+    "key": "I won’t forget you guys!” ",
+    "trx": "Я вас не забуду, ребята!” ",
+    "val": "I won’t forget you guys!” "
+  },
+  {
+    "key": "Tears of coffee streamed from Big Joe’s eyes.",
+    "trx": "Кофейные слезы потекли из глаз Большого Джо.",
+    "val": "Tears of coffee streamed from Big Joe’s eyes."
+  },
+  {
+    "key": "“Big Joe,” Flaps mumbled, ",
+    "trx": "“Большой Джо\", ” пробормотал Флапс, ",
+    "val": "“Big Joe,” Flaps mumbled, "
+  },
+  {
+    "key": "“take a look at this.”",
+    "trx": "“взгляни на это”.",
+    "val": "“take a look at this.”"
+  },
+  {
+    "key": "There was a small green mass stuck to the surface of the road.",
+    "trx": "К поверхности дороги прилипла небольшая зеленая масса.",
+    "val": "There was a small green mass stuck to the surface of the road."
+  },
+  {
+    "key": "“What do you think it is?”",
+    "trx": "“Как ты думаешь, что это такое?”",
+    "val": "“What do you think it is?”"
+  },
+  {
+    "key": "The thing was sticky, and it gave off a foul stench; it pulsed rhythmically as if it were alive.",
+    "trx": "Эта штука была липкой и издавала отвратительное зловоние; она ритмично пульсировала, как будто была живой.",
+    "val": "The thing was sticky, and it gave off a foul stench; it pulsed rhythmically as if it were alive."
+  },
+  {
+    "key": "“I’ll tell you what it is,” Big Joe said, his mouth twisting up. ",
+    "trx": "“Я скажу тебе, что это такое”, - сказал Большой Джо, скривив рот. ",
+    "val": "“I’ll tell you what it is,” Big Joe said, his mouth twisting up. "
+  },
+  {
+    "key": "“It’s gross.”",
+    "trx": "“Это отвратительно”.",
+    "val": "“It’s gross.”"
+  },
+  {
+    "key": "The green mass wriggled and writhed for a while, but eventually went stiff, as if it had stopped breathing—",
+    "trx": "Зеленая масса некоторое время извивалась и корчилась, но в конце концов застыла, как будто перестала дышать—",
+    "val": "The green mass wriggled and writhed for a while, but eventually went stiff, as if it had stopped breathing—"
+  },
+  {
+    "key": "and then it vanished with a ",
+    "trx": "а затем он исчез с ",
+    "val": "and then it vanished with a "
+  },
+  {
+    "key": "schlorp",
+    "trx": "шлорп",
+    "val": "schlorp"
+  },
+  {
+    "key": ".",
+    "trx": ".",
+    "val": "."
+  },
+  {
+    "key": "“Dammit...",
+    "trx": "“Черт возьми...",
+    "val": "“Dammit..."
+  },
+  {
+    "key": "why me? Why?!” ",
+    "trx": "почему я? Почему?!” ",
+    "val": "why me? Why?!” "
+  },
+  {
+    "key": "A rustling came from the shrub near where Big Joe and Flaps were standing.",
+    "trx": "Из кустарника рядом с тем местом, где стояли Большой Джо и Флэпс, донесся шорох.",
+    "val": "A rustling came from the shrub near where Big Joe and Flaps were standing."
+  },
+  {
+    "key": "“That Achi punk didn’t even see me in here!” ",
+    "trx": "“Этот ачи-панк даже не видел меня здесь!” ",
+    "val": "“That Achi punk didn’t even see me in here!” "
+  },
+  {
+    "key": "A plastic bottle hopped into view, huffing and cursing.",
+    "trx": "В поле зрения, пыхтя и ругаясь, появилась пластиковая бутылка.",
+    "val": "A plastic bottle hopped into view, huffing and cursing."
+  },
+  {
+    "key": "“Hey, it’s...",
+    "trx": "“Эй, это...",
+    "val": "“Hey, it’s..."
+  },
+  {
+    "key": "Mean Clean!”",
+    "trx": "Значит, Чистый!”",
+    "val": "Mean Clean!”"
+  },
+  {
+    "key": "The coffee can and juice box cried out as one.",
+    "trx": "Банка из-под кофе и коробка из-под сока закричали как один.",
+    "val": "The coffee can and juice box cried out as one."
+  },
+  {
+    "key": "“What the heck is ",
+    "trx": "“Что, черт возьми, такое ",
+    "val": "“What the heck is "
+  },
+  {
+    "key": "he",
+    "trx": "он",
+    "val": "he"
+  },
+  {
+    "key": " doing here?”",
+    "trx": " что здесь делаешь?”",
+    "val": " doing here?”"
+  },
+  {
+    "key": "“It’s like seeing a ghost, Big Joe!”",
+    "trx": "“Это все равно что увидеть привидение, Большой Джо!”",
+    "val": "“It’s like seeing a ghost, Big Joe!”"
+  },
+  {
+    "key": "“Dude,” Big Joe said to the newcomer, “they say—” ",
+    "trx": "”Чувак, — сказал Большой Джо новичку, - они говорят...” ",
+    "val": "“Dude,” Big Joe said to the newcomer, “they say—” "
+  },
+  {
+    "key": "“—that I retired ages ago?” Mean Clean finished with a grimace. ",
+    "trx": "“...что я давным—давно вышел на пенсию?” Подлый Чистюля закончил с гримасой. ",
+    "val": "“—that I retired ages ago?” Mean Clean finished with a grimace. "
+  },
+  {
+    "key": "“Yeah, that was the plan.”",
+    "trx": "“Да, таков был план”.",
+    "val": "“Yeah, that was the plan.”"
+  },
+  {
+    "key": "Water burbled from a sizeable hole in his midsection.",
+    "trx": "Вода хлестала из большой дыры в его животе.",
+    "val": "Water burbled from a sizeable hole in his midsection."
+  },
+  {
+    "key": "“Dude, ",
+    "trx": "“Чувак, ",
+    "val": "“Dude, "
+  },
+  {
+    "key": "uh, ",
+    "trx": "ух, ",
+    "val": "uh, "
+  },
+  {
+    "key": "look!” ",
+    "trx": "смотри!” ",
+    "val": "look!” "
+  },
+  {
+    "key": "Big Joe pointed to Mean Clean’s belly.",
+    "trx": "Большой Джо указал на живот Злого Чистюли.",
+    "val": "Big Joe pointed to Mean Clean’s belly."
+  },
+  {
+    "key": "“Yeah? ",
+    "trx": "“да? ",
+    "val": "“Yeah? "
+  },
+  {
+    "key": "So I went from big gulp to double gulp. Big deal.” ",
+    "trx": "Поэтому я перешел от большого глотка к двойному глотку. Большое дело.” ",
+    "val": "So I went from big gulp to double gulp. Big deal.” "
+  },
+  {
+    "key": "But the sweat was beading on Mean Clean’s forehead.",
+    "trx": "Но на лбу Злого Чистюли выступили капельки пота.",
+    "val": "But the sweat was beading on Mean Clean’s forehead."
+  },
+  {
+    "key": "“Ah, good grief. ",
+    "trx": "“Ах, боже мой. ",
+    "val": "“Ah, good grief. "
+  },
+  {
+    "key": "Just look at me, all messed up! ",
+    "trx": "Просто посмотри на меня, я вся в беспорядке! ",
+    "val": "Just look at me, all messed up! "
+  },
+  {
+    "key": "Whatever moron’s responsible for this, I’m gonna find ‘im and kick his ass!” Mean Clean grumbled. ",
+    "trx": "Какой бы идиот ни был ответственен за это, я найду его и надеру ему задницу!” Подлый Чистюля проворчал. ",
+    "val": "Whatever moron’s responsible for this, I’m gonna find ‘im and kick his ass!” Mean Clean grumbled. "
+  },
+  {
+    "key": "He stomped around with his bowlegged gait, glaring about him as he went.",
+    "trx": "Он топал своей кривоногой походкой, оглядываясь по сторонам на ходу.",
+    "val": "He stomped around with his bowlegged gait, glaring about him as he went."
+  },
+  {
+    "key": "“Whoa. He seems really pissed off.”",
+    "trx": "“Вау. Он, кажется, действительно взбешен.”",
+    "val": "“Whoa. He seems really pissed off.”"
+  },
+  {
+    "key": "“He ",
+    "trx": "“Он ",
+    "val": "“He "
+  },
+  {
+    "key": "did",
+    "trx": "сделал",
+    "val": "did"
+  },
+  {
+    "key": " always have a short temper,” Flaps said. ",
+    "trx": " у тебя всегда вспыльчивый характер, - сказал Флапс. ",
+    "val": " always have a short temper,” Flaps said. "
+  },
+  {
+    "key": "“Even back when he was the hero of Shibuya.”",
+    "trx": "“Даже тогда, когда он был героем Сибуи”.",
+    "val": "“Even back when he was the hero of Shibuya.”"
+  },
+  {
+    "key": "Once, Mean Clean had indeed ",
+    "trx": "Однажды Подлый Чистюля действительно ",
+    "val": "Once, Mean Clean had indeed "
+  },
+  {
+    "key": "been the hero of Shibuya. ",
+    "trx": "был героем Сибуи. ",
+    "val": "been the hero of Shibuya. "
+  },
+  {
+    "key": "It had all started about ten years before.",
+    "trx": "Все это началось около десяти лет назад.",
+    "val": "It had all started about ten years before."
+  },
+  {
+    "key": "A strange religious group had appeared on the streets, preaching while brandishing vegetables in their hands.",
+    "trx": "Странная религиозная группа появилась на улицах, проповедуя, размахивая овощами в руках.",
+    "val": "A strange religious group had appeared on the streets, preaching while brandishing vegetables in their hands."
+  },
+  {
+    "key": "They seemed harmless enough at first, until their adherents started going on rampages, violently scattering vegetables all over town.",
+    "trx": "Поначалу они казались достаточно безобидными, пока их приверженцы не начали бесчинствовать, яростно разбрасывая овощи по всему городу.",
+    "val": "They seemed harmless enough at first, until their adherents started going on rampages, violently scattering vegetables all over town."
+  },
+  {
+    "key": "The discarded vegetables quickly rotted, suffusing the whole area with the stench of garbage.",
+    "trx": "Выброшенные овощи быстро сгнили, наполнив всю округу зловонием мусора.",
+    "val": "The discarded vegetables quickly rotted, suffusing the whole area with the stench of garbage."
+  },
+  {
+    "key": "“The Great Compost Incident,” they called it.",
+    "trx": "Они называли это “Великим инцидентом с компостом\".",
+    "val": "“The Great Compost Incident,” they called it."
+  },
+  {
+    "key": "The police ramped up their supervision of Shibuya; but because unlawful dumping of garbage was only punishable with a modest fine under Japanese law, there was no way to rein in the believers’ environmental terrorism.",
+    "trx": "Полиция усилила надзор за Сибуей; но поскольку незаконный сброс мусора по японским законам карался лишь скромным штрафом, обуздать экологический терроризм верующих было невозможно.",
+    "val": "The police ramped up their supervision of Shibuya; but because unlawful dumping of garbage was only punishable with a modest fine under Japanese law, there was no way to rein in the believers’ environmental terrorism."
+  },
+  {
+    "key": "Day by day, Shibuya descended into filth.",
+    "trx": "День за днем Сибуя погружался в грязь.",
+    "val": "Day by day, Shibuya descended into filth."
+  },
+  {
+    "key": "That was when a young Mean Clean stepped up.",
+    "trx": "Вот тогда-то и появился молодой Подлый Чистюля.",
+    "val": "That was when a young Mean Clean stepped up."
+  },
+  {
+    "key": "As a potential article of trash himself, he could not stand to see his city sullied so, and he was determined to do whatever was needed to protect the town.",
+    "trx": "Будучи сам потенциальным мусором, он не мог спокойно смотреть, как его город так оскверняется, и был полон решимости сделать все необходимое для защиты города.",
+    "val": "As a potential article of trash himself, he could not stand to see his city sullied so, and he was determined to do whatever was needed to protect the town."
+  },
+  {
+    "key": "Sending up a wild battle cry, he went about accosting the vegetable-tossers one by one, picking up their strewn garbage and disposing of it properly.",
+    "trx": "Издав дикий боевой клич, он принялся приставать к мусорщикам овощей одному за другим, собирая разбросанный ими мусор и утилизируя его должным образом.",
+    "val": "Sending up a wild battle cry, he went about accosting the vegetable-tossers one by one, picking up their strewn garbage and disposing of it properly."
+  },
+  {
+    "key": "This glorious struggle went on for eight years.",
+    "trx": "Эта славная борьба продолжалась восемь лет.",
+    "val": "This glorious struggle went on for eight years."
+  },
+  {
+    "key": "By the time it was done, Mean Clean was tattered and worn, a shadow of his former self.",
+    "trx": "К тому времени, когда это было сделано, Злой Чистый был изодран и изношен, тень его прежнего \"я\".",
+    "val": "By the time it was done, Mean Clean was tattered and worn, a shadow of his former self."
+  },
+  {
+    "key": "His friends, Big Joe and Flaps included, gathered around him as he prepared to meet his end.",
+    "trx": "Его друзья, включая Большого Джо и Флэпса, собрались вокруг него, когда он готовился встретить свой конец.",
+    "val": "His friends, Big Joe and Flaps included, gathered around him as he prepared to meet his end."
+  },
+  {
+    "key": "“Hang in there, Mean Clean!” cried Flaps. “You can make it!”",
+    "trx": "“Держись там, Подлый Чистюля!” - крикнул Закрылки. “Ты можешь это сделать!”",
+    "val": "“Hang in there, Mean Clean!” cried Flaps. “You can make it!”"
+  },
+  {
+    "key": "“Yeah! You can’t die, dude!”",
+    "trx": "“Да! Ты не можешь умереть, чувак!”",
+    "val": "“Yeah! You can’t die, dude!”"
+  },
+  {
+    "key": "Their earnest pleas brought a faint smile to Mean Clean’s face, and with a weak voice, he whispered his last request.",
+    "trx": "Их искренние мольбы вызвали слабую улыбку на лице Среднего Чистого, и слабым голосом он прошептал свою последнюю просьбу.",
+    "val": "Their earnest pleas brought a faint smile to Mean Clean’s face, and with a weak voice, he whispered his last request."
+  },
+  {
+    "key": "“Throw me away in the bin for reusable waste. ",
+    "trx": "“Выбрось меня в мусорное ведро для многоразовых отходов. ",
+    "val": "“Throw me away in the bin for reusable waste. "
+  },
+  {
+    "key": "I want...to be recycled when I go.” ",
+    "trx": "Я want...to быть переработанным, когда я уйду”. ",
+    "val": "I want...to be recycled when I go.” "
+  },
+  {
+    "key": "Big Joe and his other friends did as he had asked.",
+    "trx": "Большой Джо и другие его друзья сделали так, как он просил.",
+    "val": "Big Joe and his other friends did as he had asked."
+  },
+  {
+    "key": "But the fact was that 90% of plastic bottles were burned without being recycled.",
+    "trx": "Но факт оставался фактом: 90% пластиковых бутылок сжигались без переработки.",
+    "val": "But the fact was that 90% of plastic bottles were burned without being recycled."
+  },
+  {
+    "key": "Even when they did get recycled, many were made into other products, such as clothing, clear plastic filing folders, or vinyl rope.",
+    "trx": "Даже когда они были переработаны, многие из них были превращены в другие продукты, такие как одежда, прозрачные пластиковые папки для папок или виниловая веревка.",
+    "val": "Even when they did get recycled, many were made into other products, such as clothing, clear plastic filing folders, or vinyl rope."
+  },
+  {
+    "key": "The odds of Mean Clean coming back as another plastic bottle were immeasurably low.",
+    "trx": "Шансы на то, что Mean Clean вернется в виде еще одной пластиковой бутылки, были неизмеримо малы.",
+    "val": "The odds of Mean Clean coming back as another plastic bottle were immeasurably low."
+  },
+  {
+    "key": "After collection, Mean Clean was pulverized, processed, and born anew as a t-shirt.",
+    "trx": "После сбора Mean Clean был измельчен, обработан и заново рожден в виде футболки.",
+    "val": "After collection, Mean Clean was pulverized, processed, and born anew as a t-shirt."
+  },
+  {
+    "key": "He was then passed on from person to person until he met Achi at a second-hand clothing shop.",
+    "trx": "Затем его передавали от человека к человеку, пока он не встретил Ачи в магазине подержанной одежды.",
+    "val": "He was then passed on from person to person until he met Achi at a second-hand clothing shop."
+  },
+  {
+    "key": "When Achi hit the streets of Shibuya, Mean Clean was saddened and dismayed.",
+    "trx": "Когда Ачи вышел на улицы Сибуи, Mean Clean был опечален и встревожен.",
+    "val": "When Achi hit the streets of Shibuya, Mean Clean was saddened and dismayed."
+  },
+  {
+    "key": "He had shown the vegetable cult the light, but still Shibuya was not beautiful.",
+    "trx": "Он показал культу овощей свет, но все равно Сибуя не была красивой.",
+    "val": "He had shown the vegetable cult the light, but still Shibuya was not beautiful."
+  },
+  {
+    "key": "If anything, it was marred by even more trash than in the old days.",
+    "trx": "Во всяком случае, он был испорчен еще большим количеством мусора, чем в прежние времена.",
+    "val": "If anything, it was marred by even more trash than in the old days."
+  },
+  {
+    "key": "It turned out that the religious sect was not his only enemy.",
+    "trx": "Оказалось, что религиозная секта была не единственным его врагом.",
+    "val": "It turned out that the religious sect was not his only enemy."
+  },
+  {
+    "key": "Many of the people of Shibuya were themselves responsible for dirtying their once-fair city.",
+    "trx": "Многие жители Сибуи сами были ответственны за загрязнение своего некогда прекрасного города.",
+    "val": "Many of the people of Shibuya were themselves responsible for dirtying their once-fair city."
+  },
+  {
+    "key": "Shibuya was overwhelmed with trash.",
+    "trx": "Сибуя была завалена мусором.",
+    "val": "Shibuya was overwhelmed with trash."
+  },
+  {
+    "key": "The city was rotting.",
+    "trx": "Город разлагался.",
+    "val": "The city was rotting."
+  },
+  {
+    "key": "But on his own, Mean Clean could do nothing.",
+    "trx": "Но в одиночку Подлый Чистюля ничего не мог поделать.",
+    "val": "But on his own, Mean Clean could do nothing."
+  },
+  {
+    "key": "Each time he gazed out from Achi’s t-shirt, he was awash with frustration at his own impotence.",
+    "trx": "Каждый раз, когда он выглядывал из-под футболки Ачи, его переполняло разочарование от собственного бессилия.",
+    "val": "Each time he gazed out from Achi’s t-shirt, he was awash with frustration at his own impotence."
+  },
+  {
+    "key": "Flaps slapped an adhesive bandage across Mean Clean’s abdomen. ",
+    "trx": "Лоскуты наложили клейкую повязку на живот Среднего Чистюли. ",
+    "val": "Flaps slapped an adhesive bandage across Mean Clean’s abdomen. "
+  },
+  {
+    "key": "“So...how’d you get your old form back?” the juice box asked.",
+    "trx": "“Итак... как ты вернул свою старую форму?” - спросила коробка с соком.",
+    "val": "“So...how’d you get your old form back?” the juice box asked."
+  },
+  {
+    "key": "Mean Clean rubbed at his midsection. ",
+    "trx": "Подлый Чистюля потер его живот. ",
+    "val": "Mean Clean rubbed at his midsection. "
+  },
+  {
+    "key": "“It happened during the explosion...” ",
+    "trx": "“Это произошло во время взрыва...” ",
+    "val": "“It happened during the explosion...” "
+  },
+  {
+    "key": "The detonation had propelled a fragment of the minivan’s windshield right toward Achi’s chest.",
+    "trx": "Взрыв отбросил осколок лобового стекла микроавтобуса прямо в грудь Ачи.",
+    "val": "The detonation had propelled a fragment of the minivan’s windshield right toward Achi’s chest."
+  },
+  {
+    "key": "t",
+    "trx": "t",
+    "val": "t"
+  },
+  {
+    "key": "Making a split-second decision, Mean Clean slipped free of the t-shirt and took the glass shrapnel in Achi’s place.",
+    "trx": "Приняв решение за долю секунды, Подлый Чистюля выскользнул из футболки и взял осколок стекла вместо Ачи.",
+    "val": "Making a split-second decision, Mean Clean slipped free of the t-shirt and took the glass shrapnel in Achi’s place."
+  },
+  {
+    "key": "Achi escaped injury without knowing what saved him, and left the scene—and Mean Clean—behind.",
+    "trx": "Ачи избежал травмы, не зная, что его спасло, и покинул сцену — и Подло Подчистую — позади.",
+    "val": "Achi escaped injury without knowing what saved him, and left the scene—and Mean Clean—behind."
+  },
+  {
+    "key": "“However you look at it, this wasn’t just an accident. ",
+    "trx": "“Как бы вы на это ни смотрели, это был не просто несчастный случай. ",
+    "val": "“However you look at it, this wasn’t just an accident. "
+  },
+  {
+    "key": "Someone must’ve planted a bomb or something.” ",
+    "trx": "Должно быть, кто-то заложил бомбу или что-то в этом роде.” ",
+    "val": "Someone must’ve planted a bomb or something.” "
+  },
+  {
+    "key": "Mean Clean’s face showed a mix of pain and anger.",
+    "trx": "На лице Злого Чистюли отразилась смесь боли и гнева.",
+    "val": "Mean Clean’s face showed a mix of pain and anger."
+  },
+  {
+    "key": "Half of his mineral water had spilled out.",
+    "trx": "Половина его минеральной воды вылилась.",
+    "val": "Half of his mineral water had spilled out."
+  },
+  {
+    "key": "The water was effectively Mean Clean’s blood.",
+    "trx": "Вода фактически была кровью Подлого Чистюли.",
+    "val": "The water was effectively Mean Clean’s blood."
+  },
+  {
+    "key": "Having lost so much in one fell swoop, he was practically dead already.",
+    "trx": "Потеряв так много одним махом, он уже был практически мертв.",
+    "val": "Having lost so much in one fell swoop, he was practically dead already."
+  },
+  {
+    "key": "It was only sheer force of will that kept him on his feet.",
+    "trx": "Только огромная сила воли удерживала его на ногах.",
+    "val": "It was only sheer force of will that kept him on his feet."
+  },
+  {
+    "key": "“But the person who planted the bomb isn’t the issue,” Mean Clean continued. ",
+    "trx": "“Но человек, который заложил бомбу, не является проблемой\", - продолжил Злой Чистый. ",
+    "val": "“But the person who planted the bomb isn’t the issue,” Mean Clean continued. "
+  },
+  {
+    "key": "“The one I’m after is whoever plotted to kill me and Achi.”",
+    "trx": "“Тот, за кем я охочусь, - это тот, кто замышлял убить меня и Ачи”.",
+    "val": "“The one I’m after is whoever plotted to kill me and Achi.”"
+  },
+  {
+    "key": "Flaps and Big Joe exchanged glances.",
+    "trx": "Закрылки и Большой Джо обменялись взглядами.",
+    "val": "Flaps and Big Joe exchanged glances."
+  },
+  {
+    "key": "“Dude...",
+    "trx": "“Чувак...",
+    "val": "“Dude..."
+  },
+  {
+    "key": "someone’s trying to kill you?” ",
+    "trx": "кто-то пытается тебя убить?” ",
+    "val": "someone’s trying to kill you?” "
+  },
+  {
+    "key": "“What do you mean?” asked Flaps.",
+    "trx": "“Что вы имеете в виду?” - спросил Флапс.",
+    "val": "“What do you mean?” asked Flaps."
+  },
+  {
+    "key": "Mean Clean’s face grew grimmer. ",
+    "trx": "Лицо Злого Чистюли стало еще мрачнее. ",
+    "val": "Mean Clean’s face grew grimmer. "
+  },
+  {
+    "key": "“There was a second explosion. ",
+    "trx": "“Произошел второй взрыв. ",
+    "val": "“There was a second explosion. "
+  },
+  {
+    "key": "Someone was after us, no question about it.”",
+    "trx": "Кто-то преследовал нас, в этом нет сомнений.”",
+    "val": "Someone was after us, no question about it.”"
+  },
+  {
+    "key": "Neither Big Joe nor Flaps had any idea what Mean Clean was talking about.",
+    "trx": "Ни Большой Джо, ни Флапс понятия не имели, о чем говорит Подлый Чистюля.",
+    "val": "Neither Big Joe nor Flaps had any idea what Mean Clean was talking about."
+  },
+  {
+    "key": "Had the shock of the explosion messed up their friend’s head?",
+    "trx": "Неужели шок от взрыва повредил их другу голову?",
+    "val": "Had the shock of the explosion messed up their friend’s head?"
+  },
+  {
+    "key": "But Mean Clean went on, his expression entirely serious.",
+    "trx": "Но Злой Чистюля продолжал, выражение его лица было совершенно серьезным.",
+    "val": "But Mean Clean went on, his expression entirely serious."
+  },
+  {
+    "key": "That shard of glass wasn’t going for me and Achi—not at first. ",
+    "trx": "Этот осколок стекла не предназначался для меня и Ачи — поначалу нет. ",
+    "val": "That shard of glass wasn’t going for me and Achi—not at first. "
+  },
+  {
+    "key": "It was going one way, then its trajectory changed mid-flight and it came right at us! ",
+    "trx": "Он летел в одну сторону, затем его траектория изменилась в середине полета, и он летел прямо на нас! ",
+    "val": "It was going one way, then its trajectory changed mid-flight and it came right at us! "
+  },
+  {
+    "key": "That couldn’t have been caused by the initial explosion. ",
+    "trx": "Это не могло быть вызвано первоначальным взрывом. ",
+    "val": "That couldn’t have been caused by the initial explosion. "
+  },
+  {
+    "key": "“Something else exploded, just an instant later, somewhere off to the side.”",
+    "trx": "“Что-то еще взорвалось, буквально мгновение спустя, где-то в стороне”.",
+    "val": "“Something else exploded, just an instant later, somewhere off to the side.”"
+  },
+  {
+    "key": "Big Joe listened intently, his expression vacant; he couldn’t make any sense of it all.",
+    "trx": "Большой Джо внимательно слушал с отсутствующим выражением лица; он не мог понять всего этого.",
+    "val": "Big Joe listened intently, his expression vacant; he couldn’t make any sense of it all."
+  },
+  {
+    "key": "“But that doesn’t necessarily mean someone was gunning for you,” Flaps said. ",
+    "trx": "“Но это не обязательно означает, что кто-то охотился за тобой”, - сказал Флапс. ",
+    "val": "“But that doesn’t necessarily mean someone was gunning for you,” Flaps said. "
+  },
+  {
+    "key": "“I mean, couldn’t it have just been a coincidence?”",
+    "trx": "“Я имею в виду, не могло ли это быть просто совпадением?”",
+    "val": "“I mean, couldn’t it have just been a coincidence?”"
+  },
+  {
+    "key": "“No way,” said Mean Clean, ",
+    "trx": "“Ни за что\", ” сказал Злой Чистый, ",
+    "val": "“No way,” said Mean Clean, "
+  },
+  {
+    "key": "“not a chance.”",
+    "trx": "“ни за что”.",
+    "val": "“not a chance.”"
+  },
+  {
+    "key": "“Who did it, then?” asked Big Joe. ",
+    "trx": "“Тогда кто же это сделал?” - спросил Большой Джо. ",
+    "val": "“Who did it, then?” asked Big Joe. "
+  },
+  {
+    "key": "“And why?”",
+    "trx": "“И почему?”",
+    "val": "“And why?”"
+  },
+  {
+    "key": "“That, I do not know.”",
+    "trx": "“Этого я не знаю”.",
+    "val": "“That, I do not know.”"
+  },
+  {
+    "key": "“Hmph.” ",
+    "trx": "“Хм.” ",
+    "val": "“Hmph.” "
+  },
+  {
+    "key": "Flaps threw up his hands in defeat.",
+    "trx": "Флапс вскинул руки в знак поражения.",
+    "val": "Flaps threw up his hands in defeat."
+  },
+  {
+    "key": "“Still,” said Big Joe, “Now that you mention it, I did feel something back then, I’m sure of it. ",
+    "trx": "“И все же, - сказал Большой Джо, - теперь, когда вы упомянули об этом, я действительно что-то почувствовал тогда, я уверен в этом. ",
+    "val": "“Still,” said Big Joe, “Now that you mention it, I did feel something back then, I’m sure of it. "
+  },
+  {
+    "key": "No. Some",
+    "trx": "Нет. Некоторые",
+    "val": "No. Some"
+  },
+  {
+    "key": "one",
+    "trx": "один",
+    "val": "one"
+  },
+  {
+    "key": ". ",
+    "trx": ". ",
+    "val": ". "
+  },
+  {
+    "key": "With murder on his mind.” ",
+    "trx": "С убийством на уме.” ",
+    "val": "With murder on his mind.” "
+  },
+  {
+    "key": "He peered around uneasily.",
+    "trx": "Он беспокойно огляделся.",
+    "val": "He peered around uneasily."
+  },
+  {
+    "key": "“",
+    "trx": "“",
+    "val": "“"
+  },
+  {
+    "key": "Hic",
+    "trx": "Иксоподобный",
+    "val": "Hic"
+  },
+  {
+    "key": "...",
+    "trx": "...",
+    "val": "..."
+  },
+  {
+    "key": "wheeee!” ",
+    "trx": "уииии!” ",
+    "val": "wheeee!” "
+  },
+  {
+    "key": "Just then, someone came lurching by.",
+    "trx": "Как раз в этот момент кто-то, пошатываясь, прошел мимо.",
+    "val": "Just then, someone came lurching by."
+  },
+  {
+    "key": "It was an empty sake jar—well, empty of sake, anyhow.",
+    "trx": "Это была пустая банка из—под саке - ну, во всяком случае, пустая от саке.",
+    "val": "It was an empty sake jar—well, empty of sake, anyhow."
+  },
+  {
+    "key": "He’d since been planted with a bonsai.",
+    "trx": "С тех пор ему посадили бонсай.",
+    "val": "He’d since been planted with a bonsai."
+  },
+  {
+    "key": "The others recognized him at once; the old fellow’s name was Hooch.",
+    "trx": "Остальные сразу узнали его; старика звали Хуч.",
+    "val": "The others recognized him at once; the old fellow’s name was Hooch."
+  },
+  {
+    "key": "He was a slovenly drunkard—but also a walking encyclopedia of Shibuya, widely trusted by the trash of the city.",
+    "trx": "Он был неряшливым пьяницей, но в то же время ходячей энциклопедией Сибуи, которой широко доверяли городские отбросы.",
+    "val": "He was a slovenly drunkard—but also a walking encyclopedia of Shibuya, widely trusted by the trash of the city."
+  },
+  {
+    "key": "“Been drinking since noon again, old man?” ",
+    "trx": "“Опять пил с полудня, старик?” ",
+    "val": "“Been drinking since noon again, old man?” "
+  },
+  {
+    "key": "Big Joe rolled his eyes.",
+    "trx": "Большой Джо закатил глаза.",
+    "val": "Big Joe rolled his eyes."
+  },
+  {
+    "key": "“Nah, lately I’ve been sticking to sweet potato shochu,” Hooch informed him, ",
+    "trx": "“Нет, в последнее время я придерживаюсь сладкого картофельного шочу”, - сообщил ему Хуч, ",
+    "val": "“Nah, lately I’ve been sticking to sweet potato shochu,” Hooch informed him, "
+  },
+  {
+    "key": "his excuse completely failing to serve its intended purpose. ",
+    "trx": "его оправдание совершенно не соответствует своей цели. ",
+    "val": "his excuse completely failing to serve its intended purpose. "
+  },
+  {
+    "key": "“It’s done wonders for my bowels! ",
+    "trx": "“Это сотворило чудеса с моим кишечником! ",
+    "val": "“It’s done wonders for my bowels! "
+  },
+  {
+    "key": "Hweh, ",
+    "trx": "Хвех, ",
+    "val": "Hweh, "
+  },
+  {
+    "key": "hweh, ",
+    "trx": "хвех, ",
+    "val": "hweh, "
+  },
+  {
+    "key": "hweh.” ",
+    "trx": "хве.” ",
+    "val": "hweh.” "
+  },
+  {
+    "key": "His toothless guffaws reeked of booze.",
+    "trx": "От его беззубого хохота разило выпивкой.",
+    "val": "His toothless guffaws reeked of booze."
+  },
+  {
+    "key": "“Look, this is no laughing matter! ",
+    "trx": "“Послушайте, это не повод для смеха! ",
+    "val": "“Look, this is no laughing matter! "
+  },
+  {
+    "key": "Someone’s trying to kill Mean Clean and—",
+    "trx": "Кто-то пытается убить Подлого Чистого и—",
+    "val": "Someone’s trying to kill Mean Clean and—"
+  },
+  {
+    "key": "ugh, dude, you stink.” ",
+    "trx": "фу, чувак, от тебя воняет.” ",
+    "val": "ugh, dude, you stink.” "
+  },
+  {
+    "key": "Big Joe wrinkled his nose at a brand new stench.",
+    "trx": "Большой Джо сморщил нос от совершенно новой вони.",
+    "val": "Big Joe wrinkled his nose at a brand new stench."
+  },
+  {
+    "key": "“You just let one rip, didn’t you, old man?”",
+    "trx": "“Ты только что позволил одному порваться, не так ли, старина?”",
+    "val": "“You just let one rip, didn’t you, old man?”"
+  },
+  {
+    "key": "“Ah, my apologies. ",
+    "trx": "“Ах, мои извинения. ",
+    "val": "“Ah, my apologies. "
+  },
+  {
+    "key": "Like I said—wonders! ",
+    "trx": "Как я уже сказал — чудеса! ",
+    "val": "Like I said—wonders! "
+  },
+  {
+    "key": "Hweh, ",
+    "trx": "Хвех, ",
+    "val": "Hweh, "
+  },
+  {
+    "key": "hweh, ",
+    "trx": "хвех, ",
+    "val": "hweh, "
+  },
+  {
+    "key": "hweh.” ",
+    "trx": "хве.” ",
+    "val": "hweh.” "
+  },
+  {
+    "key": "As he chortled, Hooch let out another long and noisy olfactory assault.",
+    "trx": "Когда он хихикнул, Хуч выпустил еще одну длинную и шумную обонятельную атаку.",
+    "val": "As he chortled, Hooch let out another long and noisy olfactory assault."
+  },
+  {
+    "key": "“It’s been a long time, old man,” Mean Clean said.",
+    "trx": "“Это было давно, старина\", - сказал Злой Чистый.",
+    "val": "“It’s been a long time, old man,” Mean Clean said."
+  },
+  {
+    "key": "The smile disappeared from Hooch’s face as his eyes slowly focused on the water bottle.",
+    "trx": "Улыбка исчезла с лица Хуча, когда его глаза медленно сфокусировались на бутылке с водой.",
+    "val": "The smile disappeared from Hooch’s face as his eyes slowly focused on the water bottle."
+  },
+  {
+    "key": "“Mean Clean...",
+    "trx": "“Значит, Чистый...",
+    "val": "“Mean Clean..."
+  },
+  {
+    "key": "I thought you went into retirement.”",
+    "trx": "Я думал, ты ушел на пенсию.”",
+    "val": "I thought you went into retirement.”"
+  },
+  {
+    "key": "“Yeah. ",
+    "trx": "\"Да. ",
+    "val": "“Yeah. "
+  },
+  {
+    "key": "I’d seen too much trouble.”",
+    "trx": "Я видел слишком много неприятностей.”",
+    "val": "I’d seen too much trouble.”"
+  },
+  {
+    "key": "“Why you back, then?”",
+    "trx": "“Тогда почему ты вернулся?”",
+    "val": "“Why you back, then?”"
+  },
+  {
+    "key": "“To look for more.”",
+    "trx": "“Чтобы искать больше”.",
+    "val": "“To look for more.”"
+  },
+  {
+    "key": "“Hmm...” ",
+    "trx": "“Хм...” ",
+    "val": "“Hmm...” "
+  },
+  {
+    "key": "Hooch’s expression stiffened. ",
+    "trx": "Выражение лица Хуча напряглось. ",
+    "val": "Hooch’s expression stiffened. "
+  },
+  {
+    "key": "“There’s something you gotta hear, Mean Clean. ",
+    "trx": "“Есть кое-что, что ты должен услышать, Подлый Чистюля. ",
+    "val": "“There’s something you gotta hear, Mean Clean. "
+  },
+  {
+    "key": "Listen well.”",
+    "trx": "Слушай внимательно.”",
+    "val": "Listen well.”"
+  },
+  {
+    "key": "But Hooch didn’t get a chance to finish.",
+    "trx": "Но Хуч не успел договорить.",
+    "val": "But Hooch didn’t get a chance to finish."
+  },
+  {
+    "key": "With a steamy hissing sound, a long, slender ",
+    "trx": "С шипящим звуком, исходящим от пара, длинный, тонкий ",
+    "val": "With a steamy hissing sound, a long, slender "
+  },
+  {
+    "key": "something",
+    "trx": "что-то",
+    "val": "something"
+  },
+  {
+    "key": " came reaching down from above.",
+    "trx": " спустился сверху.",
+    "val": " came reaching down from above."
+  },
+  {
+    "key": "It was a green tentacle.",
+    "trx": "Это было зеленое щупальце.",
+    "val": "It was a green tentacle."
+  },
+  {
+    "key": "“What in the what?”",
+    "trx": "“Что в чем?”",
+    "val": "“What in the what?”"
+  },
+  {
+    "key": "The tendril wrapped itself around Hooch’s body.",
+    "trx": "Усик обвился вокруг тела Хуча.",
+    "val": "The tendril wrapped itself around Hooch’s body."
+  },
+  {
+    "key": "“Old man!”",
+    "trx": "“Старик!”",
+    "val": "“Old man!”"
+  },
+  {
+    "key": "Before Mean Clean could move in for the rescue, Hooch was lofted into the air.",
+    "trx": "Прежде чем Подлый Чистюля успел броситься на помощь, Хуч был поднят в воздух.",
+    "val": "Before Mean Clean could move in for the rescue, Hooch was lofted into the air."
+  },
+  {
+    "key": "“That looks just like that green thing we saw earlier!” ",
+    "trx": "“Это выглядит точно так же, как та зеленая штука, которую мы видели раньше!” ",
+    "val": "“That looks just like that green thing we saw earlier!” "
+  },
+  {
+    "key": "Flaps shouted and pointed.",
+    "trx": "Закрылки кричали и указывали.",
+    "val": "Flaps shouted and pointed."
+  },
+  {
+    "key": "Hooch was receeding into the distance.",
+    "trx": "Хуч удалялся вдаль.",
+    "val": "Hooch was receeding into the distance."
+  },
+  {
+    "key": "There was nothing Mean Clean and the others could do.",
+    "trx": "Не было ничего, что могли бы сделать Подлая Чистота и другие.",
+    "val": "There was nothing Mean Clean and the others could do."
+  },
+  {
+    "key": "“You will all die...",
+    "trx": "“Вы все умрете...",
+    "val": "“You will all die..."
+  },
+  {
+    "key": "ou will become trash...",
+    "trx": "ты станешь мусором...",
+    "val": "ou will become trash..."
+  },
+  {
+    "key": "you who circle back around, who bear the seal...” ",
+    "trx": "вы, кто кружит вокруг да около, кто несет печать...” ",
+    "val": "you who circle back around, who bear the seal...” "
+  },
+  {
+    "key": "The voice seemed to come out of nowhere, and it vanished just as quickly.",
+    "trx": "Голос, казалось, возник из ниоткуда и так же быстро исчез.",
+    "val": "The voice seemed to come out of nowhere, and it vanished just as quickly."
+  },
+  {
+    "key": "Only the scent of the gas Hooch had passed lingered behind.",
+    "trx": "Только запах газового самогона, который прошел мимо, остался позади.",
+    "val": "Only the scent of the gas Hooch had passed lingered behind."
+  },
+  {
+    "key": "“What the heck? ",
+    "trx": "“Что за черт? ",
+    "val": "“What the heck? "
+  },
+  {
+    "key": "What ",
+    "trx": "Что ",
+    "val": "What "
+  },
+  {
+    "key": "was",
+    "trx": "был",
+    "val": "was"
+  },
+  {
+    "key": " that?” ",
+    "trx": " это?” ",
+    "val": " that?” "
+  },
+  {
+    "key": "It had all happened so fast.",
+    "trx": "Все произошло так быстро.",
+    "val": "It had all happened so fast."
+  },
+  {
+    "key": "Hooch had been snatched away before Mean Clean and the others could even react.",
+    "trx": "Хуч был схвачен еще до того, как Злой Чистюля и остальные успели среагировать.",
+    "val": "Hooch had been snatched away before Mean Clean and the others could even react."
+  },
+  {
+    "key": "You will all die...",
+    "trx": "Вы все умрете...",
+    "val": "You will all die..."
+  },
+  {
+    "key": "You will become trash...",
+    "trx": "Вы станете мусором...",
+    "val": "You will become trash..."
+  },
+  {
+    "key": "That’s what the mysterious voice had said.",
+    "trx": "Вот что сказал таинственный голос.",
+    "val": "That’s what the mysterious voice had said."
+  },
+  {
+    "key": "Given the murderous vibes Big Joe had felt at the scene of the explosion, and the threatening voice, there was only one logical conclusion.",
+    "trx": "Учитывая убийственные флюиды, которые Большой Джо почувствовал на месте взрыва, и угрожающий голос, напрашивался только один логический вывод.",
+    "val": "Given the murderous vibes Big Joe had felt at the scene of the explosion, and the threatening voice, there was only one logical conclusion."
+  },
+  {
+    "key": "“There’s no doubt about it,” Mean Clean said. ",
+    "trx": "“В этом нет никаких сомнений\", - сказал Злой Чистый. ",
+    "val": "“There’s no doubt about it,” Mean Clean said. "
+  },
+  {
+    "key": "“Someone out there is trying to kill me. ",
+    "trx": "“Кто-то там пытается убить меня. ",
+    "val": "“Someone out there is trying to kill me. "
+  },
+  {
+    "key": "No—",
+    "trx": "Нет—",
+    "val": "No—"
+  },
+  {
+    "key": "trying to kill ",
+    "trx": "пытающийся убить ",
+    "val": "trying to kill "
+  },
+  {
+    "key": "us",
+    "trx": "нам",
+    "val": "us"
+  },
+  {
+    "key": ".” ",
+    "trx": ".” ",
+    "val": ".” "
+  },
+  {
+    "key": "He stared fixedly up into the sky.",
+    "trx": "Он пристально смотрел в небо.",
+    "val": "He stared fixedly up into the sky."
+  },
+  {
+    "key": "Afraid that they’d be attacked by the green thing again, Mean Clean and his companions decided to relocate.",
+    "trx": "Опасаясь, что на них снова нападет зеленая тварь, Злой Чистюля и его спутники решили переехать.",
+    "val": "Afraid that they’d be attacked by the green thing again, Mean Clean and his companions decided to relocate."
+  },
+  {
+    "key": "They needed a place with good visibility, so they couldn’t be taken unawares.",
+    "trx": "Им нужно было место с хорошей видимостью, чтобы их нельзя было застать врасплох.",
+    "val": "They needed a place with good visibility, so they couldn’t be taken unawares."
+  },
+  {
+    "key": "Someplace open, with a view in all directions—",
+    "trx": "Где-нибудь на открытом месте, с видом во всех направлениях—",
+    "val": "Someplace open, with a view in all directions—"
+  },
+  {
+    "key": "someplace like the roof of a building.",
+    "trx": "где-нибудь, например, на крыше здания.",
+    "val": "someplace like the roof of a building."
+  },
+  {
+    "key": ",\\",
+    "trx": ",\\",
+    "val": ",\\"
+  },
+  {
+    "key": "Fifteen minutes had passed since Hooch was carried off by the green thing.",
+    "trx": "Прошло пятнадцать минут с тех пор, как зеленая тварь унесла Хуча.",
+    "val": "Fifteen minutes had passed since Hooch was carried off by the green thing."
+  },
+  {
+    "key": "The trio had relocated to a rooftop, where they continued to discuss their predicament.",
+    "trx": "Троица перебралась на крышу, где продолжила обсуждать свое затруднительное положение.",
+    "val": "The trio had relocated to a rooftop, where they continued to discuss their predicament."
+  },
+  {
+    "key": "“Detective Tateno, what is the meaning of this?”",
+    "trx": "“Детектив Татено, что все это значит?”",
+    "val": "“Detective Tateno, what is the meaning of this?”"
+  },
+  {
+    "key": "“Bring me Hitomi Osawa, and I’ll let this girl go.”",
+    "trx": "“Приведи мне Хитоми Осаву, и я отпущу эту девушку”.",
+    "val": "“Bring me Hitomi Osawa, and I’ll let this girl go.”"
+  },
+  {
+    "key": "“Why?! ",
+    "trx": "“Почему?! ",
+    "val": "“Why?! "
+  },
+  {
+    "key": "What do you need Hitomi for? ",
+    "trx": "Для чего тебе нужна Хитоми? ",
+    "val": "What do you need Hitomi for? "
+  },
+  {
+    "key": "This isn’t like you! ",
+    "trx": "Это на тебя не похоже! ",
+    "val": "This isn’t like you! "
+  },
+  {
+    "key": "It’s so...weird! ",
+    "trx": "Это так... странно! ",
+    "val": "It’s so...weird! "
+  },
+  {
+    "key": "The Detective Tateno who I know—”",
+    "trx": "Детектив Татено, которого я знаю...",
+    "val": "The Detective Tateno who I know—”"
+  },
+  {
+    "key": "“Man,” said Big Joe. ",
+    "trx": "“Чувак\", ” сказал Большой Джо. ",
+    "val": "“Man,” said Big Joe. "
+  },
+  {
+    "key": "“This place sure is noisy.”",
+    "trx": "“Это место действительно шумное”.",
+    "val": "“This place sure is noisy.”"
+  },
+  {
+    "key": "Not far away, two men wearing suits were having a big argument.",
+    "trx": "Неподалеку двое мужчин в костюмах сильно спорили.",
+    "val": "Not far away, two men wearing suits were having a big argument."
+  },
+  {
+    "key": "“I’m sorry.” Flaps dipped his head in apology. ",
+    "trx": "\"мне жаль.\" Закрылки опустил голову в знак извинения. ",
+    "val": "“I’m sorry.” Flaps dipped his head in apology. "
+  },
+  {
+    "key": "“I couldn’t find anyplace else that was safe.” ",
+    "trx": "“Я не мог найти другого безопасного места”. ",
+    "val": "“I couldn’t find anyplace else that was safe.” "
+  },
+  {
+    "key": "“Well, never mind,” Big Joe said. ",
+    "trx": "“Ну, не бери в голову\", ” сказал Большой Джо. ",
+    "val": "“Well, never mind,” Big Joe said. "
+  },
+  {
+    "key": "“Let’s get back to the discussion.”",
+    "trx": "“Давайте вернемся к обсуждению”.",
+    "val": "“Let’s get back to the discussion.”"
+  },
+  {
+    "key": "“Right,” Flaps replied. ",
+    "trx": "“Верно\", ” ответил Флапс. ",
+    "val": "“Right,” Flaps replied. "
+  },
+  {
+    "key": "“So what I don’t understand is what that voice said. ",
+    "trx": "“Итак, чего я не понимаю, так это того, что сказал этот голос. ",
+    "val": "“So what I don’t understand is what that voice said. "
+  },
+  {
+    "key": "Don’t you think it’s strange that it told us we would ‘become trash’?”",
+    "trx": "Тебе не кажется странным, что он сказал нам, что мы ”станем мусором\"?\"",
+    "val": "Don’t you think it’s strange that it told us we would ‘become trash’?”"
+  },
+  {
+    "key": "Big Joe nodded. ",
+    "trx": "Большой Джо кивнул. ",
+    "val": "Big Joe nodded. "
+  },
+  {
+    "key": "“That is strange. ",
+    "trx": "“Это странно. ",
+    "val": "“That is strange. "
+  },
+  {
+    "key": "I mean, we’re ",
+    "trx": "Я имею в виду, что мы ",
+    "val": "I mean, we’re "
+  },
+  {
+    "key": "already",
+    "trx": "уже",
+    "val": "already"
+  },
+  {
+    "key": " trash. ",
+    "trx": " мусор. ",
+    "val": " trash. "
+  },
+  {
+    "key": "Telling us we’re going to ",
+    "trx": "Говорит нам, что мы собираемся ",
+    "val": "Telling us we’re going to "
+  },
+  {
+    "key": "be",
+    "trx": "быть",
+    "val": "be"
+  },
+  {
+    "key": " trash doesn’t make sense.”",
+    "trx": " мусор не имеет смысла.”",
+    "val": " trash doesn’t make sense.”"
+  },
+  {
+    "key": "“Exactly.”",
+    "trx": "“Вот именно”.",
+    "val": "“Exactly.”"
+  },
+  {
+    "key": "“I know why someone’s after you though, dude,” Big Joe told Mean Clean. ",
+    "trx": "“Я знаю, почему кто-то охотится за тобой, чувак”, - сказал Большой Джо Злому Чистому. ",
+    "val": "“I know why someone’s after you though, dude,” Big Joe told Mean Clean. "
+  },
+  {
+    "key": "“Think about it: you’re the hero of Shibuya. ",
+    "trx": "“Подумай об этом: ты герой Сибуи. ",
+    "val": "“Think about it: you’re the hero of Shibuya. "
+  },
+  {
+    "key": "Bad guys always go after folks who are on the side of justice.”",
+    "trx": "Плохие парни всегда охотятся за людьми, которые на стороне справедливости”.",
+    "val": "Bad guys always go after folks who are on the side of justice.”"
+  },
+  {
+    "key": "But Mean Clean remained silent, lost in thought.",
+    "trx": "Но Подлый Чистюля молчал, погруженный в свои мысли.",
+    "val": "But Mean Clean remained silent, lost in thought."
+  },
+  {
+    "key": "You who circle back around,",
+    "trx": "Ты, кто кружит вокруг да около,",
+    "val": "You who circle back around,"
+  },
+  {
+    "key": "who bear the seal...",
+    "trx": "которые носят печать...",
+    "val": "who bear the seal..."
+  },
+  {
+    "key": "You who circle back around.",
+    "trx": "Ты, кто кружит вокруг да около.",
+    "val": "You who circle back around."
+  },
+  {
+    "key": "Who bear the seal.",
+    "trx": "Которые носят печать.",
+    "val": "Who bear the seal."
+  },
+  {
+    "key": "What did that mean?",
+    "trx": "Что это значило?",
+    "val": "What did that mean?"
+  },
+  {
+    "key": "Those phrases had to refer to them, somehow.",
+    "trx": "Эти фразы должны были как-то относиться к ним.",
+    "val": "Those phrases had to refer to them, somehow."
+  },
+  {
+    "key": "Big Joe.",
+    "trx": "Большой Джо.",
+    "val": "Big Joe."
+  },
+  {
+    "key": "Flaps.",
+    "trx": "Закрылки.",
+    "val": "Flaps."
+  },
+  {
+    "key": "Hooch.",
+    "trx": "Самогон.",
+    "val": "Hooch."
+  },
+  {
+    "key": "Mean Clean.",
+    "trx": "Имею в виду Чистоту.",
+    "val": "Mean Clean."
+  },
+  {
+    "key": "What did the four of them have in common?",
+    "trx": "Что общего было у них четверых?",
+    "val": "What did the four of them have in common?"
+  },
+  {
+    "key": "“Please, stop this!”",
+    "trx": "“Пожалуйста, прекрати это!”",
+    "val": "“Please, stop this!”"
+  },
+  {
+    "key": "“Hurry up! Bring Hitomi to me!”",
+    "trx": "“Поторопись! Приведи ко мне Хитоми!”",
+    "val": "“Hurry up! Bring Hitomi to me!”"
+  },
+  {
+    "key": "“Can’t you at least tell me what’s going on?!”",
+    "trx": "“Ты не можешь хотя бы сказать мне, что происходит?!”",
+    "val": "“Can’t you at least tell me what’s going on?!”"
+  },
+  {
+    "key": "“Go now or so help me I’ll shoot!”",
+    "trx": "“Иди сейчас же, или помоги мне, я буду стрелять!”",
+    "val": "“Go now or so help me I’ll shoot!”"
+  },
+  {
+    "key": "The back-and-forth between the two humans seemed to be approaching some sort of climax.",
+    "trx": "Перепалка между двумя людьми, казалось, приближалась к какой-то кульминации.",
+    "val": "The back-and-forth between the two humans seemed to be approaching some sort of climax."
+  },
+  {
+    "key": "“Dammit. ",
+    "trx": "“Черт возьми. ",
+    "val": "“Dammit. "
+  },
+  {
+    "key": "Those guys are so loud. ",
+    "trx": "Эти парни такие громкие. ",
+    "val": "Those guys are so loud. "
+  },
+  {
+    "key": "And I was just on the verge of a flash of insight.” ",
+    "trx": "И я как раз был на грани озарения\". ",
+    "val": "And I was just on the verge of a flash of insight.” "
+  },
+  {
+    "key": "Mean Clean gritted his teeth as he glared at the ",
+    "trx": "Злой Чистюля стиснул зубы, пристально глядя на ",
+    "val": "Mean Clean gritted his teeth as he glared at the "
+  },
+  {
+    "key": "men",
+    "trx": "мужчины",
+    "val": "men"
+  },
+  {
+    "key": ".",
+    "trx": ".",
+    "val": "."
+  },
+  {
+    "key": "“Hey—is that it?!” ",
+    "trx": "\"Эй, это все?!” ",
+    "val": "“Hey—is that it?!” "
+  },
+  {
+    "key": "Big Joe cried out, pointing at an elliptical object in the sky. ",
+    "trx": "Большой Джо закричал, указывая на эллиптический объект в небе. ",
+    "val": "Big Joe cried out, pointing at an elliptical object in the sky. "
+  },
+  {
+    "key": "“Is that the thing that attacked Hooch?”",
+    "trx": "“Это та тварь, которая напала на Хуча?”",
+    "val": "“Is that the thing that attacked Hooch?”"
+  },
+  {
+    "key": "Mean Clean and Flaps looked where he was pointing.",
+    "trx": "Значит, Чисто, и Закрылки посмотрели туда, куда он указывал.",
+    "val": "Mean Clean and Flaps looked where he was pointing."
+  },
+  {
+    "key": "But right away ",
+    "trx": "Но сразу же ",
+    "val": "But right away "
+  },
+  {
+    "key": "they shook their heads and slumped their shoulders in disappointment.",
+    "trx": "они покачали головами и разочарованно опустили плечи.",
+    "val": "they shook their heads and slumped their shoulders in disappointment."
+  },
+  {
+    "key": "“Nah,” Flaps said. ",
+    "trx": "“Не-а\", ” сказал Флапс. ",
+    "val": "“Nah,” Flaps said. "
+  },
+  {
+    "key": "“That’s just a blimp.”",
+    "trx": "“Это всего лишь дирижабль”.",
+    "val": "“That’s just a blimp.”"
+  },
+  {
+    "key": "“A blimp?”",
+    "trx": "“Дирижабль?”",
+    "val": "“A blimp?”"
+  },
+  {
+    "key": "“A big flying advertisement, basically,” Flaps explained proudly. ",
+    "trx": "“По сути, большая летающая реклама”, - гордо объяснил Флапс. ",
+    "val": "“A big flying advertisement, basically,” Flaps explained proudly. "
+  },
+  {
+    "key": "“They float through the skies above the city, promoting things.”",
+    "trx": "“Они парят в небе над городом, продвигая что-то”.",
+    "val": "“They float through the skies above the city, promoting things.”"
+  },
+  {
+    "key": "Big Joe went red in the face.",
+    "trx": "Большой Джо покраснел лицом.",
+    "val": "Big Joe went red in the face."
+  },
+  {
+    "key": "“Hmph. I knew that. ",
+    "trx": "“Хм. Я знал это. ",
+    "val": "“Hmph. I knew that. "
+  },
+  {
+    "key": "Don’t act all superior just ‘cause you know stuff.”",
+    "trx": "Не изображай из себя превосходство только потому, что ты кое-что знаешь.”",
+    "val": "Don’t act all superior just ‘cause you know stuff.”"
+  },
+  {
+    "key": "“I wasn’t acting superior.”",
+    "trx": "“Я не вел себя высокомерно\".",
+    "val": "“I wasn’t acting superior.”"
+  },
+  {
+    "key": "“Shut up, you wimp.”",
+    "trx": "“Заткнись, слабак”.",
+    "val": "“Shut up, you wimp.”"
+  },
+  {
+    "key": "“Wimp?” Flaps exclaimed. ",
+    "trx": "“Слабак?” - воскликнул Флапс. ",
+    "val": "“Wimp?” Flaps exclaimed. "
+  },
+  {
+    "key": "“You know, there are some things it’s just not nice to say!”",
+    "trx": "“Знаешь, есть некоторые вещи, которые просто нехорошо говорить!”",
+    "val": "“You know, there are some things it’s just not nice to say!”"
+  },
+  {
+    "key": "“What’s with you? ",
+    "trx": "“Что с тобой? ",
+    "val": "“What’s with you? "
+  },
+  {
+    "key": "Acting all high and mighty. You’re just paper!”",
+    "trx": "Ведет себя так высокомерно и властно. Ты просто бумага!”",
+    "val": "Acting all high and mighty. You’re just paper!”"
+  },
+  {
+    "key": "“Pulp! I’m made of pulp, technically speaking!” ",
+    "trx": "“Мякоть! Технически говоря, я сделан из мякоти!” ",
+    "val": "“Pulp! I’m made of pulp, technically speaking!” "
+  },
+  {
+    "key": "As the two argued, Mean Clean’s mind wandered.",
+    "trx": "Пока эти двое спорили, мысли Скупердяя блуждали.",
+    "val": "As the two argued, Mean Clean’s mind wandered."
+  },
+  {
+    "key": "You who bear the seal.",
+    "trx": "Ты, носящий печать.",
+    "val": "You who bear the seal."
+  },
+  {
+    "key": "You who bear the seal...",
+    "trx": "Ты, носящий печать...",
+    "val": "You who bear the seal..."
+  },
+  {
+    "key": "What in the world did it mean?",
+    "trx": "Что, черт возьми, это значило?",
+    "val": "What in the world did it mean?"
+  },
+  {
+    "key": "He felt like he was overlooking something important.",
+    "trx": "Ему казалось, что он упускает из виду что-то важное.",
+    "val": "He felt like he was overlooking something important."
+  },
+  {
+    "key": "A mark...a seal.",
+    "trx": "Знак... печать.",
+    "val": "A mark...a seal."
+  },
+  {
+    "key": "What did it mean?",
+    "trx": "Что это значило?",
+    "val": "What did it mean?"
+  },
+  {
+    "key": "“Bah,” huffed Big Joe. ",
+    "trx": "“Ба\", ” фыркнул Большой Джо. ",
+    "val": "“Bah,” huffed Big Joe. "
+  },
+  {
+    "key": "“Don’t try and act like you’re anything more than a dumb kid.”",
+    "trx": "“Не пытайся вести себя так, будто ты нечто большее, чем тупой ребенок\".",
+    "val": "“Don’t try and act like you’re anything more than a dumb kid.”"
+  },
+  {
+    "key": "“Hey! ",
+    "trx": "- эй! ",
+    "val": "“Hey! "
+  },
+  {
+    "key": "You know, Big Joe, it might do you some good to learn a little more about the world, if you want to get by.”",
+    "trx": "Знаешь, Большой Джо, тебе может быть полезно узнать немного больше об этом мире, если ты хочешь выжить.”",
+    "val": "You know, Big Joe, it might do you some good to learn a little more about the world, if you want to get by.”"
+  },
+  {
+    "key": "The two were still at it, harder than ever now.",
+    "trx": "Эти двое все еще занимались этим, теперь усерднее, чем когда-либо.",
+    "val": "The two were still at it, harder than ever now."
+  },
+  {
+    "key": "“All right then, smarty-pants!” Big Joe pouted. ",
+    "trx": "“Тогда ладно, умник!” Большой Джо надулся. ",
+    "val": "“All right then, smarty-pants!” Big Joe pouted. "
+  },
+  {
+    "key": "“How is that there blimp able to fly?”",
+    "trx": "“Как этот дирижабль может летать?”",
+    "val": "“How is that there blimp able to fly?”"
+  },
+  {
+    "key": "“Heh heh,” Flaps chuckled, a grin spreading across his face.",
+    "trx": "“Хе-хе”, - усмехнулся Флапс, и на его лице появилась ухмылка.",
+    "val": "“Heh heh,” Flaps chuckled, a grin spreading across his face."
+  },
+  {
+    "key": "“Allow me to explain! ",
+    "trx": "“Позвольте мне объяснить! ",
+    "val": "“Allow me to explain! "
+  },
+  {
+    "key": "That blimp is filled with a large volume of gas. ",
+    "trx": "Этот дирижабль заполнен большим объемом газа. ",
+    "val": "That blimp is filled with a large volume of gas. "
+  },
+  {
+    "key": "Specifically, a non-flammable gas called ",
+    "trx": "В частности, негорючий газ, называемый ",
+    "val": "Specifically, a non-flammable gas called "
+  },
+  {
+    "key": "helium",
+    "trx": "гелий",
+    "val": "helium"
+  },
+  {
+    "key": ". ",
+    "trx": ". ",
+    "val": ". "
+  },
+  {
+    "key": "It’s less dense than air, thus causing the blimp to float.”",
+    "trx": "Он менее плотный, чем воздух, поэтому дирижабль парит.”",
+    "val": "It’s less dense than air, thus causing the blimp to float.”"
+  },
+  {
+    "key": "“Huh? ",
+    "trx": "\"Хм? ",
+    "val": "“Huh? "
+  },
+  {
+    "key": "I don’t got a clue what you’re saying.”",
+    "trx": "Я понятия не имею, о чем ты говоришь.”",
+    "val": "I don’t got a clue what you’re saying.”"
+  },
+  {
+    "key": "“Basically, it’s filled with a gas that’s lighter than air.”",
+    "trx": "“По сути, он заполнен газом, который легче воздуха”.",
+    "val": "“Basically, it’s filled with a gas that’s lighter than air.”"
+  },
+  {
+    "key": "“What’s all this ‘gas’ stuff you’re going on about?”",
+    "trx": "“Что это за \"газовая\" чушь, о которой ты говоришь?”",
+    "val": "“What’s all this ‘gas’ stuff you’re going on about?”"
+  },
+  {
+    "key": "“Are you telling me you don’t know what gas is?” ",
+    "trx": "“Ты хочешь сказать, что не знаешь, что такое газ?” ",
+    "val": "“Are you telling me you don’t know what gas is?” "
+  },
+  {
+    "key": "Flaps blinked in disbelief.",
+    "trx": "Закрылки недоверчиво моргнули.",
+    "val": "Flaps blinked in disbelief."
+  },
+  {
+    "key": "“Helium, ",
+    "trx": "“Гелий, ",
+    "val": "“Helium, "
+  },
+  {
+    "key": "ethylene",
+    "trx": "этилен",
+    "val": "ethylene"
+  },
+  {
+    "key": ", ",
+    "trx": ", ",
+    "val": ", "
+  },
+  {
+    "key": "propane",
+    "trx": "пропан",
+    "val": "propane"
+  },
+  {
+    "key": "...",
+    "trx": "...",
+    "val": "..."
+  },
+  {
+    "key": "those are all gases that exist here on earth. ",
+    "trx": "это все газы, которые существуют здесь, на земле. ",
+    "val": "those are all gases that exist here on earth. "
+  },
+  {
+    "key": "They can be lighter than air, or flammable, and they’re used for all kinds of things.”",
+    "trx": "Они могут быть легче воздуха или легковоспламеняющимися, и их используют для самых разных целей.”",
+    "val": "They can be lighter than air, or flammable, and they’re used for all kinds of things.”"
+  },
+  {
+    "key": "Big Joe appeared to be understanding less and less; his face twisted into a grimace.",
+    "trx": "Большой Джо, казалось, понимал все меньше и меньше; его лицо исказила гримаса.",
+    "val": "Big Joe appeared to be understanding less and less; his face twisted into a grimace."
+  },
+  {
+    "key": "“Okay,” Flaps said with mock patience. “I’ll make it easy for you. You know what ",
+    "trx": "“Хорошо\", ” сказал Флапс с притворным терпением. “Я облегчу тебе задачу. Знаешь что ",
+    "val": "“Okay,” Flaps said with mock patience. “I’ll make it easy for you. You know what "
+  },
+  {
+    "key": "farts",
+    "trx": "пукает",
+    "val": "farts"
+  },
+  {
+    "key": " are, right? Well, they’re gas, too. ",
+    "trx": " есть, верно? Ну, они тоже газовые. ",
+    "val": " are, right? Well, they’re gas, too. "
+  },
+  {
+    "key": "Methane",
+    "trx": "Метан",
+    "val": "Methane"
+  },
+  {
+    "key": " gas, and—”",
+    "trx": " газ, и...”",
+    "val": " gas, and—”"
+  },
+  {
+    "key": "“Well why didn’t you say that in the first place?”",
+    "trx": "“Ну, почему ты не сказал этого в первую очередь?”",
+    "val": "“Well why didn’t you say that in the first place?”"
+  },
+  {
+    "key": "“Methane is a colorless, transparent gas that’s contained within farts, and it happens to be very flammable. ",
+    "trx": "“Метан - это бесцветный, прозрачный газ, который содержится в пердежах, и он очень легко воспламеняется. ",
+    "val": "“Methane is a colorless, transparent gas that’s contained within farts, and it happens to be very flammable. "
+  },
+  {
+    "key": "So if you were to flick on a lighter close to one of Hooch’s farts—” ",
+    "trx": "Так что, если бы ты щелкнул зажигалкой рядом с одним из пукающих Хуча...” ",
+    "val": "So if you were to flick on a lighter close to one of Hooch’s farts—” "
+  },
+  {
+    "key": "Flaps stopped abruptly with a sudden gasp of realization.",
+    "trx": "Закрылки резко остановились с внезапным вздохом осознания.",
+    "val": "Flaps stopped abruptly with a sudden gasp of realization."
+  },
+  {
+    "key": "“Ah ha! ",
+    "trx": "“Ах-ха! ",
+    "val": "“Ah ha! "
+  },
+  {
+    "key": "Yeah, that’s it.” ",
+    "trx": "Да, вот и все.” ",
+    "val": "Yeah, that’s it.” "
+  },
+  {
+    "key": "“What’s it? What’s what?” asked the coffee can.",
+    "trx": "“В чем дело? Что есть что? - спросила банка с кофе.",
+    "val": "“What’s it? What’s what?” asked the coffee can."
+  },
+  {
+    "key": "“Mean Clean! Big Joe! I figured it out!”",
+    "trx": "“Значит Чистый! Большой Джо! Я все понял!”",
+    "val": "“Mean Clean! Big Joe! I figured it out!”"
+  },
+  {
+    "key": "“Where’s this coming from all of a sudden?” Mean Clean asked, rather taken aback; ",
+    "trx": "“Откуда это вдруг взялось?” - спросил Злой Чистюля, несколько озадаченный; ",
+    "val": "“Where’s this coming from all of a sudden?” Mean Clean asked, rather taken aback; "
+  },
+  {
+    "key": "he hadn’t been listening to the conversation at all.",
+    "trx": "он вообще не прислушивался к разговору.",
+    "val": "he hadn’t been listening to the conversation at all."
+  },
+  {
+    "key": "“Let’s go back to the scene of the crime. ",
+    "trx": "“Давайте вернемся на место преступления. ",
+    "val": "“Let’s go back to the scene of the crime. "
+  },
+  {
+    "key": "I think I’ve solved the mystery of the second explosion.”",
+    "trx": "Я думаю, что разгадал тайну второго взрыва.”",
+    "val": "I think I’ve solved the mystery of the second explosion.”"
+  },
+  {
+    "key": ",\\",
+    "trx": ",\\",
+    "val": ",\\"
+  },
+  {
+    "key": "The mystery of the second explosion had been solved.",
+    "trx": "Тайна второго взрыва была разгадана.",
+    "val": "The mystery of the second explosion had been solved."
+  },
+  {
+    "key": "At Flaps’ suggestion, the three friends had returned to the site of the minivan blast.",
+    "trx": "По предложению Флэпса трое друзей вернулись на место взрыва микроавтобуса.",
+    "val": "At Flaps’ suggestion, the three friends had returned to the site of the minivan blast."
+  },
+  {
+    "key": "“Right, right. ",
+    "trx": "“Верно, верно. ",
+    "val": "“Right, right. "
+  },
+  {
+    "key": "Of course!” ",
+    "trx": "Конечно!” ",
+    "val": "Of course!” "
+  },
+  {
+    "key": "Flaps scratched his chin and nodded as he eyed the scene.",
+    "trx": "Закрылки почесал подбородок и кивнул, наблюдая за происходящим.",
+    "val": "Flaps scratched his chin and nodded as he eyed the scene."
+  },
+  {
+    "key": "“Look, just explain what’s going on here,” Mean Clean demanded.",
+    "trx": "“Послушайте, просто объясните, что здесь происходит\", - потребовал Злой Чистый.",
+    "val": "“Look, just explain what’s going on here,” Mean Clean demanded."
+  },
+  {
+    "key": "“And no big words,” added Big Joe.",
+    "trx": "“И никаких громких слов”, - добавил Большой Джо.",
+    "val": "“And no big words,” added Big Joe."
+  },
+  {
+    "key": "Flaps was too obviously enjoying his little detective act.",
+    "trx": "Флэпс слишком явно наслаждался своим маленьким детективным актом.",
+    "val": "Flaps was too obviously enjoying his little detective act."
+  },
+  {
+    "key": "“Take a look right here, if you would.” ",
+    "trx": "“Взгляните прямо сюда, если хотите”. ",
+    "val": "“Take a look right here, if you would.” "
+  },
+  {
+    "key": "Flaps pointed to the drainage ditch at the edge of the street.",
+    "trx": "Лоскуты указывали на дренажную канаву на краю улицы.",
+    "val": "Flaps pointed to the drainage ditch at the edge of the street."
+  },
+  {
+    "key": "Big Joe peered into it.",
+    "trx": "Большой Джо заглянул в него.",
+    "val": "Big Joe peered into it."
+  },
+  {
+    "key": "“Hm? ",
+    "trx": "“Хм? ",
+    "val": "“Hm? "
+  },
+  {
+    "key": "Ugh, that reeks!”",
+    "trx": "Фу, как воняет!”",
+    "val": "Ugh, that reeks!”"
+  },
+  {
+    "key": "It smelled of rotten tobacco.",
+    "trx": "Пахло гнилым табаком.",
+    "val": "It smelled of rotten tobacco."
+  },
+  {
+    "key": "“What you’re smelling is ",
+    "trx": "“То, что ты чувствуешь, это ",
+    "val": "“What you’re smelling is "
+  },
+  {
+    "key": "hydrogen sulfide",
+    "trx": "сероводород",
+    "val": "hydrogen sulfide"
+  },
+  {
+    "key": ". ",
+    "trx": ". ",
+    "val": ". "
+  },
+  {
+    "key": "It’s produced and released alongside methane by food waste.”",
+    "trx": "Он образуется и выделяется вместе с метаном из пищевых отходов\".",
+    "val": "It’s produced and released alongside methane by food waste.”"
+  },
+  {
+    "key": "“What about it?”",
+    "trx": "“Что насчет этого?”",
+    "val": "“What about it?”"
+  },
+  {
+    "key": "“This place doesn’t usually smell anywhere near this bad,” Flaps explained, “but for some reason, today it’s really foul. ",
+    "trx": "“Обычно это место не пахнет так плохо, - объяснил Флапс, - но по какой-то причине сегодня здесь действительно отвратительно. ",
+    "val": "“This place doesn’t usually smell anywhere near this bad,” Flaps explained, “but for some reason, today it’s really foul. "
+  },
+  {
+    "key": "Which means—",
+    "trx": "Что означает—",
+    "val": "Which means—"
+  },
+  {
+    "key": "you’re still following me, right?”",
+    "trx": "ты все еще следишь за мной, верно?”",
+    "val": "you’re still following me, right?”"
+  },
+  {
+    "key": "The others just stood there, staring at him blankly.",
+    "trx": "Остальные просто стояли там, тупо уставившись на него.",
+    "val": "The others just stood there, staring at him blankly."
+  },
+  {
+    "key": "“Right. Anyway...",
+    "trx": "\"верно. В любом случае...",
+    "val": "“Right. Anyway..."
+  },
+  {
+    "key": "along with a large volume of hydrogen sulfide, there’s also a large volume of methane gas rising up from this ditch. ",
+    "trx": "наряду с большим объемом сероводорода, из этой канавы также поднимается большой объем газообразного метана. ",
+    "val": "along with a large volume of hydrogen sulfide, there’s also a large volume of methane gas rising up from this ditch. "
+  },
+  {
+    "key": "So what happened, you see, is that flammable methane from here was ignited by flames from the minivan explosion, triggering a second explosion.”",
+    "trx": "Итак, вы видите, что произошло, так это то, что горючий метан отсюда воспламенился пламенем от взрыва микроавтобуса, вызвав второй взрыв.”",
+    "val": "So what happened, you see, is that flammable methane from here was ignited by flames from the minivan explosion, triggering a second explosion.”"
+  },
+  {
+    "key": "The others just stood there, staring at him even ",
+    "trx": "Остальные просто стояли там, уставившись на него, даже ",
+    "val": "The others just stood there, staring at him even "
+  },
+  {
+    "key": "more",
+    "trx": "больше",
+    "val": "more"
+  },
+  {
+    "key": " blankly.",
+    "trx": " безучастно.",
+    "val": " blankly."
+  },
+  {
+    "key": "“Now, you’re probably wondering how it is that I realized all of this...” ",
+    "trx": "“Теперь вам, наверное, интересно, как получилось, что я все это понял...” ",
+    "val": "“Now, you’re probably wondering how it is that I realized all of this...” "
+  },
+  {
+    "key": "“Hold on a minute,” ",
+    "trx": "“Подожди минутку”, ",
+    "val": "“Hold on a minute,” "
+  },
+  {
+    "key": "Mean Clean grumbled.",
+    "trx": "Подлый Чистюля проворчал.",
+    "val": "Mean Clean grumbled."
+  },
+  {
+    "key": "“If what you say is true, then it was just a coincidence that piece of windshield glass came flying at me and Achi.”",
+    "trx": "“Если то, что ты говоришь, правда, то это было просто совпадение, что кусок лобового стекла полетел в меня и Ачи”.",
+    "val": "“If what you say is true, then it was just a coincidence that piece of windshield glass came flying at me and Achi.”"
+  },
+  {
+    "key": "“Yes,” Flaps said meekly. ",
+    "trx": "“Да\", ” кротко сказал Флапс. ",
+    "val": "“Yes,” Flaps said meekly. "
+  },
+  {
+    "key": "“That’s right.”",
+    "trx": "“Это верно”.",
+    "val": "“That’s right.”"
+  },
+  {
+    "key": "“But I tell you I could ",
+    "trx": "“Но я говорю вам, что мог бы ",
+    "val": "“But I tell you I could "
+  },
+  {
+    "key": "sense",
+    "trx": "чувство",
+    "val": "sense"
+  },
+  {
+    "key": " it—someone was trying to kill me. ",
+    "trx": " это... кто—то пытался убить меня. ",
+    "val": " it—someone was trying to kill me. "
+  },
+  {
+    "key": "If this was just a coincidence, how do you explain ",
+    "trx": "Если это было просто совпадение, как вы объясните ",
+    "val": "If this was just a coincidence, how do you explain "
+  },
+  {
+    "key": "that",
+    "trx": "тот",
+    "val": "that"
+  },
+  {
+    "key": "?”",
+    "trx": "?”",
+    "val": "?”"
+  },
+  {
+    "key": "“Yeah!” Big Joe chimed in. ",
+    "trx": "“Да!” Вмешался Большой Джо. ",
+    "val": "“Yeah!” Big Joe chimed in. "
+  },
+  {
+    "key": "“See, that was bugging me about all this, too.”",
+    "trx": "“Видишь ли, это тоже беспокоило меня по поводу всего этого”.",
+    "val": "“See, that was bugging me about all this, too.”"
+  },
+  {
+    "key": "“You can’t just go around saying stuff like that, Flaps.”",
+    "trx": "“Ты не можешь просто ходить и говорить такие вещи, Хлопушки”.",
+    "val": "“You can’t just go around saying stuff like that, Flaps.”"
+  },
+  {
+    "key": "“No, uh, ",
+    "trx": "“Нет, э-э-э, ",
+    "val": "“No, uh, "
+  },
+  {
+    "key": "but I mean...” ",
+    "trx": "но я имею в виду...” ",
+    "val": "but I mean...” "
+  },
+  {
+    "key": "Flaps’ voice faltered.",
+    "trx": "Голос Флэпса дрогнул.",
+    "val": "Flaps’ voice faltered."
+  },
+  {
+    "key": "He didn’t have a good answer for Mean Clean’s question.",
+    "trx": "У него не было хорошего ответа на вопрос Злого Чистюли.",
+    "val": "He didn’t have a good answer for Mean Clean’s question."
+  },
+  {
+    "key": "For a while, the three of them stood in thought; then Mean Clean broke the silence.",
+    "trx": "Некоторое время все трое стояли в задумчивости, затем Злой Чистюля нарушил молчание.",
+    "val": "For a while, the three of them stood in thought; then Mean Clean broke the silence."
+  },
+  {
+    "key": "“So—",
+    "trx": "“Итак—",
+    "val": "“So—"
+  },
+  {
+    "key": "this may sound ridiculous, but here’s what I think,” he began.",
+    "trx": "это может показаться смешным, но вот что я думаю, - начал он.",
+    "val": "this may sound ridiculous, but here’s what I think,” he began."
+  },
+  {
+    "key": "“We’ve got Flaps’ deduction and those murderous vibes I felt. ",
+    "trx": "“У нас есть дедукция Флапса и те убийственные вибрации, которые я почувствовал. ",
+    "val": "“We’ve got Flaps’ deduction and those murderous vibes I felt. "
+  },
+  {
+    "key": "We need to think of a way to make those two things fit together. Somehow. ",
+    "trx": "Нам нужно придумать, как совместить эти две вещи. Как-то. ",
+    "val": "We need to think of a way to make those two things fit together. Somehow. "
+  },
+  {
+    "key": "If the methane gas were capable of thought...” ",
+    "trx": "Если бы газообразный метан был способен мыслить...” ",
+    "val": "If the methane gas were capable of thought...” "
+  },
+  {
+    "key": "If the methane gas were capable of thought— ",
+    "trx": "Если бы газообразный метан был способен мыслить— ",
+    "val": "If the methane gas were capable of thought— "
+  },
+  {
+    "key": "it was an idea straight out of left field. Flaps and Big Joe were dumbstruck.",
+    "trx": "это была идея прямо из левого поля. Закрылки и Большой Джо были ошеломлены.",
+    "val": "it was an idea straight out of left field. Flaps and Big Joe were dumbstruck."
+  },
+  {
+    "key": "“So you figured it out.”",
+    "trx": "“Значит, ты все понял”.",
+    "val": "“So you figured it out.”"
+  },
+  {
+    "key": "It was the voice they’d heard before.",
+    "trx": "Это был голос, который они слышали раньше.",
+    "val": "It was the voice they’d heard before."
+  },
+  {
+    "key": "This time, it sounded very close by indeed.",
+    "trx": "На этот раз он прозвучал действительно очень близко.",
+    "val": "This time, it sounded very close by indeed."
+  },
+  {
+    "key": "And yet they could see nobody else.",
+    "trx": "И все же они больше никого не видели.",
+    "val": "And yet they could see nobody else."
+  },
+  {
+    "key": "“I was the one who controlled the blast to send that glass shard hurtling toward you. ",
+    "trx": "“Я был тем, кто контролировал взрыв, чтобы отправить этот осколок стекла в тебя. ",
+    "val": "“I was the one who controlled the blast to send that glass shard hurtling toward you. "
+  },
+  {
+    "key": "But here you are, still alive...” ",
+    "trx": "Но вот ты здесь, все еще жив...” ",
+    "val": "But here you are, still alive...” "
+  },
+  {
+    "key": "“Where are you?” Mean Clean shouted.",
+    "trx": "“Где ты?” - крикнул Злой Чистюля.",
+    "val": "“Where are you?” Mean Clean shouted."
+  },
+  {
+    "key": "“You who circle back around, ",
+    "trx": "“Ты, кто кружит вокруг да около, ",
+    "val": "“You who circle back around, "
+  },
+  {
+    "key": "who bear the seal. ",
+    "trx": "которые носят печать. ",
+    "val": "who bear the seal. "
+  },
+  {
+    "key": "You will become trash...” ",
+    "trx": "Ты станешь мусором...” ",
+    "val": "You will become trash...” "
+  },
+  {
+    "key": "The voice repeated its eerie mantra.",
+    "trx": "Голос повторил свою жуткую мантру.",
+    "val": "The voice repeated its eerie mantra."
+  },
+  {
+    "key": "“Mean Clean, over here!” ",
+    "trx": "“Значит, чисто, сюда!” ",
+    "val": "“Mean Clean, over here!” "
+  },
+  {
+    "key": "Flaps shouted, pointing at the drainage ditch.",
+    "trx": "- крикнул Лоскутов, указывая на дренажную канаву.",
+    "val": "Flaps shouted, pointing at the drainage ditch."
+  },
+  {
+    "key": "Crescent-shaped eyes peered out from beneath the sewer grating.",
+    "trx": "Глаза в форме полумесяца выглядывали из-под канализационной решетки.",
+    "val": "Crescent-shaped eyes peered out from beneath the sewer grating."
+  },
+  {
+    "key": "A small green mass was lurking there, wreathed in its own foul stench.",
+    "trx": "Там скрывалась небольшая зеленая масса, окутанная собственным отвратительным зловонием.",
+    "val": "A small green mass was lurking there, wreathed in its own foul stench."
+  },
+  {
+    "key": "From the way it wriggled slimily about, there was no doubt about it: this was the thing that had snatched up Hooch in its tendril.",
+    "trx": "Судя по тому, как оно скользко извивалось, в этом не было никаких сомнений: это была та самая тварь, которая схватила Хуча своим усиком.",
+    "val": "From the way it wriggled slimily about, there was no doubt about it: this was the thing that had snatched up Hooch in its tendril."
+  },
+  {
+    "key": "“Where’s Hooch?!” Mean Clean demanded.",
+    "trx": "“Где Хуч?!” Подлый Чистый требовал.",
+    "val": "“Where’s Hooch?!” Mean Clean demanded."
+  },
+  {
+    "key": "“That doddering old fool? He made a fine meal for my prime mass.”",
+    "trx": "“Этот дряхлый старый дурак? Он приготовил прекрасную еду для моей главной мессы.”",
+    "val": "“That doddering old fool? He made a fine meal for my prime mass.”"
+  },
+  {
+    "key": "A moment later, something launched toward them from the drainage ditch.",
+    "trx": "Мгновение спустя что-то вылетело к ним из дренажной канавы.",
+    "val": "A moment later, something launched toward them from the drainage ditch."
+  },
+  {
+    "key": "It rolled to a stop on the pavement; only then did they realize that it was Hooch—or what was left of him.",
+    "trx": "Он покатился по тротуару и остановился; только тогда они поняли, что это был Хуч — или то, что от него осталось.",
+    "val": "It rolled to a stop on the pavement; only then did they realize that it was Hooch—or what was left of him."
+  },
+  {
+    "key": "“Old man, what happened to you...?” ",
+    "trx": "“Старик, что с тобой случилось?..” ",
+    "val": "“Old man, what happened to you...?” "
+  },
+  {
+    "key": "Most of his jar was gone; the roots of the plant that had been potted within him now barely managed to cling to his face, holding it together.",
+    "trx": "Большая часть его банки исчезла; корни растения, которое было в горшке внутри него, теперь едва успевали цепляться за его лицо, удерживая его вместе.",
+    "val": "Most of his jar was gone; the roots of the plant that had been potted within him now barely managed to cling to his face, holding it together."
+  },
+  {
+    "key": "He was on death’s door.",
+    "trx": "Он был на пороге смерти.",
+    "val": "He was on death’s door."
+  },
+  {
+    "key": "Mean Clean stared daggers at the green ",
+    "trx": "Подлый Чистюля уставился кинжалами в зеленый ",
+    "val": "Mean Clean stared daggers at the green "
+  },
+  {
+    "key": "thing",
+    "trx": "вещь",
+    "val": "thing"
+  },
+  {
+    "key": ". ",
+    "trx": ". ",
+    "val": ". "
+  },
+  {
+    "key": "“Why are you after me? ",
+    "trx": "“Почему ты преследуешь меня? ",
+    "val": "“Why are you after me? "
+  },
+  {
+    "key": "No, after us?!”",
+    "trx": "Нет, после нас?!”",
+    "val": "No, after us?!”"
+  },
+  {
+    "key": "“Do you ask yourself why you eat before each and every meal?” the thing demanded, ",
+    "trx": "“Ты спрашиваешь себя, почему ты ешь перед каждым приемом пищи?” - требовало существо, ",
+    "val": "“Do you ask yourself why you eat before each and every meal?” the thing demanded, "
+  },
+  {
+    "key": "its tone dismissive.",
+    "trx": "его тон пренебрежительный.",
+    "val": "its tone dismissive."
+  },
+  {
+    "key": "“Eating what one wishes to eat is only natural. ",
+    "trx": "“Есть то, что хочется есть, вполне естественно. ",
+    "val": "“Eating what one wishes to eat is only natural. "
+  },
+  {
+    "key": "Those who circle back around, those who bear the seal—they are little more than a nuisance, ",
+    "trx": "Те, кто кружит вокруг да около, те, кто носит печать — они не более чем досадная помеха, ",
+    "val": "Those who circle back around, those who bear the seal—they are little more than a nuisance, "
+  },
+  {
+    "key": "as far as our plan is concerned.”",
+    "trx": "что касается нашего плана.”",
+    "val": "as far as our plan is concerned.”"
+  },
+  {
+    "key": "“Plan...?”",
+    "trx": "\"План?..”",
+    "val": "“Plan...?”"
+  },
+  {
+    "key": "“To cover this world in garbage. ",
+    "trx": "“Чтобы покрыть этот мир мусором. ",
+    "val": "“To cover this world in garbage. "
+  },
+  {
+    "key": "To consume more and more, producing ever more waste. ",
+    "trx": "Потреблять все больше и больше, производя все больше отходов. ",
+    "val": "To consume more and more, producing ever more waste. "
+  },
+  {
+    "key": "We will forge a world where the words ‘Reduce, Reuse, Recycle’ are heard no more. ",
+    "trx": "Мы создадим мир, в котором больше не будут звучать слова \"Сокращать, повторно использовать, перерабатывать\". ",
+    "val": "We will forge a world where the words ‘Reduce, Reuse, Recycle’ are heard no more. "
+  },
+  {
+    "key": "Even you so-called ‘reusables’ will be discarded; you will become trash in the truest sense. ",
+    "trx": "Даже вы, так называемые \"предметы многократного использования\", будете выброшены; вы станете мусором в прямом смысле этого слова. ",
+    "val": "Even you so-called ‘reusables’ will be discarded; you will become trash in the truest sense. "
+  },
+  {
+    "key": "You will become one with us. ",
+    "trx": "Вы станете единым целым с нами. ",
+    "val": "You will become one with us. "
+  },
+  {
+    "key": "Be thankful.”",
+    "trx": "Будь благодарен”.",
+    "val": "Be thankful.”"
+  },
+  {
+    "key": "The green thing snickered and flashed a set of jagged teeth. ",
+    "trx": "Зеленое существо хихикнуло и сверкнуло рядом неровных зубов. ",
+    "val": "The green thing snickered and flashed a set of jagged teeth. "
+  },
+  {
+    "key": "“Resist all you like; you are doomed to fail. ",
+    "trx": "“Сопротивляйся сколько хочешь; ты обречен на неудачу. ",
+    "val": "“Resist all you like; you are doomed to fail. "
+  },
+  {
+    "key": "As long as rotten food waste exists, we will proliferate and grow.”",
+    "trx": "Пока существуют гнилые пищевые отходы, мы будем размножаться и расти”.",
+    "val": "As long as rotten food waste exists, we will proliferate and grow.”"
+  },
+  {
+    "key": "The green thing slowly began to emerge from the sewer drain. ",
+    "trx": "Зеленая штука медленно начала вылезать из канализационного стока. ",
+    "val": "The green thing slowly began to emerge from the sewer drain. "
+  },
+  {
+    "key": "“My prime mass is steadily expanding, devouring the trash strewn about the city. ",
+    "trx": "“Моя основная масса неуклонно растет, поглощая мусор, разбросанный по городу. ",
+    "val": "“My prime mass is steadily expanding, devouring the trash strewn about the city. "
+  },
+  {
+    "key": "Eventually, we shall engulf all of Shibuya, enveloping it in death and decay!”",
+    "trx": "В конце концов, мы поглотим всю Сибую, окутав ее смертью и разложением!”",
+    "val": "Eventually, we shall engulf all of Shibuya, enveloping it in death and decay!”"
+  },
+  {
+    "key": "Big Joe and Flaps drew in closer to Mean Clean.",
+    "trx": "Большой Джо и Закрылки подошли ближе, чтобы обозначить Чистоту.",
+    "val": "Big Joe and Flaps drew in closer to Mean Clean."
+  },
+  {
+    "key": "He spread his arms wide to shield them.",
+    "trx": "Он широко раскинул руки, чтобы защитить их.",
+    "val": "He spread his arms wide to shield them."
+  },
+  {
+    "key": "Colorless blood dribbled from his hastily bandaged injury.",
+    "trx": "Бесцветная кровь сочилась из его наспех перевязанной раны.",
+    "val": "Colorless blood dribbled from his hastily bandaged injury."
+  },
+  {
+    "key": "“Mwahahaha,” the rotten thing laughed. ",
+    "trx": "“Мвахахаха\", ” засмеялась гнилая тварь. ",
+    "val": "“Mwahahaha,” the rotten thing laughed. "
+  },
+  {
+    "key": "“You think you can fight me in your condition? ",
+    "trx": "“Ты думаешь, что сможешь сразиться со мной в твоем состоянии? ",
+    "val": "“You think you can fight me in your condition? "
+  },
+  {
+    "key": "You can barely stand!”",
+    "trx": "Ты едва можешь стоять!”",
+    "val": "You can barely stand!”"
+  },
+  {
+    "key": "The thing was right.",
+    "trx": "Все было правильно.",
+    "val": "The thing was right."
+  },
+  {
+    "key": "Once he had lost all of his water, Mean Clean would die.",
+    "trx": "Как только он потеряет всю свою воду, Значит, Чистый умрет.",
+    "val": "Once he had lost all of his water, Mean Clean would die."
+  },
+  {
+    "key": "If he tried to fight this monstrosity now, he would never survive.",
+    "trx": "Если бы он попытался сейчас сразиться с этим чудовищем, то никогда бы не выжил.",
+    "val": "If he tried to fight this monstrosity now, he would never survive."
+  },
+  {
+    "key": "“You three will make a tasty snack. ",
+    "trx": "“Вы трое приготовите вкусную закуску. ",
+    "val": "“You three will make a tasty snack. "
+  },
+  {
+    "key": "Time to die!” ",
+    "trx": "Время умирать!” ",
+    "val": "Time to die!” "
+  },
+  {
+    "key": "And with that, the green thing rushed toward Mean Clean and his friends.",
+    "trx": "И с этими словами зеленая тварь бросилась к Злому Чистому и его друзьям.",
+    "val": "And with that, the green thing rushed toward Mean Clean and his friends."
+  },
+  {
+    "key": "“Mwuhuhuphuphuphup!” ",
+    "trx": "“Мвухухупхупхупхуп!” ",
+    "val": "“Mwuhuhuphuphuphup!” "
+  },
+  {
+    "key": "“Eeeeeeeeeeek!”",
+    "trx": "“Иииииииик!”",
+    "val": "“Eeeeeeeeeeek!”"
+  },
+  {
+    "key": "Flaps shrieked.",
+    "trx": "Завизжали закрылки.",
+    "val": "Flaps shrieked."
+  },
+  {
+    "key": "Suddenly, with a sound like a watermelon splitting, the green mass disintegrated into tiny bits.",
+    "trx": "Внезапно, со звуком, похожим на треск раскалывающегося арбуза, зеленая масса распалась на мелкие кусочки.",
+    "val": "Suddenly, with a sound like a watermelon splitting, the green mass disintegrated into tiny bits."
+  },
+  {
+    "key": "In the blink of an eye, the bits had all dispersed into the air.",
+    "trx": "В мгновение ока все осколки разлетелись в воздухе.",
+    "val": "In the blink of an eye, the bits had all dispersed into the air."
+  },
+  {
+    "key": "“Whoa!” Big Joe blurted. ",
+    "trx": "“Ух ты!” - выпалил Большой Джо. ",
+    "val": "“Whoa!” Big Joe blurted. "
+  },
+  {
+    "key": "“What the heck just happened?!” ",
+    "trx": "“Что, черт возьми, только что произошло?!” ",
+    "val": "“What the heck just happened?!” "
+  },
+  {
+    "key": "His voice was trembling.",
+    "trx": "Его голос дрожал.",
+    "val": "His voice was trembling."
+  },
+  {
+    "key": "He looked around in bewilderment.",
+    "trx": "Он в замешательстве огляделся.",
+    "val": "He looked around in bewilderment."
+  },
+  {
+    "key": "“Juice...",
+    "trx": "“Сок...",
+    "val": "“Juice..."
+  },
+  {
+    "key": "Juice, is that you?” Mean Clean called out.",
+    "trx": "Джус, это ты?” - крикнул Злой Чистюля.",
+    "val": "Juice, is that you?” Mean Clean called out."
+  },
+  {
+    "key": "On the rooftop of the building across the way, something glimmered in the afternoon light.",
+    "trx": "На крыше здания напротив что-то мерцало в послеполуденном свете.",
+    "val": "On the rooftop of the building across the way, something glimmered in the afternoon light."
+  },
+  {
+    "key": "They saw a bottle body, clad in a trench coat.",
+    "trx": "Они увидели тело бутылки, одетое в плащ.",
+    "val": "They saw a bottle body, clad in a trench coat."
+  },
+  {
+    "key": "Thick eyebrows jutted above a pair of sunglasses.",
+    "trx": "Густые брови нависали над парой солнцезащитных очков.",
+    "val": "Thick eyebrows jutted above a pair of sunglasses."
+  },
+  {
+    "key": "Mean Clean knew the figure well. Long ago, he had aided in the fight against the vegetable cult.",
+    "trx": "Подлый Чистюля хорошо знал эту фигуру. Давным-давно он помогал в борьбе с культом овощей.",
+    "val": "Mean Clean knew the figure well. Long ago, he had aided in the fight against the vegetable cult."
+  },
+  {
+    "key": "“Juice Malone...",
+    "trx": "“Джус Мэлоун...",
+    "val": "“Juice Malone..."
+  },
+  {
+    "key": "the legendary sniper...” ",
+    "trx": "легендарный снайпер...” ",
+    "val": "the legendary sniper...” "
+  },
+  {
+    "key": "Juice’s sunglasses flashed in the light once more, ",
+    "trx": "Солнечные очки Джуса снова блеснули на свету, ",
+    "val": "Juice’s sunglasses flashed in the light once more, "
+  },
+  {
+    "key": "then he whirled around, and vanished from sight.",
+    "trx": "затем он развернулся и исчез из виду.",
+    "val": "then he whirled around, and vanished from sight."
+  },
+  {
+    "key": "“Old man!”",
+    "trx": "“Старик!”",
+    "val": "“Old man!”"
+  },
+  {
+    "key": "Mean Clean and the others rushed over to Hooch’s fallen form on the pavement.",
+    "trx": "Злой Чистюля и остальные бросились к упавшему на тротуар телу Хуча.",
+    "val": "Mean Clean and the others rushed over to Hooch’s fallen form on the pavement."
+  },
+  {
+    "key": "“Hey, hang in there!”",
+    "trx": "“Эй, держись там!”",
+    "val": "“Hey, hang in there!”"
+  },
+  {
+    "key": "“Mean Clean...is that you?” ",
+    "trx": "“Имею в виду Clean...is это ты?” ",
+    "val": "“Mean Clean...is that you?” "
+  },
+  {
+    "key": "Hooch’s voice was dry and raspy. ",
+    "trx": "Голос Хуча был сухим и скрипучим. ",
+    "val": "Hooch’s voice was dry and raspy. "
+  },
+  {
+    "key": "“I’m done for...” ",
+    "trx": "\"С меня хватит...” ",
+    "val": "“I’m done for...” "
+  },
+  {
+    "key": "“Don’t say that!”",
+    "trx": "“Не говори так!”",
+    "val": "“Don’t say that!”"
+  },
+  {
+    "key": "“It’s all right. ",
+    "trx": "“Все в порядке. ",
+    "val": "“It’s all right. "
+  },
+  {
+    "key": "I know my body better than anyone.” ",
+    "trx": "Я знаю свое тело лучше, чем кто-либо другой”. ",
+    "val": "I know my body better than anyone.” "
+  },
+  {
+    "key": "They gazed at him solemnly. ",
+    "trx": "Они серьезно посмотрели на него. ",
+    "val": "They gazed at him solemnly. "
+  },
+  {
+    "key": "It was remarkable that he had lived this long, given his grievous injuries.",
+    "trx": "Удивительно, что он прожил так долго, учитывая его тяжелые травмы.",
+    "val": "It was remarkable that he had lived this long, given his grievous injuries."
+  },
+  {
+    "key": "“Mean Clean...there is...something I need to tell you...” ",
+    "trx": "“Значит, Чисто... есть... кое-что, что я должен тебе сказать...” ",
+    "val": "“Mean Clean...there is...something I need to tell you...” "
+  },
+  {
+    "key": "Hooch struggled to get the words out.",
+    "trx": "Хуч с трудом выдавил из себя эти слова.",
+    "val": "Hooch struggled to get the words out."
+  },
+  {
+    "key": "Mean Clean nodded. ",
+    "trx": "Подлый Чистюля кивнул. ",
+    "val": "Mean Clean nodded. "
+  },
+  {
+    "key": "“I’d been wondering what you were going to say earlier.”",
+    "trx": "“Мне было интересно, что ты собирался сказать раньше”.",
+    "val": "“I’d been wondering what you were going to say earlier.”"
+  },
+  {
+    "key": "Hooch nodded weakly.",
+    "trx": "Хуч слабо кивнул.",
+    "val": "Hooch nodded weakly."
+  },
+  {
+    "key": "“Mmm. Now, listen well. ",
+    "trx": "“Ммм. А теперь слушай внимательно. ",
+    "val": "“Mmm. Now, listen well. "
+  },
+  {
+    "key": "Mean Clean, ",
+    "trx": "Значит Чистый, ",
+    "val": "Mean Clean, "
+  },
+  {
+    "key": "you...” ",
+    "trx": "ты...” ",
+    "val": "you...” "
+  },
+  {
+    "key": "Mean Clean held his breath.",
+    "trx": "Злой Чистюля затаил дыхание.",
+    "val": "Mean Clean held his breath."
+  },
+  {
+    "key": "“There’s a hole in your stomach.” ",
+    "trx": "“У тебя дыра в животе”. ",
+    "val": "“There’s a hole in your stomach.” "
+  },
+  {
+    "key": "“Yeah.”",
+    "trx": "“да”.",
+    "val": "“Yeah.”"
+  },
+  {
+    "key": "“Which means...",
+    "trx": "“Что означает...",
+    "val": "“Which means..."
+  },
+  {
+    "key": "there’s a hole in your stomach.” ",
+    "trx": "у тебя в животе дыра.” ",
+    "val": "there’s a hole in your stomach.” "
+  },
+  {
+    "key": "“I know that. ",
+    "trx": "“Я знаю это. ",
+    "val": "“I know that. "
+  },
+  {
+    "key": "And?”",
+    "trx": "И?”",
+    "val": "And?”"
+  },
+  {
+    "key": "“No, ",
+    "trx": "“Нет, ",
+    "val": "“No, "
+  },
+  {
+    "key": "I just mean...",
+    "trx": "Я просто имею в виду...",
+    "val": "I just mean..."
+  },
+  {
+    "key": "what I’m trying to say is...",
+    "trx": "то, что я пытаюсь сказать, это...",
+    "val": "what I’m trying to say is..."
+  },
+  {
+    "key": "you have a hole in your stomach...” ",
+    "trx": "у тебя дыра в животе...” ",
+    "val": "you have a hole in your stomach...” "
+  },
+  {
+    "key": "A long silence fell.",
+    "trx": "Наступило долгое молчание.",
+    "val": "A long silence fell."
+  },
+  {
+    "key": "Hooch quietly breathed his last.",
+    "trx": "Хуч тихо испустил дух.",
+    "val": "Hooch quietly breathed his last."
+  },
+  {
+    "key": "In the aftermath of Hooch’s passing, Mean Clean and the others decided that they had to take action.",
+    "trx": "После кончины Хуча Mean Clean и остальные решили, что они должны принять меры.",
+    "val": "In the aftermath of Hooch’s passing, Mean Clean and the others decided that they had to take action."
+  },
+  {
+    "key": "If the “prime mass” of the green monstrosity was growing by eating trash around the city, they’d just have to gather up as much trash as possible.",
+    "trx": "Если бы “основная масса” зеленого чудовища росла за счет поедания мусора по всему городу, им просто нужно было бы собрать как можно больше мусора.",
+    "val": "If the “prime mass” of the green monstrosity was growing by eating trash around the city, they’d just have to gather up as much trash as possible."
+  },
+  {
+    "key": "That should halt the thing’s growth, reducing the threat it posed to everyone.",
+    "trx": "Это должно остановить рост этой штуки, уменьшив угрозу, которую она представляла для всех.",
+    "val": "That should halt the thing’s growth, reducing the threat it posed to everyone."
+  },
+  {
+    "key": "They would need a safe place to dispose of the trash once they’d collected it, but they didn’t have time to think that far ahead right now.",
+    "trx": "Им понадобится безопасное место, чтобы избавиться от мусора, как только они его соберут, но сейчас у них не было времени думать так далеко вперед.",
+    "val": "They would need a safe place to dispose of the trash once they’d collected it, but they didn’t have time to think that far ahead right now."
+  },
+  {
+    "key": "At the moment, they just needed to pick up as much trash as they could.",
+    "trx": "В данный момент им просто нужно было собрать как можно больше мусора.",
+    "val": "At the moment, they just needed to pick up as much trash as they could."
+  },
+  {
+    "key": "Yoyogi.",
+    "trx": "Йойоги.",
+    "val": "Yoyogi."
+  },
+  {
+    "key": "Harajuku.",
+    "trx": "Харадзюку.",
+    "val": "Harajuku."
+  },
+  {
+    "key": "Ebisu.",
+    "trx": "Эбису.",
+    "val": "Ebisu."
+  },
+  {
+    "key": "Daikanyama.",
+    "trx": "Дайканьяма.",
+    "val": "Daikanyama."
+  },
+  {
+    "key": "Shoto.",
+    "trx": "Шото.",
+    "val": "Shoto."
+  },
+  {
+    "key": "Then, in the midst of their trash-collecting expedition, Big Joe suddenly halted in his tracks.",
+    "trx": "Затем, в разгар их экспедиции по сбору мусора, Большой Джо внезапно остановился как вкопанный.",
+    "val": "Then, in the midst of their trash-collecting expedition, Big Joe suddenly halted in his tracks."
+  },
+  {
+    "key": "“Dude! This place is a café, right?” he cried out in excitement, staring at a nearby building. ",
+    "trx": "“Чувак! Это место - кафе, верно?” он вскрикнул от волнения, уставившись на соседнее здание. ",
+    "val": "“Dude! This place is a café, right?” he cried out in excitement, staring at a nearby building. "
+  },
+  {
+    "key": "“There’s something I’ve always wanted to do at a café!”",
+    "trx": "“Есть кое-что, чем я всегда хотел заняться в кафе!”",
+    "val": "“There’s something I’ve always wanted to do at a café!”"
+  },
+  {
+    "key": "“What are you on about now?” ",
+    "trx": "“О чем ты сейчас говоришь?” ",
+    "val": "“What are you on about now?” "
+  },
+  {
+    "key": "Flaps let out a weary sigh. ",
+    "trx": "Закрылки устало вздохнули. ",
+    "val": "Flaps let out a weary sigh. "
+  },
+  {
+    "key": "“I don’t think this is really the time.”",
+    "trx": "“Я не думаю, что сейчас действительно подходящее время”.",
+    "val": "“I don’t think this is really the time.”"
+  },
+  {
+    "key": "“Oh, shut up, you. ",
+    "trx": "“О, заткнись, ты. ",
+    "val": "“Oh, shut up, you. "
+  },
+  {
+    "key": "I was talking to my dude here.” ",
+    "trx": "Я тут разговаривал со своим чуваком.” ",
+    "val": "I was talking to my dude here.” "
+  },
+  {
+    "key": "Big Joe turned to Mean Clean, his eyes pleading. ",
+    "trx": "Большой Джо повернулся к Злому Чистому, в его глазах была мольба. ",
+    "val": "Big Joe turned to Mean Clean, his eyes pleading. "
+  },
+  {
+    "key": "“C’mon, dude! ",
+    "trx": "“Давай, чувак! ",
+    "val": "“C’mon, dude! "
+  },
+  {
+    "key": "Please? ",
+    "trx": "Пожалуйста? ",
+    "val": "Please? "
+  },
+  {
+    "key": "Just five—",
+    "trx": "Всего пять—",
+    "val": "Just five—"
+  },
+  {
+    "key": "no, just three minutes, that’s all I need!”",
+    "trx": "нет, всего три минуты, это все, что мне нужно!”",
+    "val": "no, just three minutes, that’s all I need!”"
+  },
+  {
+    "key": "Mean Clean shrugged. ",
+    "trx": "Подлый Чистюля пожал плечами. ",
+    "val": "Mean Clean shrugged. "
+  },
+  {
+    "key": "“Knock yourself out.”",
+    "trx": "“Вырубись сам”.",
+    "val": "“Knock yourself out.”"
+  },
+  {
+    "key": "Once inside the café, Big Joe took a deep breath; he couldn’t quite hide his nerves.",
+    "trx": "Оказавшись внутри кафе, Большой Джо глубоко вздохнул; он не мог полностью скрыть свое волнение.",
+    "val": "Once inside the café, Big Joe took a deep breath; he couldn’t quite hide his nerves."
+  },
+  {
+    "key": "He looked over at a waitress busily bustling about.",
+    "trx": "Он посмотрел на деловито суетящуюся официантку.",
+    "val": "He looked over at a waitress busily bustling about."
+  },
+  {
+    "key": "“Excuse me!",
+    "trx": "“Извините меня!",
+    "val": "“Excuse me!"
+  },
+  {
+    "key": "One coffee, please!”",
+    "trx": "Один кофе, пожалуйста!”",
+    "val": "One coffee, please!”"
+  },
+  {
+    "key": "Big Joe grinned at the others. ",
+    "trx": "Большой Джо ухмыльнулся остальным. ",
+    "val": "Big Joe grinned at the others. "
+  },
+  {
+    "key": "“Man, I’ve always wanted to try coffee that wasn’t from a can.”",
+    "trx": "“Чувак, я всегда хотел попробовать кофе, который был не из банки”.",
+    "val": "“Man, I’ve always wanted to try coffee that wasn’t from a can.”"
+  },
+  {
+    "key": "The three waited patiently, but nobody brought Joe’s coffee.",
+    "trx": "Все трое терпеливо ждали, но никто не принес кофе Джо.",
+    "val": "The three waited patiently, but nobody brought Joe’s coffee."
+  },
+  {
+    "key": "“They sure are taking their sweet time,” Mean Clean grumbled.",
+    "trx": "“Они определенно не торопятся\", - проворчал Злой Чистюля.",
+    "val": "“They sure are taking their sweet time,” Mean Clean grumbled."
+  },
+  {
+    "key": "“Yes, this has been taking far too long,” Flaps said. ",
+    "trx": "“Да, это заняло слишком много времени”, - сказал Флапс. ",
+    "val": "“Yes, this has been taking far too long,” Flaps said. "
+  },
+  {
+    "key": "“Maybe she didn’t hear your order?” ",
+    "trx": "“Может быть, она не слышала вашего приказа?” ",
+    "val": "“Maybe she didn’t hear your order?” "
+  },
+  {
+    "key": "He peered at the waitress dubiously.",
+    "trx": "Он с сомнением посмотрел на официантку.",
+    "val": "He peered at the waitress dubiously."
+  },
+  {
+    "key": "“Guess you don’t have much choice,” said Mean Clean. ",
+    "trx": "“Думаю, у тебя нет особого выбора”, - сказал Злой Чистюля. ",
+    "val": "“Guess you don’t have much choice,” said Mean Clean. "
+  },
+  {
+    "key": "“You’ll have to make do with that, Big Joe.”",
+    "trx": "“Тебе придется смириться с этим, Большой Джо”.",
+    "val": "“You’ll have to make do with that, Big Joe.”"
+  },
+  {
+    "key": "“Huh?”",
+    "trx": "\"Хм?\"",
+    "val": "“Huh?”"
+  },
+  {
+    "key": "Mean Clean pointed to a pair of coffee cups that had been set out on a nearby table.",
+    "trx": "Подлый Чистюля указал на пару кофейных чашек, которые были расставлены на соседнем столе.",
+    "val": "Mean Clean pointed to a pair of coffee cups that had been set out on a nearby table."
+  },
+  {
+    "key": "A middle-aged man in glasses sat there.",
+    "trx": "Там сидел мужчина средних лет в очках.",
+    "val": "A middle-aged man in glasses sat there."
+  },
+  {
+    "key": "He was scowling, probably in a nasty mood.",
+    "trx": "Он хмурился, вероятно, в скверном настроении.",
+    "val": "He was scowling, probably in a nasty mood."
+  },
+  {
+    "key": "The other seat was empty.",
+    "trx": "Другое сиденье было пустым.",
+    "val": "The other seat was empty."
+  },
+  {
+    "key": "It looked like whoever had been sitting there had stepped away for now.",
+    "trx": "Похоже, тот, кто там сидел, на данный момент отошел в сторону.",
+    "val": "It looked like whoever had been sitting there had stepped away for now."
+  },
+  {
+    "key": "The man was engrossed with his laptop, so Big Joe seized the opportunity, hopping up on the table and bringing one of the cups to his lips.",
+    "trx": "Мужчина был поглощен своим ноутбуком, поэтому Большой Джо воспользовался возможностью, запрыгнул на стол и поднес одну из чашек к губам.",
+    "val": "The man was engrossed with his laptop, so Big Joe seized the opportunity, hopping up on the table and bringing one of the cups to his lips."
+  },
+  {
+    "key": "A bitter, dry taste filled his mouth.",
+    "trx": "Горький, сухой привкус наполнил его рот.",
+    "val": "A bitter, dry taste filled his mouth."
+  },
+  {
+    "key": "The flavor was nothing at all like that of canned coffee.",
+    "trx": "Вкус был совсем не похож на вкус консервированного кофе.",
+    "val": "The flavor was nothing at all like that of canned coffee."
+  },
+  {
+    "key": "He drained the cup in a single gulp and scampered back down from the table.",
+    "trx": "Он осушил чашку одним глотком и поспешил обратно из-за стола.",
+    "val": "He drained the cup in a single gulp and scampered back down from the table."
+  },
+  {
+    "key": "“How was it?” Mean Clean asked.",
+    "trx": "“Как это было?” - спросил Злой Чистюля.",
+    "val": "“How was it?” Mean Clean asked."
+  },
+  {
+    "key": "Big Joe had a distant look in his eyes. ",
+    "trx": "У Большого Джо был отстраненный взгляд. ",
+    "val": "Big Joe had a distant look in his eyes. "
+  },
+  {
+    "key": "“So that’s what real coffee tastes like,” he said.",
+    "trx": "“Так вот каков на вкус настоящий кофе\", ” сказал он.",
+    "val": "“So that’s what real coffee tastes like,” he said."
+  },
+  {
+    "key": "Just then, a woman returned to the empty seat, staring in consternation at her cup. ",
+    "trx": "Как раз в этот момент женщина вернулась на пустое место, в ужасе уставившись на свою чашку. ",
+    "val": "Just then, a woman returned to the empty seat, staring in consternation at her cup. "
+  },
+  {
+    "key": "“Dad! Did you drink my coffee?!”",
+    "trx": "“Папа! Ты пил мой кофе?!”",
+    "val": "“Dad! Did you drink my coffee?!”"
+  },
+  {
+    "key": "“Huh? ",
+    "trx": "\"Хм? ",
+    "val": "“Huh? "
+  },
+  {
+    "key": "Of course not.”",
+    "trx": "Конечно, нет.”",
+    "val": "Of course not.”"
+  },
+  {
+    "key": "“Well then why is my cup empty?”",
+    "trx": "“Тогда почему моя чашка пуста?”",
+    "val": "“Well then why is my cup empty?”"
+  },
+  {
+    "key": "“What?!” ",
+    "trx": "“Что?!” ",
+    "val": "“What?!” "
+  },
+  {
+    "key": "The middle-aged man looked stunned.",
+    "trx": "Мужчина средних лет выглядел ошеломленным.",
+    "val": "The middle-aged man looked stunned."
+  },
+  {
+    "key": "“Honestly! ",
+    "trx": "“Честное слово! ",
+    "val": "“Honestly! "
+  },
+  {
+    "key": "First you use my cell phone without asking. ",
+    "trx": "Сначала ты пользуешься моим мобильным телефоном без спроса. ",
+    "val": "First you use my cell phone without asking. "
+  },
+  {
+    "key": "Now you’re drinking my coffee. ",
+    "trx": "Теперь ты пьешь мой кофе. ",
+    "val": "Now you’re drinking my coffee. "
+  },
+  {
+    "key": "What are you trying to pull, Dad?”",
+    "trx": "Что ты пытаешься вытянуть, папа?”",
+    "val": "What are you trying to pull, Dad?”"
+  },
+  {
+    "key": "“Hey, hold on. ",
+    "trx": "“Эй, подожди. ",
+    "val": "“Hey, hold on. "
+  },
+  {
+    "key": "Yes, I used your phone, but I did ",
+    "trx": "Да, я воспользовался твоим телефоном, но я сделал ",
+    "val": "Yes, I used your phone, but I did "
+  },
+  {
+    "key": "not",
+    "trx": "нет",
+    "val": "not"
+  },
+  {
+    "key": " drink your coffee.”",
+    "trx": " пей свой кофе.”",
+    "val": " drink your coffee.”"
+  },
+  {
+    "key": "As the two launched into an argument, Mean Clean and his friends hurried out of the café.",
+    "trx": "Когда эти двое вступили в спор, Злой Чистюля и его друзья поспешили выйти из кафе.",
+    "val": "As the two launched into an argument, Mean Clean and his friends hurried out of the café."
+  },
+  {
+    "key": "The trio split up in order to gather litter from all across Shibuya.",
+    "trx": "Троица разделилась, чтобы собрать мусор со всей Сибуи.",
+    "val": "The trio split up in order to gather litter from all across Shibuya."
+  },
+  {
+    "key": "Garbage was lying all over the place; there wasn’t much need to search.",
+    "trx": "Повсюду валялся мусор; особой необходимости в поисках не было.",
+    "val": "Garbage was lying all over the place; there wasn’t much need to search."
+  },
+  {
+    "key": "Half-eaten slices of bread, ",
+    "trx": "Недоеденные ломтики хлеба, ",
+    "val": "Half-eaten slices of bread, "
+  },
+  {
+    "key": "half-drunk bottles of juice, ",
+    "trx": "недопитые бутылки сока, ",
+    "val": "half-drunk bottles of juice, "
+  },
+  {
+    "key": "banana peels, apple cores, ",
+    "trx": "банановая кожура, сердцевина яблока, ",
+    "val": "banana peels, apple cores, "
+  },
+  {
+    "key": "cup noodles, hamburgers, ice cream, ",
+    "trx": "чашка лапши, гамбургеры, мороженое, ",
+    "val": "cup noodles, hamburgers, ice cream, "
+  },
+  {
+    "key": "gum, candy wrappers, fried chicken, fish bones...",
+    "trx": "жвачка, фантики от конфет, жареная курица, рыбьи кости...",
+    "val": "gum, candy wrappers, fried chicken, fish bones..."
+  },
+  {
+    "key": "Everywhere they looked, there was enough to fill a trash bag in the blink of an eye.",
+    "trx": "Куда бы они ни посмотрели, везде было достаточно, чтобы в мгновение ока наполнить мешок для мусора.",
+    "val": "Everywhere they looked, there was enough to fill a trash bag in the blink of an eye."
+  },
+  {
+    "key": "There seemed to be no end to it.",
+    "trx": "Казалось, этому не будет конца.",
+    "val": "There seemed to be no end to it."
+  },
+  {
+    "key": "Increasingly disheartened, Mean Clean, Big Joe, and Flaps continued their desperate mission.",
+    "trx": "Все больше впадая в уныние, Подлый Чистюля, Большой Джо и Закрылки продолжали свою отчаянную миссию.",
+    "val": "Increasingly disheartened, Mean Clean, Big Joe, and Flaps continued their desperate mission."
+  },
+  {
+    "key": "Mean Clean was steadily losing water, but he couldn’t let himself worry about that now.",
+    "trx": "Средний Чистый неуклонно терял воду, но сейчас он не мог позволить себе беспокоиться об этом.",
+    "val": "Mean Clean was steadily losing water, but he couldn’t let himself worry about that now."
+  },
+  {
+    "key": "They had to stop the evil green thing.",
+    "trx": "Они должны были остановить злую зеленую тварь.",
+    "val": "They had to stop the evil green thing."
+  },
+  {
+    "key": "They had to do whatever it took to keep its “prime mass” from growing.",
+    "trx": "Они должны были сделать все возможное, чтобы его “основная масса” не росла.",
+    "val": "They had to do whatever it took to keep its “prime mass” from growing."
+  },
+  {
+    "key": "Deep in the very core of his being, Mean Clean knew this to be true.",
+    "trx": "Глубоко в самой сердцевине своего существа Подлый Чистюля знал, что это правда.",
+    "val": "Deep in the very core of his being, Mean Clean knew this to be true."
+  },
+  {
+    "key": "Hooch was dead.",
+    "trx": "Хуч был мертв.",
+    "val": "Hooch was dead."
+  },
+  {
+    "key": "Mean Clean was close to death himself.",
+    "trx": "Подлый Чистюля сам был близок к смерти.",
+    "val": "Mean Clean was close to death himself."
+  },
+  {
+    "key": "But something deeper than sadness or anger drove him forward.",
+    "trx": "Но что-то более глубокое, чем печаль или гнев, гнало его вперед.",
+    "val": "But something deeper than sadness or anger drove him forward."
+  },
+  {
+    "key": "Back when he’d battled the vegetable cult, Mean Clean had what you could have called a sense of justice.",
+    "trx": "В те времена, когда он боролся с культом овощей, у Злого Чистого было то, что можно было бы назвать чувством справедливости.",
+    "val": "Back when he’d battled the vegetable cult, Mean Clean had what you could have called a sense of justice."
+  },
+  {
+    "key": "But once the fighting was finished, the state of Shibuya had left him feeling empty.",
+    "trx": "Но как только бой закончился, состояние Сибуи заставило его почувствовать себя опустошенным.",
+    "val": "But once the fighting was finished, the state of Shibuya had left him feeling empty."
+  },
+  {
+    "key": "After that, there had been nothing but a dark hole in Mean Clean’s heart.",
+    "trx": "После этого в сердце Mean Clean не было ничего, кроме темной дыры.",
+    "val": "After that, there had been nothing but a dark hole in Mean Clean’s heart."
+  },
+  {
+    "key": "Now, he finally felt like he might be able to fill that hole.",
+    "trx": "Теперь он наконец почувствовал, что может заполнить эту дыру.",
+    "val": "Now, he finally felt like he might be able to fill that hole."
+  },
+  {
+    "key": "No—he ",
+    "trx": "Нет — он ",
+    "val": "No—he "
+  },
+  {
+    "key": "had to",
+    "trx": "пришлось",
+    "val": "had to"
+  },
+  {
+    "key": " fill it.",
+    "trx": " наполни его.",
+    "val": " fill it."
+  },
+  {
+    "key": "He didn’t want to ever feel that emptiness again.",
+    "trx": "Он не хотел больше никогда чувствовать эту пустоту.",
+    "val": "He didn’t want to ever feel that emptiness again."
+  },
+  {
+    "key": "Center Gai.",
+    "trx": "Центр Гаи.",
+    "val": "Center Gai."
+  },
+  {
+    "key": "Spanish Hill.",
+    "trx": "Испанский холм.",
+    "val": "Spanish Hill."
+  },
+  {
+    "key": "Fire Street.",
+    "trx": "Пожарная улица.",
+    "val": "Fire Street."
+  },
+  {
+    "key": "The Moyai statue.",
+    "trx": "Статуя Мояи.",
+    "val": "The Moyai statue."
+  },
+  {
+    "key": "Hachiko.",
+    "trx": "Хачико.",
+    "val": "Hachiko."
+  },
+  {
+    "key": "Meiji-Dori.",
+    "trx": "Мэйдзи-Дори.",
+    "val": "Meiji-Dori."
+  },
+  {
+    "key": "Plenty of cigarette butts and spat-out wads of gum lined the shoulder of the road.",
+    "trx": "Множество окурков и выплюнутых комков жевательной резинки выстроились вдоль обочины дороги.",
+    "val": "Plenty of cigarette butts and spat-out wads of gum lined the shoulder of the road."
+  },
+  {
+    "key": "“Yurgh. ",
+    "trx": "“Юргх. ",
+    "val": "“Yurgh. "
+  },
+  {
+    "key": "This is just plain filthy.” ",
+    "trx": "Это просто непристойно\". ",
+    "val": "This is just plain filthy.” "
+  },
+  {
+    "key": "Mean Clean and the others continued their trash collection.",
+    "trx": "Подлый Чистюля и остальные продолжили сбор мусора.",
+    "val": "Mean Clean and the others continued their trash collection."
+  },
+  {
+    "key": ",\\",
+    "trx": ",\\",
+    "val": ",\\"
+  },
+  {
+    "key": "They had to gather up trash before the malevolent “prime mass” could get to it.",
+    "trx": "Они должны были собрать мусор, прежде чем злобная “основная масса” доберется до него.",
+    "val": "They had to gather up trash before the malevolent “prime mass” could get to it."
+  },
+  {
+    "key": "Mean Clean made his way down the section of Meiji-Dori that ran along the Shibuya River, picking up garbage as he went.",
+    "trx": "Подлый Чистюля спустился по участку Мэйдзи-Дори, который проходил вдоль реки Сибуя, собирая по пути мусор.",
+    "val": "Mean Clean made his way down the section of Meiji-Dori that ran along the Shibuya River, picking up garbage as he went."
+  },
+  {
+    "key": "Plenty of cigarette butts and spat-out wads of gum lined the shoulder of the road.",
+    "trx": "Множество окурков и выплюнутых комков жевательной резинки выстроились вдоль обочины дороги.",
+    "val": "Plenty of cigarette butts and spat-out wads of gum lined the shoulder of the road."
+  },
+  {
+    "key": "“First things first, I’m gonna punch him right in the face. ",
+    "trx": "“Перво-наперво, я собираюсь ударить его прямо в лицо. ",
+    "val": "“First things first, I’m gonna punch him right in the face. "
+  },
+  {
+    "key": "Then we can have ourselves a chat.”",
+    "trx": "Тогда мы сможем поболтать сами с собой.”",
+    "val": "Then we can have ourselves a chat.”"
+  },
+  {
+    "key": "Mean Clean knew that voice well.",
+    "trx": "Подлый Чистюля хорошо знал этот голос.",
+    "val": "Mean Clean knew that voice well."
+  },
+  {
+    "key": "It was ",
+    "trx": "Это было ",
+    "val": "It was "
+  },
+  {
+    "key": "Achi",
+    "trx": "Ачи",
+    "val": "Achi"
+  },
+  {
+    "key": ".",
+    "trx": ".",
+    "val": "."
+  },
+  {
+    "key": "The girl called Hitomi was by his side.",
+    "trx": "Девушка по имени Хитоми была рядом с ним.",
+    "val": "The girl called Hitomi was by his side."
+  },
+  {
+    "key": "They were with some tall foreigner in sunglasses.",
+    "trx": "Они были с каким-то высоким иностранцем в темных очках.",
+    "val": "They were with some tall foreigner in sunglasses."
+  },
+  {
+    "key": "“Don’t let your emotions get out of control. ",
+    "trx": "“Не позволяй своим эмоциям выходить из-под контроля. ",
+    "val": "“Don’t let your emotions get out of control. "
+  },
+  {
+    "key": "Your father might be one of the key players in this case.”",
+    "trx": "Твой отец может быть одним из ключевых фигурантов этого дела.”",
+    "val": "Your father might be one of the key players in this case.”"
+  },
+  {
+    "key": "The man with the sunglasses spoke with cool authority.",
+    "trx": "Мужчина в темных очках говорил с холодной властностью.",
+    "val": "The man with the sunglasses spoke with cool authority."
+  },
+  {
+    "key": "Achi gave him a steely-eyed glare.",
+    "trx": "Ачи бросил на него стальной взгляд.",
+    "val": "Achi gave him a steely-eyed glare."
+  },
+  {
+    "key": "The situation looked pretty tense.",
+    "trx": "Ситуация выглядела довольно напряженной.",
+    "val": "The situation looked pretty tense."
+  },
+  {
+    "key": "Mean Clean called out to Achi as he headed on his way. ",
+    "trx": "Подлый Чистюля окликнул Ачи, когда тот направился своей дорогой. ",
+    "val": "Mean Clean called out to Achi as he headed on his way. "
+  },
+  {
+    "key": "“I’m not sure what’s going on, but hang in there, buddy.",
+    "trx": "“Я не совсем понимаю, что происходит, но держись, приятель.",
+    "val": "“I’m not sure what’s going on, but hang in there, buddy."
+  },
+  {
+    "key": "—you and me both.”",
+    "trx": "— ты и я оба.”",
+    "val": "—you and me both.”"
+  },
+  {
+    "key": "By now a half hour had passed since the friends had started picking up trash.",
+    "trx": "К настоящему времени прошло полчаса с тех пор, как друзья начали собирать мусор.",
+    "val": "By now a half hour had passed since the friends had started picking up trash."
+  },
+  {
+    "key": "Somehow, they’d managed to gather up all the trash around the city.",
+    "trx": "Каким-то образом им удалось собрать весь мусор по всему городу.",
+    "val": "Somehow, they’d managed to gather up all the trash around the city."
+  },
+  {
+    "key": "Together, they’d amassed a veritable mountain of garbage bags.",
+    "trx": "Вместе они собрали настоящую гору мешков для мусора.",
+    "val": "Together, they’d amassed a veritable mountain of garbage bags."
+  },
+  {
+    "key": "“That’s it. No more trash,” Mean Clean said.",
+    "trx": "“Вот и все. Больше никакого мусора\", - сказал Злой Чистюля.",
+    "val": "“That’s it. No more trash,” Mean Clean said."
+  },
+  {
+    "key": "He didn’t look happy, though.",
+    "trx": "Однако он не выглядел счастливым.",
+    "val": "He didn’t look happy, though."
+  },
+  {
+    "key": "Neither did Big Joe and Flaps.",
+    "trx": "Как и Большой Джо с Закрылками.",
+    "val": "Neither did Big Joe and Flaps."
+  },
+  {
+    "key": "“But that...that can’t be,” ",
+    "trx": "“Но это...этого не может быть\". ",
+    "val": "“But that...that can’t be,” "
+  },
+  {
+    "key": "Flaps murmured.",
+    "trx": "Закрылки зашуршали.",
+    "val": "Flaps murmured."
+  },
+  {
+    "key": "“This is odd. ",
+    "trx": "“Это странно. ",
+    "val": "“This is odd. "
+  },
+  {
+    "key": "Too",
+    "trx": "Тоже",
+    "val": "Too"
+  },
+  {
+    "key": " odd.” ",
+    "trx": " странно.” ",
+    "val": " odd.” "
+  },
+  {
+    "key": "Big Joe clenched his hand into a fist.",
+    "trx": "Большой Джо сжал руку в кулак.",
+    "val": "Big Joe clenched his hand into a fist."
+  },
+  {
+    "key": "He was right.",
+    "trx": "Он был прав.",
+    "val": "He was right."
+  },
+  {
+    "key": "It ",
+    "trx": "Оно ",
+    "val": "It "
+  },
+  {
+    "key": "was",
+    "trx": "был",
+    "val": "was"
+  },
+  {
+    "key": " odd.",
+    "trx": " странный.",
+    "val": " odd."
+  },
+  {
+    "key": "They’d gathered a tremendous amount of trash—but still it was clearly not enough.",
+    "trx": "Они собрали огромное количество мусора — но все равно этого было явно недостаточно.",
+    "val": "They’d gathered a tremendous amount of trash—but still it was clearly not enough."
+  },
+  {
+    "key": "There was simply no way that this could be all the trash in Shibuya.",
+    "trx": "Просто не могло быть, чтобы это был весь мусор в Сибуе.",
+    "val": "There was simply no way that this could be all the trash in Shibuya."
+  },
+  {
+    "key": "Mean Clean knew that painfully well from what he’d seen of the city with Achi every day.",
+    "trx": "Злой Чистый знал это до боли хорошо из того, что он видел в городе с Ачи каждый день.",
+    "val": "Mean Clean knew that painfully well from what he’d seen of the city with Achi every day."
+  },
+  {
+    "key": "Were people becoming more mannerly and littering less than they used to?",
+    "trx": "Стали ли люди более воспитанными и меньше мусорили, чем раньше?",
+    "val": "Were people becoming more mannerly and littering less than they used to?"
+  },
+  {
+    "key": "Had Achi’s daily cleanup efforts actually borne fruit?",
+    "trx": "Действительно ли ежедневные усилия Ачи по уборке принесли свои плоды?",
+    "val": "Had Achi’s daily cleanup efforts actually borne fruit?"
+  },
+  {
+    "key": "An all-too-optimistic fantasy—but it was a nice thought.",
+    "trx": "Слишком оптимистичная фантазия — но это была хорошая мысль.",
+    "val": "An all-too-optimistic fantasy—but it was a nice thought."
+  },
+  {
+    "key": "There was only one possible conclusion: ",
+    "trx": "Был только один возможный вывод: ",
+    "val": "There was only one possible conclusion: "
+  },
+  {
+    "key": "they were too late.",
+    "trx": "они опоздали.",
+    "val": "they were too late."
+  },
+  {
+    "key": "Everything they’d done had been in vain.",
+    "trx": "Все, что они сделали, было напрасно.",
+    "val": "Everything they’d done had been in vain."
+  },
+  {
+    "key": "Flaps was unable to hide his fear of the threat that this implied; all Big Joe could do was sigh.",
+    "trx": "Флапс не смог скрыть своего страха перед угрозой, которую это подразумевало; все, что мог сделать Большой Джо, это вздохнуть.",
+    "val": "Flaps was unable to hide his fear of the threat that this implied; all Big Joe could do was sigh."
+  },
+  {
+    "key": "“We’re just going to have to do it,” Mean Clean said.",
+    "trx": "“Нам просто придется это сделать”, - сказал Злой Чистый.",
+    "val": "“We’re just going to have to do it,” Mean Clean said."
+  },
+  {
+    "key": "“Do it? ",
+    "trx": "“Сделать это? ",
+    "val": "“Do it? "
+  },
+  {
+    "key": "Do what?” ",
+    "trx": "Сделать что?” ",
+    "val": "Do what?” "
+  },
+  {
+    "key": "Big Joe sounded almost too worried to ask.",
+    "trx": "Большой Джо казался слишком взволнованным, чтобы спрашивать.",
+    "val": "Big Joe sounded almost too worried to ask."
+  },
+  {
+    "key": "“Isn’t it obvious? ",
+    "trx": "“Разве это не очевидно? ",
+    "val": "“Isn’t it obvious? "
+  },
+  {
+    "key": "We go and we find that ‘prime mass’ thing, and we take it out.”",
+    "trx": "Мы идем и находим эту штуку с ”основной массой\" и убираем ее\".",
+    "val": "We go and we find that ‘prime mass’ thing, and we take it out.”"
+  },
+  {
+    "key": "“But that thing we met earlier said that it would just keep coming back. ",
+    "trx": "“Но та тварь, которую мы встретили раньше, сказала, что она просто будет возвращаться. ",
+    "val": "“But that thing we met earlier said that it would just keep coming back. "
+  },
+  {
+    "key": "It doesn’t even matter what we try and do—there’s no point to it.”",
+    "trx": "Даже не имеет значения, что мы пытаемся сделать — в этом нет никакого смысла”.",
+    "val": "It doesn’t even matter what we try and do—there’s no point to it.”"
+  },
+  {
+    "key": "Mean Clean smacked Big Joe upside the head. ",
+    "trx": "Подлый Чистюля шлепнул Большого Джо по голове. ",
+    "val": "Mean Clean smacked Big Joe upside the head. "
+  },
+  {
+    "key": "“You dolt! ",
+    "trx": "“Ты болван! ",
+    "val": "“You dolt! "
+  },
+  {
+    "key": "You’re going to give up before you’ve even tried?!”",
+    "trx": "Ты собираешься сдаться, даже не попробовав?!”",
+    "val": "You’re going to give up before you’ve even tried?!”"
+  },
+  {
+    "key": "“But—”",
+    "trx": "\"Но...”",
+    "val": "“But—”"
+  },
+  {
+    "key": "“No buts! ",
+    "trx": "“Никаких \"но\"! ",
+    "val": "“No buts! "
+  },
+  {
+    "key": "Besides, I don’t see you coming up with any better plan.”",
+    "trx": "Кроме того, я не вижу, чтобы ты придумал какой-нибудь лучший план.”",
+    "val": "Besides, I don’t see you coming up with any better plan.”"
+  },
+  {
+    "key": "Big Joe sulked and turned away.",
+    "trx": "Большой Джо надулся и отвернулся.",
+    "val": "Big Joe sulked and turned away."
+  },
+  {
+    "key": "“Plan or no plan, how are we supposed to fight an opponent that won’t even show itself?” Flaps asked.",
+    "trx": "“План или нет плана, как мы должны сражаться с противником, который даже не проявит себя?” - спросил Флапс.",
+    "val": "“Plan or no plan, how are we supposed to fight an opponent that won’t even show itself?” Flaps asked."
+  },
+  {
+    "key": "The juice box had a point; Mean Clean wasn’t sure what to say to that.",
+    "trx": "В коробке с соком был смысл; Злой Чистый не знал, что на это сказать.",
+    "val": "The juice box had a point; Mean Clean wasn’t sure what to say to that."
+  },
+  {
+    "key": "The enemy was in hiding.",
+    "trx": "Враг прятался.",
+    "val": "The enemy was in hiding."
+  },
+  {
+    "key": "And they couldn’t fight what they couldn’t see.",
+    "trx": "И они не могли бороться с тем, чего не могли видеть.",
+    "val": "And they couldn’t fight what they couldn’t see."
+  },
+  {
+    "key": "Mean Clean was getting more and more riled up, with no target for his fury.",
+    "trx": "Злой Чистюля становился все более и более раздраженным, не имея цели для своей ярости.",
+    "val": "Mean Clean was getting more and more riled up, with no target for his fury."
+  },
+  {
+    "key": "“Gah! This is such a waste of anger-energy!” he railed. ",
+    "trx": "“Боже! Это такая пустая трата энергии гнева!” он ругался. ",
+    "val": "“Gah! This is such a waste of anger-energy!” he railed. "
+  },
+  {
+    "key": "“There’s no point to it ",
+    "trx": "“В этом нет никакого смысла ",
+    "val": "“There’s no point to it "
+  },
+  {
+    "key": "now",
+    "trx": "сейчас",
+    "val": "now"
+  },
+  {
+    "key": " when there’s nothing I can do with it!”",
+    "trx": " когда я ничего не могу с этим поделать!”",
+    "val": " when there’s nothing I can do with it!”"
+  },
+  {
+    "key": "He stamped on the ground in a huff.",
+    "trx": "Он в раздражении топнул ногой по земле.",
+    "val": "He stamped on the ground in a huff."
+  },
+  {
+    "key": "And then, the ground began to shake.",
+    "trx": "А потом земля начала дрожать.",
+    "val": "And then, the ground began to shake."
+  },
+  {
+    "key": "The heap of trash bags began to collapse before their eyes.",
+    "trx": "Груда мешков для мусора начала разваливаться у них на глазах.",
+    "val": "The heap of trash bags began to collapse before their eyes."
+  },
+  {
+    "key": "Several dozen green feelers thrust up from underground.",
+    "trx": "Несколько дюжин зеленых щупалец высунулись из-под земли.",
+    "val": "Several dozen green feelers thrust up from underground."
+  },
+  {
+    "key": "“Mwuhuhuphuphuphup!”",
+    "trx": "“Мвухухупхупхупхуп!”",
+    "val": "“Mwuhuhuphuphuphup!”"
+  },
+  {
+    "key": "The ground split open, and the bags of trash vanished into the earth.",
+    "trx": "Земля раскололась, и мешки с мусором исчезли в земле.",
+    "val": "The ground split open, and the bags of trash vanished into the earth."
+  },
+  {
+    "key": "Silence.",
+    "trx": "Тишина.",
+    "val": "Silence."
+  },
+  {
+    "key": "The place where the trash had been lay empty, as if nothing had ever been there in the first place.",
+    "trx": "Место, где был мусор, лежало пустым, как будто там вообще ничего не было.",
+    "val": "The place where the trash had been lay empty, as if nothing had ever been there in the first place."
+  },
+  {
+    "key": "The trio had no words.",
+    "trx": "У троицы не было слов.",
+    "val": "The trio had no words."
+  },
+  {
+    "key": "Then a booming thunderclap split the blue sky above them.",
+    "trx": "Затем раскат грома расколол голубое небо над ними.",
+    "val": "Then a booming thunderclap split the blue sky above them."
+  },
+  {
+    "key": "A massive black shadow loomed overhead.",
+    "trx": "Массивная черная тень нависла над головой.",
+    "val": "A massive black shadow loomed overhead."
+  },
+  {
+    "key": "“Whoa, ",
+    "trx": "“Вау, ",
+    "val": "“Whoa, "
+  },
+  {
+    "key": "is that thing for real?!” ",
+    "trx": "эта штука настоящая?!” ",
+    "val": "is that thing for real?!” "
+  },
+  {
+    "key": "Big Joe stared up at the sky in horror.",
+    "trx": "Большой Джо в ужасе уставился в небо.",
+    "val": "Big Joe stared up at the sky in horror."
+  },
+  {
+    "key": "`",
+    "trx": "`",
+    "val": "`"
+  },
+  {
+    "key": "The monstrosity drifted between the buildings.",
+    "trx": "Чудовище дрейфовало между зданиями.",
+    "val": "The monstrosity drifted between the buildings."
+  },
+  {
+    "key": "It was huge.",
+    "trx": "Он был огромен.",
+    "val": "It was huge."
+  },
+  {
+    "key": "Too",
+    "trx": "Тоже",
+    "val": "Too"
+  },
+  {
+    "key": " huge.",
+    "trx": " огромный.",
+    "val": " huge."
+  },
+  {
+    "key": "As they watched, it slurped up the green mass from underground, continuing to grow; there seemed to be no limit to its size.",
+    "trx": "Пока они наблюдали, он поглощал зеленую массу из-под земли, продолжая расти; казалось, его размерам не было предела.",
+    "val": "As they watched, it slurped up the green mass from underground, continuing to grow; there seemed to be no limit to its size."
+  },
+  {
+    "key": "“I’ll handle this, dude,” Big Joe told Mean Clean. ",
+    "trx": "“Я разберусь с этим, чувак”, - сказал Большой Джо Злому Чистому. ",
+    "val": "“I’ll handle this, dude,” Big Joe told Mean Clean. "
+  },
+  {
+    "key": "He adopted a fighting stance. ",
+    "trx": "Он принял боевую стойку. ",
+    "val": "He adopted a fighting stance. "
+  },
+  {
+    "key": "“Flaps! ",
+    "trx": "“Закрылки! ",
+    "val": "“Flaps! "
+  },
+  {
+    "key": "Take him and get out of here!”",
+    "trx": "Забирайте его и убирайтесь отсюда!”",
+    "val": "Take him and get out of here!”"
+  },
+  {
+    "key": "“No! I can’t let you do this!”",
+    "trx": "\"нет! Я не могу позволить тебе сделать это!”",
+    "val": "“No! I can’t let you do this!”"
+  },
+  {
+    "key": "“Heh. ",
+    "trx": "“Хех. ",
+    "val": "“Heh. "
+  },
+  {
+    "key": "That thing may be big, but it’s all soft and squishy! ",
+    "trx": "Эта штука может быть большой, но она вся мягкая и мягкая! ",
+    "val": "That thing may be big, but it’s all soft and squishy! "
+  },
+  {
+    "key": "Don’t worry—I’m made of metal!”",
+    "trx": "Не волнуйся — я сделан из металла!”",
+    "val": "Don’t worry—I’m made of metal!”"
+  },
+  {
+    "key": "Big Joe leaped high into the air, launching himself at the monstrosity.",
+    "trx": "Большой Джо подпрыгнул высоко в воздух, бросаясь на чудовище.",
+    "val": "Big Joe leaped high into the air, launching himself at the monstrosity."
+  },
+  {
+    "key": "The instant he impacted the mass, he was sucked right in.",
+    "trx": "В тот момент, когда он столкнулся с массой, его засосало прямо внутрь.",
+    "val": "The instant he impacted the mass, he was sucked right in."
+  },
+  {
+    "key": "There was a metallic ",
+    "trx": "Там был металлический ",
+    "val": "There was a metallic "
+  },
+  {
+    "key": "squirk",
+    "trx": "сквирк",
+    "val": "squirk"
+  },
+  {
+    "key": " as his body was crushed.",
+    "trx": " когда его тело было раздавлено.",
+    "val": " as his body was crushed."
+  },
+  {
+    "key": "“Big Joe!”",
+    "trx": "“Большой Джо!”",
+    "val": "“Big Joe!”"
+  },
+  {
+    "key": "Mean Clean and Flaps soared up into the air, weaving to avoid the monstrosity’s extended tendrils.",
+    "trx": "Подлая Чистота и Закрылки взмыли в воздух, извиваясь, чтобы избежать вытянутых усиков чудовища.",
+    "val": "Mean Clean and Flaps soared up into the air, weaving to avoid the monstrosity’s extended tendrils."
+  },
+  {
+    "key": "Now that they were on eye level with the thing, it seemed even bigger than before.",
+    "trx": "Теперь, когда они были на уровне глаз с этой штукой, она казалась еще больше, чем раньше.",
+    "val": "Now that they were on eye level with the thing, it seemed even bigger than before."
+  },
+  {
+    "key": "This was not an opponent that they could fight by recklessly rushing in headlong.",
+    "trx": "Это был не тот противник, с которым они могли бы сразиться, безрассудно бросившись вперед сломя голову.",
+    "val": "This was not an opponent that they could fight by recklessly rushing in headlong."
+  },
+  {
+    "key": "“Ngh...” ",
+    "trx": "“Нг...” ",
+    "val": "“Ngh...” "
+  },
+  {
+    "key": "Mean Clean’s sides screamed in agony.",
+    "trx": "Бока Злого Чистюли кричали в агонии.",
+    "val": "Mean Clean’s sides screamed in agony."
+  },
+  {
+    "key": "There was almost no water left inside him.",
+    "trx": "Внутри него почти не осталось воды.",
+    "val": "There was almost no water left inside him."
+  },
+  {
+    "key": "He had barely any strength in his arms, and his mind was foggy.",
+    "trx": "В его руках почти не было сил, а разум был затуманен.",
+    "val": "He had barely any strength in his arms, and his mind was foggy."
+  },
+  {
+    "key": "At this rate, there was nothing he could do to stop himself from being devoured like Big Joe and Hooch.",
+    "trx": "С такой скоростью он ничего не мог сделать, чтобы не быть съеденным, как Большой Джо и Хуч.",
+    "val": "At this rate, there was nothing he could do to stop himself from being devoured like Big Joe and Hooch."
+  },
+  {
+    "key": "“All right, let’s light this thing up!” Flaps cried.",
+    "trx": "“Хорошо, давайте зажжем эту штуку!” Закрылки плакали.",
+    "val": "“All right, let’s light this thing up!” Flaps cried."
+  },
+  {
+    "key": "In his hands was a cigarette lighter, the flame already lit.",
+    "trx": "В его руках была зажигалка, пламя уже горело.",
+    "val": "In his hands was a cigarette lighter, the flame already lit."
+  },
+  {
+    "key": "“I picked this up while we were gathering trash!” he said. ",
+    "trx": "“Я подобрал это, пока мы собирали мусор!” - сказал он. ",
+    "val": "“I picked this up while we were gathering trash!” he said. "
+  },
+  {
+    "key": "“If this monster’s made out of food scraps and methane gas, and we get a flame near it, it should explode!”",
+    "trx": "“Если этот монстр сделан из пищевых отходов и газообразного метана, и мы увидим пламя рядом с ним, он должен взорваться!”",
+    "val": "“If this monster’s made out of food scraps and methane gas, and we get a flame near it, it should explode!”"
+  },
+  {
+    "key": "Flaps was already charging toward the beast, the lighter held out in front of him. ",
+    "trx": "Закрылки уже мчался к зверю, держа зажигалку перед собой. ",
+    "val": "Flaps was already charging toward the beast, the lighter held out in front of him. "
+  },
+  {
+    "key": "“Die, you son of a bitch!”",
+    "trx": "“Умри, сукин ты сын!”",
+    "val": "“Die, you son of a bitch!”"
+  },
+  {
+    "key": "“Flaps, don’t do it!” ",
+    "trx": "“Закрылки, не делай этого!” ",
+    "val": "“Flaps, don’t do it!” "
+  },
+  {
+    "key": "Mean Clean hurried to stop him. ",
+    "trx": "Подлый Чистюля поспешил остановить его. ",
+    "val": "Mean Clean hurried to stop him. "
+  },
+  {
+    "key": "“Don’t get any closer to that thing!”",
+    "trx": "“Не подходи ближе к этой штуке!”",
+    "val": "“Don’t get any closer to that thing!”"
+  },
+  {
+    "key": "Flaps hesitated in midair, looking back at Mean Clean with a frown. ",
+    "trx": "Закрылки заколебались в воздухе, хмуро оглядываясь на Злого Чистюлю. ",
+    "val": "Flaps hesitated in midair, looking back at Mean Clean with a frown. "
+  },
+  {
+    "key": "“But this is the only way! ",
+    "trx": "“Но это единственный выход! ",
+    "val": "“But this is the only way! "
+  },
+  {
+    "key": "This thing already took down Hooch and Big Joe. ",
+    "trx": "Эта штука уже уничтожила Хуча и Большого Джо. ",
+    "val": "This thing already took down Hooch and Big Joe. "
+  },
+  {
+    "key": "And look at the condition you’re in! ",
+    "trx": "И посмотри, в каком ты состоянии! ",
+    "val": "And look at the condition you’re in! "
+  },
+  {
+    "key": "What else can we possibly do?!”",
+    "trx": "Что еще мы можем сделать?!”",
+    "val": "What else can we possibly do?!”"
+  },
+  {
+    "key": "“But this is exactly what it wants!”",
+    "trx": "“Но это именно то, чего он хочет!”",
+    "val": "“But this is exactly what it wants!”"
+  },
+  {
+    "key": "Flaps’ eyes went wide. ",
+    "trx": "Глаза Флапса расширились. ",
+    "val": "Flaps’ eyes went wide. "
+  },
+  {
+    "key": "“Huh?” ",
+    "trx": "\"Хм?\" ",
+    "val": "“Huh?” "
+  },
+  {
+    "key": "“I finally understand what it meant. ",
+    "trx": "“Я наконец-то понял, что это значило. ",
+    "val": "“I finally understand what it meant. "
+  },
+  {
+    "key": "‘Eventually, we shall engulf the entire city, enveloping it in death and decay.’",
+    "trx": "‘В конце концов, мы поглотим весь город, окутав его смертью и разложением\".",
+    "val": "‘Eventually, we shall engulf the entire city, enveloping it in death and decay.’"
+  },
+  {
+    "key": "Remember that?” ",
+    "trx": "Помнишь это?” ",
+    "val": "Remember that?” "
+  },
+  {
+    "key": "Mean Clean looked down at the city below, at the houses and office buildings, at the passersby and vehicles coming and going.",
+    "trx": "Подлый Чистюля посмотрел вниз на город внизу, на дома и офисные здания, на прохожих и проезжающие машины.",
+    "val": "Mean Clean looked down at the city below, at the houses and office buildings, at the passersby and vehicles coming and going."
+  },
+  {
+    "key": "“It ",
+    "trx": "“Это ",
+    "val": "“It "
+  },
+  {
+    "key": "wants",
+    "trx": "хочет",
+    "val": "wants"
+  },
+  {
+    "key": " to slurp up tons of trash, inflate itself to giant size, and then cause a massive explosion. ",
+    "trx": " чтобы проглотить тонны мусора, раздуться до гигантских размеров, а затем вызвать мощный взрыв. ",
+    "val": " to slurp up tons of trash, inflate itself to giant size, and then cause a massive explosion. "
+  },
+  {
+    "key": "Once that happens, the city will be a disaster. ",
+    "trx": "Как только это произойдет, город превратится в катастрофу. ",
+    "val": "Once that happens, the city will be a disaster. "
+  },
+  {
+    "key": "That’s what it meant by ‘enveloping everything in death and decay.’”",
+    "trx": "Вот что подразумевалось под \"окутыванием всего смертью и разложением\".”",
+    "val": "That’s what it meant by ‘enveloping everything in death and decay.’”"
+  },
+  {
+    "key": "“No...” ",
+    "trx": "“Нет...” ",
+    "val": "“No...” "
+  },
+  {
+    "key": "“Trust me! Put out that light. ",
+    "trx": "“Доверься мне! Погаси этот свет. ",
+    "val": "“Trust me! Put out that light. "
+  },
+  {
+    "key": "We can’t risk blowing up the city.”",
+    "trx": "Мы не можем рисковать, взрывая город.”",
+    "val": "We can’t risk blowing up the city.”"
+  },
+  {
+    "key": "Flaps paused in thought for a few moments, ",
+    "trx": "Закрылки на несколько мгновений задумался, ",
+    "val": "Flaps paused in thought for a few moments, "
+  },
+  {
+    "key": "then took his finger off the button on the lighter.",
+    "trx": "затем убрал палец с кнопки зажигалки.",
+    "val": "then took his finger off the button on the lighter."
+  },
+  {
+    "key": "With a sudden ",
+    "trx": "С внезапным ",
+    "val": "With a sudden "
+  },
+  {
+    "key": "whoosh",
+    "trx": "свист",
+    "val": "whoosh"
+  },
+  {
+    "key": ", ",
+    "trx": ", ",
+    "val": ", "
+  },
+  {
+    "key": "one of the creature’s long tendrils darted out and snatched him up.",
+    "trx": "одно из длинных усиков существа метнулось вперед и схватило его.",
+    "val": "one of the creature’s long tendrils darted out and snatched him up."
+  },
+  {
+    "key": "“M-",
+    "trx": "“М-",
+    "val": "“M-"
+  },
+  {
+    "key": "Mean Clean...” ",
+    "trx": "Значит, Чистый...” ",
+    "val": "Mean Clean...” "
+  },
+  {
+    "key": "The juice box struggled to croak the words out; ",
+    "trx": "Коробка с соком изо всех сил пыталась выдавить эти слова; ",
+    "val": "The juice box struggled to croak the words out; "
+  },
+  {
+    "key": "a moment later, he was absorbed into the slimy green tentacle.",
+    "trx": "Мгновение спустя он был поглощен скользким зеленым щупальцем.",
+    "val": "a moment later, he was absorbed into the slimy green tentacle."
+  },
+  {
+    "key": "“Rgh!” ",
+    "trx": "“Ргх!” ",
+    "val": "“Rgh!” "
+  },
+  {
+    "key": "Mean Clean clenched his teeth and rushed toward the monster.",
+    "trx": "Злой Чистюля стиснул зубы и бросился к монстру.",
+    "val": "Mean Clean clenched his teeth and rushed toward the monster."
+  },
+  {
+    "key": "Rage filled him; his body moved of its own accord.",
+    "trx": "Ярость наполнила его; его тело двигалось само по себе.",
+    "val": "Rage filled him; his body moved of its own accord."
+  },
+  {
+    "key": "He unleashed a flurry of punches and kicks, but the creature easily batted them aside.",
+    "trx": "Он обрушил шквал ударов руками и ногами, но существо легко отбивало их в сторону.",
+    "val": "He unleashed a flurry of punches and kicks, but the creature easily batted them aside."
+  },
+  {
+    "key": "He felt certain that if he tried to grab hold of a tendril, he’d immediately be engulfed within its squishy mass.",
+    "trx": "Он был уверен, что если попытается ухватиться за усик, то немедленно окажется поглощенным его мягкой массой.",
+    "val": "He felt certain that if he tried to grab hold of a tendril, he’d immediately be engulfed within its squishy mass."
+  },
+  {
+    "key": "The thing seemed to be toying with him as a cat toys with a mouse.",
+    "trx": "Существо, казалось, играло с ним, как кошка с мышью.",
+    "val": "The thing seemed to be toying with him as a cat toys with a mouse."
+  },
+  {
+    "key": "“Huff...puff...” ",
+    "trx": "“Пуфф... пуфф...” ",
+    "val": "“Huff...puff...” "
+  },
+  {
+    "key": "Mean Clean retreated a short distance and squared off with the monstrosity once more.",
+    "trx": "Подлый Чистюля отступил на небольшое расстояние и снова сошелся с чудовищем.",
+    "val": "Mean Clean retreated a short distance and squared off with the monstrosity once more."
+  },
+  {
+    "key": "It was a hopeless fight.",
+    "trx": "Это была безнадежная борьба.",
+    "val": "It was a hopeless fight."
+  },
+  {
+    "key": "No matter how many times he attacked the thing, his strikes had no effect.",
+    "trx": "Независимо от того, сколько раз он атаковал эту тварь, его удары не имели никакого эффекта.",
+    "val": "No matter how many times he attacked the thing, his strikes had no effect."
+  },
+  {
+    "key": "The thing was going to kill him; ",
+    "trx": "Эта тварь собиралась убить его; ",
+    "val": "The thing was going to kill him; "
+  },
+  {
+    "key": "it was only a matter of time.",
+    "trx": "это был только вопрос времени.",
+    "val": "it was only a matter of time."
+  },
+  {
+    "key": "Wasn’t there something—",
+    "trx": "Разве там не было чего-то—",
+    "val": "Wasn’t there something—"
+  },
+  {
+    "key": "anything he could do?",
+    "trx": "он мог что-нибудь сделать?",
+    "val": "anything he could do?"
+  },
+  {
+    "key": "As he teetered on the brink of consciousness, Mean Clean’s mind raced.",
+    "trx": "Пока он балансировал на грани сознания, разум Подлого Чистюли лихорадочно работал.",
+    "val": "As he teetered on the brink of consciousness, Mean Clean’s mind raced."
+  },
+  {
+    "key": "The creature slowly stretched its tendrils toward him, heralding his end.",
+    "trx": "Существо медленно протянуло к нему свои щупальца, предвещая его конец.",
+    "val": "The creature slowly stretched its tendrils toward him, heralding his end."
+  },
+  {
+    "key": "A sudden gunshot split the air.",
+    "trx": "Внезапный выстрел расколол воздух.",
+    "val": "A sudden gunshot split the air."
+  },
+  {
+    "key": "The monstrosity froze in its tracks.",
+    "trx": "Чудовище застыло на месте.",
+    "val": "The monstrosity froze in its tracks."
+  },
+  {
+    "key": "“Juice!”",
+    "trx": "“Сок!”",
+    "val": "“Juice!”"
+  },
+  {
+    "key": "On the roof of the building below, Mean Clean spotted Juice Malone—down on one knee, sniper rifle at the ready.",
+    "trx": "На крыше здания внизу Подлый Чистюля заметил Джуса Мэлоуна — опустился на одно колено, снайперская винтовка наготове.",
+    "val": "On the roof of the building below, Mean Clean spotted Juice Malone—down on one knee, sniper rifle at the ready."
+  },
+  {
+    "key": "Juice fired off three shots in rapid succession.",
+    "trx": "Джус произвел три выстрела в быстрой последовательности.",
+    "val": "Juice fired off three shots in rapid succession."
+  },
+  {
+    "key": "All three struck the monstrosity right between the eyes, mere millimeters apart.",
+    "trx": "Все три попали чудовищу прямо между глаз, всего в нескольких миллиметрах друг от друга.",
+    "val": "All three struck the monstrosity right between the eyes, mere millimeters apart."
+  },
+  {
+    "key": "Mean Clean felt a brief ray of hope—",
+    "trx": "Подлый Чистюля почувствовал краткий луч надежды—",
+    "val": "Mean Clean felt a brief ray of hope—"
+  },
+  {
+    "key": "but it turned quickly to despair.",
+    "trx": "но это быстро перешло в отчаяние.",
+    "val": "but it turned quickly to despair."
+  },
+  {
+    "key": "The creature calmly brought a tendril up to its face and scratched itself between its oozing eyebrows.",
+    "trx": "Существо спокойно поднесло усик к лицу и почесало себя между сочащимися бровями.",
+    "val": "The creature calmly brought a tendril up to its face and scratched itself between its oozing eyebrows."
+  },
+  {
+    "key": "The bullets had been no more than mosquito bites to the thing.",
+    "trx": "Пули были для этой твари не более чем комариными укусами.",
+    "val": "The bullets had been no more than mosquito bites to the thing."
+  },
+  {
+    "key": "The monstrosity fixed its gaze on Juice and its huge maw bent into an unnerving grin.",
+    "trx": "Чудовище уставилось на Джуса, и его огромная пасть изогнулась в пугающей ухмылке.",
+    "val": "The monstrosity fixed its gaze on Juice and its huge maw bent into an unnerving grin."
+  },
+  {
+    "key": "It extended one of its finger-tendrils and gave the end a sharp flick, sending the bulbous tip flying toward him.",
+    "trx": "Оно вытянуло одно из своих усиков-пальцев и резко щелкнуло концом, отправив выпуклый кончик в его сторону.",
+    "val": "It extended one of its finger-tendrils and gave the end a sharp flick, sending the bulbous tip flying toward him."
+  },
+  {
+    "key": "Then it quickly launched three more blobs—",
+    "trx": "Затем он быстро запустил еще три капли—",
+    "val": "Then it quickly launched three more blobs—"
+  },
+  {
+    "key": "gleefully mimicking Juice’s attack.",
+    "trx": "радостно имитируя атаку Джуса.",
+    "val": "gleefully mimicking Juice’s attack."
+  },
+  {
+    "key": "Juice readied his weapon again and fired at the incoming projectiles.",
+    "trx": "Джус снова приготовил свое оружие и выстрелил по летящим снарядам.",
+    "val": "Juice readied his weapon again and fired at the incoming projectiles."
+  },
+  {
+    "key": "But the bullets vanished into the slime to no effect.",
+    "trx": "Но пули исчезли в слизи безрезультатно.",
+    "val": "But the bullets vanished into the slime to no effect."
+  },
+  {
+    "key": "“Juuuuuuuuuice!”",
+    "trx": "“Juuuuuuuuuice!”",
+    "val": "“Juuuuuuuuuice!”"
+  },
+  {
+    "key": "One of the green globules struck Juice dead-on, and the faint sound of shattering glass tinkled through the air.",
+    "trx": "Одна из зеленых шариков попала в Сок намертво, и в воздухе раздался слабый звук бьющегося стекла.",
+    "val": "One of the green globules struck Juice dead-on, and the faint sound of shattering glass tinkled through the air."
+  },
+  {
+    "key": ",",
+    "trx": ",",
+    "val": ","
+  },
+  {
+    "key": "“Bwuh, ",
+    "trx": "“Бу-ух, ",
+    "val": "“Bwuh, "
+  },
+  {
+    "key": "bwuh, ",
+    "trx": "бу-ух, ",
+    "val": "bwuh, "
+  },
+  {
+    "key": "bwuh...” ",
+    "trx": "бу...” ",
+    "val": "bwuh...” "
+  },
+  {
+    "key": "The monstrosity chortled malevolently, then lashed out with its tendrils.",
+    "trx": "Чудовище злобно фыркнуло, затем хлестнуло своими усиками.",
+    "val": "The monstrosity chortled malevolently, then lashed out with its tendrils."
+  },
+  {
+    "key": "“Ugh!”",
+    "trx": "“Тьфу!”",
+    "val": "“Ugh!”"
+  },
+  {
+    "key": "A direct hit.",
+    "trx": "Прямое попадание.",
+    "val": "A direct hit."
+  },
+  {
+    "key": "Mean Clean was sent hurtling into a ",
+    "trx": "Подлый Чистюля был отправлен в полет в ",
+    "val": "Чистюля был отправлен в полет в "
+  },
+  {
+    "key": "gap",
+    "trx": "пробел",
+    "val": "промежуток"
+  },
+  {
+    "key": " between two buildings.",
+    "trx": " между двумя зданиями.",
+    "val": " между двумя зданиями."
+  },
+  {
+    "key": "“Dammit!”",
+    "trx": "“Черт возьми!”",
+    "val": "“Dammit!”"
+  },
+  {
+    "key": "Mustering the last of his strength, he launched himself back up into the air.",
+    "trx": "Собрав последние силы, он снова взмыл в воздух.",
+    "val": "Mustering the last of his strength, he launched himself back up into the air."
+  },
+  {
+    "key": "Another tentacle-strike was already coming his way; the creature had anticipated his return.",
+    "trx": "Еще один удар щупальцем уже приближался к нему; существо ожидало его возвращения.",
+    "val": "Another tentacle-strike was already coming his way; the creature had anticipated his return."
+  },
+  {
+    "key": "Oh, crap,",
+    "trx": "О, черт,",
+    "val": "Oh, crap,"
+  },
+  {
+    "key": " Mean Clean thought, but it was too late to avoid the blow.",
+    "trx": " Подлая Чистая мысль, но было слишком поздно, чтобы избежать удара.",
+    "val": " Mean Clean thought, but it was too late to avoid the blow."
+  },
+  {
+    "key": "/",
+    "trx": "/",
+    "val": "/"
+  },
+  {
+    "key": "“Arrrrrgh!”",
+    "trx": "“Аррррргх!”",
+    "val": "“Arrrrrgh!”"
+  },
+  {
+    "key": "The monster’s mighty swat slammed him into the ground.",
+    "trx": "Могучий удар монстра швырнул его на землю.",
+    "val": "The monster’s mighty swat slammed him into the ground."
+  },
+  {
+    "key": "The bandage on his belly came loose, and the remaining water inside him began to dribble out.",
+    "trx": "Повязка на его животе ослабла, и оставшаяся внутри вода начала вытекать наружу.",
+    "val": "The bandage on his belly came loose, and the remaining water inside him began to dribble out."
+  },
+  {
+    "key": "Soon, he would lose the last of it...",
+    "trx": "Скоро он потеряет все это...",
+    "val": "Soon, he would lose the last of it..."
+  },
+  {
+    "key": "Fighting breeds hatred,",
+    "trx": "Борьба порождает ненависть,",
+    "val": "Fighting breeds hatred,"
+  },
+  {
+    "key": "and hatred only ",
+    "trx": "и только ненависть ",
+    "val": "and hatred only "
+  },
+  {
+    "key": "breeds more fighting.",
+    "trx": "порождает больше драк.",
+    "val": "breeds more fighting."
+  },
+  {
+    "key": "I am not someone who is used",
+    "trx": "Я не из тех, кого используют",
+    "val": "I am not someone who is used"
+  },
+  {
+    "key": "to incurring the enmity of others.",
+    "trx": "чтобы навлечь на себя враждебность других.",
+    "val": "to incurring the enmity of others."
+  },
+  {
+    "key": "What are you doing, Sachio? Go!",
+    "trx": "Что ты делаешь, Сачио? Иди!",
+    "val": "What are you doing, Sachio? Go!"
+  },
+  {
+    "key": "What’s the matter? Come at me!",
+    "trx": "В чем дело? Иди на меня!",
+    "val": "What’s the matter? Come at me!"
+  },
+  {
+    "key": "Come on, hurry up and die already!",
+    "trx": "Давай, поторопись и умри уже!",
+    "val": "Давай умирай уже быстрее!"
+  },
+  {
+    "key": "As his mind grew ever more hazy, Mean Clean heard a series of strange ",
+    "trx": "По мере того как его разум становился все более затуманенным, Злой Чистый услышал серию странных ",
+    "val": "As his mind grew ever more hazy, Mean Clean heard a series of strange "
+  },
+  {
+    "key": "voices",
+    "trx": "голоса",
+    "val": "voices"
+  },
+  {
+    "key": ".",
+    "trx": ".",
+    "val": "."
+  },
+  {
+    "key": "Where am I...? What is ",
+    "trx": "Где я...? Что такое ",
+    "val": "Where am I...? What is "
+  },
+  {
+    "key": "this place",
+    "trx": "это место",
+    "val": "this place"
+  },
+  {
+    "key": "...?",
+    "trx": "...?",
+    "val": "...?"
+  },
+  {
+    "key": "A ",
+    "trx": "A ",
+    "val": "A "
+  },
+  {
+    "key": "wave of chill mist",
+    "trx": "волна холодного тумана",
+    "val": "wave of chill mist"
+  },
+  {
+    "key": " wafted over him.",
+    "trx": " повеяло над ним.",
+    "val": " wafted over him."
+  },
+  {
+    "key": "What ",
+    "trx": "Что ",
+    "val": "What "
+  },
+  {
+    "key": "was",
+    "trx": "был",
+    "val": "was"
+  },
+  {
+    "key": " he doing here?",
+    "trx": " что он здесь делает?",
+    "val": " he doing here?"
+  },
+  {
+    "key": "He couldn’t die in a place like this.",
+    "trx": "Он не мог умереть в таком месте, как это.",
+    "val": "He couldn’t die in a place like this."
+  },
+  {
+    "key": "Go!",
+    "trx": "Иди!",
+    "val": "Go!"
+  },
+  {
+    "key": "Spurred on by the voices, Mean Clean got to his feet.",
+    "trx": "Подстегнутый голосами, Злой Чистюля поднялся на ноги.",
+    "val": "Spurred on by the voices, Mean Clean got to his feet."
+  },
+  {
+    "key": "“Not yet. ",
+    "trx": "“Еще нет. ",
+    "val": "“Not yet. "
+  },
+  {
+    "key": "I’m not dying like this. ",
+    "trx": "Я не собираюсь так умирать. ",
+    "val": "I’m not dying like this. "
+  },
+  {
+    "key": "I am ",
+    "trx": "Я ",
+    "val": "I am "
+  },
+  {
+    "key": "not",
+    "trx": "нет",
+    "val": "not"
+  },
+  {
+    "key": " dying like this!”",
+    "trx": " умереть вот так!”",
+    "val": " dying like this!”"
+  },
+  {
+    "key": "Mean Clean wobbled his way back up into the air.",
+    "trx": "Злой Чистюля, пошатываясь, поднялся обратно в воздух.",
+    "val": "Mean Clean wobbled his way back up into the air."
+  },
+  {
+    "key": "He was battered from head to toe.",
+    "trx": "Он был избит с головы до ног.",
+    "val": "He was battered from head to toe."
+  },
+  {
+    "key": "The odds were overwhelmingly against him.",
+    "trx": "Шансы были в подавляющем большинстве против него.",
+    "val": "The odds were overwhelmingly against him."
+  },
+  {
+    "key": "Yet a hint of a smile came to his face.",
+    "trx": "И все же на его лице появился намек на улыбку.",
+    "val": "Yet a hint of a smile came to his face."
+  },
+  {
+    "key": "“I ",
+    "trx": "“Я ",
+    "val": "“I "
+  },
+  {
+    "key": "will",
+    "trx": "будет",
+    "val": "will"
+  },
+  {
+    "key": " do this. ",
+    "trx": " сделай это. ",
+    "val": " do this. "
+  },
+  {
+    "key": "Just you wait and see...” ",
+    "trx": "Просто подожди и увидишь...” ",
+    "val": "Just you wait and see...” "
+  },
+  {
+    "key": "The wave of cold from earlier had caused clumps of whitish ice to solidify inside of him.",
+    "trx": "Волна холода, охватившая его раньше, заставила сгустки белесого льда затвердеть внутри него.",
+    "val": "The wave of cold from earlier had caused clumps of whitish ice to solidify inside of him."
+  },
+  {
+    "key": "“Face me!” he called out to the green monstrosity. ",
+    "trx": "“Повернись ко мне лицом!” - крикнул он зеленому чудовищу. ",
+    "val": "“Face me!” he called out to the green monstrosity. "
+  },
+  {
+    "key": "“I’m gonna ",
+    "trx": "“Я собираюсь ",
+    "val": "“I’m gonna "
+  },
+  {
+    "key": "kick your ass",
+    "trx": "надрать тебе задницу",
+    "val": "kick your ass"
+  },
+  {
+    "key": "!”",
+    "trx": "!”",
+    "val": "!”"
+  },
+  {
+    "key": "The creature let out a roar and moved to attack.",
+    "trx": "Существо издало рев и двинулось в атаку.",
+    "val": "The creature let out a roar and moved to attack."
+  },
+  {
+    "key": "Foul tentacles lashed at Mean Clean from every side; he chose one of them and launched himself bodily toward it.",
+    "trx": "Мерзкие щупальца хлестали Подлого Чистюлю со всех сторон; он выбрал одно из них и бросился к нему всем телом.",
+    "val": "Foul tentacles lashed at Mean Clean from every side; he chose one of them and launched himself bodily toward it."
+  },
+  {
+    "key": "“Rrraaaagh!” ",
+    "trx": "“Ррраааагх!” ",
+    "val": "“Rrraaaagh!” "
+  },
+  {
+    "key": "The violent impact knocked him senseless, and sent him sailing in the direction of Shibuya Station.",
+    "trx": "Сильный удар лишил его чувств и отправил в плавание в направлении станции Сибуя.",
+    "val": "The violent impact knocked him senseless, and sent him sailing in the direction of Shibuya Station."
+  },
+  {
+    "key": "“Mwuhuhuphuphuphup!”",
+    "trx": "“Мвухухупхупхупхуп!”",
+    "val": "“Mwuhuhuphuphuphup!”"
+  },
+  {
+    "key": "The monstrosity hovered above the city, basking in the light of victory.",
+    "trx": "Чудовище парило над городом, купаясь в свете победы.",
+    "val": "The monstrosity hovered above the city, basking in the light of victory."
+  },
+  {
+    "key": "Now no one was left to stop it from turning Shibuya into a wasteland.",
+    "trx": "Теперь не осталось никого, кто мог бы помешать ему превратить Сибую в пустошь.",
+    "val": "Now no one was left to stop it from turning Shibuya into a wasteland."
+  },
+  {
+    "key": "It spotted some power lines, and reached out a feeler toward them.",
+    "trx": "Он заметил несколько линий электропередачи и протянул к ним щуп.",
+    "val": "It spotted some power lines, and reached out a feeler toward them."
+  },
+  {
+    "key": "It was ready to blow itself up.",
+    "trx": "Он был готов взорвать сам себя.",
+    "val": "It was ready to blow itself up."
+  },
+  {
+    "key": "Shorting out the lines would send up a shower of sparks.",
+    "trx": "Короткое замыкание линий вызвало бы сноп искр.",
+    "val": "Shorting out the lines would send up a shower of sparks."
+  },
+  {
+    "key": "It would only take one of those sparks for the creature to turn Shibuya into a blasted ruin.",
+    "trx": "Существу потребовалась бы всего одна из этих искр, чтобы превратить Сибую в проклятые руины.",
+    "val": "It would only take one of those sparks for the creature to turn Shibuya into a blasted ruin."
+  },
+  {
+    "key": "Slowly, slowly, the monstrosity extended its tendril.",
+    "trx": "Медленно, медленно чудовище вытянуло свое щупальце.",
+    "val": "Slowly, slowly, the monstrosity extended its tendril."
+  },
+  {
+    "key": "Its fingertips had mere centimeters further to go.",
+    "trx": "Кончикам его пальцев оставалось пройти всего несколько сантиметров.",
+    "val": "Its fingertips had mere centimeters further to go."
+  },
+  {
+    "key": "Then the dirty waters of the Shibuya River were split in two and something came rocketing up from out from within.",
+    "trx": "Затем грязные воды реки Сибуя разделились надвое, и что-то взметнулось изнутри.",
+    "val": "Then the dirty waters of the Shibuya River were split in two and something came rocketing up from out from within."
+  },
+  {
+    "key": "“This ain’t over yet!”",
+    "trx": "“Это еще не конец!”",
+    "val": "“This ain’t over yet!”"
+  },
+  {
+    "key": "It was Mean Clean.",
+    "trx": "Это было Ужасно Чисто.",
+    "val": "It was Mean Clean."
+  },
+  {
+    "key": "River water filled him to the brim, and he surged with vitality.",
+    "trx": "Речная вода наполнила его до краев, и он наполнился жизненной силой.",
+    "val": "River water filled him to the brim, and he surged with vitality."
+  },
+  {
+    "key": "He pointed sharply at the monstrosity.",
+    "trx": "Он резко указал на чудовище.",
+    "val": "He pointed sharply at the monstrosity."
+  },
+  {
+    "key": "“You didn’t realize what I was doing, did you? ",
+    "trx": "“Ты не понимал, что я делал, не так ли? ",
+    "val": "“You didn’t realize what I was doing, did you? "
+  },
+  {
+    "key": "I ",
+    "trx": "Я ",
+    "val": "I "
+  },
+  {
+    "key": "wanted",
+    "trx": "разыскиваемый",
+    "val": "wanted"
+  },
+  {
+    "key": " you to knock me into the river!”",
+    "trx": " ты хочешь столкнуть меня в реку!”",
+    "val": " you to knock me into the river!”"
+  },
+  {
+    "key": "The creature glared at him balefully.",
+    "trx": "Существо злобно уставилось на него.",
+    "val": "The creature glared at him balefully."
+  },
+  {
+    "key": "It pulled back the tendril that was reaching for the power lines and swung it like a whip at Mean Clean.",
+    "trx": "Он отдернул усик, который тянулся к линиям электропередачи, и замахнулся им, как хлыстом, на Злого Чистюлю.",
+    "val": "It pulled back the tendril that was reaching for the power lines and swung it like a whip at Mean Clean."
+  },
+  {
+    "key": "“Juuuuuuice!” Mean Clean shouted as he nimbly dodged the attack. ",
+    "trx": "“Juuuuuuice!” - крикнул Злой Чистюля, ловко уклоняясь от атаки. ",
+    "val": "“Juuuuuuice!” Mean Clean shouted as he nimbly dodged the attack. "
+  },
+  {
+    "key": "“Juuuuice! ",
+    "trx": "“Джууууис! ",
+    "val": "“Juuuuice! "
+  },
+  {
+    "key": "If you’re still alive, answer me!”",
+    "trx": "Если ты еще жив, ответь мне!”",
+    "val": "If you’re still alive, answer me!”"
+  },
+  {
+    "key": "Almost at once, a gunshot rang out.",
+    "trx": "Почти сразу же раздался выстрел.",
+    "val": "Almost at once, a gunshot rang out."
+  },
+  {
+    "key": "Juice was down there on the rooftop below.",
+    "trx": "Джус был там, внизу, на крыше.",
+    "val": "Juice was down there on the rooftop below."
+  },
+  {
+    "key": "Green ooze had consumed part of him, but he’d somehow managed to cling to life.",
+    "trx": "Зеленая слизь поглотила часть его, но он каким-то образом ухитрялся цепляться за жизнь.",
+    "val": "Green ooze had consumed part of him, but he’d somehow managed to cling to life."
+  },
+  {
+    "key": "“Shoot!” Mean Clean shouted. ",
+    "trx": "“Стреляй!” - крикнул Злой Чистюля. ",
+    "val": "“Shoot!” Mean Clean shouted. "
+  },
+  {
+    "key": "“Shoot ",
+    "trx": "“Стреляй ",
+    "val": "“Shoot "
+  },
+  {
+    "key": "me",
+    "trx": "мне",
+    "val": "me"
+  },
+  {
+    "key": "!”",
+    "trx": "!”",
+    "val": "!”"
+  },
+  {
+    "key": "Juice raised an uncomprehending eyebrow.",
+    "trx": "Джус непонимающе поднял бровь.",
+    "val": "Juice raised an uncomprehending eyebrow."
+  },
+  {
+    "key": "“Do it! Shoot me! ",
+    "trx": "“Сделай это! Стреляй в меня! ",
+    "val": "“Do it! Shoot me! "
+  },
+  {
+    "key": "It’s the only way!”",
+    "trx": "Это единственный способ!”",
+    "val": "It’s the only way!”"
+  },
+  {
+    "key": "Juice hesitated for a moment, then lined up Mean Clean in his crosshairs.",
+    "trx": "Джус на мгновение заколебался, затем аккуратно прицелился.",
+    "val": "Juice hesitated for a moment, then lined up Mean Clean in his crosshairs."
+  },
+  {
+    "key": "“Graaah!”",
+    "trx": "“Грааа!”",
+    "val": "“Graaah!”"
+  },
+  {
+    "key": "The bullet punctured Mean Clean’s body.",
+    "trx": "Пуля пробила тело Подлого Чистюли.",
+    "val": "The bullet punctured Mean Clean’s body."
+  },
+  {
+    "key": "“More...",
+    "trx": "“Больше...",
+    "val": "“More..."
+  },
+  {
+    "key": "shoot me more!”",
+    "trx": "стреляй в меня еще!”",
+    "val": "shoot me more!”"
+  },
+  {
+    "key": "He strained and stiffened in order to keep the bullet locked in place inside him.",
+    "trx": "Он напрягся и напрягся, чтобы удержать пулю на месте внутри себя.",
+    "val": "He strained and stiffened in order to keep the bullet locked in place inside him."
+  },
+  {
+    "key": "“Shoot! ",
+    "trx": "“Стреляй! ",
+    "val": "“Стреляй! "
+  },
+  {
+    "key": "Shoot me, Juuuuuuice!”",
+    "trx": "Стреляй в меня, Джуууууайс!”",
+    "val": "Стреляй в меня, Джууууууус!”"
+  },
+  {
+    "key": "“Nnnngh!”",
+    "trx": "“Ннннгх!”",
+    "val": "“Нгмммм!”"
+  },
+  {
+    "key": "He winced with pain as several more bullets struck him in the belly and back; it took all of his might to keep them from blasting right through him.",
+    "trx": "Он поморщился от боли, когда еще несколько пуль попали ему в живот и спину; ему потребовалась вся его сила, чтобы не дать им пронзить его насквозь.",
+    "val": "Он поморщился от боли, когда еще несколько пуль попали ему в живот и спину; ему потребовалась вся его сила, чтобы не дать им пронзить его насквозь."
+  },
+  {
+    "key": "“All right...",
+    "trx": "“Хорошо...",
+    "val": "“Всё хорошо..."
+  },
+  {
+    "key": "preparations complete!”",
+    "trx": "приготовления завершены!”",
+    "val": "подготовка завершена!”"
+  },
+  {
+    "key": "Mean Clean lunged for the monstrosity.",
+    "trx": "Подлый Чистюля бросился на чудовище.",
+    "val": "Чистюля бросился на чудовище."
+  },
+  {
+    "key": "“Bwaaaaaahhhhhh!”",
+    "trx": "“Бваааааахххххх!”",
+    "val": "“Бвааааааххххх!”"
+  },
+  {
+    "key": "The monstrosity bellowed, its toothy maw yawning wide.",
+    "trx": "Чудовище взревело, широко разинув зубастую пасть.",
+    "val": "Заревело чудовище, широко разинув зубастую пасть."
+  },
+  {
+    "key": "“Daaaaaaaaaaaaaaaaaaahhhhhh!”",
+    "trx": "“Дааааааааааааааааааххххх!”",
+    "val": "“Дааааааааааааааааааахххххх!”"
+  },
+  {
+    "key": "Mean Clean sailed right into the thing’s open mouth and was swallowed whole.",
+    "trx": "Подлый Чистюля заплыл прямо в открытую пасть твари и был проглочен целиком.",
+    "val": "Чистюля заплыл прямо в открытую пасть твари и был проглочен целиком."
+  },
+  {
+    "key": "A moment later, the monstrosity ruptured open with a stupendous sound.",
+    "trx": "Мгновение спустя чудовище разорвалось с оглушительным звуком.",
+    "val": "Мгновение спустя чудовище разорвалось с оглушительным звуком."
+  },
+  {
+    "key": "Its scattered remains dissolved into mist and vanished into the air.",
+    "trx": "Его разбросанные останки растворились в тумане и растворились в воздухе.",
+    "val": "Его разбросанные останки поглотились туманом и растворились в воздухе."
+  },
+  {
+    "key": "There hadn’t been an explosion.",
+    "trx": "Взрыва не было.",
+    "val": "Взрыва не было."
+  },
+  {
+    "key": "Its insides had simply swollen and expanded until they couldn’t be contained.",
+    "trx": "Его внутренности просто раздулись и расширились до тех пор, пока их нельзя было сдержать.",
+    "val": "Его внутренности просто раздувались и расширялись до тех пор, пока не разорвались."
+  },
+  {
+    "key": "Big Joe and Flaps tumbled to the ground.",
+    "trx": "Большой Джо и Закрылки повалились на землю.",
+    "val": "Большой Джо и Флапс повалились на землю."
+  },
+  {
+    "key": "“Owowow...",
+    "trx": "“Оуууу...",
+    "val": "“Оу-оу-оу..."
+  },
+  {
+    "key": "huh?”",
+    "trx": "а?”",
+    "val": "а?”"
+  },
+  {
+    "key": "“Hm? Are we...?” ",
+    "trx": "“Хм? Неужели мы...?” ",
+    "val": "“Хм? Неужели мы...?” "
+  },
+  {
+    "key": "“Are we still alive?”",
+    "trx": "“Мы все еще живы?”",
+    "val": "“Разве мы всё еще живы?”"
+  },
+  {
+    "key": "The two looked around in bewilderment, trying to process what had happened.",
+    "trx": "Двое в замешательстве огляделись, пытаясь осмыслить случившееся.",
+    "val": "Они огляделись в замешательстве, пытаясь осмыслить случившееся."
+  },
+  {
+    "key": "Then Mean Clean clattered down beside them.",
+    "trx": "Затем Подлый Чистюля с грохотом опустился рядом с ними.",
+    "val": "Чистюля с грохотом повалился рядом с ними."
+  },
+  {
+    "key": "“Ah! ",
+    "trx": "\"ах! ",
+    "val": "“Ах! "
+  },
+  {
+    "key": "Mean Clean!”",
+    "trx": "Значит, Чистый!”",
+    "val": "Чистюля!”"
+  },
+  {
+    "key": "Big Joe and Flaps rushed to his side.",
+    "trx": "Большой Джо и Закрылки бросились к нему.",
+    "val": "Большой Джо и Флапс бросились к нему."
+  },
+  {
+    "key": "Half of his body was gone.",
+    "trx": "Половины его тела не было.",
+    "val": "Половина его туловища отсутствовала."
+  },
+  {
+    "key": "Cracks zigzagged across what was left of him.",
+    "trx": "Трещины зигзагами пересекали то, что от него осталось.",
+    "val": "Трещины зигзагами пересекали то, что от него осталось."
+  },
+  {
+    "key": "Flaps gently set a hand against Mean Clean’s body. ",
+    "trx": "Закрылки мягко приложили руку к телу Подлого Чистюли. ",
+    "val": "Флапс мягко прикоснулся к Чистюле. "
+  },
+  {
+    "key": "“He’s...he’s so cold...” ",
+    "trx": "“Он...он такой холодный...” ",
+    "val": "“Он...он такой холодный...” "
+  },
+  {
+    "key": "“He’s dying!” ",
+    "trx": "“Он умирает!” ",
+    "val": "“Он умирает!” "
+  },
+  {
+    "key": "Big Joe’s mouth hung open, aghast.",
+    "trx": "Рот Большого Джо в ужасе приоткрылся.",
+    "val": "Рот Большого Джо приоткрылся от ужаса."
+  },
+  {
+    "key": "“Hey now. ",
+    "trx": "“Эй, сейчас. ",
+    "val": "“Эй, хватит. "
+  },
+  {
+    "key": "Don’t go holding a funeral for me just yet.” ",
+    "trx": "Не ходи пока устраивать для меня похороны.” ",
+    "val": "Не устраивайте пока мои похороны.” "
+  },
+  {
+    "key": "Mean Clean’s voice was little more than a whisper.",
+    "trx": "Голос Злого Чистюли был чуть громче шепота.",
+    "val": "Голос Чистюли был чуть громче шепота."
+  },
+  {
+    "key": "He couldn’t even muster his usual triumphant grin.",
+    "trx": "Он даже не смог изобразить свою обычную торжествующую ухмылку.",
+    "val": "Он даже не смог изобразить свою обычную торжествующую ухмылку."
+  },
+  {
+    "key": "He had to struggle just to keep breathing.",
+    "trx": "Ему приходилось бороться, чтобы просто продолжать дышать.",
+    "val": "Ему приходилось бороться, чтобы просто продолжать дышать."
+  },
+  {
+    "key": "“I...",
+    "trx": "“Я...",
+    "val": "“Я..."
+  },
+  {
+    "key": "kicked that thing’s ass...” ",
+    "trx": "надрал задницу этой твари...” ",
+    "val": "надрал зад этой твари...” "
+  },
+  {
+    "key": "Mean Clean looked up into the sky; Big Joe and Flaps followed his gaze.",
+    "trx": "Злой Чистюля посмотрел в небо; Большой Джо и Флапс проследили за его взглядом.",
+    "val": "Чистюля посмотрел в небо; Большой Джо и Флапс проследили за его взглядом."
+  },
+  {
+    "key": "There was nothing there but the bright blue sky.",
+    "trx": "Там не было ничего, кроме ярко-голубого неба.",
+    "val": "Там не было ничего, кроме ярко-голубого неба."
+  },
+  {
+    "key": "The blue sky of a lovely spring day.",
+    "trx": "Голубое небо чудесного весеннего дня.",
+    "val": "Голубого неба в чудесный весенний день."
+  },
+  {
+    "key": "“That was amazing,” ",
+    "trx": "“Это было потрясающе”, ",
+    "val": "“Это было потрясающе,” "
+  },
+  {
+    "key": "Big Joe said between sobs. ",
+    "trx": "Сказал Большой Джо между рыданиями. ",
+    "val": "сказал Большой Джо, рыдая. "
+  },
+  {
+    "key": "“I knew you could do it, Mean Clean.”",
+    "trx": "“Я знал, что ты сможешь это сделать, Значит, Чисто”.",
+    "val": "“Я знал, что ты сможешь это, Чистюля.”"
+  },
+  {
+    "key": "“But...how?” ",
+    "trx": "“Но... как?” ",
+    "val": "“Но...как?” "
+  },
+  {
+    "key": "Flaps asked, wiping at the tears in his eyes.",
+    "trx": "- спросил Флапс, вытирая слезы на глазах.",
+    "val": "спросил Флапс, вытирая навернувшиеся слезы."
+  },
+  {
+    "key": "“Dry ice.” ",
+    "trx": "“Сухой лед”. ",
+    "val": "“Сухой лед.” "
+  },
+  {
+    "key": "“Dry ice?”",
+    "trx": "“Сухой лед?”",
+    "val": "“Сухой лед?”"
+  },
+  {
+    "key": "“Yeah. ",
+    "trx": "\"Да. ",
+    "val": "“Ага. "
+  },
+  {
+    "key": "I saw something on the news once. ",
+    "trx": "Однажды я видел кое-что в новостях. ",
+    "val": "Однажды я видел кое-что в новостях. "
+  },
+  {
+    "key": "About an accident caused by a plastic bottle bursting after it was filled with dry ice and water. ",
+    "trx": "О несчастном случае, вызванном разрывом пластиковой бутылки после того, как она была наполнена сухим льдом и водой. ",
+    "val": "О несчастном случае, вызванном разрывом пластиковой бутылки, наполненной сухим льдом и водой. "
+  },
+  {
+    "key": "Decided to put that to practical use.” ",
+    "trx": "Решил применить это на практике.” ",
+    "val": "Решил применить это на практике.” "
+  },
+  {
+    "key": "“Wow! I get it!” Flaps said. “Now that you mention it...when dry ice sublimates, it expands to a volume over seven hundred times its solid size! ",
+    "trx": "“Ух ты! Я понял!” Сказал Закрылки. “Теперь, когда вы упомянули об этом...когда сухой лед сублимируется, он расширяется до объема, более чем в семьсот раз превышающего его твердый размер! ",
+    "val": "“Ух ты! Я понял!” сказал Флапс. “Теперь, когда ты это упомянул...когда сухой лед сублимируется, он расширяется более, чем в семьсот раз от своего объема в твердом состоянии! "
+  },
+  {
+    "key": "Mean Clean, you could hold enough dry ice to expand to a volume of over three hundred and fifty liters.”",
+    "trx": "В чистом виде вы могли бы вместить достаточно сухого льда, чтобы расширить его до объема более трехсот пятидесяти литров.”",
+    "val": "Чистюля, в тебя бы уместилось достаточно сухого льда, чтобы расшириться до объема более трехсот пятидесяти литров.”"
+  },
+  {
+    "key": "Flaps nodded in understanding, still crying. ",
+    "trx": "Закрылки понимающе кивнули, все еще плача. ",
+    "val": "Флапс понимающе кивнул, все еще плача. "
+  },
+  {
+    "key": "“And then, when you had Juice shoot you—",
+    "trx": "“А потом, когда ты заставил Джуса застрелить тебя—",
+    "val": "“А потом, когда ты заставил Джуса выстрелить в тебя — "
+  },
+  {
+    "key": "you kept the compressed gas inside your body, then let the bullets blast out from inside you all at once.”",
+    "trx": "вы держали сжатый газ внутри своего тела, а затем позволили пулям вырваться из вас одновременно.”",
+    "val": "ты удерживал сжатый газ внутри себя, а затем позволил пулям вырваться изнутри одновременно.”"
+  },
+  {
+    "key": "“That’s amazing, dude. ",
+    "trx": "“Это потрясающе, чувак. ",
+    "val": "“Чувак, это потрясающе. "
+  },
+  {
+    "key": "But like, also way too reckless,” said Big Joe.",
+    "trx": "Но в то же время слишком безрассудно, - сказал Большой Джо.",
+    "val": "Но в то же время слишком безрассудно,” сказал Большой Джо."
+  },
+  {
+    "key": "“Yeah, I guess. ",
+    "trx": "“Да, я думаю. ",
+    "val": "“Ага, наверное. "
+  },
+  {
+    "key": "Desperate measures for a desperate situation. ",
+    "trx": "Отчаянные меры для отчаянной ситуации. ",
+    "val": "Отчаянные меры для отчаянной ситуации. "
+  },
+  {
+    "key": "Don’t try this at home, kids.” ",
+    "trx": "Не пытайтесь делать это дома, дети\". ",
+    "val": "Не пытайтесь повторить это дома, дети.” "
+  },
+  {
+    "key": "There was a distant look in Mean Clean’s eyes.",
+    "trx": "В глазах Злого Чистюли был отстраненный взгляд.",
+    "val": "Взгляд Чистюли был отстраненным."
+  },
+  {
+    "key": "“Big Joe, Flaps...",
+    "trx": "“Большой Джо, Закрылки...",
+    "val": "“Большой Джо, Флапс..."
+  },
+  {
+    "key": "Please...toss me in the bin.” ",
+    "trx": "Пожалуйста... выбрось меня в мусорное ведро”. ",
+    "val": "Пожалуйста...выбросьте меня в урну.” "
+  },
+  {
+    "key": "Big Joe and Flaps exchanged glances.",
+    "trx": "Большой Джо и Флэпс обменялись взглядами.",
+    "val": "Большой Джо и Флапс обменялись взглядами."
+  },
+  {
+    "key": "“Reusable waste,” said Flaps solemnly. “You got it.”",
+    "trx": "“ Отходы многоразового использования, ” торжественно произнес Флапс. “Ты понял”.",
+    "val": "“Многоразовые отходы,” торжественно произнес Флапс. “Та понял.”"
+  },
+  {
+    "key": "“Thanks.” ",
+    "trx": "“спасибо”. ",
+    "val": "“Благодарю.” "
+  },
+  {
+    "key": "Big Joe picked up Mean Clean and walked over to the trash bin. ",
+    "trx": "Большой Джо подобрал Грязную салфетку и подошел к мусорному ведру. ",
+    "val": "Большой Джо подобрал Чистюлю и подошел к мусорному ведру. "
+  },
+  {
+    "key": "“So long, dude. ",
+    "trx": "“Пока, чувак. ",
+    "val": "“Пока, чувак. "
+  },
+  {
+    "key": "I’ll send you on your way.”",
+    "trx": "Я отправлю тебя восвояси.”",
+    "val": "Я отправляю тебя в путь.”"
+  },
+  {
+    "key": "“Wait.” ",
+    "trx": "“Подожди”. ",
+    "val": "“Подожди.” "
+  },
+  {
+    "key": "Mean Clean weakly held up a hand. ",
+    "trx": "Подлый Чистюля слабо поднял руку. ",
+    "val": "Чистюля слегка поднял руку. "
+  },
+  {
+    "key": "“You still haven’t taken my cap off. ",
+    "trx": "“Ты все еще не снял с меня кепку. ",
+    "val": "“Ты все еще не открутил с меня крышку. "
+  },
+  {
+    "key": "Always take the cap off of a plastic bottle before throwing it away. ",
+    "trx": "Всегда снимайте крышку с пластиковой бутылки, прежде чем выбрасывать ее. ",
+    "val": "Всегда снимайте крышку с пластиковой бутылки, прежде чем выбрасывать ее. "
+  },
+  {
+    "key": "Everyone knows that.” ",
+    "trx": "Все это знают.” ",
+    "val": "Каждый это знает.” "
+  },
+  {
+    "key": "“But...but...dude...” ",
+    "trx": "“Но... но... чувак...” ",
+    "val": "“Но...но...чувак...” "
+  },
+  {
+    "key": "Both Big Joe and Flaps had already realized: ",
+    "trx": "И Большой Джо, и Флапс уже поняли: ",
+    "val": "И Большой Джо, и Флапс уже поняли: "
+  },
+  {
+    "key": "if the cap were removed, the fine cracks running through Mean Clean’s bottle body would break it apart completely.",
+    "trx": "если бы колпачок был снят, мелкие трещины, проходящие по корпусу бутылки Mean Clean, полностью разорвали бы ее на части.",
+    "val": "если открутить крышку, из-за мелких трещин, проходящих по бутылочному телу Чистюли, он распадется на куски."
+  },
+  {
+    "key": "That cap was the only thing keeping their friend together.",
+    "trx": "Эта кепка была единственным, что держало их друга вместе.",
+    "val": "Крышка была единственным, что сохраняло их друга целым."
+  },
+  {
+    "key": "“Don’t be ridiculous. ",
+    "trx": "“Не будь смешным. ",
+    "val": "“Не будь смешным. "
+  },
+  {
+    "key": "No matter how many times I die, I’ll keep coming back. ",
+    "trx": "Неважно, сколько раз я умру, я буду продолжать возвращаться. ",
+    "val": "Неважно, сколько раз я умру, я буду продолжать возвращаться. "
+  },
+  {
+    "key": "I’m not your run-of-the-mill plastic bottle.” ",
+    "trx": "Я тебе не заурядная пластиковая бутылка.” ",
+    "val": "Я тебе не заурядная пластиковая бутылка.” "
+  },
+  {
+    "key": "Mean Clean fixed Big Joe and Flaps with an earnest stare.",
+    "trx": "Подлый Чистюля пристально посмотрел на Большого Джо и закрылки.",
+    "val": "Чистюля пристально посмотрел на Большого Джо и Флапса."
+  },
+  {
+    "key": "“As long as this city isn’t clean, monsters like that one we fought will keep turning up. ",
+    "trx": "“До тех пор, пока этот город не будет чистым, монстры, подобные тому, с которым мы сражались, будут появляться и дальше. ",
+    "val": "“До тех пор, пока этот город не будет чистым, монстры, подобные этому, будут появляться и дальше. "
+  },
+  {
+    "key": "Until I return, you guys are going to have to make do somehow. ",
+    "trx": "Пока я не вернусь, вам, ребята, придется как-то обходиться. ",
+    "val": "Пока я не вернусь, вам, ребята, придется как-то обходиться без меня. "
+  },
+  {
+    "key": "Got it?” ",
+    "trx": "Понял?” ",
+    "val": "Поняли?” "
+  },
+  {
+    "key": "“We’ve got it, dude,” Big Joe said. ",
+    "trx": "“У нас получилось, чувак\", ” сказал Большой Джо. ",
+    "val": "“Мы поняли, чувак,” сказал Большой Джо. "
+  },
+  {
+    "key": "Then, gently, he unscrewed Mean Clean’s cap.",
+    "trx": "Затем он осторожно отвинтил колпачок Mean Clean.",
+    "val": "Затем он аккуратно отвинтил крышку Чистюли."
+  },
+  {
+    "key": "A moment passed, then Mean Clean’s body burst into pieces.",
+    "trx": "Прошло мгновение, а затем тело Злого Чистого разлетелось на куски.",
+    "val": "Через мгновенье тело Чистюли разлетелось на куски."
+  },
+  {
+    "key": "Shards of plastic glittered in the air like diamond dust.",
+    "trx": "Осколки пластика блестели в воздухе, как алмазная пыль.",
+    "val": "Осколки пластика заблестели в воздухе, как алмазная пыль."
+  },
+  {
+    "key": "They were caught up by a gentle breeze, and Mean Clean was gone.",
+    "trx": "Их подхватил легкий ветерок, и Злой Чистюля исчез.",
+    "val": "Их подхватил легкий ветерок, и Чистюля исчез."
+  },
+  {
+    "key": "“Goodbye, dude. You...you were the cleanest.” ",
+    "trx": "“Прощай, чувак. Ты... ты был самым чистым.” ",
+    "val": "“Прощай, чувак. Ты...ты был самым чистым.” "
+  },
+  {
+    "key": "Orange-colored tears stained Flaps’ cheeks.",
+    "trx": "Оранжевые слезы запачкали щеки Флэпса.",
+    "val": "Оранжевые слезы запачкали щеки Флапса."
+  },
+  {
+    "key": "“No.” ",
+    "trx": "\"нет.\" ",
+    "val": "“Нет.” "
+  },
+  {
+    "key": "Big Joe’s face hardened. ",
+    "trx": "Лицо Большого Джо посуровело. ",
+    "val": "Лицо Большого Джо посуровело. "
+  },
+  {
+    "key": "“This isn’t goodbye. ",
+    "trx": "“Это не прощание. ",
+    "val": "“Это не прощание. "
+  },
+  {
+    "key": "It’s ",
+    "trx": "Это ",
+    "val": "Это "
+  },
+  {
+    "key": "‘until we meet again.’” ",
+    "trx": "\"пока мы снова не встретимся\".” ",
+    "val": "‘пока мы не встретимся вновь.’” "
+  },
+  {
+    "key": "He clutched the bottle cap tightly in his hand.",
+    "trx": "Он крепко сжал в руке крышку от бутылки.",
+    "val": "Он крепко сжал в руке крышку от бутылки."
+  },
+  {
+    "key": "He squeezed it again, ",
+    "trx": "Он снова сжал ее, ",
+    "val": "Он сжимал ее снова "
+  },
+  {
+    "key": "and again, ",
+    "trx": "и снова, ",
+    "val": "и снова, "
+  },
+  {
+    "key": "in the hope that his wishes might be heard.",
+    "trx": "в надежде, что его пожелания могут быть услышаны.",
+    "val": "надеясь, что его пожелания будут услышаны."
+  },
+  {
+    "key": "There is another face to this city.",
+    "trx": "У этого города есть еще одно лицо.",
+    "val": "У этого города есть еще одно лицо."
+  },
+  {
+    "key": "When you casually gaze at the sights,",
+    "trx": "Когда вы небрежно разглядываете достопримечательности,",
+    "val": "Когда вы мимоходом видите достопримечательности,"
+  },
+  {
+    "key": "amidst all of the normal, everyday things,",
+    "trx": "среди всех обычных, повседневных вещей,",
+    "val": "среди всех обычных, повседневных вещей,"
+  },
+  {
+    "key": "there are stories that nobody has told.",
+    "trx": "есть истории, которые никто не рассказывал.",
+    "val": "существуют истории, которые не рассказывал никто."
+  },
+  {
+    "key": "Now, some of them have been heard at last.",
+    "trx": "Теперь некоторые из них наконец были услышаны.",
+    "val": "Теперь некоторые из них наконец были услышаны."
+  },
+  {
+    "key": "Today has been a day for many stories,",
+    "trx": "Сегодня был день для многих историй,",
+    "val": "Сегодня было много историй,"
+  },
+  {
+    "key": "which I hope will live on in someone’s heart.",
+    "trx": "который, я надеюсь, будет жить в чьем-то сердце.",
+    "val": "которые, как я надеюсь, будут жить в чьем-то сердце."
+  },
+  {
+    "key": "Until the day we meet again.",
+    "trx": "До того дня, когда мы встретимся снова.",
+    "val": "До того дня, когда мы встретимся вновь."
+  },
+  {
+    "key": "\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000—Hechimarl",
+    "trx": "\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000— Хечимарл",
+    "val": "\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000—Хечимарл"
+  },
+  {
+    "key": "Now the curtain falls after a very long day,",
+    "trx": "Теперь занавес опускается после очень долгого дня,",
+    "val": "И вот опустился занавес после долгого дня,"
+  },
+  {
+    "key": "and all is RIGHT with the city at last.",
+    "trx": "и наконец-то с городом все в порядке.",
+    "val": "и с городом, наконец, всё в порядке."
+  },
+  {
+    "key": "For now, there are no more tales LEFT to ",
+    "trx": "На данный момент больше не осталось историй для ",
+    "val": "Нет больше историй о снующих то ВЛЕВО, то "
+  },
+  {
+    "key": "tell of the people of Shibuya, their crossing paths and intertwining fates having painted ",
+    "trx": "расскажите о жителях Сибуи, их пересекающихся путях и переплетающихся судьбах, нарисовавших ",
+    "val": "ВПРАВО жителях Сибуи, их пересекающиеся пути и переплетающиеся судьбы уже нарисовали"
+  },
+  {
+    "key": "so many pictures for you already. ",
+    "trx": "для тебя уже так много фотографий. ",
+    "val": "для вас так много картин. "
+  },
+  {
+    "key": "If you ever want to see what they are UP to,",
+    "trx": "Если вы когда-нибудь захотите посмотреть, чем они занимаются,",
+    "val": "Однако, вы всегда можете посетить Сибую снова,"
+  },
+  {
+    "key": "however, come on DOWN to Shibuya",
+    "trx": "тем не менее, приезжайте в Сибую",
+    "val": "подняться ВВЕРХ и спуститься ВНИЗ по Догензаке"
+  },
+  {
+    "key": "again whenever you might like.",
+    "trx": "снова, когда захочешь.",
+    "val": "и еще раз посмотреть на то, чем они занимаются."
+  },
+  {
+    "key": "\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000—Hechimarl",
+    "trx": "\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000— Хечимарл",
+    "val": "\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000—Хечимарл"
+  }
+]

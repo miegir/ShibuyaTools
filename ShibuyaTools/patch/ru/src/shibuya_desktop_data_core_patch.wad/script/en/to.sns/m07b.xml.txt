@@ -1,0 +1,302 @@
+[
+  {
+    "key": "The first thing I see is the sky overhead.",
+    "trx": "Первое, что я вижу, - это небо над головой.",
+    "val": "The first thing I see is the sky overhead."
+  },
+  {
+    "key": "It’s so bright that I have to lower my eyes—and then I spot someone in the distance.",
+    "trx": "Он такой яркий, что мне приходится опустить глаза — и тут я замечаю кого-то вдалеке.",
+    "val": "It’s so bright that I have to lower my eyes—and then I spot someone in the distance."
+  },
+  {
+    "key": "It’s a man.",
+    "trx": "Это мужчина.",
+    "val": "It’s a man."
+  },
+  {
+    "key": "There’s a man standing on the edge of the roof of the building across the way.",
+    "trx": "На краю крыши здания напротив стоит мужчина.",
+    "val": "There’s a man standing on the edge of the roof of the building across the way."
+  },
+  {
+    "key": "“Ah!”",
+    "trx": "“Ах!”",
+    "val": "“Ah!”"
+  },
+  {
+    "key": "Momentarily forgetting my own situation, I cry out.",
+    "trx": "На мгновение забыв о своем собственном положении, я кричу.",
+    "val": "Momentarily forgetting my own situation, I cry out."
+  },
+  {
+    "key": "“Huh?” ",
+    "trx": "\"Хм?\" ",
+    "val": "“Huh?” "
+  },
+  {
+    "key": "The young man in front of me turns in surprise to see where I’m pointing.",
+    "trx": "Молодой человек передо мной удивленно оборачивается, чтобы посмотреть, куда я указываю.",
+    "val": "The young man in front of me turns in surprise to see where I’m pointing."
+  },
+  {
+    "key": "The man across the way is staring into the streets below, looking like he might jump at any moment.",
+    "trx": "Мужчина напротив пристально смотрит на улицы внизу, выглядя так, словно может прыгнуть в любой момент.",
+    "val": "The man across the way is staring into the streets below, looking like he might jump at any moment."
+  },
+  {
+    "key": "“Detective Tateno, ",
+    "trx": "“Детектив Татено, ",
+    "val": "“Detective Tateno, "
+  },
+  {
+    "key": "I’ll be right back! We can finish this after.” ",
+    "trx": "Я сейчас вернусь! Мы можем закончить это после.” ",
+    "val": "I’ll be right back! We can finish this after.” "
+  },
+  {
+    "key": "The young man takes off, disappearing down the stairwell.",
+    "trx": "Молодой человек взлетает и исчезает на лестнице.",
+    "val": "The young man takes off, disappearing down the stairwell."
+  },
+  {
+    "key": "My heart pounds nervously in my chest as I gaze across at the other building. ",
+    "trx": "Мое сердце нервно колотится в груди, когда я смотрю на другое здание. ",
+    "val": "My heart pounds nervously in my chest as I gaze across at the other building. "
+  },
+  {
+    "key": "Then my captor—Tateno, as the other guy called him—grabs my arm.",
+    "trx": "Затем мой похититель — Татено, как назвал его другой парень, — хватает меня за руку.",
+    "val": "Then my captor—Tateno, as the other guy called him—grabs my arm."
+  },
+  {
+    "key": "“Let’s go.”",
+    "trx": "“Пойдем”.",
+    "val": "“Let’s go.”"
+  },
+  {
+    "key": "“Huh? ",
+    "trx": "\"Хм? ",
+    "val": "“Huh? "
+  },
+  {
+    "key": "Are we heading over there too?”",
+    "trx": "Мы тоже направляемся туда?”",
+    "val": "Are we heading over there too?”"
+  },
+  {
+    "key": "“No. ",
+    "trx": "\"Нет. ",
+    "val": "“No. "
+  },
+  {
+    "key": "We’re going somewhere else. ",
+    "trx": "Мы едем в другое место. ",
+    "val": "We’re going somewhere else. "
+  },
+  {
+    "key": "I don’t know where yet.” ",
+    "trx": "Я еще не знаю, где именно.” ",
+    "val": "I don’t know where yet.” "
+  },
+  {
+    "key": "Tateno’s got his gun trained on me again.",
+    "trx": "Татено снова наставил на меня пистолет.",
+    "val": "Tateno’s got his gun trained on me again."
+  },
+  {
+    "key": "Looks like I don’t have any choice but to go with him.",
+    "trx": "Похоже, у меня нет другого выбора, кроме как пойти с ним.",
+    "val": "Looks like I don’t have any choice but to go with him."
+  },
+  {
+    "key": "He nudges me on, and we head for the stairs.",
+    "trx": "Он подталкивает меня локтем, и мы направляемся к лестнице.",
+    "val": "He nudges me on, and we head for the stairs."
+  },
+  {
+    "key": "I take a quick look back at the sky above the city.",
+    "trx": "Я бросаю быстрый взгляд назад на небо над городом.",
+    "val": "I take a quick look back at the sky above the city."
+  },
+  {
+    "key": "This may be the last time I ever see the sky.",
+    "trx": "Возможно, это последний раз, когда я вижу небо.",
+    "val": "This may be the last time I ever see the sky."
+  },
+  {
+    "key": "For some reason ",
+    "trx": "По какой-то причине ",
+    "val": "For some reason "
+  },
+  {
+    "key": "that thought resounds inside my head.",
+    "trx": "эта мысль звучит в моей голове.",
+    "val": "that thought resounds inside my head."
+  },
+  {
+    "key": "No. 56\u3000",
+    "trx": "№ 56\u3000",
+    "val": "No. 56\u3000"
+  },
+  {
+    "key": "Taken by the Man with the Cane",
+    "trx": "Захваченный Человеком с тростью",
+    "val": "Taken by the Man with the Cane"
+  },
+  {
+    "key": "Hint",
+    "trx": "Подсказка",
+    "val": "Hint"
+  },
+  {
+    "key": "As soon as her blindfold was taken off, Maria spotted Minorikawa atop the building across the way. Kano rushed over there to stop what he thought was a potential suicide, and Tateno used the opportunity to abscond with his captive. Definitely a case of Minorikawa being in the wrong place at the wrong time.",
+    "trx": "Как только с ее глаз сняли повязку, Мария заметила Минорикаву на крыше здания напротив. Кано бросился туда, чтобы остановить то, что он считал потенциальным самоубийством, и Татено воспользовался возможностью, чтобы скрыться со своим пленником. Определенно, это случай, когда Минорикава оказался не в том месте не в то время.",
+    "val": "As soon as her blindfold was taken off, Maria spotted Minorikawa atop the building across the way. Kano rushed over there to stop what he thought was a potential suicide, and Tateno used the opportunity to abscond with his captive. Definitely a case of Minorikawa being in the wrong place at the wrong time."
+  },
+  {
+    "key": "“What was her name?”",
+    "trx": "“Как ее звали?”",
+    "val": "“What was her name?”"
+  },
+  {
+    "key": "I ask, curious to know more.",
+    "trx": "- спрашиваю я, желая узнать больше.",
+    "val": "I ask, curious to know more."
+  },
+  {
+    "key": "“Kotone. ",
+    "trx": "“Котоне. ",
+    "val": "“Kotone. "
+  },
+  {
+    "key": "We dated when we were in high school.”",
+    "trx": "Мы встречались, когда учились в старшей школе.”",
+    "val": "We dated when we were in high school.”"
+  },
+  {
+    "key": "“Oh, wow. ",
+    "trx": "“О, ничего себе. ",
+    "val": "“Oh, wow. "
+  },
+  {
+    "key": "But I get the impression from that picture that the other boy must have liked Kotone too, right?”",
+    "trx": "Но у меня складывается впечатление из этой фотографии, что другому мальчику, должно быть, тоже нравился Котоне, верно?”",
+    "val": "But I get the impression from that picture that the other boy must have liked Kotone too, right?”"
+  },
+  {
+    "key": "The gunman’s eyes widen. ",
+    "trx": "Глаза стрелка расширяются. ",
+    "val": "The gunman’s eyes widen. "
+  },
+  {
+    "key": "“You’re very astute.”",
+    "trx": "“Вы очень проницательны”.",
+    "val": "“You’re very astute.”"
+  },
+  {
+    "key": "“Call it a woman’s intuition,” I say proudly. ",
+    "trx": "“Назови это женской интуицией\", - говорю я с гордостью. ",
+    "val": "“Call it a woman’s intuition,” I say proudly. "
+  },
+  {
+    "key": "Then I ask the obvious follow-up. ",
+    "trx": "Затем я задаю очевидный вопрос. ",
+    "val": "Then I ask the obvious follow-up. "
+  },
+  {
+    "key": "“So what happened to you two?”",
+    "trx": "“Так что же случилось с вами двумя?”",
+    "val": "“So what happened to you two?”"
+  },
+  {
+    "key": "“I dumped her.”",
+    "trx": "“Я бросил ее”.",
+    "val": "“I dumped her.”"
+  },
+  {
+    "key": "The man carefully slips the notebook into the pocket inside his jacket.",
+    "trx": "Мужчина осторожно засовывает блокнот во внутренний карман пиджака.",
+    "val": "The man carefully slips the notebook into the pocket inside his jacket."
+  },
+  {
+    "key": "“How come?” I ask.",
+    "trx": "“Как так вышло?” Я спрашиваю.",
+    "val": "“How come?” I ask."
+  },
+  {
+    "key": "“I felt it was for the best.”",
+    "trx": "“Я чувствовал, что это к лучшему”.",
+    "val": "“I felt it was for the best.”"
+  },
+  {
+    "key": "“So was this some sort of love triangle?”",
+    "trx": "“Так это был какой-то любовный треугольник?”",
+    "val": "“So was this some sort of love triangle?”"
+  },
+  {
+    "key": "Well okay, then. Guess I’m the nosy sort.",
+    "trx": "Ну ладно, тогда ладно. Наверное, я из тех, кто сует нос в чужие дела.",
+    "val": "Well okay, then. Guess I’m the nosy sort."
+  },
+  {
+    "key": "The man grimaces, but nods.",
+    "trx": "Мужчина морщится, но кивает.",
+    "val": "The man grimaces, but nods."
+  },
+  {
+    "key": "“When we were in high school, she told me that she liked me. ",
+    "trx": "“Когда мы учились в старшей школе, она сказала мне, что я ей нравлюсь. ",
+    "val": "“When we were in high school, she told me that she liked me. "
+  },
+  {
+    "key": "So the two of us started dating.”",
+    "trx": "Так что мы вдвоем начали встречаться.”",
+    "val": "So the two of us started dating.”"
+  },
+  {
+    "key": "“And what about the other boy?” I ask.",
+    "trx": "“А что насчет другого мальчика?” Я спрашиваю.",
+    "val": "“And what about the other boy?” I ask."
+  },
+  {
+    "key": "The man casts his eyes down but doesn’t answer.",
+    "trx": "Мужчина опускает глаза, но не отвечает.",
+    "val": "The man casts his eyes down but doesn’t answer."
+  },
+  {
+    "key": "“He was in love with her too, ",
+    "trx": "“Он тоже был влюблен в нее, ",
+    "val": "“He was in love with her too, "
+  },
+  {
+    "key": "wasn’t he?”",
+    "trx": "не так ли?”",
+    "val": "wasn’t he?”"
+  },
+  {
+    "key": "“I wound up breaking up with the girl, and he was furious with me for it.”",
+    "trx": "“В итоге я порвал с девушкой, и он был зол на меня за это”.",
+    "val": "“I wound up breaking up with the girl, and he was furious with me for it.”"
+  },
+  {
+    "key": "The man carefully slips the notebook into the pocket inside his jacket.",
+    "trx": "Мужчина осторожно засовывает блокнот во внутренний карман пиджака.",
+    "val": "The man carefully slips the notebook into the pocket inside his jacket."
+  },
+  {
+    "key": "“I’m incapable of making other people happy.”",
+    "trx": "“Я не способен сделать других людей счастливыми\".",
+    "val": "“I’m incapable of making other people happy.”"
+  },
+  {
+    "key": "“Why’s that?”",
+    "trx": "“Почему это?”",
+    "val": "“Why’s that?”"
+  },
+  {
+    "key": "“Because that’s the sort of person I am.”",
+    "trx": "“Потому что я такой человек”.",
+    "val": "“Because that’s the sort of person I am.”"
+  }
+]

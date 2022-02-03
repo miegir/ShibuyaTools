@@ -1,0 +1,1897 @@
+[
+  {
+    "key": "He was going to kill her.",
+    "trx": "Он собирался убить ее.",
+    "val": "He was going to kill her."
+  },
+  {
+    "key": "Yes, ",
+    "trx": "Да, ",
+    "val": "Yes, "
+  },
+  {
+    "key": "the entire point of kidnapping Maria in the first place was to make sure she wound up dead.",
+    "trx": "весь смысл похищения Марии в первую очередь состоял в том, чтобы убедиться, что она окажется мертвой.",
+    "val": "the entire point of kidnapping Maria in the first place was to make sure she wound up dead."
+  },
+  {
+    "key": "But what purpose would killing a single Japanese college student serve?",
+    "trx": "Но какой цели могло послужить убийство одного-единственного студента японского колледжа?",
+    "val": "But what purpose would killing a single Japanese college student serve?"
+  },
+  {
+    "key": "Stanley could think of one good reason: ",
+    "trx": "Стэнли мог придумать одну вескую причину: ",
+    "val": "Stanley could think of one good reason: "
+  },
+  {
+    "key": "to send a warning to Kenji Osawa.",
+    "trx": "чтобы послать предупреждение Кэндзи Осаве.",
+    "val": "to send a warning to Kenji Osawa."
+  },
+  {
+    "key": "The antiviral Osawa had created, which rendered the killer virus useless as a biological weapon, was more than a simple inconvenience to the arch-terrorist.",
+    "trx": "Созданный Осавой антивирус, который сделал вирус-убийца бесполезным в качестве биологического оружия, был чем-то большим, чем просто неудобством для главного террориста.",
+    "val": "The antiviral Osawa had created, which rendered the killer virus useless as a biological weapon, was more than a simple inconvenience to the arch-terrorist."
+  },
+  {
+    "key": "Presumably Alphard meant to threaten Osawa into ceasing further development of the drug.",
+    "trx": "Предположительно, Альфард намеревался пригрозить Осаве, чтобы он прекратил дальнейшую разработку препарата.",
+    "val": "Presumably Alphard meant to threaten Osawa into ceasing further development of the drug."
+  },
+  {
+    "key": "In which case...perhaps Alphard’s true objective was not to get the antiviral from Hitomi’s blood after all, ",
+    "trx": "В таком случае... возможно, истинной целью Альфарда было вовсе не получение противовирусного препарата из крови Хитоми, ",
+    "val": "In which case...perhaps Alphard’s true objective was not to get the antiviral from Hitomi’s blood after all, "
+  },
+  {
+    "key": "but instead to prevent research on the drug, ",
+    "trx": "но вместо этого, чтобы предотвратить исследования препарата, ",
+    "val": "but instead to prevent research on the drug, "
+  },
+  {
+    "key": "and then to eradicate whatever samples of it remained.",
+    "trx": "а затем уничтожить все, что от него осталось.",
+    "val": "and then to eradicate whatever samples of it remained."
+  },
+  {
+    "key": "Was the plan, then, to lure Stanley and the others to the scramble so that the lab would be unprotected in the meantime?",
+    "trx": "Значит, план состоял в том, чтобы заманить Стэнли и остальных в драку, чтобы тем временем лаборатория осталась незащищенной?",
+    "val": "Was the plan, then, to lure Stanley and the others to the scramble so that the lab would be unprotected in the meantime?"
+  },
+  {
+    "key": "Stanley shuddered at his own conclusion.",
+    "trx": "Стенли содрогнулся от собственного заключения.",
+    "val": "Stanley shuddered at his own conclusion."
+  },
+  {
+    "key": "If he was right, then the ‘negotiations’ at the scramble were likely nothing but a smokescreen.",
+    "trx": "Если он был прав, то \"переговоры\" во время схватки, скорее всего, были не чем иным, как дымовой завесой.",
+    "val": "If he was right, then the ‘negotiations’ at the scramble were likely nothing but a smokescreen."
+  },
+  {
+    "key": "It was entirely possible no one would turn up at all.",
+    "trx": "Вполне возможно, что никто вообще не появится.",
+    "val": "It was entirely possible no one would turn up at all."
+  },
+  {
+    "key": "He shouldn’t go to the scramble now—he should head straight to the lab.",
+    "trx": "Ему не следует сейчас идти на схватку — он должен направиться прямо в лабораторию.",
+    "val": "He shouldn’t go to the scramble now—he should head straight to the lab."
+  },
+  {
+    "key": "He was going to trade her for Hitomi.",
+    "trx": "Он собирался обменять ее на Хитоми.",
+    "val": "He was going to trade her for Hitomi."
+  },
+  {
+    "key": "It certainly seemed reasonable enough.",
+    "trx": "Это, безусловно, казалось достаточно разумным.",
+    "val": "It certainly seemed reasonable enough."
+  },
+  {
+    "key": "He needed to kidnap Maria in order to infect her with the virus, first and foremost.",
+    "trx": "Ему нужно было похитить Марию, чтобы в первую очередь заразить ее вирусом.",
+    "val": "He needed to kidnap Maria in order to infect her with the virus, first and foremost."
+  },
+  {
+    "key": "And she had indeed been injected with it at eight o’clock that morning.",
+    "trx": "И ей действительно сделали укол в восемь часов утра.",
+    "val": "And she had indeed been injected with it at eight o’clock that morning."
+  },
+  {
+    "key": "Next, Alphard would have carried out a hostage exchange for Hitomi in order to obtain her blood.",
+    "trx": "Затем Альфард осуществил бы обмен заложниками на Хитоми, чтобы получить ее кровь.",
+    "val": "Next, Alphard would have carried out a hostage exchange for Hitomi in order to obtain her blood."
+  },
+  {
+    "key": "Maria would be free to go—but infected with Ua.",
+    "trx": "Мария была бы свободна идти — но заражена Ua.",
+    "val": "Maria would be free to go—but infected with Ua."
+  },
+  {
+    "key": "What purpose would that serve?",
+    "trx": "Какой цели это послужит?",
+    "val": "What purpose would that serve?"
+  },
+  {
+    "key": "It was simple enough to deduce.",
+    "trx": "Это было достаточно просто сделать вывод.",
+    "val": "It was simple enough to deduce."
+  },
+  {
+    "key": "Once he learned that Maria had the virus, Kenji Osawa was certain to take action.",
+    "trx": "Как только он узнал, что у Марии вирус, Кэндзи Осава был уверен, что примет меры.",
+    "val": "Once he learned that Maria had the virus, Kenji Osawa was certain to take action."
+  },
+  {
+    "key": "He would bring her into the storage facility in order to administer the antiviral, just as he’d done with Hitomi.",
+    "trx": "Он приведет ее в хранилище, чтобы ввести противовирусное средство, точно так же, как он сделал с Хитоми.",
+    "val": "He would bring her into the storage facility in order to administer the antiviral, just as he’d done with Hitomi."
+  },
+  {
+    "key": "That meant that the storage facility would be opened once more.",
+    "trx": "Это означало, что хранилище будет открыто еще раз.",
+    "val": "That meant that the storage facility would be opened once more."
+  },
+  {
+    "key": "That",
+    "trx": "Тот",
+    "val": "That"
+  },
+  {
+    "key": " was what Alphard was really after: ",
+    "trx": " это было то, чего на самом деле добивался Альфард: ",
+    "val": " was what Alphard was really after: "
+  },
+  {
+    "key": "a way in, so he could destroy the antiviral samples at the lab.",
+    "trx": "способ проникнуть внутрь, чтобы он мог уничтожить образцы противовирусных препаратов в лаборатории.",
+    "val": "a way in, so he could destroy the antiviral samples at the lab."
+  },
+  {
+    "key": "It was the only logical conclusion.",
+    "trx": "Это был единственный логический вывод.",
+    "val": "It was the only logical conclusion."
+  },
+  {
+    "key": "Infecting Hitomi six days earlier had ensured that she would be carrying the DDS in her body, ",
+    "trx": "Заражение Хитоми шестью днями ранее гарантировало, что она будет переносить DDS в своем теле, ",
+    "val": "Infecting Hitomi six days earlier had ensured that she would be carrying the СДЛ in her body, "
+  },
+  {
+    "key": "but it had also served as a sort of dry run for today.",
+    "trx": "но это также послужило своего рода пробежкой на сегодня.",
+    "val": "but it had also served as a sort of dry run for today."
+  },
+  {
+    "key": "If it turned out that Osawa wasn’t able to access the antiviral storage on his own, the entire plan would fall apart.",
+    "trx": "Если бы выяснилось, что Осава не смог самостоятельно получить доступ к хранилищу антивирусов, весь план развалился бы.",
+    "val": "If it turned out that Osawa wasn’t able to access the antiviral storage on his own, the entire plan would fall apart."
+  },
+  {
+    "key": "Hitomi had been a test case in order to make sure.",
+    "trx": "Хитоми была тестовым примером, чтобы убедиться в этом.",
+    "val": "Hitomi had been a test case in order to make sure."
+  },
+  {
+    "key": "The ‘negotiations’ at the scramble were almost certainly a smokescreen.",
+    "trx": "\"Переговоры\" во время схватки почти наверняка были дымовой завесой.",
+    "val": "The ‘negotiations’ at the scramble were almost certainly a smokescreen."
+  },
+  {
+    "key": "Alphard wanted to lure Stanley the others to the scramble in order to clear the way for an assault on the lab in the meantime.",
+    "trx": "Альфард хотел заманить Стэнли и остальных в драку, чтобы тем временем расчистить путь для нападения на лабораторию.",
+    "val": "Alphard wanted to lure Stanley the others to the scramble in order to clear the way for an assault on the lab in the meantime."
+  },
+  {
+    "key": "The first order of business was to stop him from getting inside.",
+    "trx": "Первым делом нужно было помешать ему проникнуть внутрь.",
+    "val": "The first order of business was to stop him from getting inside."
+  },
+  {
+    "key": "But how?",
+    "trx": "Но как?",
+    "val": "But how?"
+  },
+  {
+    "key": "Should Stanley leave the stakeout at the scramble for Kano and the others while he headed to the lab himself?",
+    "trx": "Должен ли Стэнли оставить наблюдение за схваткой для Кано и остальных, а сам отправиться в лабораторию?",
+    "val": "Should Stanley leave the stakeout at the scramble for Kano and the others while he headed to the lab himself?"
+  },
+  {
+    "key": "He couldn’t decide that alone. ",
+    "trx": "Он не мог решить это в одиночку. ",
+    "val": "He couldn’t decide that alone. "
+  },
+  {
+    "key": "He headed back into the shop with Daisuke to see where things stood with the others.",
+    "trx": "Он направился обратно в магазин вместе с Дайсуке, чтобы посмотреть, как обстоят дела у остальных.",
+    "val": "He headed back into the shop with Daisuke to see where things stood with the others."
+  },
+  {
+    "key": ",\\",
+    "trx": ",\\",
+    "val": ",\\"
+  },
+  {
+    "key": "Kano’s plan of action for the scramble was steadily coming together.",
+    "trx": "План действий Кано в этой схватке неуклонно складывался воедино.",
+    "val": "Kano’s plan of action for the scramble was steadily coming together."
+  },
+  {
+    "key": "Stanley half-listened as the young detective discussed the stakeout with the rest of the group.",
+    "trx": "Стэнли вполуха слушал, как молодой детектив обсуждал засаду с остальными членами группы.",
+    "val": "Stanley half-listened as the young detective discussed the stakeout with the rest of the group."
+  },
+  {
+    "key": "His own mind was still caught up with the question of what he himself should do.",
+    "trx": "Его собственный разум все еще был занят вопросом о том, что ему самому следует делать.",
+    "val": "His own mind was still caught up with the question of what he himself should do."
+  },
+  {
+    "key": "He couldn’t shake the conviction that he needed to head to the lab.",
+    "trx": "Он не мог избавиться от убеждения, что ему нужно отправиться в лабораторию.",
+    "val": "He couldn’t shake the conviction that he needed to head to the lab."
+  },
+  {
+    "key": "Even assuming that Alphard really did turn up at the scramble, ",
+    "trx": "Даже если предположить, что Альфард действительно появился в схватке, ",
+    "val": "Even assuming that Alphard really did turn up at the scramble, "
+  },
+  {
+    "key": "and assuming that he carried out another bioterror attack there, ",
+    "trx": "и предполагая, что он совершил там еще одну биотеррористическую атаку, ",
+    "val": "and assuming that he carried out another bioterror attack there, "
+  },
+  {
+    "key": "the worst that could happen would be a disaster in Shibuya.",
+    "trx": "худшее, что могло случиться, - это катастрофа в Сибуе.",
+    "val": "the worst that could happen would be a disaster in Shibuya."
+  },
+  {
+    "key": "Terrible though that might be, it would be far worse to let Alphard, who was already in possession of the Ua virus, destroy the world’s only supply of the antiviral.",
+    "trx": "Как бы это ни было ужасно, было бы гораздо хуже позволить Альфарду, у которого уже был вирус Ua, уничтожить единственный в мире запас противовирусного препарата.",
+    "val": "Terrible though that might be, it would be far worse to let Alphard, who was already in possession of the Ua virus, destroy the world’s only supply of the antiviral."
+  },
+  {
+    "key": "If he succeeded at that scheme, his bioweapon would be unstoppable; he could hold the entire planet in the grip of fear.",
+    "trx": "Если бы он преуспел в этом плане, его биологическое оружие было бы неудержимо; он мог бы держать всю планету в тисках страха.",
+    "val": "If he succeeded at that scheme, his bioweapon would be unstoppable; he could hold the entire planet in the grip of fear."
+  },
+  {
+    "key": "A terrorist arms dealer must never be allowed to obtain that kind of power.",
+    "trx": "Торговцу оружием-террористу никогда не должно быть позволено получить такую власть.",
+    "val": "A terrorist arms dealer must never be allowed to obtain that kind of power."
+  },
+  {
+    "key": "Stanley couldn’t take that risk. ",
+    "trx": "Стэнли не мог так рисковать. ",
+    "val": "Stanley couldn’t take that risk. "
+  },
+  {
+    "key": "Even if he was wrong in his suspicions, it only made sense to shore up the defense of the lab.",
+    "trx": "Даже если он ошибался в своих подозрениях, имело смысл только укрепить оборону лаборатории.",
+    "val": "Even if he was wrong in his suspicions, it only made sense to shore up the defense of the lab."
+  },
+  {
+    "key": "There was only one person he could count on now: ",
+    "trx": "Сейчас он мог рассчитывать только на одного человека: ",
+    "val": "There was only one person he could count on now: "
+  },
+  {
+    "key": "Canaan.",
+    "trx": "Ханаан.",
+    "val": "Canaan."
+  },
+  {
+    "key": "She was on the way to the lab already; if Stanley could alert her to his conclusions, it would make it that much harder for Alphard to carry out his plan.",
+    "trx": "Она уже была на пути в лабораторию; если бы Стэнли мог предупредить ее о своих выводах, Альфарду было бы намного труднее осуществить свой план.",
+    "val": "She was on the way to the lab already; if Stanley could alert her to his conclusions, it would make it that much harder for Alphard to carry out his plan."
+  },
+  {
+    "key": "If nothing else, hopefully she could buy time for Stanley to get there.",
+    "trx": "Во всяком случае, она надеялась, что ей удастся выиграть время для того, чтобы Стэнли добрался туда.",
+    "val": "If nothing else, hopefully she could buy time for Stanley to get there."
+  },
+  {
+    "key": "Stanley approached Kano. ",
+    "trx": "Стэнли подошел к Кано. ",
+    "val": "Stanley approached Kano. "
+  },
+  {
+    "key": "“You need to go to the scramble without me,” he said.",
+    "trx": "“Тебе нужно пойти на схватку без меня”, - сказал он.",
+    "val": "“You need to go to the scramble without me,” he said."
+  },
+  {
+    "key": "“What?!” ",
+    "trx": "“Что?!” ",
+    "val": "“What?!” "
+  },
+  {
+    "key": "Kano was visibly shocked. ",
+    "trx": "Кано был явно потрясен. ",
+    "val": "Kano was visibly shocked. "
+  },
+  {
+    "key": "“Where’s this coming from all of a sudden?”",
+    "trx": "“Откуда это вдруг взялось?”",
+    "val": "“Where’s this coming from all of a sudden?”"
+  },
+  {
+    "key": "“Please, don’t ask me to explain. ",
+    "trx": "“Пожалуйста, не проси меня объяснять. ",
+    "val": "“Please, don’t ask me to explain. "
+  },
+  {
+    "key": "Something else has come up, and I have to see to it.”",
+    "trx": "Появилось кое-что еще, и я должен позаботиться об этом”.",
+    "val": "Something else has come up, and I have to see to it.”"
+  },
+  {
+    "key": "Stanley hated having to do this.",
+    "trx": "Стэнли ненавидел делать это.",
+    "val": "Stanley hated having to do this."
+  },
+  {
+    "key": "He wished he could explain everything.",
+    "trx": "Ему хотелось бы все объяснить.",
+    "val": "He wished he could explain everything."
+  },
+  {
+    "key": "If he made any unusual moves now, though, there was a risk Alphard would pick up on it.",
+    "trx": "Однако, если бы он сейчас сделал какие-нибудь необычные движения, существовал риск, что Альфард это заметит.",
+    "val": "If he made any unusual moves now, though, there was a risk Alphard would pick up on it."
+  },
+  {
+    "key": "There was no telling where the mastermind might be watching.",
+    "trx": "Никто не мог сказать, откуда мог наблюдать вдохновитель.",
+    "val": "There was no telling where the mastermind might be watching."
+  },
+  {
+    "key": "It was better to keep his companions in the dark, just in case.",
+    "trx": "На всякий случай лучше было держать его спутников в неведении.",
+    "val": "It was better to keep his companions in the dark, just in case."
+  },
+  {
+    "key": "“I understand,” Kano said. ",
+    "trx": "”Я понимаю\", - сказал Кано. ",
+    "val": "“I understand,” Kano said. "
+  },
+  {
+    "key": "“Do what you have to, and come back soon.”",
+    "trx": "“Делай то, что должен, и возвращайся поскорее”.",
+    "val": "“Do what you have to, and come back soon.”"
+  },
+  {
+    "key": "“I’m sorry. ",
+    "trx": "\"мне жаль. ",
+    "val": "“I’m sorry. "
+  },
+  {
+    "key": "I wish I could tell you more.”",
+    "trx": "Жаль, что я не могу рассказать тебе больше.”",
+    "val": "I wish I could tell you more.”"
+  },
+  {
+    "key": "“It’s all right. ",
+    "trx": "“Все в порядке. ",
+    "val": "“It’s all right. "
+  },
+  {
+    "key": "I’ll find a way to get by.”",
+    "trx": "Я найду способ выжить\".",
+    "val": "I’ll find a way to get by.”"
+  },
+  {
+    "key": "Kano gave him the thumbs-up.",
+    "trx": "Кано показал ему поднятый большой палец.",
+    "val": "Kano gave him the thumbs-up."
+  },
+  {
+    "key": "The sight brought back some painful memories.",
+    "trx": "Это зрелище навеяло некоторые болезненные воспоминания.",
+    "val": "The sight brought back some painful memories."
+  },
+  {
+    "key": "Up until just a few hours ago, Stanley had instinctively seen Kano as all too naïve.",
+    "trx": "Всего несколько часов назад Стэнли инстинктивно считал Кано слишком наивным.",
+    "val": "Up until just a few hours ago, Stanley had instinctively seen Kano as all too naïve."
+  },
+  {
+    "key": "And now, he finally knew why.",
+    "trx": "И теперь он наконец понял почему.",
+    "val": "And now, he finally knew why."
+  },
+  {
+    "key": "Kano was just like his younger brother, Frank.",
+    "trx": "Кано был таким же, как его младший брат Фрэнк.",
+    "val": "Kano was just like his younger brother, Frank."
+  },
+  {
+    "key": "They might have looked very different, but in the way they mixed up their responsibilities with their personal feelings, they were totally alike.",
+    "trx": "Возможно, они выглядели совсем по-другому, но в том, как они сочетали свои обязанности со своими личными чувствами, они были совершенно одинаковы.",
+    "val": "They might have looked very different, but in the way they mixed up their responsibilities with their personal feelings, they were totally alike."
+  },
+  {
+    "key": "Stanley couldn’t discount that naïveté.",
+    "trx": "Стэнли не мог сбрасывать со счетов эту наивность.",
+    "val": "Stanley couldn’t discount that naïveté."
+  },
+  {
+    "key": "In the end, that was all a part of the human condition.",
+    "trx": "В конце концов, все это было частью человеческого состояния.",
+    "val": "In the end, that was all a part of the human condition."
+  },
+  {
+    "key": "“Jack, ",
+    "trx": "“Джек, ",
+    "val": "“Jack, "
+  },
+  {
+    "key": "are you really okay with this?” ",
+    "trx": "ты действительно не против этого?” ",
+    "val": "are you really okay with this?” "
+  },
+  {
+    "key": "Frank cast an anxious look at his older brother as they made their way onto the University of Chicago campus.",
+    "trx": "Фрэнк бросил тревожный взгляд на своего старшего брата, когда они направлялись в кампус Чикагского университета.",
+    "val": "Frank cast an anxious look at his older brother as they made their way onto the University of Chicago campus."
+  },
+  {
+    "key": "“It’s my responsibility to look after you,” Stanley told him. ",
+    "trx": "“Это моя обязанность - заботиться о тебе\", ” сказал ему Стэнли. ",
+    "val": "“It’s my responsibility to look after you,” Stanley told him. "
+  },
+  {
+    "key": "“As long as you take your studying seriously, I’m all for it.”",
+    "trx": "“До тех пор, пока ты серьезно относишься к учебе, я полностью за это”.",
+    "val": "“As long as you take your studying seriously, I’m all for it.”"
+  },
+  {
+    "key": "Frank had been worrying about tuition costs as he prepared for college.",
+    "trx": "Фрэнк беспокоился о стоимости обучения, когда готовился к поступлению в колледж.",
+    "val": "Frank had been worrying about tuition costs as he prepared for college."
+  },
+  {
+    "key": "After losing their parents five years earlier, the two had struggled to get by.",
+    "trx": "Потеряв родителей пять лет назад, эти двое с трудом сводили концы с концами.",
+    "val": "After losing their parents five years earlier, the two had struggled to get by."
+  },
+  {
+    "key": "“Yeah, but—”",
+    "trx": "\"Да, но...”",
+    "val": "“Yeah, but—”"
+  },
+  {
+    "key": "Stanley set both hands on his brother’s shoulders. ",
+    "trx": "Стенли положил обе руки на плечи брата. ",
+    "val": "Stanley set both hands on his brother’s shoulders. "
+  },
+  {
+    "key": "“Listen to me, Frank. ",
+    "trx": "“Послушай меня, Фрэнк. ",
+    "val": "“Listen to me, Frank. "
+  },
+  {
+    "key": "You’re my brother, and I care about you. ",
+    "trx": "Ты мой брат, и я забочусь о тебе. ",
+    "val": "You’re my brother, and I care about you. "
+  },
+  {
+    "key": "I just want whatever you do to be something you can be proud of.”",
+    "trx": "Я просто хочу, чтобы все, что ты делаешь, было тем, чем ты можешь гордиться”.",
+    "val": "I just want whatever you do to be something you can be proud of.”"
+  },
+  {
+    "key": "“All right, Jack. I hear you. ",
+    "trx": "“Хорошо, Джек. Я слышу тебя. ",
+    "val": "“All right, Jack. I hear you. "
+  },
+  {
+    "key": "And thanks.”",
+    "trx": "И спасибо.”",
+    "val": "And thanks.”"
+  },
+  {
+    "key": "“Kano, ",
+    "trx": "“Кано, ",
+    "val": "“Kano, "
+  },
+  {
+    "key": "promise me one thing.”",
+    "trx": "пообещай мне одну вещь.”",
+    "val": "promise me one thing.”"
+  },
+  {
+    "key": "“What’s that?”",
+    "trx": "“Что это?” - спросил я.",
+    "val": "“What’s that?”"
+  },
+  {
+    "key": "“Once this is all over, you’ll go have a beer with me.”",
+    "trx": "“Как только все это закончится, ты пойдешь выпить со мной пива\".",
+    "val": "“Once this is all over, you’ll go have a beer with me.”"
+  },
+  {
+    "key": "“Sure, all right.”",
+    "trx": "“Конечно, все в порядке”.",
+    "val": "“Sure, all right.”"
+  },
+  {
+    "key": "“That’s a promise now, remember.”",
+    "trx": "“Теперь это обещание, помни”.",
+    "val": "“That’s a promise now, remember.”"
+  },
+  {
+    "key": "Kano flashed him a grateful smile.",
+    "trx": "Кано одарил его благодарной улыбкой.",
+    "val": "Kano flashed him a grateful smile."
+  },
+  {
+    "key": "And in that smile, Stanley again saw a little something of Frank.",
+    "trx": "И в этой улыбке Стэнли снова увидел что-то от Фрэнка.",
+    "val": "And in that smile, Stanley again saw a little something of Frank."
+  },
+  {
+    "key": "Hurrying out of Endo Electronics, Stanley dialed up ",
+    "trx": "Выбежав из \"Эндо Электроникс\", Стэнли набрал номер ",
+    "val": "Hurrying out of Endo Electronics, Stanley dialed up "
+  },
+  {
+    "key": "Tateno",
+    "trx": "Татено",
+    "val": "Tateno"
+  },
+  {
+    "key": " as he ran along.",
+    "trx": " когда он бежал вперед.",
+    "val": " as he ran along."
+  },
+  {
+    "key": "“It’s Stanley.”",
+    "trx": "“Это Стэнли”.",
+    "val": "“It’s Stanley.”"
+  },
+  {
+    "key": "“What’s going on?”",
+    "trx": "“Что происходит?”",
+    "val": "“What’s going on?”"
+  },
+  {
+    "key": "“What I’m about to tell is you mere conjecture on my part, ",
+    "trx": "“То, что я собираюсь рассказать вам, - это просто предположение с моей стороны, ",
+    "val": "“What I’m about to tell is you mere conjecture on my part, "
+  },
+  {
+    "key": "but for now, let’s assume I’m mostly on the right track.”",
+    "trx": "но сейчас давайте предположим, что я в основном на правильном пути\".",
+    "val": "but for now, let’s assume I’m mostly on the right track.”"
+  },
+  {
+    "key": "He took a deep breath and steeled his nerves.",
+    "trx": "Он глубоко вздохнул и собрался с духом.",
+    "val": "He took a deep breath and steeled his nerves."
+  },
+  {
+    "key": "“I think Alphard is heading to the lab. ",
+    "trx": "“Я думаю, что Альфард направляется в лабораторию. ",
+    "val": "“I think Alphard is heading to the lab. "
+  },
+  {
+    "key": "He’s planning on hitting it, to destroy the antiviral.”",
+    "trx": "Он планирует поразить его, чтобы уничтожить противовирусное средство.”",
+    "val": "He’s planning on hitting it, to destroy the antiviral.”"
+  },
+  {
+    "key": "“Are you serious?” ",
+    "trx": "“Ты серьезно?” ",
+    "val": "“Are you serious?” "
+  },
+  {
+    "key": "Tateno’s voice was laced with apprehension.",
+    "trx": "В голосе Татено слышалось опасение.",
+    "val": "Tateno’s voice was laced with apprehension."
+  },
+  {
+    "key": "“Yes. You need to turn back right away. ",
+    "trx": "\"да. Тебе нужно немедленно повернуть назад. ",
+    "val": "“Yes. You need to turn back right away. "
+  },
+  {
+    "key": "I’ll go to the lab with Canaan.”",
+    "trx": "Я пойду в лабораторию с Ханааном.”",
+    "val": "I’ll go to the lab with Canaan.”"
+  },
+  {
+    "key": "The detective’s only reply was silence.",
+    "trx": "Единственным ответом детектива было молчание.",
+    "val": "The detective’s only reply was silence."
+  },
+  {
+    "key": "“Did you hear me, Tateno? ",
+    "trx": "“Ты слышал меня, Татено? ",
+    "val": "“Did you hear me, Tateno? "
+  },
+  {
+    "key": "This is an opponent who’s out of your league. ",
+    "trx": "Это противник, который не в вашей лиге. ",
+    "val": "This is an opponent who’s out of your league. "
+  },
+  {
+    "key": "Turn back. ",
+    "trx": "Повернуть обратно. ",
+    "val": "Turn back. "
+  },
+  {
+    "key": "I’ll handle th—”",
+    "trx": "Я разберусь с этим...”",
+    "val": "I’ll handle th—”"
+  },
+  {
+    "key": "“I can’t do that.” ",
+    "trx": "“Я не могу этого сделать\". ",
+    "val": "“I can’t do that.” "
+  },
+  {
+    "key": "Now, Tateno’s tone was calm and steady. ",
+    "trx": "Теперь тон Татено был спокойным и ровным. ",
+    "val": "Now, Tateno’s tone was calm and steady. "
+  },
+  {
+    "key": "“My job is to get Maria to the lab as soon as humanly possible. ",
+    "trx": "“Моя работа состоит в том, чтобы доставить Марию в лабораторию как можно скорее. ",
+    "val": "“My job is to get Maria to the lab as soon as humanly possible. "
+  },
+  {
+    "key": "Whether Alphard is coming or not doesn’t change that.”",
+    "trx": "Придет Альфард или нет, это ничего не меняет.”",
+    "val": "Whether Alphard is coming or not doesn’t change that.”"
+  },
+  {
+    "key": "“Don’t be absurd. ",
+    "trx": "“Не говори глупостей. ",
+    "val": "“Don’t be absurd. "
+  },
+  {
+    "key": "Even if you do have Canaan with you, you can’t keep Maria safe and still win the fight that’s coming.”",
+    "trx": "Даже если с тобой будет Ханаан, ты не сможешь обезопасить Марию и все равно выиграть предстоящую битву\".",
+    "val": "Even if you do have Canaan with you, you can’t keep Maria safe and still win the fight that’s coming.”"
+  },
+  {
+    "key": "“I’ll give my own life to protect that girl if it comes down to it.” ",
+    "trx": "“Я отдам свою жизнь, чтобы защитить эту девушку, если до этого дойдет”. ",
+    "val": "“I’ll give my own life to protect that girl if it comes down to it.” "
+  },
+  {
+    "key": "Stanley could tell that he’d never overcome this degree of stubbornness.",
+    "trx": "Стэнли мог бы сказать, что ему никогда не преодолеть эту степень упрямства.",
+    "val": "Stanley could tell that he’d never overcome this degree of stubbornness."
+  },
+  {
+    "key": "“Fine. Have it your way, then. ",
+    "trx": "\"отлично. Тогда будь по-твоему. ",
+    "val": "“Fine. Have it your way, then. "
+  },
+  {
+    "key": "But I’m heading to the lab, too. ",
+    "trx": "Но я тоже направляюсь в лабораторию. ",
+    "val": "But I’m heading to the lab, too. "
+  },
+  {
+    "key": "Whatever you do, do ",
+    "trx": "Что бы ты ни делал, делай ",
+    "val": "Whatever you do, do "
+  },
+  {
+    "key": "not",
+    "trx": "нет",
+    "val": "not"
+  },
+  {
+    "key": " let your guard down.”",
+    "trx": " ослабь свою бдительность.”",
+    "val": " let your guard down.”"
+  },
+  {
+    "key": "“Understood.”",
+    "trx": "“Понятно”.",
+    "val": "“Understood.”"
+  },
+  {
+    "key": "Tateno would be no match for Alphard.",
+    "trx": "Татено не смог бы сравниться с Альфардом.",
+    "val": "Tateno would be no match for Alphard."
+  },
+  {
+    "key": "If the terrorist spotted the detective, he’d probably kill him on the spot.",
+    "trx": "Если бы террорист заметил детектива, он, вероятно, убил бы его на месте.",
+    "val": "If the terrorist spotted the detective, he’d probably kill him on the spot."
+  },
+  {
+    "key": "Reassurance or encouragement would be meaningless.",
+    "trx": "Заверения или поощрения были бы бессмысленны.",
+    "val": "Reassurance or encouragement would be meaningless."
+  },
+  {
+    "key": "Instead, Stanley left Tateno with one final warning.",
+    "trx": "Вместо этого Стэнли оставил Татено с одним последним предупреждением.",
+    "val": "Instead, Stanley left Tateno with one final warning."
+  },
+  {
+    "key": "“If it comes down to it, just shoot him. If you hesitate for a moment he’ll have you dead.”",
+    "trx": "“Если до этого дойдет, просто пристрели его. Если ты замешкаешься хоть на мгновение, он убьет тебя.”",
+    "val": "“If it comes down to it, just shoot him. If you hesitate for a moment he’ll have you dead.”"
+  },
+  {
+    "key": "“Find some way to stall until I get there. If he realizes we’re on to him, you’re done for.”",
+    "trx": "“Найди какой-нибудь способ задержаться, пока я не доберусь туда. Если он поймет, что мы вышли на него, тебе конец.”",
+    "val": "“Find some way to stall until I get there. If he realizes we’re on to him, you’re done for.”"
+  },
+  {
+    "key": "“Just keep Maria safe. That’s your job.”",
+    "trx": "“Просто береги Марию в безопасности. Это твоя работа.”",
+    "val": "“Just keep Maria safe. That’s your job.”"
+  },
+  {
+    "key": "“If it comes down to it, just shoot him. ",
+    "trx": "“Если до этого дойдет, просто пристрели его. ",
+    "val": "“If it comes down to it, just shoot him. "
+  },
+  {
+    "key": "If you hesitate for a moment he’ll have you dead.”",
+    "trx": "Если ты замешкаешься хоть на мгновение, он убьет тебя.”",
+    "val": "If you hesitate for a moment he’ll have you dead.”"
+  },
+  {
+    "key": "Tateno hung up without saying anything.",
+    "trx": "Татено повесил трубку, ничего не сказав.",
+    "val": "Tateno hung up without saying anything."
+  },
+  {
+    "key": "“Find some way to stall until I get there. ",
+    "trx": "“Найди какой-нибудь способ задержаться, пока я не доберусь туда. ",
+    "val": "“Find some way to stall until I get there. "
+  },
+  {
+    "key": "If he realizes we’re on to him, you’re done for.”",
+    "trx": "Если он поймет, что мы вышли на него, тебе конец.”",
+    "val": "If he realizes we’re on to him, you’re done for.”"
+  },
+  {
+    "key": "Tateno hung up without saying anything.",
+    "trx": "Татено повесил трубку, ничего не сказав.",
+    "val": "Tateno hung up without saying anything."
+  },
+  {
+    "key": "“Just keep Maria safe. ",
+    "trx": "“Просто береги Марию в безопасности. ",
+    "val": "“Just keep Maria safe. "
+  },
+  {
+    "key": "That’s your job.”",
+    "trx": "Это твоя работа.”",
+    "val": "That’s your job.”"
+  },
+  {
+    "key": "Tateno hung up without saying anything.",
+    "trx": "Татено повесил трубку, ничего не сказав.",
+    "val": "Tateno hung up without saying anything."
+  },
+  {
+    "key": "Stanley made it to his car, still parked on the roadside.",
+    "trx": "Стэнли добрался до своей машины, все еще припаркованной на обочине.",
+    "val": "Stanley made it to his car, still parked on the roadside."
+  },
+  {
+    "key": "Jumping in, he sped off toward the laboratory.",
+    "trx": "Запрыгнув внутрь, он помчался в сторону лаборатории.",
+    "val": "Jumping in, he sped off toward the laboratory."
+  },
+  {
+    "key": "Traffic had gotten pretty congested by the time he made it out onto the main road.",
+    "trx": "К тому времени, как он выехал на главную дорогу, движение стало довольно плотным.",
+    "val": "Traffic had gotten pretty congested by the time he made it out onto the main road."
+  },
+  {
+    "key": "The chaos and panic from the area around Shibuya Station was starting to spread.",
+    "trx": "Хаос и паника в районе станции Сибуя начали распространяться.",
+    "val": "The chaos and panic from the area around Shibuya Station was starting to spread."
+  },
+  {
+    "key": "His frustration steadily growing, Stanley fought his way along the congested streets. ",
+    "trx": "Его разочарование неуклонно росло, Стэнли пробирался по переполненным улицам. ",
+    "val": "His frustration steadily growing, Stanley fought his way along the congested streets. "
+  },
+  {
+    "key": "Just as his aggravation was beginning to boil over, ",
+    "trx": "Как раз в тот момент, когда его раздражение начало закипать, ",
+    "val": "Just as his aggravation was beginning to boil over, "
+  },
+  {
+    "key": "he finally arrived at the Okoshi Pharmaceutical laboratory.",
+    "trx": "наконец он добрался до фармацевтической лаборатории Окоши.",
+    "val": "he finally arrived at the Окоши Фармасьютикал laboratory."
+  },
+  {
+    "key": "He could tell immediately that something was wrong.",
+    "trx": "Он сразу понял, что что-то не так.",
+    "val": "He could tell immediately that something was wrong."
+  },
+  {
+    "key": "A plume of smoke was rising from one of the laboratory windows.",
+    "trx": "Из одного из окон лаборатории поднимался столб дыма.",
+    "val": "A plume of smoke was rising from one of the laboratory windows."
+  },
+  {
+    "key": "It was thick and black, clearly the result of a fire of some sort.",
+    "trx": "Она была густой и черной, явно результат какого-то пожара.",
+    "val": "It was thick and black, clearly the result of a fire of some sort."
+  },
+  {
+    "key": "Stanley hopped out of the car, drawing his gun as he approached the door.",
+    "trx": "Стэнли выскочил из машины и, подойдя к двери, вытащил пистолет.",
+    "val": "Stanley hopped out of the car, drawing his gun as he approached the door."
+  },
+  {
+    "key": "He was about to make his way inside when a scent on the air stopped him in his tracks.",
+    "trx": "Он уже собирался войти внутрь, когда запах в воздухе остановил его на полпути.",
+    "val": "He was about to make his way inside when a scent on the air stopped him in his tracks."
+  },
+  {
+    "key": "The smoke carried the telltale odor of explosive residue.",
+    "trx": "Дым нес в себе характерный запах остатков взрывчатки.",
+    "val": "The smoke carried the telltale odor of explosive residue."
+  },
+  {
+    "key": "He hadn’t made it on time.",
+    "trx": "Он не успел вовремя.",
+    "val": "He hadn’t made it on time."
+  },
+  {
+    "key": "All his fears had come to pass.",
+    "trx": "Все его страхи сбылись.",
+    "val": "All his fears had come to pass."
+  },
+  {
+    "key": "Maria.",
+    "trx": "Мария.",
+    "val": "Maria."
+  },
+  {
+    "key": "Osawa.",
+    "trx": "Осава.",
+    "val": "Osawa."
+  },
+  {
+    "key": "Tateno.",
+    "trx": "Татено.",
+    "val": "Tateno."
+  },
+  {
+    "key": "Canaan.",
+    "trx": "Ханаан.",
+    "val": "Canaan."
+  },
+  {
+    "key": "They were all surely dead.",
+    "trx": "Все они, несомненно, были мертвы.",
+    "val": "They were all surely dead."
+  },
+  {
+    "key": "And no doubt the antiviral had all been either stolen or incinerated.",
+    "trx": "И, без сомнения, все антивирусные препараты были либо украдены, либо сожжены.",
+    "val": "And no doubt the antiviral had all been either stolen or incinerated."
+  },
+  {
+    "key": "In all likelihood, moreover, viral samples from the lab had been dispersed by the explosion.",
+    "trx": "Более того, по всей вероятности, образцы вирусов из лаборатории были рассеяны в результате взрыва.",
+    "val": "In all likelihood, moreover, viral samples from the lab had been dispersed by the explosion."
+  },
+  {
+    "key": "Stanley cursed. He’d already inhaled some of the smoke.",
+    "trx": "Стенли выругался. Он уже вдохнул немного дыма.",
+    "val": "Stanley cursed. He’d already inhaled some of the smoke."
+  },
+  {
+    "key": "This really was the worst-case scenario.",
+    "trx": "Это действительно был наихудший сценарий.",
+    "val": "This really was the worst-case scenario."
+  },
+  {
+    "key": "They’d been utterly defeated.",
+    "trx": "Они потерпели полное поражение.",
+    "val": "They’d been utterly defeated."
+  },
+  {
+    "key": "Stanley called up Gordon to request backup for a sweep of the laboratory.",
+    "trx": "Стэнли позвонил Гордону, чтобы запросить подкрепление для осмотра лаборатории.",
+    "val": "Stanley called up Gordon to request backup for a sweep of the laboratory."
+  },
+  {
+    "key": "He knew that it was already too late to change anything.",
+    "trx": "Он знал, что уже слишком поздно что-либо менять.",
+    "val": "He knew that it was already too late to change anything."
+  },
+  {
+    "key": "Even so, ",
+    "trx": "Несмотря на это, ",
+    "val": "Even so, "
+  },
+  {
+    "key": "Stanley would go through all the motions before he admitted defeat.",
+    "trx": "Стэнли проделал бы все необходимые действия, прежде чем признать свое поражение.",
+    "val": "Stanley would go through all the motions before he admitted defeat."
+  },
+  {
+    "key": "No. 80\u3000Complete Failure",
+    "trx": "№ 80 Полный провал",
+    "val": "No. 80\u3000Complete Failure"
+  },
+  {
+    "key": "“If it comes down to it, just shoot her. ",
+    "trx": "“Если до этого дойдет, просто пристрели ее. ",
+    "val": "“If it comes down to it, just shoot her. "
+  },
+  {
+    "key": "If you hesitate for a moment she’ll have you dead.”",
+    "trx": "Если ты замешкаешься хоть на мгновение, она убьет тебя.”",
+    "val": "If you hesitate for a moment she’ll have you dead.”"
+  },
+  {
+    "key": "Tateno hung up without saying anything.",
+    "trx": "Татено повесил трубку, ничего не сказав.",
+    "val": "Tateno hung up without saying anything."
+  },
+  {
+    "key": "“Just keep Maria safe. ",
+    "trx": "“Просто береги Марию в безопасности. ",
+    "val": "“Just keep Maria safe. "
+  },
+  {
+    "key": "That’s your job.”",
+    "trx": "Это твоя работа.”",
+    "val": "That’s your job.”"
+  },
+  {
+    "key": "Tateno hung up without saying anything.",
+    "trx": "Татено повесил трубку, ничего не сказав.",
+    "val": "Tateno hung up without saying anything."
+  },
+  {
+    "key": "As he drove along, Stanley again tried to deduce Alphard’s plan of action.",
+    "trx": "По дороге Стэнли снова попытался разгадать план действий Альфарда.",
+    "val": "As he drove along, Stanley again tried to deduce Alphard’s plan of action."
+  },
+  {
+    "key": "If Alphard herself was on the way to the lab now, then what was the objective of the fake who’d been sent to the scramble?",
+    "trx": "Если сама Альфард сейчас направлялась в лабораторию, то какова была цель фальшивки, которую послали в схватку?",
+    "val": "If Alphard herself was on the way to the lab now, then what was the objective of the fake who’d been sent to the scramble?"
+  },
+  {
+    "key": "A call came in from Tateno.",
+    "trx": "Поступил звонок от Татено.",
+    "val": "A call came in from Tateno."
+  },
+  {
+    "key": "“Stanley here.”",
+    "trx": "“Стэнли слушает”.",
+    "val": "“Stanley here.”"
+  },
+  {
+    "key": "He picked up quickly, but as he did, he wondered: ",
+    "trx": "Он быстро взял трубку, но, сделав это, задумался: ",
+    "val": "He picked up quickly, but as he did, he wondered: "
+  },
+  {
+    "key": "why was Tateno calling him?",
+    "trx": "почему Татено звонил ему?",
+    "val": "why was Tateno calling him?"
+  },
+  {
+    "key": "Alphard was right there.",
+    "trx": "Альфард был прямо там.",
+    "val": "Alphard was right there."
+  },
+  {
+    "key": "There was no way the detective should be risking a phone call.",
+    "trx": "Детектив ни в коем случае не должен был рисковать телефонным звонком.",
+    "val": "There was no way the detective should be risking a phone call."
+  },
+  {
+    "key": "“What’s going on?”",
+    "trx": "“Что происходит?”",
+    "val": "“What’s going on?”"
+  },
+  {
+    "key": "Tateno said nothing; Stanley repeated the question.",
+    "trx": "Татено ничего не сказал; Стэнли повторил вопрос.",
+    "val": "Tateno said nothing; Stanley repeated the question."
+  },
+  {
+    "key": "Still, Tateno did not reply.",
+    "trx": "Татено по-прежнему не отвечал.",
+    "val": "Still, Tateno did not reply."
+  },
+  {
+    "key": "Stanley’s apprehension spread like a droplet of ink in water.",
+    "trx": "Опасения Стэнли распространились, как капля чернил в воде.",
+    "val": "Stanley’s apprehension spread like a droplet of ink in water."
+  },
+  {
+    "key": "“Hey! Has something happened? ",
+    "trx": "- эй! Что-то случилось? ",
+    "val": "“Hey! Has something happened? "
+  },
+  {
+    "key": "Hey! ",
+    "trx": "Эй! ",
+    "val": "Hey! "
+  },
+  {
+    "key": "Answer me!”",
+    "trx": "Отвечай мне!”",
+    "val": "Answer me!”"
+  },
+  {
+    "key": "The call cut out.",
+    "trx": "Звонок прервался.",
+    "val": "The call cut out."
+  },
+  {
+    "key": "Stanley hurriedly dialed Tateno’s number, but he couldn’t get through.",
+    "trx": "Стэнли поспешно набрал номер Татено, но не смог дозвониться.",
+    "val": "Stanley hurriedly dialed Tateno’s number, but he couldn’t get through."
+  },
+  {
+    "key": "Something had gone badly wrong—he was sure of it.",
+    "trx": "Что—то пошло не так - он был уверен в этом.",
+    "val": "Something had gone badly wrong—he was sure of it."
+  },
+  {
+    "key": "Had he been too arrogant in thinking that he might be a match for Alphard?",
+    "trx": "Был ли он слишком самонадеян, думая, что может сравниться с Альфардом?",
+    "val": "Had he been too arrogant in thinking that he might be a match for Alphard?"
+  },
+  {
+    "key": "His worries turned to the team at the scramble. What if they had walked into a trap?",
+    "trx": "Его беспокойство переключилось на команду в схватке. Что, если бы они попали в ловушку?",
+    "val": "His worries turned to the team at the scramble. What if they had walked into a trap?"
+  },
+  {
+    "key": "Figuring that it would be too dangerous to call Kano in the midst of the negotiations, ",
+    "trx": "Рассудив, что звонить Кано в разгар переговоров было бы слишком опасно, ",
+    "val": "Figuring that it would be too dangerous to call Kano in the midst of the negotiations, "
+  },
+  {
+    "key": "Stanley instead dialed up ",
+    "trx": "Вместо этого Стэнли набрал номер ",
+    "val": "Stanley instead dialed up "
+  },
+  {
+    "key": "Achi",
+    "trx": "Ачи",
+    "val": "Achi"
+  },
+  {
+    "key": ".",
+    "trx": ".",
+    "val": "."
+  },
+  {
+    "key": "“Mr. Stanley? ",
+    "trx": "“Мистер Стэнли? ",
+    "val": "“Mr. Stanley? "
+  },
+  {
+    "key": "What’s going on?”",
+    "trx": "Что происходит?”",
+    "val": "What’s going on?”"
+  },
+  {
+    "key": "To Stanley’s relief, it sounded like things down at the scramble had gone well enough, so he asked Achi to put him on the phone with Kano.",
+    "trx": "К облегчению Стэнли, похоже, что в схватке все прошло достаточно хорошо, поэтому он попросил Ачи соединить его по телефону с Кано.",
+    "val": "To Stanley’s relief, it sounded like things down at the scramble had gone well enough, so he asked Achi to put him on the phone with Kano."
+  },
+  {
+    "key": "“Yeah, gimme a sec!” the young man said. ",
+    "trx": "“Да, дай мне секунду!” - сказал молодой человек. ",
+    "val": "“Yeah, gimme a sec!” the young man said. "
+  },
+  {
+    "key": "“Detective!”",
+    "trx": "“Детектив!”",
+    "val": "“Detective!”"
+  },
+  {
+    "key": "Stanley could hear Achi shouting on the other end.",
+    "trx": "Стэнли слышал, как Ачи кричал на другом конце провода.",
+    "val": "Stanley could hear Achi shouting on the other end."
+  },
+  {
+    "key": "“I’ve got Stanley on the line! ",
+    "trx": "“У меня Стэнли на линии! ",
+    "val": "“I’ve got Stanley on the line! "
+  },
+  {
+    "key": "He said that Detective Tateno—”",
+    "trx": "Он сказал, что детектив Татено...",
+    "val": "He said that Detective Tateno—”"
+  },
+  {
+    "key": "There was a sudden tremendous boom, and then the call cut out.",
+    "trx": "Внезапно раздался оглушительный грохот, а затем звонок оборвался.",
+    "val": "There was a sudden tremendous boom, and then the call cut out."
+  },
+  {
+    "key": "Stanley’s jaw dropped.",
+    "trx": "У Стенли отвисла челюсть.",
+    "val": "Stanley’s jaw dropped."
+  },
+  {
+    "key": "He felt his mind emptied out by despair.",
+    "trx": "Он чувствовал, как отчаяние опустошает его разум.",
+    "val": "He felt his mind emptied out by despair."
+  },
+  {
+    "key": "He opened his mouth, ",
+    "trx": "Он открыл рот, ",
+    "val": "He opened his mouth, "
+  },
+  {
+    "key": "but he couldn’t even bring himself to scream.",
+    "trx": "но он даже не мог заставить себя закричать.",
+    "val": "but he couldn’t even bring himself to scream."
+  },
+  {
+    "key": "All he could do was curse inwardly, again and again.",
+    "trx": "Все, что он мог делать, это мысленно ругаться, снова и снова.",
+    "val": "All he could do was curse inwardly, again and again."
+  },
+  {
+    "key": "Stanley slammed his fist into the steering wheel as hard as he could.",
+    "trx": "Стэнли изо всех сил ударил кулаком по рулю.",
+    "val": "Stanley slammed his fist into the steering wheel as hard as he could."
+  },
+  {
+    "key": "Then he did it again, and again.",
+    "trx": "Затем он сделал это снова и снова.",
+    "val": "Then he did it again, and again."
+  },
+  {
+    "key": "And again and again and again.",
+    "trx": "И снова, и снова, и снова.",
+    "val": "And again and again and again."
+  },
+  {
+    "key": "He didn’t stop even when his fists were marred with blood.",
+    "trx": "Он не остановился, даже когда его кулаки были испачканы кровью.",
+    "val": "He didn’t stop even when his fists were marred with blood."
+  },
+  {
+    "key": ",",
+    "trx": ",",
+    "val": ","
+  },
+  {
+    "key": "No. 81\u3000Call Cut Short",
+    "trx": "Звонок № 81 Оборвался",
+    "val": "No. 81\u3000Call Cut Short"
+  },
+  {
+    "key": "The Okoshi Pharmaceutical lab finally came into view.",
+    "trx": "Наконец-то появилась фармацевтическая лаборатория Окоши.",
+    "val": "The Окоши Фармасьютикал lab finally came into view."
+  },
+  {
+    "key": "A large billow of black smoke was rising from one of the building’s windows.",
+    "trx": "Из одного из окон здания поднимался большой столб черного дыма.",
+    "val": "A large billow of black smoke was rising from one of the building’s windows."
+  },
+  {
+    "key": "Stanley felt a chill in the pit of his stomach.",
+    "trx": "Стенли почувствовал холодок в животе.",
+    "val": "Stanley felt a chill in the pit of his stomach."
+  },
+  {
+    "key": "He hopped out of the car, and then gasped.",
+    "trx": "Он выскочил из машины, а потом ахнул.",
+    "val": "He hopped out of the car, and then gasped."
+  },
+  {
+    "key": "“Tateno...” ",
+    "trx": "“Татено...” ",
+    "val": "“Tateno...” "
+  },
+  {
+    "key": "The detective was sprawled face-down on the ground outside the laboratory gate, his gun still in his hand.",
+    "trx": "Детектив лежал лицом вниз на земле за воротами лаборатории, все еще держа в руке пистолет.",
+    "val": "The detective was sprawled face-down on the ground outside the laboratory gate, his gun still in his hand."
+  },
+  {
+    "key": "Blood had pooled around his head.",
+    "trx": "Вокруг его головы собралась лужа крови.",
+    "val": "Blood had pooled around his head."
+  },
+  {
+    "key": "He’d been shot at close range.",
+    "trx": "В него стреляли с близкого расстояния.",
+    "val": "He’d been shot at close range."
+  },
+  {
+    "key": "Death would have been instantaneous.",
+    "trx": "Смерть была бы мгновенной.",
+    "val": "Death would have been instantaneous."
+  },
+  {
+    "key": "All too late, Stanley felt the full weight of his mistake.",
+    "trx": "Слишком поздно Стэнли осознал всю тяжесть своей ошибки.",
+    "val": "All too late, Stanley felt the full weight of his mistake."
+  },
+  {
+    "key": "Tateno had gone up against an opponent who was out of his league, and had gotten himself killed.",
+    "trx": "Татено столкнулся с противником, который был не в его лиге, и был убит.",
+    "val": "Tateno had gone up against an opponent who was out of his league, and had gotten himself killed."
+  },
+  {
+    "key": "And Stanley had put him up to it.",
+    "trx": "И Стэнли подтолкнул его к этому.",
+    "val": "And Stanley had put him up to it."
+  },
+  {
+    "key": "He should never have let Tateno try to handle the situation on his own.",
+    "trx": "Он никогда не должен был позволять Татено пытаться справиться с ситуацией самостоятельно.",
+    "val": "He should never have let Tateno try to handle the situation on his own."
+  },
+  {
+    "key": "He should have done whatever it took to stop the detective.",
+    "trx": "Он должен был сделать все возможное, чтобы остановить детектива.",
+    "val": "He should have done whatever it took to stop the detective."
+  },
+  {
+    "key": "There must have been some way he could have averted this disaster.",
+    "trx": "Должен был быть какой-то способ, которым он мог бы предотвратить эту катастрофу.",
+    "val": "There must have been some way he could have averted this disaster."
+  },
+  {
+    "key": "“",
+    "trx": "“",
+    "val": "“"
+  },
+  {
+    "key": "Saving Maria is your top priority, isn’t it?",
+    "trx": "Спасение Марии - ваш главный приоритет, не так ли?",
+    "val": "Saving Maria is your top priority, isn’t it?"
+  },
+  {
+    "key": "”",
+    "trx": "”",
+    "val": "”"
+  },
+  {
+    "key": "“",
+    "trx": "“",
+    "val": "“"
+  },
+  {
+    "key": "That’s right.",
+    "trx": "Верно.",
+    "val": "That’s right."
+  },
+  {
+    "key": "”",
+    "trx": "”",
+    "val": "”"
+  },
+  {
+    "key": "There had been no hesitation in Tateno’s words.",
+    "trx": "В словах Татено не было никаких колебаний.",
+    "val": "There had been no hesitation in Tateno’s words."
+  },
+  {
+    "key": "Stanley had known how badly the man wanted to save Maria.",
+    "trx": "Стэнли знал, как сильно этот человек хотел спасти Марию.",
+    "val": "Stanley had known how badly the man wanted to save Maria."
+  },
+  {
+    "key": "That’s why he’d deferred to the detective’s judgement.",
+    "trx": "Вот почему он прислушался к мнению детектива.",
+    "val": "That’s why he’d deferred to the detective’s judgement."
+  },
+  {
+    "key": "Now he was faced with the results of his own naïveté.",
+    "trx": "Теперь он столкнулся с последствиями своей собственной наивности.",
+    "val": "Now he was faced with the results of his own naïveté."
+  },
+  {
+    "key": "The smoke pouring from the building showed no signs of diminishing.",
+    "trx": "Дым, валивший из здания, не проявлял никаких признаков уменьшения.",
+    "val": "The smoke pouring from the building showed no signs of diminishing."
+  },
+  {
+    "key": "In all likelihood, the lab had been destroyed with a bomb.",
+    "trx": "По всей вероятности, лаборатория была уничтожена бомбой.",
+    "val": "In all likelihood, the lab had been destroyed with a bomb."
+  },
+  {
+    "key": "Alphard’s plan had run its course before Stanley had even got there.",
+    "trx": "План Альфарда сработал еще до того, как Стэнли добрался туда.",
+    "val": "Alphard’s plan had run its course before Stanley had even got there."
+  },
+  {
+    "key": "He couldn’t forgive himself for having been so thoroughly outwitted.",
+    "trx": "Он не мог простить себе, что его так тщательно перехитрили.",
+    "val": "He couldn’t forgive himself for having been so thoroughly outwitted."
+  },
+  {
+    "key": "Nor would he ever forgive Alphard for what the terrorist had done.",
+    "trx": "И он никогда не простит Альфарда за то, что сделал террорист.",
+    "val": "Nor would he ever forgive Alphard for what the terrorist had done."
+  },
+  {
+    "key": "Anger erupted inside him, raging like hellfire, driving him on to action.",
+    "trx": "Гнев вспыхнул в нем, бушуя, как адский огонь, побуждая его к действию.",
+    "val": "Anger erupted inside him, raging like hellfire, driving him on to action."
+  },
+  {
+    "key": "Death would be too kind a fate for Alphard.",
+    "trx": "Смерть была бы слишком доброй судьбой для Альфарда.",
+    "val": "Death would be too kind a fate for Alphard."
+  },
+  {
+    "key": "Now more than ever before the thirst for vengeance consumed him.",
+    "trx": "Сейчас больше, чем когда-либо прежде, его снедала жажда мести.",
+    "val": "Now more than ever before the thirst for vengeance consumed him."
+  },
+  {
+    "key": "But even as he began to stalk toward the laboratory, a bullet caught Stanley in the abdomen.",
+    "trx": "Но как раз в тот момент, когда он направился к лаборатории, пуля попала Стэнли в живот.",
+    "val": "But even as he began to stalk toward the laboratory, a bullet caught Stanley in the abdomen."
+  },
+  {
+    "key": "For a moment, he couldn’t process what had happened.",
+    "trx": "На мгновение он не мог осознать, что произошло.",
+    "val": "For a moment, he couldn’t process what had happened."
+  },
+  {
+    "key": "There was an intense, searing pain that spread through his gut; warm liquid began to soak through his shirt.",
+    "trx": "Сильная, жгучая боль распространилась по его животу; теплая жидкость начала просачиваться сквозь рубашку.",
+    "val": "There was an intense, searing pain that spread through his gut; warm liquid began to soak through his shirt."
+  },
+  {
+    "key": "Then a figure emerged from within the smoke.",
+    "trx": "Затем из дыма появилась фигура.",
+    "val": "Then a figure emerged from within the smoke."
+  },
+  {
+    "key": "“I’ve been waiting for you to show up, ",
+    "trx": "“Я ждал, когда ты появишься, ",
+    "val": "“I’ve been waiting for you to show up, "
+  },
+  {
+    "key": "Jack.”",
+    "trx": "Джек.”",
+    "val": "Jack.”"
+  },
+  {
+    "key": "Another bullet tore through Stanley’s body.",
+    "trx": "Еще одна пуля пробила тело Стэнли насквозь.",
+    "val": "Another bullet tore through Stanley’s body."
+  },
+  {
+    "key": "Time seemed to slow for him; he watched the spray of blood scattering like a crimson mist.",
+    "trx": "Время, казалось, замедлилось для него; он наблюдал, как брызги крови рассеиваются, как багровый туман.",
+    "val": "Time seemed to slow for him; he watched the spray of blood scattering like a crimson mist."
+  },
+  {
+    "key": "“Alphard!” ",
+    "trx": "“Альфард!” ",
+    "val": "“Alphard!” "
+  },
+  {
+    "key": "Stanley hissed the word through clenched teeth.",
+    "trx": "Стенли прошипел это слово сквозь стиснутые зубы.",
+    "val": "Stanley hissed the word through clenched teeth."
+  },
+  {
+    "key": "Out of pure, stubborn spite, he managed to stay on his feet, tottering toward his foe; he raised his gun.",
+    "trx": "Из чистой, упрямой злобы он сумел удержаться на ногах, пошатываясь, направился к своему врагу; он поднял пистолет.",
+    "val": "Out of pure, stubborn spite, he managed to stay on his feet, tottering toward his foe; he raised his gun."
+  },
+  {
+    "key": "He didn’t stop pulling the trigger",
+    "trx": "Он не переставал нажимать на спусковой крючок",
+    "val": "He didn’t stop pulling the trigger"
+  },
+  {
+    "key": "until the very moment his world went dark.",
+    "trx": "до того самого момента, когда его мир погрузился во тьму.",
+    "val": "until the very moment his world went dark."
+  },
+  {
+    "key": "No. 82\u3000Defiant to the Last",
+    "trx": "№ 82 Непокорный до последнего",
+    "val": "No. 82\u3000Defiant to the Last"
+  },
+  {
+    "key": "But although he called repeatedly, Achi still didn’t pick up.",
+    "trx": "Но, хотя он звонил несколько раз, Ачи все еще не брал трубку.",
+    "val": "But although he called repeatedly, Achi still didn’t pick up."
+  },
+  {
+    "key": "Was he already too late?",
+    "trx": "Неужели он уже опоздал?",
+    "val": "Was he already too late?"
+  },
+  {
+    "key": "Stanley dreaded the answer to that question.",
+    "trx": "Стэнли страшился ответа на этот вопрос.",
+    "val": "Stanley dreaded the answer to that question."
+  },
+  {
+    "key": "To keep his true identity secret.",
+    "trx": "Чтобы сохранить свою истинную личность в секрете.",
+    "val": "To keep his true identity secret."
+  },
+  {
+    "key": "Alphard needed someone completely unrelated to him—",
+    "trx": "Альфарду нужен был кто-то, совершенно не связанный с ним—",
+    "val": "Alphard needed someone completely unrelated to him—"
+  },
+  {
+    "key": "a stooge like Daisuke—who, even if they were arrested, wouldn’t be able to lead the way back to the mastermind.",
+    "trx": "марионетка вроде Дайсуке, которая, даже если бы их арестовали, не смогла бы вернуться к вдохновителю.",
+    "val": "a stooge like Daisuke—who, even if they were arrested, wouldn’t be able to lead the way back to the mastermind."
+  },
+  {
+    "key": "Was that the thinking, here?",
+    "trx": "Было ли это мышлением здесь?",
+    "val": "Was that the thinking, here?"
+  },
+  {
+    "key": "No; ",
+    "trx": "Нет; ",
+    "val": "No; "
+  },
+  {
+    "key": "the fact was that as soon as Daisuke was caught, he’d spilled everything about the organ trafficker.",
+    "trx": "дело в том, что как только Дайсуке поймали, он выложил все о торговце органами.",
+    "val": "the fact was that as soon as Daisuke was caught, he’d spilled everything about the organ trafficker."
+  },
+  {
+    "key": "That was a predictable weakness that Alphard must have anticipated. So why had Daisuke been chosen?",
+    "trx": "Это была предсказуемая слабость, которую Альфард, должно быть, предвидел. Так почему же был выбран Дайсуке?",
+    "val": "That was a predictable weakness that Alphard must have anticipated. So why had Daisuke been chosen?"
+  },
+  {
+    "key": "Stanley felt like he was right back where he’d started.",
+    "trx": "Стэнли чувствовал себя так, словно вернулся к тому, с чего начал.",
+    "val": "Stanley felt like he was right back where he’d started."
+  },
+  {
+    "key": "If Maria hadn’t been mistaken for Hitomi in the first place, the situation wouldn’t have become nearly so complicated.",
+    "trx": "Если бы Марию с самого начала не приняли за Хитоми, ситуация не стала бы такой сложной.",
+    "val": "If Maria hadn’t been mistaken for Hitomi in the first place, the situation wouldn’t have become nearly so complicated."
+  },
+  {
+    "key": "That was the thing that really made him wonder.",
+    "trx": "Это было то, что действительно заставило его задуматься.",
+    "val": "That was the thing that really made him wonder."
+  },
+  {
+    "key": "Daisuke may have been an amateur, but would he really have made such a rudimentary mistake when his daughter’s life was on the line?",
+    "trx": "Дайсуке, возможно, и был любителем, но действительно ли он допустил бы такую элементарную ошибку, когда на кону стояла жизнь его дочери?",
+    "val": "Daisuke may have been an amateur, but would he really have made such a rudimentary mistake when his daughter’s life was on the line?"
+  },
+  {
+    "key": "To carry out some other objective.",
+    "trx": "Для выполнения какой-то другой цели.",
+    "val": "To carry out some other objective."
+  },
+  {
+    "key": "He’d set up the kidnapping, ",
+    "trx": "Он организовал похищение, ",
+    "val": "He’d set up the kidnapping, "
+  },
+  {
+    "key": "devised the ransom relay, ",
+    "trx": "изобрел ретранслятор выкупа, ",
+    "val": "devised the ransom relay, "
+  },
+  {
+    "key": "and kept the full attention of the police on that.",
+    "trx": "и держал на этом все внимание полиции.",
+    "val": "and kept the full attention of the police on that."
+  },
+  {
+    "key": "All the while, Alphard himself was working towards his true goal: ",
+    "trx": "Все это время сам Альфард работал над достижением своей истинной цели: ",
+    "val": "All the while, Alphard himself was working towards his true goal: "
+  },
+  {
+    "key": "getting Hitomi’s blood.",
+    "trx": "получить кровь Хитоми.",
+    "val": "getting Hitomi’s blood."
+  },
+  {
+    "key": "Which meant that Daisuke kidnapping Maria by mistake had in fact been a misstep.",
+    "trx": "Это означало, что Дайсуке, похитивший Марию по ошибке, на самом деле был ошибкой.",
+    "val": "Which meant that Daisuke kidnapping Maria by mistake had in fact been a misstep."
+  },
+  {
+    "key": "That was why, in the end, Alphard had proposed trading the password for Hitomi’s blood.",
+    "trx": "Вот почему, в конце концов, Альфард предложил обменять пароль на кровь Хитоми.",
+    "val": "That was why, in the end, Alphard had proposed trading the password for Hitomi’s blood."
+  },
+  {
+    "key": "Could that really be it?",
+    "trx": "Неужели это действительно так?",
+    "val": "Could that really be it?"
+  },
+  {
+    "key": "To get Hitomi’s blood.",
+    "trx": "Чтобы получить кровь Хитоми.",
+    "val": "To get Hitomi’s blood."
+  },
+  {
+    "key": "Alphard still hadn’t gotten her hands on that.",
+    "trx": "Альфард все еще не добралась до этого.",
+    "val": "Alphard still hadn’t gotten her hands on that."
+  },
+  {
+    "key": "That must be why she’d proposed the exchange.",
+    "trx": "Должно быть, поэтому она и предложила обмен.",
+    "val": "That must be why she’d proposed the exchange."
+  },
+  {
+    "key": "No.",
+    "trx": "Нет.",
+    "val": "No."
+  },
+  {
+    "key": "Stanley sensed that he was jumping to the wrong conclusion.",
+    "trx": "Стэнли почувствовал, что делает поспешный вывод.",
+    "val": "Stanley sensed that he was jumping to the wrong conclusion."
+  },
+  {
+    "key": "It was too easy, too obvious. Nothing was really as it seemed.",
+    "trx": "Это было слишком просто, слишком очевидно. На самом деле все было не так, как казалось.",
+    "val": "It was too easy, too obvious. Nothing was really as it seemed."
+  },
+  {
+    "key": "Hitomi’s blood wasn’t the only means to obtain the antiviral.",
+    "trx": "Кровь Хитоми была не единственным средством получения противовирусного препарата.",
+    "val": "Hitomi’s blood wasn’t the only means to obtain the antiviral."
+  },
+  {
+    "key": "Alphard was on the way to the lab right now.",
+    "trx": "Альфард сейчас был на пути в лабораторию.",
+    "val": "Alphard was on the way to the lab right now."
+  },
+  {
+    "key": "So long as she was able to gain entry, she’d be able to get her hands on the antiviral there.",
+    "trx": "До тех пор, пока она сможет проникнуть туда, она сможет заполучить там противовирусное средство.",
+    "val": "So long as she was able to gain entry, she’d be able to get her hands on the antiviral there."
+  },
+  {
+    "key": "Did that mean that the negotiations down at the scramble were just a scheme for buying time?",
+    "trx": "Означало ли это, что переговоры в \"схватке\" были всего лишь попыткой выиграть время?",
+    "val": "Did that mean that the negotiations down at the scramble were just a scheme for buying time?"
+  },
+  {
+    "key": "That didn’t seem quite right.",
+    "trx": "Это казалось не совсем правильным.",
+    "val": "That didn’t seem quite right."
+  },
+  {
+    "key": "“Aha!” Stanley suddenly blurted aloud.",
+    "trx": "“Ага!” Внезапно Стэнли выпалил вслух:",
+    "val": "“Aha!” Stanley suddenly blurted aloud."
+  },
+  {
+    "key": "He’d just realized what Alphard hoped to accomplish at the scramble.",
+    "trx": "Он только что понял, чего Альфард надеялся добиться в схватке.",
+    "val": "He’d just realized what Alphard hoped to accomplish at the scramble."
+  },
+  {
+    "key": "Alphard had been careful to wipe out almost everyone she’d associated with in the past.",
+    "trx": "Альфард был осторожен, чтобы уничтожить почти всех, с кем она общалась в прошлом.",
+    "val": "Alphard had been careful to wipe out almost everyone she’d associated with in the past."
+  },
+  {
+    "key": "That was precisely why all of her defining characteristics, such as age and sex and nationality, had been unknown.",
+    "trx": "Именно поэтому все ее определяющие характеристики, такие как возраст, пол и национальность, были неизвестны.",
+    "val": "That was precisely why all of her defining characteristics, such as age and sex and nationality, had been unknown."
+  },
+  {
+    "key": "It was unthinkable that she’d allow this decoy—who almost certainly knew who she really was—to stay alive.",
+    "trx": "Было немыслимо, чтобы она позволила этой приманке — которая почти наверняка знала, кто она на самом деле, — остаться в живых.",
+    "val": "It was unthinkable that she’d allow this decoy—who almost certainly knew who she really was—to stay alive."
+  },
+  {
+    "key": "And since Hitomi carried the antiviral in her body, Alphard likely wanted to get rid of her, as well.",
+    "trx": "И поскольку Хитоми носила в своем теле противовирусное средство, Альфард, скорее всего, тоже хотел избавиться от нее.",
+    "val": "And since Hitomi carried the antiviral in her body, Alphard likely wanted to get rid of her, as well."
+  },
+  {
+    "key": "In all likelihood, the terrorist mastermind was planning to steal the antiviral from the lab—",
+    "trx": "По всей вероятности, вдохновитель террористов планировал украсть антивирус из лаборатории—",
+    "val": "In all likelihood, the terrorist mastermind was planning to steal the antiviral from the lab—"
+  },
+  {
+    "key": "but as long as some of it remained in Hitomi’s bloodstream, she wouldn’t have a monopoly on it.",
+    "trx": "но до тех пор, пока часть его оставалась в крови Хитоми, у нее не было бы монополии на него.",
+    "val": "but as long as some of it remained in Hitomi’s bloodstream, she wouldn’t have a monopoly on it."
+  },
+  {
+    "key": "By arranging for Hitomi and the decoy to meet, ",
+    "trx": "Договорившись о встрече Хитоми и приманки, ",
+    "val": "By arranging for Hitomi and the decoy to meet, "
+  },
+  {
+    "key": "she could eliminate them both at the same time.",
+    "trx": "она могла бы устранить их обоих одновременно.",
+    "val": "she could eliminate them both at the same time."
+  },
+  {
+    "key": "That’s what her objective was.",
+    "trx": "Вот в чем заключалась ее цель.",
+    "val": "That’s what her objective was."
+  },
+  {
+    "key": "The question was ",
+    "trx": "Вопрос был в том, ",
+    "val": "The question was "
+  },
+  {
+    "key": "how",
+    "trx": "как",
+    "val": "how"
+  },
+  {
+    "key": ".",
+    "trx": ".",
+    "val": "."
+  },
+  {
+    "key": "Beginning with her bombings in Chicago, Alphard had made frequent use of remote-controlled explosives.",
+    "trx": "Начиная с ее взрывов в Чикаго, Альфард часто использовала взрывчатые вещества с дистанционным управлением.",
+    "val": "Beginning with her bombings in Chicago, Alphard had made frequent use of remote-controlled explosives."
+  },
+  {
+    "key": "It was likely that she’d opt for something similar here, as well.",
+    "trx": "Вполне вероятно, что она выбрала бы что-то подобное и здесь.",
+    "val": "It was likely that she’d opt for something similar here, as well."
+  },
+  {
+    "key": "But she wasn’t going to be at the scramble herself.",
+    "trx": "Но сама она не собиралась участвовать в схватке.",
+    "val": "But she wasn’t going to be at the scramble herself."
+  },
+  {
+    "key": "So how in the world was she going to trigger the explosion?",
+    "trx": "Так как же, черт возьми, она собиралась спровоцировать взрыв?",
+    "val": "So how in the world was she going to trigger the explosion?"
+  },
+  {
+    "key": "Was there some clue to be found in something she’d said or done earlier?",
+    "trx": "Можно ли было найти какую-то зацепку в том, что она сказала или сделала раньше?",
+    "val": "Was there some clue to be found in something she’d said or done earlier?"
+  },
+  {
+    "key": "Indiscriminate terrorism.",
+    "trx": "Неизбирательный терроризм.",
+    "val": "Indiscriminate terrorism."
+  },
+  {
+    "key": "Maybe she had given the Ua virus to the fake with the intent of releasing it.",
+    "trx": "Возможно, она передала вирус Ua подделке с намерением выпустить его.",
+    "val": "Maybe she had given the Ua virus to the fake with the intent of releasing it."
+  },
+  {
+    "key": "She needed the police to keep their attention on the scramble for as long as it took her to destroy the research facility.",
+    "trx": "Ей нужно было, чтобы полиция сосредоточила свое внимание на схватке столько времени, сколько ей потребуется, чтобы уничтожить исследовательский центр.",
+    "val": "She needed the police to keep their attention on the scramble for as long as it took her to destroy the research facility."
+  },
+  {
+    "key": "The threat of unleashing the virus was a perfect way to do that.",
+    "trx": "Угроза распространения вируса была идеальным способом сделать это.",
+    "val": "The threat of unleashing the virus was a perfect way to do that."
+  },
+  {
+    "key": "As Stanley mulled that over, ",
+    "trx": "Пока Стэнли обдумывал это, ",
+    "val": "As Stanley mulled that over, "
+  },
+  {
+    "key": "he realized another way that a virus release in Shibuya could benefit her.",
+    "trx": "он понял еще один способ, которым выброс вируса в Сибуе мог бы принести ей пользу.",
+    "val": "he realized another way that a virus release in Shibuya could benefit her."
+  },
+  {
+    "key": "Alphard had been careful to wipe out almost everyone she’d associated with in the past.",
+    "trx": "Альфард был осторожен, чтобы уничтожить почти всех, с кем она общалась в прошлом.",
+    "val": "Alphard had been careful to wipe out almost everyone she’d associated with in the past."
+  },
+  {
+    "key": "That was precisely why all of her defining characteristics, such as age and sex and nationality, had been unknown.",
+    "trx": "Именно поэтому все ее определяющие характеристики, такие как возраст, пол и национальность, были неизвестны.",
+    "val": "That was precisely why all of her defining characteristics, such as age and sex and nationality, had been unknown."
+  },
+  {
+    "key": "It was unthinkable that she’d allow this decoy—who almost certainly knew who she really was—to stay alive.",
+    "trx": "Было немыслимо, чтобы она позволила этой приманке — которая почти наверняка знала, кто она на самом деле, — остаться в живых.",
+    "val": "It was unthinkable that she’d allow this decoy—who almost certainly knew who she really was—to stay alive."
+  },
+  {
+    "key": "Once the decoy released the virus, he was likely to become infected himself and die.",
+    "trx": "Как только приманка выпустит вирус, он, скорее всего, сам заразится и умрет.",
+    "val": "Once the decoy released the virus, he was likely to become infected himself and die."
+  },
+  {
+    "key": "Alphard would also want to get rid of Hitomi, who still had the antiviral in her body.",
+    "trx": "Альфард также хотел бы избавиться от Хитоми, у которой в организме все еще был противовирусный препарат.",
+    "val": "Alphard would also want to get rid of Hitomi, who still had the antiviral in her body."
+  },
+  {
+    "key": "The virus would therefore eliminate the decoy, who knew the terrorist’s true identity, ",
+    "trx": "Таким образом, вирус уничтожил бы приманку, которая знала истинную личность террориста, ",
+    "val": "The virus would therefore eliminate the decoy, who knew the terrorist’s true identity, "
+  },
+  {
+    "key": "and Hitomi, carrying the drug, at the same time.",
+    "trx": "и Хитоми, несущая наркотик, в то же время.",
+    "val": "and Hitomi, carrying the drug, at the same time."
+  },
+  {
+    "key": "That’s what her objective was.",
+    "trx": "Вот в чем заключалась ее цель.",
+    "val": "That’s what her objective was."
+  },
+  {
+    "key": "Wait, that can’t be right.",
+    "trx": "Подождите, это не может быть правдой.",
+    "val": "Wait, that can’t be right."
+  },
+  {
+    "key": "Something was wrong with his hypothesis.",
+    "trx": "Что-то было не так с его гипотезой.",
+    "val": "Something was wrong with his hypothesis."
+  },
+  {
+    "key": "Releasing the virus wouldn’t kill Hitomi.",
+    "trx": "Высвобождение вируса не убило бы Хитоми.",
+    "val": "Releasing the virus wouldn’t kill Hitomi."
+  },
+  {
+    "key": "She’d been injected with the antiviral.",
+    "trx": "Ей сделали инъекцию противовирусного препарата.",
+    "val": "She’d been injected with the antiviral."
+  },
+  {
+    "key": "Her body was full of antibodies that could fend off the Ua virus.",
+    "trx": "Ее тело было полно антител, которые могли бы противостоять вирусу Ua.",
+    "val": "Her body was full of antibodies that could fend off the Ua virus."
+  },
+  {
+    "key": "Being exposed to the virus again might cause her to develop a fever, but she almost certainly wouldn’t die from it.",
+    "trx": "Повторное воздействие вируса может вызвать у нее лихорадку, но она почти наверняка не умрет от этого.",
+    "val": "Being exposed to the virus again might cause her to develop a fever, but she almost certainly wouldn’t die from it."
+  },
+  {
+    "key": "Stanley had a hunch he was on to something, though. ",
+    "trx": "Однако у Стэнли было предчувствие, что он на что-то напал. ",
+    "val": "Stanley had a hunch he was on to something, though. "
+  },
+  {
+    "key": "Surely, Alphard would still want to eliminate the decoy and Hitomi in one fell swoop.",
+    "trx": "Конечно, Альфард все равно захотел бы уничтожить приманку и Хитоми одним махом.",
+    "val": "Surely, Alphard would still want to eliminate the decoy and Hitomi in one fell swoop."
+  },
+  {
+    "key": "What else would achieve the same end?",
+    "trx": "Что еще могло бы достичь той же цели?",
+    "val": "What else would achieve the same end?"
+  },
+  {
+    "key": "Of course: a bomb!",
+    "trx": "Конечно: бомба!",
+    "val": "Of course: a bomb!"
+  },
+  {
+    "key": "Beginning with her bombings in Chicago, Alphard had made frequent use of remote-controlled explosives.",
+    "trx": "Начиная с ее взрывов в Чикаго, Альфард часто использовала взрывчатые вещества с дистанционным управлением.",
+    "val": "Beginning with her bombings in Chicago, Alphard had made frequent use of remote-controlled explosives."
+  },
+  {
+    "key": "It was likely that she’d opt for something similar here, as well.",
+    "trx": "Вполне вероятно, что она выбрала бы что-то подобное и здесь.",
+    "val": "It was likely that she’d opt for something similar here, as well."
+  },
+  {
+    "key": "But she wasn’t going to be at the scramble herself.",
+    "trx": "Но сама она не собиралась участвовать в схватке.",
+    "val": "But she wasn’t going to be at the scramble herself."
+  },
+  {
+    "key": "So how in the world was she going to trigger the explosion?",
+    "trx": "Так как же, черт возьми, она собиралась спровоцировать взрыв?",
+    "val": "So how in the world was she going to trigger the explosion?"
+  },
+  {
+    "key": "Was there some clue to be found in something she’d said or done earlier?",
+    "trx": "Можно ли было найти какую-то зацепку в том, что она сказала или сделала раньше?",
+    "val": "Was there some clue to be found in something she’d said or done earlier?"
+  },
+  {
+    "key": "Arresting her isn’t enough.",
+    "trx": "Арестовать ее недостаточно.",
+    "val": "Arresting her isn’t enough."
+  },
+  {
+    "key": "I’ll make her pay with her life.",
+    "trx": "Я заставлю ее заплатить своей жизнью.",
+    "val": "I’ll make her pay with her life."
+  },
+  {
+    "key": "It was the only fair price for the life she herself had taken.",
+    "trx": "Это была единственная справедливая цена за жизнь, которую она сама отняла.",
+    "val": "It was the only fair price for the life she herself had taken."
+  },
+  {
+    "key": "There could be no restitution for Frank’s death as long as she was still alive.",
+    "trx": "Не могло быть никакой компенсации за смерть Фрэнка, пока она была еще жива.",
+    "val": "There could be no restitution for Frank’s death as long as she was still alive."
+  },
+  {
+    "key": "The law wasn’t going to punish Alphard.",
+    "trx": "Закон не собирался наказывать Альфарда.",
+    "val": "The law wasn’t going to punish Alphard."
+  },
+  {
+    "key": "Stanley was.",
+    "trx": "Стэнли был.",
+    "val": "Stanley was."
+  },
+  {
+    "key": "He didn’t care if anyone else thought it was a petty vendetta.",
+    "trx": "Ему было все равно, если кто-то еще подумает, что это мелкая вендетта.",
+    "val": "He didn’t care if anyone else thought it was a petty vendetta."
+  },
+  {
+    "key": "Only someone who’d suffered the loss of a loved one at the hands of a vicious killer could understand his seething resentment.",
+    "trx": "Только тот, кто пережил потерю любимого человека от рук злобного убийцы, мог понять его кипящее негодование.",
+    "val": "Only someone who’d suffered the loss of a loved one at the hands of a vicious killer could understand his seething resentment."
+  },
+  {
+    "key": "If I don’t sink to her level, I’ll never be able to beat her.",
+    "trx": "Если я не опустюсь до ее уровня, я никогда не смогу победить ее.",
+    "val": "If I don’t sink to her level, I’ll never be able to beat her."
+  },
+  {
+    "key": "Stanley’s heart had room for nothing but revenge.",
+    "trx": "В сердце Стэнли не было места ни для чего, кроме мести.",
+    "val": "Stanley’s heart had room for nothing but revenge."
+  },
+  {
+    "key": "The law wasn’t going to punish Alphard.",
+    "trx": "Закон не собирался наказывать Альфарда.",
+    "val": "The law wasn’t going to punish Alphard."
+  },
+  {
+    "key": "Stanley was.",
+    "trx": "Стэнли был.",
+    "val": "Stanley was."
+  },
+  {
+    "key": "He didn’t care if anyone else thought it was a petty vendetta.",
+    "trx": "Ему было все равно, если кто-то еще подумает, что это мелкая вендетта.",
+    "val": "He didn’t care if anyone else thought it was a petty vendetta."
+  },
+  {
+    "key": "Only someone who’d suffered the loss of a loved one at the hands of a vicious killer could understand his seething resentment.",
+    "trx": "Только тот, кто пережил потерю любимого человека от рук злобного убийцы, мог понять его кипящее негодование.",
+    "val": "Only someone who’d suffered the loss of a loved one at the hands of a vicious killer could understand his seething resentment."
+  }
+]

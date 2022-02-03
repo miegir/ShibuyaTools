@@ -1,0 +1,1092 @@
+[
+  {
+    "key": "“The Osawa case is over now. ",
+    "trx": "“Дело Осавы теперь закончено. ",
+    "val": "“The Osawa case is over now. "
+  },
+  {
+    "key": "Put it out of your mind. ",
+    "trx": "Выбрось это из головы. ",
+    "val": "Put it out of your mind. "
+  },
+  {
+    "key": "I’m assigning you to a new investigation.” ",
+    "trx": "Я поручаю вам новое расследование.” ",
+    "val": "I’m assigning you to a new investigation.” "
+  },
+  {
+    "key": "Kano heard no blame in Kuze’s voice. ",
+    "trx": "Кано не услышал упрека в голосе Кузе. ",
+    "val": "Kano heard no blame in Kuze’s voice. "
+  },
+  {
+    "key": "“There was a fatal car accident over in Nanpeidai. ",
+    "trx": "“В Нанпэйдае произошла автомобильная авария со смертельным исходом. ",
+    "val": "“There was a fatal car accident over in Nanpeidai. "
+  },
+  {
+    "key": "The culprits have turned themselves in, I hear. ",
+    "trx": "Я слышал, преступники сдались полиции. ",
+    "val": "The culprits have turned themselves in, I hear. "
+  },
+  {
+    "key": "I’d like you to go ",
+    "trx": "Я бы хотел, чтобы ты пошел ",
+    "val": "I’d like you to go "
+  },
+  {
+    "key": "take their testimony",
+    "trx": "возьмите их показания",
+    "val": "take their testimony"
+  },
+  {
+    "key": ".”",
+    "trx": ".”",
+    "val": ".”"
+  },
+  {
+    "key": "Ordinarily, Kano would have objected to such an arbitrary change in assignment.",
+    "trx": "В обычной ситуации Кано возразил бы против такого произвольного изменения назначения.",
+    "val": "Ordinarily, Kano would have objected to such an arbitrary change in assignment."
+  },
+  {
+    "key": "Punishment or no, he would have begged to stay on the Osawa investigation, even if it was officially on hold.",
+    "trx": "Наказание или нет, он бы умолял остаться в расследовании дела Осавы, даже если бы оно было официально приостановлено.",
+    "val": "Punishment or no, he would have begged to stay on the Osawa investigation, even if it was officially on hold."
+  },
+  {
+    "key": "But now, his heart just wasn’t in it.",
+    "trx": "Но сейчас его сердце просто не лежало к этому.",
+    "val": "But now, his heart just wasn’t in it."
+  },
+  {
+    "key": "“Understood, sir,” he said with a nod.",
+    "trx": "“Понял, сэр\", - сказал он, кивнув.",
+    "val": "“Understood, sir,” he said with a nod."
+  },
+  {
+    "key": "Kuze handed him a briefing on the accident. It was a taxi driver and his passenger who’d surrendered themselves to the police.",
+    "trx": "Кузе передал ему краткую информацию о происшествии. Это были водитель такси и его пассажир, которые сдались полиции.",
+    "val": "Kuze handed him a briefing on the accident. It was a taxi driver and his passenger who’d surrendered themselves to the police."
+  },
+  {
+    "key": "Kano leafed through the paperwork as he headed for the interrogation room.",
+    "trx": "Кано пролистал бумаги, направляясь в комнату для допросов.",
+    "val": "Kano leafed through the paperwork as he headed for the interrogation room."
+  },
+  {
+    "key": "Being immersed in the hustle and bustle of the Criminal Affairs Division felt like a return to normalcy.",
+    "trx": "Погружение в шум и суету Отдела по уголовным делам казалось возвращением к нормальной жизни.",
+    "val": "Being immersed in the hustle and bustle of the Criminal Affairs Division felt like a return to normalcy."
+  },
+  {
+    "key": "The events earlier in the day gradually faded from his mind.",
+    "trx": "События, произошедшие днем ранее, постепенно исчезли из его памяти.",
+    "val": "The events earlier in the day gradually faded from his mind."
+  },
+  {
+    "key": "And while part of him wanted to hold on to the sense that he’d been in the midst of something unusual—something important, ",
+    "trx": "И в то же время часть его хотела сохранить ощущение, что он был в эпицентре чего—то необычного - чего-то важного, ",
+    "val": "And while part of him wanted to hold on to the sense that he’d been in the midst of something unusual—something important, "
+  },
+  {
+    "key": "his lingering regrets were soon buried under the clutter of the day-to-day.",
+    "trx": "его затянувшиеся сожаления вскоре были погребены под повседневным хаосом.",
+    "val": "his lingering regrets were soon buried under the clutter of the day-to-day."
+  },
+  {
+    "key": "No. 51\u3000",
+    "trx": "№ 51\u3000",
+    "val": "No. 51\u3000"
+  },
+  {
+    "key": "Accident Questioning",
+    "trx": "Допрос о несчастном случае",
+    "val": "Accident Questioning"
+  },
+  {
+    "key": "Hint",
+    "trx": "Подсказка",
+    "val": "Hint"
+  },
+  {
+    "key": "Calling an end to the kidnapping investigation, Kuze reassigned Kano to look into a fatal car accident. But you can’t give up here; the Osawa case hasn’t been resolved at all! The taxi driver and passenger who turned themselves in are none other than Kimizuka and Minorikawa. If the two of them can avoid causing an accident, Kuze will have a different story to tell.",
+    "trx": "Положив конец расследованию похищения, Кузе поручил Кано расследовать автомобильную аварию со смертельным исходом. Но вы не можете сдаваться здесь; дело Осавы вообще не раскрыто! Водитель такси и пассажир, которые сдались полиции, - не кто иные, как Кимизука и Минорикава. Если они вдвоем смогут избежать несчастного случая, Кузе будет что рассказать по-другому.",
+    "val": "Calling an end to the kidnapping investigation, Kuze reassigned Kano to look into a fatal car accident. But you can’t give up here; the Osawa case hasn’t been resolved at all! The taxi driver and passenger who turned themselves in are none other than Kimizuka and Minorikawa. If the two of them can avoid causing an accident, Kuze will have a different story to tell."
+  },
+  {
+    "key": "“I think we should hold back for now.”",
+    "trx": "“Я думаю, что мы должны пока воздержаться”.",
+    "val": "“I think we should hold back for now.”"
+  },
+  {
+    "key": "“Hmm,” Kuze rumbled.",
+    "trx": "”Хм\", - пророкотал Кузе.",
+    "val": "“Hmm,” Kuze rumbled."
+  },
+  {
+    "key": "“We still don’t know if Mamoru Tanaka was murdered, or if he committed suicide,” Kano pointed out. ",
+    "trx": "“Мы до сих пор не знаем, был ли Мамору Танака убит или он покончил с собой\", - отметил Кано. ",
+    "val": "“We still don’t know if Mamoru Tanaka was murdered, or if he committed suicide,” Kano pointed out. "
+  },
+  {
+    "key": "“We should at least wait until we know that much.”",
+    "trx": "“Мы должны, по крайней мере, подождать, пока не узнаем это”.",
+    "val": "“We should at least wait until we know that much.”"
+  },
+  {
+    "key": "This case had so many loose ends that could lead in dangerous directions.",
+    "trx": "В этом деле было так много незаконченных концов, которые могли привести в опасном направлении.",
+    "val": "This case had so many loose ends that could lead in dangerous directions."
+  },
+  {
+    "key": "It would pay to be as prudent as possible.",
+    "trx": "Стоило бы быть как можно более благоразумным.",
+    "val": "It would pay to be as prudent as possible."
+  },
+  {
+    "key": "Kuze paused for a moment in thought, then nodded. ",
+    "trx": "Кузе на мгновение задумался, затем кивнул. ",
+    "val": "Kuze paused for a moment in thought, then nodded. "
+  },
+  {
+    "key": "“I see what you mean. All right, then.”",
+    "trx": "“Я понимаю, что ты имеешь в виду. Тогда ладно.”",
+    "val": "“I see what you mean. All right, then.”"
+  },
+  {
+    "key": "Then, without another word, he headed back toward the conference room.",
+    "trx": "Затем, не говоря больше ни слова, он направился обратно в конференц-зал.",
+    "val": "Then, without another word, he headed back toward the conference room."
+  },
+  {
+    "key": "“I can’t make that decision, sir.”",
+    "trx": "“Я не могу принять такое решение, сэр”.",
+    "val": "“I can’t make that decision, sir.”"
+  },
+  {
+    "key": "Kano knew he was in no state to make a good call on something this serious.",
+    "trx": "Кано знал, что он был не в том состоянии, чтобы сделать правильный выбор в чем-то настолько серьезном.",
+    "val": "Kano knew he was in no state to make a good call on something this serious."
+  },
+  {
+    "key": "The sad truth was that all he could think about was Sasayama and Tateno.",
+    "trx": "Печальная правда заключалась в том, что все, о чем он мог думать, - это Сасаяма и Татено.",
+    "val": "The sad truth was that all he could think about was Sasayama and Tateno."
+  },
+  {
+    "key": "“I see. ",
+    "trx": "“Я понимаю. ",
+    "val": "“I see. "
+  },
+  {
+    "key": "Sorry to ask you such an awkward question.”",
+    "trx": "Извините, что задаю вам такой неловкий вопрос.”",
+    "val": "Sorry to ask you such an awkward question.”"
+  },
+  {
+    "key": "“Not at all, sir.”",
+    "trx": "“Вовсе нет, сэр”.",
+    "val": "“Not at all, sir.”"
+  },
+  {
+    "key": "Kano dropped his eyes to the blood-spattered gift box again, and Kuze headed back toward the conference room.",
+    "trx": "Кано снова опустил глаза на забрызганную кровью подарочную коробку, и Кузе направился обратно в конференц-зал.",
+    "val": "Kano dropped his eyes to the blood-spattered gift box again, and Kuze headed back toward the conference room."
+  },
+  {
+    "key": "Kano was worried about Sasayama, and decided to visit him in the hospital.",
+    "trx": "Кано беспокоился о Сасаяме и решил навестить его в больнице.",
+    "val": "Kano was worried about Sasayama, and decided to visit him in the hospital."
+  },
+  {
+    "key": "Kano thought about Sasayama’s wife, and decided to get in touch with her.",
+    "trx": "Кано подумал о жене Сасаямы и решил связаться с ней.",
+    "val": "Kano thought about Sasayama’s wife, and decided to get in touch with her."
+  },
+  {
+    "key": "He called Sasayama’s home phone, but nobody picked up.",
+    "trx": "Он позвонил на домашний телефон Сасаямы, но никто не взял трубку.",
+    "val": "He called Sasayama’s home phone, but nobody picked up."
+  },
+  {
+    "key": "Perhaps she’d gone to the hospital?",
+    "trx": "Может быть, она поехала в больницу?",
+    "val": "Perhaps she’d gone to the hospital?"
+  },
+  {
+    "key": "With that in mind, Kano called up Shibuya Central Hospital and asked them to transfer him to Mrs. Sasayama.",
+    "trx": "Имея это в виду, Кано позвонил в Центральную больницу Сибуя и попросил их перевести его к миссис Сасаяме.",
+    "val": "With that in mind, Kano called up Shibuya Central Hospital and asked them to transfer him to Mrs. Sasayama."
+  },
+  {
+    "key": "After a little while, a woman’s voice came through the receiver.",
+    "trx": "Через некоторое время в трубке послышался женский голос.",
+    "val": "After a little while, a woman’s voice came through the receiver."
+  },
+  {
+    "key": "“Yes, this is Mrs. Sasayama.”",
+    "trx": "“Да, это миссис Сасаяма”.",
+    "val": "“Yes, this is Mrs. Sasayama.”"
+  },
+  {
+    "key": "Her voice was thin and reedy.",
+    "trx": "Ее голос был тонким и пронзительным.",
+    "val": "Her voice was thin and reedy."
+  },
+  {
+    "key": "“My name’s Shinya Kano; I work with your husband on the force. ",
+    "trx": "“Меня зовут Шинья Кано; я работаю с вашим мужем в полиции. ",
+    "val": "“My name’s Shinya Kano; I work with your husband on the force. "
+  },
+  {
+    "key": "What happened...” ",
+    "trx": "То, что случилось...” ",
+    "val": "What happened...” "
+  },
+  {
+    "key": "He didn’t know what to say.",
+    "trx": "Он не знал, что сказать.",
+    "val": "He didn’t know what to say."
+  },
+  {
+    "key": "He couldn’t find the words.",
+    "trx": "Он не мог подобрать слов.",
+    "val": "He couldn’t find the words."
+  },
+  {
+    "key": "“I wish that I’d been there, ",
+    "trx": "“Я хотел бы, чтобы меня там не было, ",
+    "val": "“I wish that I’d been there, "
+  },
+  {
+    "key": "when he’d gone to make that arrest,” he blurted out at last. ",
+    "trx": "когда он пошел производить этот арест, - наконец выпалил он. ",
+    "val": "when he’d gone to make that arrest,” he blurted out at last. "
+  },
+  {
+    "key": "“I should have tried to get there and back him up sooner. ",
+    "trx": "“Я должен был попытаться добраться туда и поддержать его раньше. ",
+    "val": "“I should have tried to get there and back him up sooner. "
+  },
+  {
+    "key": "If I hadn’t been too late....” ",
+    "trx": "Если бы я не опоздал...” ",
+    "val": "If I hadn’t been too late....” "
+  },
+  {
+    "key": "He trailed off, hoping he hadn’t said too much.",
+    "trx": "Он замолчал, надеясь, что сказал не слишком много.",
+    "val": "He trailed off, hoping he hadn’t said too much."
+  },
+  {
+    "key": "Sasayama’s wife answered in her gentle, quavering voice.",
+    "trx": "Жена Сасаямы ответила своим нежным, дрожащим голосом.",
+    "val": "Sasayama’s wife answered in her gentle, quavering voice."
+  },
+  {
+    "key": "“Thank you so much for your concern. ",
+    "trx": "“Большое вам спасибо за вашу заботу. ",
+    "val": "“Thank you so much for your concern. "
+  },
+  {
+    "key": "I’m glad that my husband is lucky enough to have a colleague like you.”",
+    "trx": "Я рада, что моему мужу посчастливилось иметь такого коллегу, как вы”.",
+    "val": "I’m glad that my husband is lucky enough to have a colleague like you.”"
+  },
+  {
+    "key": "“No. ",
+    "trx": "\"Нет. ",
+    "val": "“No. "
+  },
+  {
+    "key": "I couldn’t—”",
+    "trx": "Я не мог...”",
+    "val": "I couldn’t—”"
+  },
+  {
+    "key": "“I married a detective, Mr. Kano. ",
+    "trx": "“Я вышла замуж за детектива, мистер Кано. ",
+    "val": "“I married a detective, Mr. Kano. "
+  },
+  {
+    "key": "I’ve prepared myself for the possibility that something like this might happen.”",
+    "trx": "Я подготовил себя к тому, что может произойти нечто подобное\".",
+    "val": "I’ve prepared myself for the possibility that something like this might happen.”"
+  },
+  {
+    "key": "But she certainly didn’t sound like she was prepared.",
+    "trx": "Но она определенно не звучала так, как будто была готова.",
+    "val": "But she certainly didn’t sound like she was prepared."
+  },
+  {
+    "key": "Kano felt a biting pain in his chest.",
+    "trx": "Кано почувствовал острую боль в груди.",
+    "val": "Kano felt a biting pain in his chest."
+  },
+  {
+    "key": "“Um, ",
+    "trx": "“Эм, ",
+    "val": "“Um, "
+  },
+  {
+    "key": "your husband gave me something to hold on to for you. ",
+    "trx": "твой муж дал мне кое-что, за что я мог бы держаться для тебя. ",
+    "val": "your husband gave me something to hold on to for you. "
+  },
+  {
+    "key": "I’d like to give it to you, if I can.”",
+    "trx": "Я бы хотел отдать его тебе, если смогу.”",
+    "val": "I’d like to give it to you, if I can.”"
+  },
+  {
+    "key": "“Oh? ",
+    "trx": "\"ой? ",
+    "val": "“Oh? "
+  },
+  {
+    "key": "Well, certainly—but I’d like to stay here by his side today, if possible.”",
+    "trx": "Ну, конечно, но я бы хотел остаться здесь, рядом с ним сегодня, если возможно.”",
+    "val": "Well, certainly—but I’d like to stay here by his side today, if possible.”"
+  },
+  {
+    "key": "“Of course. ",
+    "trx": "\"конечно. ",
+    "val": "“Of course. "
+  },
+  {
+    "key": "I’ll head on over to the hospital myself, then. ",
+    "trx": "Тогда я сам отправлюсь в больницу. ",
+    "val": "I’ll head on over to the hospital myself, then. "
+  },
+  {
+    "key": "I hope you don’t mind if I pay a visit?”",
+    "trx": "Надеюсь, вы не возражаете, если я нанесу визит?”",
+    "val": "I hope you don’t mind if I pay a visit?”"
+  },
+  {
+    "key": "“Oh, of course not. Sorry to trouble you like this. ",
+    "trx": "“О, конечно, нет. Извините, что беспокою вас подобным образом. ",
+    "val": "“Oh, of course not. Sorry to trouble you like this. "
+  },
+  {
+    "key": "Thank you so much.”",
+    "trx": "Большое вам спасибо”.",
+    "val": "Thank you so much.”"
+  },
+  {
+    "key": "Kano hung up, then hurried out of the precinct.",
+    "trx": "Кано повесил трубку и поспешил покинуть участок.",
+    "val": "Kano hung up, then hurried out of the precinct."
+  },
+  {
+    "key": "As he was making his way toward the hospital, Kano spotted a girl sitting on the pedestrian overpass.",
+    "trx": "Направляясь к больнице, Кано заметил девушку, сидящую на пешеходном переходе.",
+    "val": "As he was making his way toward the hospital, Kano spotted a girl sitting on the pedestrian overpass."
+  },
+  {
+    "key": "She looked like she was on the verge of tears.",
+    "trx": "Она выглядела так, словно была на грани слез.",
+    "val": "She looked like she was on the verge of tears."
+  },
+  {
+    "key": "Concerned, he stopped beside her.",
+    "trx": "Обеспокоенный, он остановился рядом с ней.",
+    "val": "Concerned, he stopped beside her."
+  },
+  {
+    "key": "“Are you waiting for someone?” he asked.",
+    "trx": "“Ты кого-то ждешь?” он спросил.",
+    "val": "“Are you waiting for someone?” he asked."
+  },
+  {
+    "key": "The girl simply bit her lip, and said nothing.",
+    "trx": "Девушка просто прикусила губу и ничего не сказала.",
+    "val": "The girl simply bit her lip, and said nothing."
+  },
+  {
+    "key": "“Are you lost? Do you need a ",
+    "trx": "“Ты заблудился? Вам нужен ",
+    "val": "“Are you lost? Do you need a "
+  },
+  {
+    "key": "policeman",
+    "trx": "полицейский",
+    "val": "policeman"
+  },
+  {
+    "key": "?”",
+    "trx": "?”",
+    "val": "?”"
+  },
+  {
+    "key": "Again, the girl gave no answer.",
+    "trx": "И снова девушка ничего не ответила.",
+    "val": "Again, the girl gave no answer."
+  },
+  {
+    "key": "“Where did you come from?” Kano tried. Still nothing.",
+    "trx": "“Откуда ты взялся?” Кано попытался. По-прежнему ничего.",
+    "val": "“Where did you come from?” Kano tried. Still nothing."
+  },
+  {
+    "key": "He had just decided to go and call for a female officer when the girl hesitatingly spoke at last.",
+    "trx": "Он как раз решил пойти и позвать женщину-офицера, когда девушка нерешительно заговорила наконец.",
+    "val": "He had just decided to go and call for a female officer when the girl hesitatingly spoke at last."
+  },
+  {
+    "key": "“Heaven Publishing.”",
+    "trx": "“Издательство Небес”.",
+    "val": "“Heaven Publishing.”"
+  },
+  {
+    "key": "After a little coaxing, she told him where that was.",
+    "trx": "После недолгих уговоров она сказала ему, где это находится.",
+    "val": "After a little coaxing, she told him where that was."
+  },
+  {
+    "key": "It turned out it was on the way to Shibuya Central Hospital, not too far from where they were now.",
+    "trx": "Оказалось, что это было по дороге в Центральную больницу Сибуя, не слишком далеко от того места, где они сейчас находились.",
+    "val": "It turned out it was on the way to Shibuya Central Hospital, not too far from where they were now."
+  },
+  {
+    "key": "“Why don’t I take you there, then?” Kano said. ",
+    "trx": "“Тогда почему бы мне не отвезти тебя туда?” - сказал Кано. ",
+    "val": "“Why don’t I take you there, then?” Kano said. "
+  },
+  {
+    "key": "“I’m already headed in that direction anyway.”",
+    "trx": "“Я все равно уже направляюсь в этом направлении\".",
+    "val": "“I’m already headed in that direction anyway.”"
+  },
+  {
+    "key": "The girl seemed a bit reluctant at first, but eventually she agreed to go with Kano.",
+    "trx": "Сначала девушка, казалось, немного сопротивлялась, но в конце концов согласилась пойти с Кано.",
+    "val": "The girl seemed a bit reluctant at first, but eventually she agreed to go with Kano."
+  },
+  {
+    "key": "Kano parted ways with the girl outside the building where Heaven Publishing was located.",
+    "trx": "Кано расстался с девушкой у здания, где располагалось издательство Heaven Publishing.",
+    "val": "Kano parted ways with the girl outside the building where Heaven Publishing was located."
+  },
+  {
+    "key": "He noticed that she hesitated to enter at first, but eventually vanished inside.",
+    "trx": "Он заметил, что сначала она не решалась войти, но в конце концов исчезла внутри.",
+    "val": "He noticed that she hesitated to enter at first, but eventually vanished inside."
+  },
+  {
+    "key": "Kano’s phone rang as he was about to continue on his way.",
+    "trx": "Телефон Кано зазвонил, когда он собирался продолжить свой путь.",
+    "val": "Kano’s phone rang as he was about to continue on his way."
+  },
+  {
+    "key": "When he peered at the incoming call display his heart nearly stopped.",
+    "trx": "Когда он взглянул на дисплей входящего вызова, его сердце чуть не остановилось.",
+    "val": "When he peered at the incoming call display his heart nearly stopped."
+  },
+  {
+    "key": "There was Tateno’s name.",
+    "trx": "Там было имя Татено.",
+    "val": "There was Tateno’s name."
+  },
+  {
+    "key": "Kano quickly pressed the button to accept the call.",
+    "trx": "Кано быстро нажал кнопку, чтобы принять вызов.",
+    "val": "Kano quickly pressed the button to accept the call."
+  },
+  {
+    "key": "“Detective Tateno? ",
+    "trx": "“Детектив Татено? ",
+    "val": "“Detective Tateno? "
+  },
+  {
+    "key": "Detective Tateno, is that you?!”",
+    "trx": "Детектив Татено, это вы?!”",
+    "val": "Detective Tateno, is that you?!”"
+  },
+  {
+    "key": "There was a whole mountain of things Kano wanted to ask.",
+    "trx": "Была целая гора вещей, о которых Кано хотел спросить.",
+    "val": "There was a whole mountain of things Kano wanted to ask."
+  },
+  {
+    "key": "Just what had he been doing this whole time?",
+    "trx": "Чем же он занимался все это время?",
+    "val": "Just what had he been doing this whole time?"
+  },
+  {
+    "key": "Why had he let al-Karawan go free?",
+    "trx": "Почему он отпустил аль-Каравана на свободу?",
+    "val": "Why had he let al-Karawan go free?"
+  },
+  {
+    "key": "And what had happened to Hitomi?",
+    "trx": "И что случилось с Хитоми?",
+    "val": "And what had happened to Hitomi?"
+  },
+  {
+    "key": "But while he was trying to decide what question to pose first, Tateno spoke.",
+    "trx": "Но пока он пытался решить, какой вопрос задать первым, Татено заговорил.",
+    "val": "But while he was trying to decide what question to pose first, Tateno spoke."
+  },
+  {
+    "key": "“I’ve secured Maria Osawa.”",
+    "trx": "“Я заполучил Марию Осаву”.",
+    "val": "“I’ve secured Maria Osawa.”"
+  },
+  {
+    "key": "“What?!” ",
+    "trx": "“Что?!” ",
+    "val": "“What?!” "
+  },
+  {
+    "key": "The word came out as a startled gasp. ",
+    "trx": "Это слово прозвучало как испуганный вздох. ",
+    "val": "The word came out as a startled gasp. "
+  },
+  {
+    "key": "“Detective Tateno, you have to bring her here ASAP! ",
+    "trx": "“Детектив Татено, вы должны привести ее сюда как можно скорее! ",
+    "val": "“Detective Tateno, you have to bring her here ASAP! "
+  },
+  {
+    "key": "Right now, she’s—”",
+    "trx": "Прямо сейчас, она...”",
+    "val": "Right now, she’s—”"
+  },
+  {
+    "key": "Tateno cut him off. ",
+    "trx": "Татено прервал его. ",
+    "val": "Tateno cut him off. "
+  },
+  {
+    "key": "“You need to bring Hitomi Osawa to my location at once.”",
+    "trx": "“Вам нужно немедленно доставить Хитоми Осаву ко мне”.",
+    "val": "“You need to bring Hitomi Osawa to my location at once.”"
+  },
+  {
+    "key": "“Hitomi...",
+    "trx": "“Хитоми...",
+    "val": "“Hitomi..."
+  },
+  {
+    "key": "Osawa?”",
+    "trx": "Осава?”",
+    "val": "Osawa?”"
+  },
+  {
+    "key": "“Yes. ",
+    "trx": "\"да. ",
+    "val": "“Yes. "
+  },
+  {
+    "key": "I heard over the wireless that the man from the U.S. Embassy had her in custody.”",
+    "trx": "Я слышал по радио, что человек из посольства США взял ее под стражу.”",
+    "val": "I heard over the wireless that the man from the U.S. Embassy had her in custody.”"
+  },
+  {
+    "key": "Kano hadn’t been listening to the most recent wireless traffic; apparently Stanley had managed to find Hitomi.",
+    "trx": "Кано не прослушивал самый последний беспроводной трафик; очевидно, Стэнли удалось найти Хитоми.",
+    "val": "Kano hadn’t been listening to the most recent wireless traffic; apparently Stanley had managed to find Hitomi."
+  },
+  {
+    "key": "But what was Tateno getting at, here?",
+    "trx": "Но к чему здесь клонил Татено?",
+    "val": "But what was Tateno getting at, here?"
+  },
+  {
+    "key": "“Wait—hold on. ",
+    "trx": "“Подожди—подожди. ",
+    "val": "“Wait—hold on. "
+  },
+  {
+    "key": "What for? ",
+    "trx": "Зачем? ",
+    "val": "What for? "
+  },
+  {
+    "key": "I mean, why do you need me to bring Hitomi Osawa to you?”",
+    "trx": "Я имею в виду, зачем тебе нужно, чтобы я привел к тебе Хитоми Осаву?”",
+    "val": "I mean, why do you need me to bring Hitomi Osawa to you?”"
+  },
+  {
+    "key": "There was no reply.",
+    "trx": "Ответа не последовало.",
+    "val": "There was no reply."
+  },
+  {
+    "key": "“Detective Tateno, answer me. ",
+    "trx": "“Детектив Татено, ответьте мне. ",
+    "val": "“Detective Tateno, answer me. "
+  },
+  {
+    "key": "Please.”",
+    "trx": "Пожалуйста.”",
+    "val": "Please.”"
+  },
+  {
+    "key": "Tateno replied as if he hadn’t heard Kano’s questions. ",
+    "trx": "Татено ответил так, как будто не слышал вопросов Кано. ",
+    "val": "Tateno replied as if he hadn’t heard Kano’s questions. "
+  },
+  {
+    "key": "“There’s an office building in Nanpeidai called South Hill. ",
+    "trx": "“В Нанпэйдае есть офисное здание под названием Саут-Хилл. ",
+    "val": "“There’s an office building in Nanpeidai called South Hill. "
+  },
+  {
+    "key": "I’ll be waiting for you on the rooftop.",
+    "trx": "Я буду ждать тебя на крыше.",
+    "val": "I’ll be waiting for you on the rooftop."
+  },
+  {
+    "key": "If you don’t bring her...",
+    "trx": "Если ты не приведешь ее...",
+    "val": "If you don’t bring her..."
+  },
+  {
+    "key": "I’ll kill Maria.”",
+    "trx": "Я убью Марию.”",
+    "val": "I’ll kill Maria.”"
+  },
+  {
+    "key": "With that grisly warning, he hung up.",
+    "trx": "С этим ужасным предупреждением он повесил трубку.",
+    "val": "With that grisly warning, he hung up."
+  },
+  {
+    "key": "Kano’s hand went limp; his phone slipped from his grasp and fell to the floor.",
+    "trx": "Рука Кано обмякла; телефон выскользнул у него из рук и упал на пол.",
+    "val": "Kano’s hand went limp; his phone slipped from his grasp and fell to the floor."
+  },
+  {
+    "key": "He needed to get to Tateno and find out what was going on.",
+    "trx": "Ему нужно было добраться до Татено и выяснить, что происходит.",
+    "val": "He needed to get to Tateno and find out what was going on."
+  },
+  {
+    "key": "He started running, alone, toward Nanpeidai, taking the quickest route through the back streets and alleys.",
+    "trx": "Он побежал один в сторону Нанпэйдая, выбирая самый быстрый маршрут по закоулкам и переулкам.",
+    "val": "He started running, alone, toward Nanpeidai, taking the quickest route through the back streets and alleys."
+  },
+  {
+    "key": "He’d almost made it to South Hill when he spotted three foreigners in a narrow alley ahead.",
+    "trx": "Он почти добрался до Саут-Хилла, когда заметил трех иностранцев в узком переулке впереди.",
+    "val": "He’d almost made it to South Hill when he spotted three foreigners in a narrow alley ahead."
+  },
+  {
+    "key": "They were scanning the area as if searching for someone, and when they noticed Kano, they started running right for him.",
+    "trx": "Они осматривали местность, как будто кого-то искали, и когда заметили Кано, побежали прямо к нему.",
+    "val": "They were scanning the area as if searching for someone, and when they noticed Kano, they started running right for him."
+  },
+  {
+    "key": "They were all dressed in the same kind of black clothes al-Karawan wore.",
+    "trx": "Все они были одеты в такую же черную одежду, какую носил аль-Караван.",
+    "val": "They were all dressed in the same kind of black clothes al-Karawan wore."
+  },
+  {
+    "key": "Kano recognized them at once: syndicate members who had taken part in the ransom relay.",
+    "trx": "Кано сразу узнал их: члены синдиката, принимавшие участие в передаче выкупа.",
+    "val": "Kano recognized them at once: syndicate members who had taken part in the ransom relay."
+  },
+  {
+    "key": "In a matter of moments, they had him cornered.",
+    "trx": "В считанные мгновения они загнали его в угол.",
+    "val": "In a matter of moments, they had him cornered."
+  },
+  {
+    "key": "“Out of my way!” he said. “I’m in a hurry!”",
+    "trx": "“С дороги!” - сказал он. “Я тороплюсь!”",
+    "val": "“Out of my way!” he said. “I’m in a hurry!”"
+  },
+  {
+    "key": "But either they didn’t understand him, or simply didn’t care to respond. ",
+    "trx": "Но они либо не поняли его, либо просто не захотели отвечать. ",
+    "val": "But either they didn’t understand him, or simply didn’t care to respond. "
+  },
+  {
+    "key": "Instead they moved in to attack, pummeling him with fists and kicks.",
+    "trx": "Вместо этого они бросились в атаку, избивая его кулаками и ногами.",
+    "val": "Instead they moved in to attack, pummeling him with fists and kicks."
+  },
+  {
+    "key": "It was three against one; Kano didn’t stand a chance.",
+    "trx": "Их было трое против одного; у Кано не было ни единого шанса.",
+    "val": "It was three against one; Kano didn’t stand a chance."
+  },
+  {
+    "key": "Although he tried desperately to protect himself, soon he was sprawled out on the ground like a used and tattered rag.",
+    "trx": "Хотя он отчаянно пытался защититься, вскоре он растянулся на земле, как использованная и изодранная тряпка.",
+    "val": "Although he tried desperately to protect himself, soon he was sprawled out on the ground like a used and tattered rag."
+  },
+  {
+    "key": "The men left him where he fell; as they jogged into the distance, he could see them searching again.",
+    "trx": "Люди оставили его там, где он упал; когда они побежали вдаль, он мог видеть, как они снова ищут.",
+    "val": "The men left him where he fell; as they jogged into the distance, he could see them searching again."
+  },
+  {
+    "key": "The deserted alleyway grew quiet as a storm’s aftermath.",
+    "trx": "В пустынном переулке стало тихо, как после шторма.",
+    "val": "The deserted alleyway grew quiet as a storm’s aftermath."
+  },
+  {
+    "key": "“I need...",
+    "trx": "“Мне нужно...",
+    "val": "“I need..."
+  },
+  {
+    "key": "to get...",
+    "trx": "получить...",
+    "val": "to get..."
+  },
+  {
+    "key": "to Tateno...” ",
+    "trx": "в Татено...” ",
+    "val": "to Tateno...” "
+  },
+  {
+    "key": "He strained to reach out for his cell phone, ",
+    "trx": "Он напрягся, чтобы дотянуться до своего мобильного телефона, ",
+    "val": "He strained to reach out for his cell phone, "
+  },
+  {
+    "key": "but he couldn’t move any of his fingers.",
+    "trx": "но он не мог пошевелить ни одним из своих пальцев.",
+    "val": "but he couldn’t move any of his fingers."
+  },
+  {
+    "key": "No. 52\u3000",
+    "trx": "№ 52\u3000",
+    "val": "No. 52\u3000"
+  },
+  {
+    "key": "Won’t Be Seeing Tateno",
+    "trx": "Не Буду Встречаться С Татено",
+    "val": "Won’t Be Seeing Tateno"
+  },
+  {
+    "key": "Hint",
+    "trx": "Подсказка",
+    "val": "Hint"
+  },
+  {
+    "key": "En route to Nanpeidai, Kano crossed paths with al-Karawan’s cronies and got badly beaten. Ironically, these crooks hadn’t been looking for him; someone else had led them to Nanpeidai, and Kano wound up paying the price as a result.",
+    "trx": "По пути в Нанпейдай Кано пересекся с дружками аль-Каравана и был жестоко избит. По иронии судьбы, эти мошенники искали не его; кто-то другой привел их в Нанпэйдай, и в результате Кано поплатился за это.",
+    "val": "En route to Nanpeidai, Kano crossed paths with al-Karawan’s cronies and got badly beaten. Ironically, these crooks hadn’t been looking for him; someone else had led them to Nanpeidai, and Kano wound up paying the price as a result."
+  },
+  {
+    "key": "With her blindfold removed, Maria slowly opened her eyes.",
+    "trx": "Сняв повязку с глаз, Мария медленно открыла глаза.",
+    "val": "With her blindfold removed, Maria slowly opened her eyes."
+  },
+  {
+    "key": "Then, as she gazed past Kano, a panicked looked crossed her face.",
+    "trx": "Затем, когда она посмотрела мимо Кано, на ее лице промелькнула паника.",
+    "val": "Then, as she gazed past Kano, a panicked looked crossed her face."
+  },
+  {
+    "key": "“Ah!”",
+    "trx": "“Ах!”",
+    "val": "“Ah!”"
+  },
+  {
+    "key": "She shot out her arm to point.",
+    "trx": "Она вытянула руку, чтобы указать.",
+    "val": "She shot out her arm to point."
+  },
+  {
+    "key": "Kano whirled around in surprise. There was a ",
+    "trx": "Кано удивленно обернулся. Там был ",
+    "val": "Kano whirled around in surprise. There was a "
+  },
+  {
+    "key": "man",
+    "trx": "человек",
+    "val": "man"
+  },
+  {
+    "key": " on the roof of the building across the way who looked like he was getting ready to jump.",
+    "trx": " на крыше здания напротив, который выглядел так, словно готовился прыгнуть.",
+    "val": " on the roof of the building across the way who looked like he was getting ready to jump."
+  },
+  {
+    "key": "Why now?!",
+    "trx": "Почему сейчас?!",
+    "val": "Why now?!"
+  },
+  {
+    "key": " Kano thought to himself—but he couldn’t just stand idly by while someone committed suicide.",
+    "trx": " Кано подумал про себя — но он не мог просто стоять сложа руки, пока кто-то совершал самоубийство.",
+    "val": " Kano thought to himself—but he couldn’t just stand idly by while someone committed suicide."
+  },
+  {
+    "key": "He felt a pang of disgust when he saw Tateno take in the situation with an indifferent glance but make no move to help.",
+    "trx": "Он почувствовал укол отвращения, когда увидел, что Татено равнодушно оценил ситуацию, но не сделал ни малейшего движения, чтобы помочь.",
+    "val": "He felt a pang of disgust when he saw Tateno take in the situation with an indifferent glance but make no move to help."
+  },
+  {
+    "key": "“Detective Tateno, I’ll be right back!” Kano exclaimed. “We can finish this after.” ",
+    "trx": "“Детектив Татено, я сейчас вернусь!” - воскликнул Кано. “Мы можем закончить это после”. ",
+    "val": "“Detective Tateno, I’ll be right back!” Kano exclaimed. “We can finish this after.” "
+  },
+  {
+    "key": "Without waiting for an answer, he raced for the other building.",
+    "trx": "Не дожидаясь ответа, он помчался к другому зданию.",
+    "val": "Without waiting for an answer, he raced for the other building."
+  },
+  {
+    "key": "When he got to the second rooftop, the man was still there, staring down at the ground below.",
+    "trx": "Когда он добрался до второй крыши, мужчина все еще был там, уставившись на землю внизу.",
+    "val": "When he got to the second rooftop, the man was still there, staring down at the ground below."
+  },
+  {
+    "key": "“Don’t do anything rash!” Kano warned, hurrying toward him.",
+    "trx": "“Не делай ничего опрометчивого!” - предупредил Кано, спеша к нему.",
+    "val": "“Don’t do anything rash!” Kano warned, hurrying toward him."
+  },
+  {
+    "key": "When the man gave no response, though, Kano quickly halted.",
+    "trx": "Однако, когда мужчина ничего не ответил, Кано быстро остановился.",
+    "val": "When the man gave no response, though, Kano quickly halted."
+  },
+  {
+    "key": "The stranger was still several meters away.",
+    "trx": "Незнакомец все еще был в нескольких метрах от меня.",
+    "val": "The stranger was still several meters away."
+  },
+  {
+    "key": "Kano braced himself, ready to lunge for the man if necessary.",
+    "trx": "Кано напрягся, готовый броситься на мужчину, если потребуется.",
+    "val": "Kano braced himself, ready to lunge for the man if necessary."
+  },
+  {
+    "key": "“Let’s not be hasty! ",
+    "trx": "“Давайте не будем торопиться! ",
+    "val": "“Let’s not be hasty! "
+  },
+  {
+    "key": "Nobody is going to be happy if you jump!”",
+    "trx": "Никто не будет счастлив, если ты прыгнешь!”",
+    "val": "Nobody is going to be happy if you jump!”"
+  },
+  {
+    "key": "Still the man said nothing, simply gazing out at the sky.",
+    "trx": "Мужчина по-прежнему ничего не говорил, просто глядя в небо.",
+    "val": "Still the man said nothing, simply gazing out at the sky."
+  },
+  {
+    "key": "Surely he could hear Kano now.",
+    "trx": "Конечно, теперь он мог слышать Кано.",
+    "val": "Surely he could hear Kano now."
+  },
+  {
+    "key": "The detective continued, keeping his voice low and conversational.",
+    "trx": "Детектив продолжил, стараясь говорить тихо и непринужденно.",
+    "val": "The detective continued, keeping his voice low and conversational."
+  },
+  {
+    "key": "“I’ve got a coworker—he’s one of the most absurdly devoted husbands you could meet. ",
+    "trx": "“У меня есть коллега — он один из самых абсурдно преданных мужей, которых вы только могли встретить. ",
+    "val": "“I’ve got a coworker—he’s one of the most absurdly devoted husbands you could meet. "
+  },
+  {
+    "key": "All he does is brag about his wife.”",
+    "trx": "Все, что он делает, это хвастается своей женой.”",
+    "val": "All he does is brag about his wife.”"
+  },
+  {
+    "key": "The man continued to ignore him.",
+    "trx": "Мужчина продолжал игнорировать его.",
+    "val": "The man continued to ignore him."
+  },
+  {
+    "key": "“He was stabbed in the belly earlier today. ",
+    "trx": "“Сегодня утром его ударили ножом в живот. ",
+    "val": "“He was stabbed in the belly earlier today. "
+  },
+  {
+    "key": "He’s in the hospital right now, on death’s door. ",
+    "trx": "Сейчас он в больнице, на пороге смерти. ",
+    "val": "He’s in the hospital right now, on death’s door. "
+  },
+  {
+    "key": "He was happy, but now his life might get snatched away from him anyway.”",
+    "trx": "Он был счастлив, но теперь у него все равно могут отнять жизнь.”",
+    "val": "He was happy, but now his life might get snatched away from him anyway.”"
+  },
+  {
+    "key": "Still the man appeared unmoved.",
+    "trx": "Мужчина по-прежнему казался невозмутимым.",
+    "val": "Still the man appeared unmoved."
+  },
+  {
+    "key": "It was as if the words weren’t even reaching him.",
+    "trx": "Как будто слова даже не доходили до него.",
+    "val": "It was as if the words weren’t even reaching him."
+  },
+  {
+    "key": "“Don’t you think it’s a waste to just go and throw your own life away?” ",
+    "trx": "“Тебе не кажется, что это пустая трата времени - просто пойти и выбросить свою собственную жизнь на ветер?” ",
+    "val": "“Don’t you think it’s a waste to just go and throw your own life away?” "
+  },
+  {
+    "key": "Kano waited for the man to respond.",
+    "trx": "Кано подождал, пока мужчина ответит.",
+    "val": "Kano waited for the man to respond."
+  },
+  {
+    "key": "The stranger took a purposeful stride away from the fence—toward the roof’s edge.",
+    "trx": "Незнакомец целеустремленно шагнул прочь от забора — к краю крыши.",
+    "val": "The stranger took a purposeful stride away from the fence—toward the roof’s edge."
+  },
+  {
+    "key": "“Stop! Don’t do it!”",
+    "trx": "“Остановись! Не делай этого!”",
+    "val": "“Stop! Don’t do it!”"
+  },
+  {
+    "key": "The man unflinchingly stepped out toward empty air.",
+    "trx": "Мужчина непоколебимо шагнул навстречу пустому воздуху.",
+    "val": "The man unflinchingly stepped out toward empty air."
+  },
+  {
+    "key": "No!",
+    "trx": "Нет!",
+    "val": "No!"
+  },
+  {
+    "key": "Kano sprang forward, somehow managing to grab hold of the stranger’s wrist.",
+    "trx": "Кано прыгнул вперед, каким-то образом ухитрившись схватить незнакомца за запястье.",
+    "val": "Kano sprang forward, somehow managing to grab hold of the stranger’s wrist."
+  },
+  {
+    "key": "He yanked the man back from the edge, getting only a blank stare in response.",
+    "trx": "Он оттащил мужчину от края, получив в ответ только пустой взгляд.",
+    "val": "He yanked the man back from the edge, getting only a blank stare in response."
+  },
+  {
+    "key": "“Don’t go wasting your life like this!”",
+    "trx": "“Не трать свою жизнь впустую вот так!”",
+    "val": "“Don’t go wasting your life like this!”"
+  },
+  {
+    "key": "Ordinarily, Kano would have stayed and talked until he was sure this guy’s death wish had passed.",
+    "trx": "Обычно Кано оставался бы и разговаривал до тех пор, пока не убедился бы, что желание этого парня умереть прошло.",
+    "val": "Ordinarily, Kano would have stayed and talked until he was sure this guy’s death wish had passed."
+  },
+  {
+    "key": "But there wasn’t time for that right now.",
+    "trx": "Но сейчас на это не было времени.",
+    "val": "But there wasn’t time for that right now."
+  },
+  {
+    "key": "Maria was in just as much danger at that very moment.",
+    "trx": "В тот самый момент Мария была в такой же опасности.",
+    "val": "Maria was in just as much danger at that very moment."
+  },
+  {
+    "key": "Whipping out his handcuffs, he shackled the man to the fence.",
+    "trx": "Выхватив наручники, он приковал мужчину к забору.",
+    "val": "Whipping out his handcuffs, he shackled the man to the fence."
+  },
+  {
+    "key": "“Whuh...?”",
+    "trx": "“Что...?”",
+    "val": "“Whuh...?”"
+  },
+  {
+    "key": "“I promise I’ll come back. ",
+    "trx": "“Я обещаю, что вернусь. ",
+    "val": "“I promise I’ll come back. "
+  },
+  {
+    "key": "Please, just stay alive for a few minutes longer, okay?”",
+    "trx": "Пожалуйста, просто останься в живых еще на несколько минут, хорошо?”",
+    "val": "Please, just stay alive for a few minutes longer, okay?”"
+  },
+  {
+    "key": "Kano left the man staring in bewilderment and raced back to the South Hill Building.",
+    "trx": "Кано оставил мужчину в замешательстве пялиться на него и помчался обратно к зданию Саут-Хилл.",
+    "val": "Kano left the man staring in bewilderment and raced back to the South Hill Building."
+  },
+  {
+    "key": "When he got back to the roof, no one was there.",
+    "trx": "Когда он вернулся на крышу, там никого не было.",
+    "val": "When he got back to the roof, no one was there."
+  },
+  {
+    "key": "Kano immediately tried to call Tateno on his cell, but the call didn’t go through; Tateno must have powered off his phone.",
+    "trx": "Кано немедленно попытался позвонить Татено на свой мобильный, но звонок не прошел; Татено, должно быть, отключил свой телефон.",
+    "val": "Kano immediately tried to call Tateno on his cell, but the call didn’t go through; Tateno must have powered off his phone."
+  },
+  {
+    "key": "“Dammit! ",
+    "trx": "“Черт возьми! ",
+    "val": "“Dammit! "
+  },
+  {
+    "key": "Where did you go, detective?!”",
+    "trx": "Куда вы ходили, детектив?!”",
+    "val": "Where did you go, detective?!”"
+  },
+  {
+    "key": "He needed to hear what Tateno had to say.",
+    "trx": "Ему нужно было услышать, что скажет Татено.",
+    "val": "He needed to hear what Tateno had to say."
+  },
+  {
+    "key": "He still had no idea what was really going on, or what the grim truth might be.",
+    "trx": "Он все еще понятия не имел, что происходит на самом деле, или какова может быть мрачная правда.",
+    "val": "He still had no idea what was really going on, or what the grim truth might be."
+  },
+  {
+    "key": "And it seemed he had just lost his chance to find out.",
+    "trx": "И, похоже, он только что упустил свой шанс выяснить это.",
+    "val": "And it seemed he had just lost his chance to find out."
+  },
+  {
+    "key": "In desperation, Kano rushed from the building.",
+    "trx": "В отчаянии Кано выбежал из здания.",
+    "val": "In desperation, Kano rushed from the building."
+  },
+  {
+    "key": "But in his frantic search of the area, he saw no sign of either Tateno or Maria.",
+    "trx": "Но в своих лихорадочных поисках он не увидел никаких признаков ни Татено, ни Марии.",
+    "val": "But in his frantic search of the area, he saw no sign of either Tateno or Maria."
+  },
+  {
+    "key": "Later, a precinct-wide manhunt failed to discover where the two had gone.",
+    "trx": "Позже в ходе розыска по всему участку не удалось выяснить, куда делись эти двое.",
+    "val": "Later, a precinct-wide manhunt failed to discover where the two had gone."
+  },
+  {
+    "key": "From that day forward, ",
+    "trx": "С этого дня и впредь, ",
+    "val": "From that day forward, "
+  },
+  {
+    "key": "Kano was empty inside, carrying out his duties as a detective with bleak detachment.",
+    "trx": "Кано был пуст внутри, выполняя свои обязанности детектива с мрачной отстраненностью.",
+    "val": "Kano was empty inside, carrying out his duties as a detective with bleak detachment."
+  },
+  {
+    "key": "No. 53\u3000",
+    "trx": "№ 53\u3000",
+    "val": "No. 53\u3000"
+  },
+  {
+    "key": "Lost Sight of Maria and Tateno",
+    "trx": "Потерял Марию и Татено из виду",
+    "val": "Lost Sight of Maria and Tateno"
+  },
+  {
+    "key": "Hint",
+    "trx": "Подсказка",
+    "val": "Hint"
+  },
+  {
+    "key": "When Kano caught sight of a man about to commit suicide (it was Minorikawa), he couldn’t ignore the situation, and impulsively rushed to the rescue—but lost track of Tateno and Maria as a result. If Minorikawa hadn’t turned up on that rooftop, Kano would’ve been able to focus on his primary mission.",
+    "trx": "Когда Кано увидел человека, собирающегося покончить с собой (это был Минорикава), он не мог игнорировать ситуацию и импульсивно бросился на помощь — но в результате потерял след Татено и Марии. Если бы Минорикава не появился на той крыше, Кано смог бы сосредоточиться на своей основной миссии.",
+    "val": "When Kano caught sight of a man about to commit suicide (it was Minorikawa), he couldn’t ignore the situation, and impulsively rushed to the rescue—but lost track of Tateno and Maria as a result. If Minorikawa hadn’t turned up on that rooftop, Kano would’ve been able to focus on his primary mission."
+  }
+]

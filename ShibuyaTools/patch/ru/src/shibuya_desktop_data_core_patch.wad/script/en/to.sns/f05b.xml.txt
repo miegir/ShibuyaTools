@@ -1,0 +1,752 @@
+[
+  {
+    "key": "The front door opened.",
+    "trx": "Входная дверь открылась.",
+    "val": "The front door opened."
+  },
+  {
+    "key": "A grim-looking man emerged, leading another man in handcuffs.",
+    "trx": "Появился мрачного вида мужчина, ведя за собой другого мужчину в наручниках.",
+    "val": "A grim-looking man emerged, leading another man in handcuffs."
+  },
+  {
+    "key": "Minorikawa was standing in their way.",
+    "trx": "Минорикава стоял у них на пути.",
+    "val": "Minorikawa was standing in their way."
+  },
+  {
+    "key": "“Pardon us,” the serious-looking fellow said.",
+    "trx": "”Извините нас\", - сказал серьезный парень.",
+    "val": "“Pardon us,” the serious-looking fellow said."
+  },
+  {
+    "key": "He gave Minorikawa a curt bow as he passed by.",
+    "trx": "Проходя мимо, он коротко поклонился Минорикаве.",
+    "val": "He gave Minorikawa a curt bow as he passed by."
+  },
+  {
+    "key": "Minorikawa smelled the distinct odor of a scoop. ",
+    "trx": "Минорикава почувствовал отчетливый запах совка. ",
+    "val": "Minorikawa smelled the distinct odor of a scoop. "
+  },
+  {
+    "key": "“Hey, does that guy live here?” he asked.",
+    "trx": "“Эй, этот парень здесь живет?” он спросил.",
+    "val": "“Hey, does that guy live here?” he asked."
+  },
+  {
+    "key": "The man ignored him and kept moving.",
+    "trx": "Мужчина проигнорировал его и продолжал двигаться.",
+    "val": "The man ignored him and kept moving."
+  },
+  {
+    "key": "But Minorikawa followed; he couldn’t let this opportunity pass him by. ",
+    "trx": "Но Минорикава последовал за ним; он не мог упустить такую возможность. ",
+    "val": "But Minorikawa followed; he couldn’t let this opportunity pass him by. "
+  },
+  {
+    "key": "“Hey, wait up. ",
+    "trx": "“Эй, подожди. ",
+    "val": "“Hey, wait up. "
+  },
+  {
+    "key": "Is that Mr. Osawa?”",
+    "trx": "Это мистер Осава?”",
+    "val": "Is that Mr. Osawa?”"
+  },
+  {
+    "key": "With a grimace, the man pushed Minorikawa aside and hurried his handcuffed prisoner along.",
+    "trx": "С гримасой мужчина оттолкнул Минорикаву в сторону и поторопил своего закованного в наручники пленника.",
+    "val": "With a grimace, the man pushed Minorikawa aside and hurried his handcuffed prisoner along."
+  },
+  {
+    "key": "For a moment, Minorikawa wondered if he should keep after them, but he decided against it.",
+    "trx": "На мгновение Минорикава задумался, не последовать ли ему за ними, но решил не делать этого.",
+    "val": "For a moment, Minorikawa wondered if he should keep after them, but he decided against it."
+  },
+  {
+    "key": "Whatever was going on here, he doubted he’d be able to get an interview with the twin girls right now.",
+    "trx": "Что бы здесь ни происходило, он сомневался, что сможет прямо сейчас взять интервью у девочек-близняшек.",
+    "val": "Whatever was going on here, he doubted he’d be able to get an interview with the twin girls right now."
+  },
+  {
+    "key": "This had all been an unfortunate waste of time.",
+    "trx": "Все это было досадной тратой времени.",
+    "val": "This had all been an unfortunate waste of time."
+  },
+  {
+    "key": "He had no real choice but to head along to his next interview.",
+    "trx": "У него не было другого выбора, кроме как отправиться на следующее собеседование.",
+    "val": "He had no real choice but to head along to his next interview."
+  },
+  {
+    "key": "The front door flew open.",
+    "trx": "Входная дверь распахнулась.",
+    "val": "The front door flew open."
+  },
+  {
+    "key": "Several men came rushing out and surrounded Minorikawa.",
+    "trx": "Несколько мужчин выбежали и окружили Минорикаву.",
+    "val": "Several men came rushing out and surrounded Minorikawa."
+  },
+  {
+    "key": "“Whoa, what?” Minorikawa blurted. ",
+    "trx": "“Вау, что?” - выпалил Минорикава. ",
+    "val": "“Whoa, what?” Minorikawa blurted. "
+  },
+  {
+    "key": "“What gives?!”",
+    "trx": "“Что дает?!”",
+    "val": "“What gives?!”"
+  },
+  {
+    "key": "“We have Material Witness A in custody!”",
+    "trx": "“У нас есть важный свидетель А под стражей!”",
+    "val": "“We have Material Witness A in custody!”"
+  },
+  {
+    "key": "“Huh? ‘Material Witness A?’ ",
+    "trx": "\"Хм? ‘Существенный свидетель А?’ ",
+    "val": "“Huh? ‘Material Witness A?’ "
+  },
+  {
+    "key": "What are you talking about? ",
+    "trx": "О чем ты говоришь? ",
+    "val": "What are you talking about? "
+  },
+  {
+    "key": "Just who do you think I am? ",
+    "trx": "За кого ты меня принимаешь? ",
+    "val": "Just who do you think I am? "
+  },
+  {
+    "key": "I’m Minoru Minorikawa! ",
+    "trx": "Я Минору Минорикава! ",
+    "val": "I’m Minoru Minorikawa! "
+  },
+  {
+    "key": "Hey, c’mon! Lemme go!”",
+    "trx": "Эй, давай! Отпусти меня!”",
+    "val": "Hey, c’mon! Lemme go!”"
+  },
+  {
+    "key": "Despite his protests, the men held onto him, flashing police badges.",
+    "trx": "Несмотря на его протесты, мужчины держали его, сверкая полицейскими значками.",
+    "val": "Despite his protests, the men held onto him, flashing police badges."
+  },
+  {
+    "key": "They refused to explain what was going on.",
+    "trx": "Они отказались объяснить, что происходит.",
+    "val": "They refused to explain what was going on."
+  },
+  {
+    "key": "“This is an unlawful arrest! ",
+    "trx": "“Это незаконный арест! ",
+    "val": "“This is an unlawful arrest! "
+  },
+  {
+    "key": "All it’ll take is one blurb from me and you’re all fired! ",
+    "trx": "Все, что потребуется, - это одно мое заявление, и вы все уволены! ",
+    "val": "All it’ll take is one blurb from me and you’re all fired! "
+  },
+  {
+    "key": "Do I make myself clear? ",
+    "trx": "Я ясно выражаюсь? ",
+    "val": "Do I make myself clear? "
+  },
+  {
+    "key": "Are you even listening to me? ",
+    "trx": "Ты вообще меня слушаешь? ",
+    "val": "Are you even listening to me? "
+  },
+  {
+    "key": "Hey! Listen up! ",
+    "trx": "Эй! Слушайте внимательно! ",
+    "val": "Hey! Listen up! "
+  },
+  {
+    "key": "Listen to me!”",
+    "trx": "Послушай меня!”",
+    "val": "Listen to me!”"
+  },
+  {
+    "key": "But Minorikawa’s voice was drowned out, ",
+    "trx": "Но голос Минорикавы был заглушен, ",
+    "val": "But Minorikawa’s voice was drowned out, "
+  },
+  {
+    "key": "lost amidst the detectives’ frenzied shouting.",
+    "trx": "затерянный среди бешеных криков детективов.",
+    "val": "lost amidst the detectives’ frenzied shouting."
+  },
+  {
+    "key": "No. 38\u3000",
+    "trx": "№ 38\u3000",
+    "val": "No. 38\u3000"
+  },
+  {
+    "key": "Material Witness A",
+    "trx": "Материальный Свидетель А",
+    "val": "Material Witness A"
+  },
+  {
+    "key": "Hint",
+    "trx": "Подсказка",
+    "val": "Hint"
+  },
+  {
+    "key": "Minorikawa got arrested without even knowing what he’d done wrong. Needless to say, he’s not actually Material Witness A. This all happened because of something Osawa said, but ",
+    "trx": "Минорикаву арестовали, даже не зная, что он сделал не так. Излишне говорить, что на самом деле он не является Существенным Свидетелем А. Все это произошло из-за того, что сказал Осава, но ",
+    "val": "Minorikawa got arrested without even knowing what he’d done wrong. Needless to say, he’s not actually Material Witness A. This all happened because of something Osawa said, but "
+  },
+  {
+    "key": "he",
+    "trx": "он",
+    "val": "he"
+  },
+  {
+    "key": " only said it because of something someone else said to ",
+    "trx": " сказал это только из-за того, что кто-то другой сказал мне ",
+    "val": " only said it because of something someone else said to "
+  },
+  {
+    "key": "him",
+    "trx": "его",
+    "val": "him"
+  },
+  {
+    "key": ".",
+    "trx": ".",
+    "val": "."
+  },
+  {
+    "key": "Further along in Osawa’s story, you should be able to find out who said the wrong thing.",
+    "trx": "Далее в рассказе Осавы вы должны быть в состоянии выяснить, кто сказал что-то не то.",
+    "val": "Further along in Osawa’s story, you should be able to find out who said the wrong thing."
+  },
+  {
+    "key": "A woman’s voice came through the intercom.",
+    "trx": "В интеркоме послышался женский голос.",
+    "val": "A woman’s voice came through the intercom."
+  },
+  {
+    "key": "“Who is it?”",
+    "trx": "“Кто это?” - спросил я.",
+    "val": "“Who is it?”"
+  },
+  {
+    "key": "“It’s Minorikawa.”",
+    "trx": "“Это Минорикава”.",
+    "val": "“It’s Minorikawa.”"
+  },
+  {
+    "key": "“Where would I know you from, Mr. Minorikawa?”",
+    "trx": "“Откуда мне вас знать, мистер Минорикава?”",
+    "val": "“Where would I know you from, Mr. Minorikawa?”"
+  },
+  {
+    "key": "“Oh, you know. Here and there. ",
+    "trx": "“О, ты знаешь. Здесь и там. ",
+    "val": "“Oh, you know. Here and there. "
+  },
+  {
+    "key": "I mean there’s only ",
+    "trx": "Я имею в виду, что есть только ",
+    "val": "I mean there’s only "
+  },
+  {
+    "key": "one",
+    "trx": "один",
+    "val": "one"
+  },
+  {
+    "key": " Minorikawa, really.”",
+    "trx": " Минорикава, на самом деле.”",
+    "val": " Minorikawa, really.”"
+  },
+  {
+    "key": "“I don’t have time for such nonsense. ",
+    "trx": "“У меня нет времени на подобную ерунду. ",
+    "val": "“I don’t have time for such nonsense. "
+  },
+  {
+    "key": "Please, be on your way.”",
+    "trx": "Пожалуйста, идите своей дорогой\".",
+    "val": "Please, be on your way.”"
+  },
+  {
+    "key": "“I’m not going anywhere until I get an interview.”",
+    "trx": "“Я никуда не уйду, пока не получу интервью”.",
+    "val": "“I’m not going anywhere until I get an interview.”"
+  },
+  {
+    "key": "“Interview? ",
+    "trx": "“Интервью? ",
+    "val": "“Interview? "
+  },
+  {
+    "key": "Who are you with?”",
+    "trx": "С кем ты?”",
+    "val": "Who are you with?”"
+  },
+  {
+    "key": "The woman’s tone had changed now.",
+    "trx": "Теперь тон женщины изменился.",
+    "val": "The woman’s tone had changed now."
+  },
+  {
+    "key": "Maybe Minorikawa could simply talk his way through this.",
+    "trx": "Может быть, Минорикава мог бы просто рассказать об этом по-своему.",
+    "val": "Maybe Minorikawa could simply talk his way through this."
+  },
+  {
+    "key": "“This is a piece for ",
+    "trx": "“Это произведение для ",
+    "val": "“This is a piece for "
+  },
+  {
+    "key": "Four-Star General Gossip",
+    "trx": "Четырехзвездочная Общая сплетня",
+    "val": "Four-Star General Gossip"
+  },
+  {
+    "key": ".”",
+    "trx": ".”",
+    "val": ".”"
+  },
+  {
+    "key": "“Ah, perfect. ",
+    "trx": "“Ах, прекрасно. ",
+    "val": "“Ah, perfect. "
+  },
+  {
+    "key": "I’ve been wanting to talk to them.”",
+    "trx": "Я давно хотел с ними поговорить.”",
+    "val": "I’ve been wanting to talk to them.”"
+  },
+  {
+    "key": "Was this one of the Miss Midoriyama winners?",
+    "trx": "Была ли это одна из победительниц конкурса \"Мисс Мидорияма\"?",
+    "val": "Was this one of the Miss Midoriyama winners?"
+  },
+  {
+    "key": "Or perhaps it was the girls’ mother, eager to boast about her daughters’ achievement?",
+    "trx": "Или, может быть, это была мать девочек, жаждущая похвастаться достижениями своих дочерей?",
+    "val": "Or perhaps it was the girls’ mother, eager to boast about her daughters’ achievement?"
+  },
+  {
+    "key": "“I assume you’re familiar with defamation of character?” the woman said.",
+    "trx": "“Я полагаю, вы знакомы с диффамацией личности?” сказала женщина.",
+    "val": "“I assume you’re familiar with defamation of character?” the woman said."
+  },
+  {
+    "key": "“Hmm? What are you talking about?”",
+    "trx": "«хмм? О чем ты говоришь?”",
+    "val": "“Hmm? What are you talking about?”"
+  },
+  {
+    "key": "“Article 230 of the Penal Code of Japan defines it as ‘any attack against a person’s reputation or societal standing.’ ",
+    "trx": "“Статья 230 Уголовного кодекса Японии определяет это как \"любое посягательство на репутацию или общественное положение человека\". ",
+    "val": "“Article 230 of the Penal Code of Japan defines it as ‘any attack against a person’s reputation or societal standing.’ "
+  },
+  {
+    "key": "It’s a very serious crime.”",
+    "trx": "Это очень серьезное преступление.”",
+    "val": "It’s a very serious crime.”"
+  },
+  {
+    "key": "“I know what it is,” Minorikawa said. “What’s your point?”",
+    "trx": "“Я знаю, что это такое”, - сказал Минорикава. “К чему ты клонишь?”",
+    "val": "“I know what it is,” Minorikawa said. “What’s your point?”"
+  },
+  {
+    "key": "He had a bad feeling about this.",
+    "trx": "У него было плохое предчувствие по этому поводу.",
+    "val": "He had a bad feeling about this."
+  },
+  {
+    "key": "Why discuss libel laws right before an interview?",
+    "trx": "Зачем обсуждать законы о клевете прямо перед собеседованием?",
+    "val": "Why discuss libel laws right before an interview?"
+  },
+  {
+    "key": "“Oh, I’m not letting you get away with telling me you’ve forgotten. ",
+    "trx": "“О, я не позволю тебе уйти, сказав мне, что ты забыл. ",
+    "val": "“Oh, I’m not letting you get away with telling me you’ve forgotten. "
+  },
+  {
+    "key": "I wonder if you’ll remember once I bring up charges.”",
+    "trx": "Интересно, вспомнишь ли ты, когда я выдвину обвинения.”",
+    "val": "I wonder if you’ll remember once I bring up charges.”"
+  },
+  {
+    "key": "Her tone was calm and level, but laced with malice.",
+    "trx": "Ее тон был спокойным и ровным, но пронизанным злобой.",
+    "val": "Her tone was calm and level, but laced with malice."
+  },
+  {
+    "key": "“You’re talking nonsense, lady. ",
+    "trx": "“Вы говорите чушь, леди. ",
+    "val": "“You’re talking nonsense, lady. "
+  },
+  {
+    "key": "Are you the mother? ",
+    "trx": "Вы мать? ",
+    "val": "Are you the mother? "
+  },
+  {
+    "key": "I’ve got business with your daughters. ",
+    "trx": "У меня есть дело к вашим дочерям. ",
+    "val": "I’ve got business with your daughters. "
+  },
+  {
+    "key": "Put one of them on the line.”",
+    "trx": "Поставьте одного из них на линию.”",
+    "val": "Put one of them on the line.”"
+  },
+  {
+    "key": "“Nonsense?!”",
+    "trx": "“Чушь?!”",
+    "val": "“Nonsense?!”"
+  },
+  {
+    "key": "The woman’s wrath radiated from the intercom.",
+    "trx": "Гнев женщины исходил из интеркома.",
+    "val": "The woman’s wrath radiated from the intercom."
+  },
+  {
+    "key": "“It’s your ",
+    "trx": "“Это твой ",
+    "val": "“It’s your "
+  },
+  {
+    "key": "Four-Star General Gossip",
+    "trx": "Четырехзвездочная Общая сплетня",
+    "val": "Four-Star General Gossip"
+  },
+  {
+    "key": " that specializes in nonsense!” ",
+    "trx": " который специализируется на ерунде!” ",
+    "val": " that specializes in nonsense!” "
+  },
+  {
+    "key": "Her voice was so loud that it was cracking. ",
+    "trx": "Ее голос был таким громким, что ломался. ",
+    "val": "Her voice was so loud that it was cracking. "
+  },
+  {
+    "key": "“Detective, arrest this man! ",
+    "trx": "“Детектив, арестуйте этого человека! ",
+    "val": "“Detective, arrest this man! "
+  },
+  {
+    "key": "He’s a criminal!”",
+    "trx": "Он преступник!”",
+    "val": "He’s a criminal!”"
+  },
+  {
+    "key": "“Hmph. ‘Detective,’ huh? ",
+    "trx": "“Хм. ‘Детектив\", да? ",
+    "val": "“Hmph. ‘Detective,’ huh? "
+  },
+  {
+    "key": "You don’t really think I’d fall for that, do you, lady? ",
+    "trx": "Вы же не думаете, что я действительно куплюсь на это, не так ли, леди? ",
+    "val": "You don’t really think I’d fall for that, do you, lady? "
+  },
+  {
+    "key": "Just who do you think I am? ",
+    "trx": "За кого ты меня принимаешь? ",
+    "val": "Just who do you think I am? "
+  },
+  {
+    "key": "I’m Minoru Minorikawa!”",
+    "trx": "Я Минору Минорикава!”",
+    "val": "I’m Minoru Minorikawa!”"
+  },
+  {
+    "key": "He crossed his arms and struck a defiant pose.",
+    "trx": "Он скрестил руки на груди и принял вызывающую позу.",
+    "val": "He crossed his arms and struck a defiant pose."
+  },
+  {
+    "key": "Then the front door opened up, and several men came trotting out.",
+    "trx": "Затем открылась входная дверь, и оттуда выбежали несколько мужчин.",
+    "val": "Then the front door opened up, and several men came trotting out."
+  },
+  {
+    "key": "“Sir,” one of the men said, ",
+    "trx": "“Сэр\", ” сказал один из мужчин, ",
+    "val": "“Sir,” one of the men said, "
+  },
+  {
+    "key": "“we’d like to ask you a few questions.”",
+    "trx": "“мы хотели бы задать вам несколько вопросов”.",
+    "val": "“we’d like to ask you a few questions.”"
+  },
+  {
+    "key": "At the word ‘sir,’ ",
+    "trx": "При слове \"сэр\", ",
+    "val": "At the word ‘sir,’ "
+  },
+  {
+    "key": "the man flashed his badge, and Minorikawa turned to run on reflex.",
+    "trx": "мужчина сверкнул своим значком, и Минорикава рефлекторно повернулся, чтобы бежать.",
+    "val": "the man flashed his badge, and Minorikawa turned to run on reflex."
+  },
+  {
+    "key": "He hadn’t thought she’d actually send detectives after him!",
+    "trx": "Он не думал, что она действительно пошлет за ним детективов!",
+    "val": "He hadn’t thought she’d actually send detectives after him!"
+  },
+  {
+    "key": "Just what the hell had Heaven Publishing ",
+    "trx": "Что, черт возьми, издал Рай? ",
+    "val": "Just what the hell had Heaven Publishing "
+  },
+  {
+    "key": "done",
+    "trx": "сделано",
+    "val": "done"
+  },
+  {
+    "key": " to her?",
+    "trx": " к ней?",
+    "val": " to her?"
+  },
+  {
+    "key": "Never mind. He needed to get out of here.",
+    "trx": "Неважно. Ему нужно было убираться отсюда.",
+    "val": "Never mind. He needed to get out of here."
+  },
+  {
+    "key": "He couldn’t afford to get arrested right now.",
+    "trx": "Он не мог позволить себе, чтобы его арестовали прямо сейчас.",
+    "val": "He couldn’t afford to get arrested right now."
+  },
+  {
+    "key": "“Out with it!",
+    "trx": "“Покончи с этим!",
+    "val": "“Out with it!"
+  },
+  {
+    "key": "You abducted that girl, didn’t you?”",
+    "trx": "Ты похитил ту девушку, не так ли?”",
+    "val": "You abducted that girl, didn’t you?”"
+  },
+  {
+    "key": "“Detective, ",
+    "trx": "“Детектив, ",
+    "val": "“Detective, "
+  },
+  {
+    "key": "you keep asking me the same question over and over.”",
+    "trx": "ты продолжаешь задавать мне один и тот же вопрос снова и снова.”",
+    "val": "you keep asking me the same question over and over.”"
+  },
+  {
+    "key": "“And I’ll keep on asking until you tell me the truth.”",
+    "trx": "“И я буду продолжать спрашивать, пока ты не скажешь мне правду”.",
+    "val": "“And I’ll keep on asking until you tell me the truth.”"
+  },
+  {
+    "key": "“Look, ask all you want, but I can’t tell you what I don’t know!”",
+    "trx": "“Слушай, спрашивай все, что хочешь, но я не могу сказать тебе то, чего не знаю!”",
+    "val": "“Look, ask all you want, but I can’t tell you what I don’t know!”"
+  },
+  {
+    "key": "“Then let’s go back to the beginning, shall we?”",
+    "trx": "“Тогда давайте вернемся к началу, хорошо?”",
+    "val": "“Then let’s go back to the beginning, shall we?”"
+  },
+  {
+    "key": "“Oh, cut the crap! ",
+    "trx": "“О, прекрати нести чушь! ",
+    "val": "“Oh, cut the crap! "
+  },
+  {
+    "key": "I don’t have time for your games!”",
+    "trx": "У меня нет времени на твои игры!”",
+    "val": "I don’t have time for your games!”"
+  },
+  {
+    "key": "“As a matter of fact, ",
+    "trx": "“На самом деле, ",
+    "val": "“As a matter of fact, "
+  },
+  {
+    "key": "you have plenty of time—I can assure you of that.”",
+    "trx": "у вас достаточно времени — я могу вас в этом заверить.”",
+    "val": "you have plenty of time—I can assure you of that.”"
+  },
+  {
+    "key": "The stubborn detective flashed him a grin.",
+    "trx": "Упрямый детектив одарил его ухмылкой.",
+    "val": "The stubborn detective flashed him a grin."
+  },
+  {
+    "key": "“I can keep doing this for ",
+    "trx": "“Я могу продолжать делать это для ",
+    "val": "“I can keep doing this for "
+  },
+  {
+    "key": "days",
+    "trx": "дни",
+    "val": "days"
+  },
+  {
+    "key": " if that’s what it takes to get you to confess.”",
+    "trx": " если это то, что нужно, чтобы заставить тебя признаться.”",
+    "val": " if that’s what it takes to get you to confess.”"
+  },
+  {
+    "key": "And so the interrogation went on for hours.",
+    "trx": "И так допрос продолжался несколько часов.",
+    "val": "And so the interrogation went on for hours."
+  },
+  {
+    "key": "In the end, once his innocence had been established, Minorikawa was finally released; he wrote a scathing indictment on his experience.",
+    "trx": "В конце концов, как только его невиновность была доказана, Минорикава был наконец освобожден; он написал резкое обвинительное заключение о своем опыте.",
+    "val": "In the end, once his innocence had been established, Minorikawa was finally released; he wrote a scathing indictment on his experience."
+  },
+  {
+    "key": "The report shook up the system in a major way—",
+    "trx": "Отчет серьезно встряхнул систему—",
+    "val": "The report shook up the system in a major way—"
+  },
+  {
+    "key": "but that’s another story, for another day.",
+    "trx": "но это уже другая история, для другого дня.",
+    "val": "but that’s another story, for another day."
+  },
+  {
+    "key": "No. 39\u3000",
+    "trx": "№ 39\u3000",
+    "val": "No. 39\u3000"
+  },
+  {
+    "key": "Wrongly Accused",
+    "trx": "Ошибочно обвиненный",
+    "val": "Wrongly Accused"
+  },
+  {
+    "key": "Hint",
+    "trx": "Подсказка",
+    "val": "Hint"
+  },
+  {
+    "key": "Minorikawa was arrested for a crime he had nothing to do with. That woman he talked to must really, ",
+    "trx": "Минорикава был арестован за преступление, к которому он не имел никакого отношения. Та женщина, с которой он разговаривал, должно быть, действительно, ",
+    "val": "Minorikawa was arrested for a crime he had nothing to do with. That woman he talked to must really, "
+  },
+  {
+    "key": "really",
+    "trx": "действительно",
+    "val": "really"
+  },
+  {
+    "key": " hate ",
+    "trx": " ненавидеть ",
+    "val": " hate "
+  },
+  {
+    "key": "Four-Star General Gossip",
+    "trx": "Четырехзвездочная Общая сплетня",
+    "val": "Four-Star General Gossip"
+  },
+  {
+    "key": ". Clearly he had no hope of getting anywhere with her—but maybe there’s someone more understanding who might answer the intercom instead.",
+    "trx": " Очевидно, у него не было никакой надежды чего—либо добиться с ней - но, может быть, есть кто-то более понимающий, кто мог бы вместо этого ответить на звонок по внутренней связи.",
+    "val": ". Clearly he had no hope of getting anywhere with her—but maybe there’s someone more understanding who might answer the intercom instead."
+  },
+  {
+    "key": "Oh, it’s too late for that.",
+    "trx": "О, для этого уже слишком поздно.",
+    "val": "Oh, it’s too late for that."
+  },
+  {
+    "key": "Giving in to his anger, Minorikawa threw a punch at the troublemaker.",
+    "trx": "Поддавшись своему гневу, Минорикава нанес удар нарушителю спокойствия.",
+    "val": "Giving in to his anger, Minorikawa threw a punch at the troublemaker."
+  },
+  {
+    "key": "“Grrah!”",
+    "trx": "“Грра!”",
+    "val": "“Grrah!”"
+  },
+  {
+    "key": "The man dodged nimbly, however.",
+    "trx": "Однако мужчина ловко увернулся.",
+    "val": "The man dodged nimbly, however."
+  },
+  {
+    "key": "“Heh. You’re not bad.”",
+    "trx": "“Хех. Ты не так уж плох.”",
+    "val": "“Heh. You’re not bad.”"
+  },
+  {
+    "key": "“I’m sixth dan in judo.”",
+    "trx": "“У меня шестой дан по дзюдо\".",
+    "val": "“I’m sixth dan in judo.”"
+  },
+  {
+    "key": "“Ah. You shoulda mentioned that earlier.”",
+    "trx": "“Ах. Тебе следовало упомянуть об этом раньше.”",
+    "val": "“Ah. You shoulda mentioned that earlier.”"
+  },
+  {
+    "key": "Minorikawa hastily retreated to his seat.",
+    "trx": "Минорикава поспешно вернулся на свое место.",
+    "val": "Minorikawa hastily retreated to his seat."
+  },
+  {
+    "key": "The other man snorted and sat down with a scowl.",
+    "trx": "Другой мужчина фыркнул и сел с хмурым видом.",
+    "val": "The other man snorted and sat down with a scowl."
+  },
+  {
+    "key": "“Ah, well. I’ll have to come back later.”",
+    "trx": "“Ах, хорошо. Мне придется вернуться позже.”",
+    "val": "“Ah, well. I’ll have to come back later.”"
+  },
+  {
+    "key": "Minorikawa decided he’d better get to his next interview.",
+    "trx": "Минорикава решил, что ему лучше перейти к следующему собеседованию.",
+    "val": "Minorikawa decided he’d better get to his next interview."
+  },
+  {
+    "key": "He started to head back toward the taxi.",
+    "trx": "Он направился обратно к такси.",
+    "val": "He started to head back toward the taxi."
+  },
+  {
+    "key": "“Go ahead, hit me!”",
+    "trx": "“Давай, ударь меня!”",
+    "val": "“Go ahead, hit me!”"
+  },
+  {
+    "key": "“Oh, I’ll hit you all right!” ",
+    "trx": "“О, я тебя точно ударю!” ",
+    "val": "“Oh, I’ll hit you all right!” "
+  },
+  {
+    "key": "Oarai waved the hammer menacingly.",
+    "trx": "Орай угрожающе взмахнул молотом.",
+    "val": "Oarai waved the hammer menacingly."
+  },
+  {
+    "key": "“Ouch!”",
+    "trx": "“Ай!”",
+    "val": "“Ouch!”"
+  },
+  {
+    "key": "“I haven’t even hit you yet!” ",
+    "trx": "“Я тебя еще даже не ударил!” ",
+    "val": "“I haven’t even hit you yet!” "
+  },
+  {
+    "key": "Oarai waved the hammer menacingly.",
+    "trx": "Орай угрожающе взмахнул молотом.",
+    "val": "Oarai waved the hammer menacingly."
+  }
+]

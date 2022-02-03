@@ -1,0 +1,637 @@
+[
+  {
+    "key": "“No way. I can’t share that info.”",
+    "trx": "“Ни за что. Я не могу поделиться этой информацией\".",
+    "val": "“No way. I can’t share that info.”"
+  },
+  {
+    "key": "A thin smile came to the girl’s face. ",
+    "trx": "Тонкая улыбка появилась на лице девушки. ",
+    "val": "A thin smile came to the girl’s face. "
+  },
+  {
+    "key": "“That’s very noble of you. ",
+    "trx": "“Это очень благородно с твоей стороны. ",
+    "val": "“That’s very noble of you. "
+  },
+  {
+    "key": "But I think once you hear what I have to say, you’ll change your mind.”",
+    "trx": "Но я думаю, как только ты услышишь то, что я хочу сказать, ты изменишь свое мнение”.",
+    "val": "But I think once you hear what I have to say, you’ll change your mind.”"
+  },
+  {
+    "key": "“Who...",
+    "trx": "“Кто...",
+    "val": "“Who..."
+  },
+  {
+    "key": "Who ",
+    "trx": "Кто ",
+    "val": "Who "
+  },
+  {
+    "key": "are",
+    "trx": "являются",
+    "val": "are"
+  },
+  {
+    "key": " you?”",
+    "trx": " ты?”",
+    "val": " you?”"
+  },
+  {
+    "key": "“My name is Canaan.”",
+    "trx": "“Меня зовут Ханаан”.",
+    "val": "“My name is Canaan.”"
+  },
+  {
+    "key": "Canaan?",
+    "trx": "Ханаан?",
+    "val": "Canaan?"
+  },
+  {
+    "key": "“First, I need to know who you are.”",
+    "trx": "“Во-первых, мне нужно знать, кто ты такой”.",
+    "val": "“First, I need to know who you are.”"
+  },
+  {
+    "key": "“My name is Canaan.”",
+    "trx": "“Меня зовут Ханаан”.",
+    "val": "“My name is Canaan.”"
+  },
+  {
+    "key": "Canaan?",
+    "trx": "Ханаан?",
+    "val": "Canaan?"
+  },
+  {
+    "key": "Kano thought back",
+    "trx": "Кано вспомнил",
+    "val": "Kano thought back"
+  },
+  {
+    "key": "to the grisly scene at the foreign syndicate’s hideout.",
+    "trx": "к ужасной сцене в убежище иностранного синдиката.",
+    "val": "to the grisly scene at the foreign syndicate’s hideout."
+  },
+  {
+    "key": "Did",
+    "trx": "Сделал",
+    "val": "Did"
+  },
+  {
+    "key": " she",
+    "trx": " она",
+    "val": " she"
+  },
+  {
+    "key": " do that? ",
+    "trx": " сделать это? ",
+    "val": " do that? "
+  },
+  {
+    "key": "Kano was almost afraid to wonder.",
+    "trx": "Кано почти боялся задаваться этим вопросом.",
+    "val": "Kano was almost afraid to wonder."
+  },
+  {
+    "key": "As if sensing his unease, Canaan spoke up, her voice low and calm. ",
+    "trx": "Словно почувствовав его беспокойство, Ханаан заговорила низким и спокойным голосом. ",
+    "val": "As if sensing his unease, Canaan spoke up, her voice low and calm. "
+  },
+  {
+    "key": "“Once you hear what I have to say, I think you’ll be more inclined to tell me where Hitomi is.”",
+    "trx": "“Как только ты услышишь то, что я должен сказать, я думаю, ты будешь более склонен сказать мне, где Хитоми”.",
+    "val": "“Once you hear what I have to say, I think you’ll be more inclined to tell me where Hitomi is.”"
+  },
+  {
+    "key": "“There must be some way to get those locks open, right?”",
+    "trx": "“Должен же быть какой-то способ открыть эти замки, верно?”",
+    "val": "“There must be some way to get those locks open, right?”"
+  },
+  {
+    "key": "“Not possible,” Canaan said, shaking her head. ",
+    "trx": "“Это невозможно\", ” сказала Ханаан, качая головой. ",
+    "val": "“Not possible,” Canaan said, shaking her head. "
+  },
+  {
+    "key": "“And you can trust me on that; lock-breaking is my specialty.”",
+    "trx": "“И вы можете доверять мне в этом; взлом замков ” моя специальность\".",
+    "val": "“And you can trust me on that; lock-breaking is my specialty.”"
+  },
+  {
+    "key": "Security must be tougher than Kano had thought, then.",
+    "trx": "Значит, охрана, должно быть, более жесткая, чем думал Кано.",
+    "val": "Security must be tougher than Kano had thought, then."
+  },
+  {
+    "key": "“Still, there are ways. ",
+    "trx": "“И все же есть способы. ",
+    "val": "“Still, there are ways. "
+  },
+  {
+    "key": "They’re just very...indirect ways.” ",
+    "trx": "Это просто очень... косвенные способы.” ",
+    "val": "They’re just very...indirect ways.” "
+  },
+  {
+    "key": "Canaan paused before continuing in an ominous tone.",
+    "trx": "Ханаан сделал паузу, прежде чем продолжить зловещим тоном.",
+    "val": "Canaan paused before continuing in an ominous tone."
+  },
+  {
+    "key": "“If you can’t sneak something out, maybe you could sneak something in?”",
+    "trx": "“Если ты не можешь что-то вынести, может быть, ты мог бы что-то пронести внутрь?”",
+    "val": "“If you can’t sneak something out, maybe you could sneak something in?”"
+  },
+  {
+    "key": "Kano hadn’t had any particular flash of insight.",
+    "trx": "У Кано не было никакой особой вспышки озарения.",
+    "val": "Kano hadn’t had any particular flash of insight."
+  },
+  {
+    "key": "He just figured the opposite of the obvious might be the answer.",
+    "trx": "Он просто решил, что ответом может быть противоположное очевидному.",
+    "val": "He just figured the opposite of the obvious might be the answer."
+  },
+  {
+    "key": "To his surprise, Canaan gave a nod. ",
+    "trx": "К его удивлению, Ханаан кивнул. ",
+    "val": "To his surprise, Canaan gave a nod. "
+  },
+  {
+    "key": "“Very astute.”",
+    "trx": "“Очень проницательный”.",
+    "val": "“Very astute.”"
+  },
+  {
+    "key": "“Wait, really?”",
+    "trx": "“Подожди, правда?”",
+    "val": "“Wait, really?”"
+  },
+  {
+    "key": "“You wouldn’t need to steal it—just wait until the drug hits pharmacy shelves, right?”",
+    "trx": "“Вам не нужно было бы красть его — просто подождите, пока лекарство не попадет на полки аптек, верно?”",
+    "val": "“You wouldn’t need to steal it—just wait until the drug hits pharmacy shelves, right?”"
+  },
+  {
+    "key": "Canaan narrowed her eyes at Kano’s naïveté. ",
+    "trx": "Ханаан прищурила глаза от наивности Кано. ",
+    "val": "Canaan narrowed her eyes at Kano’s naïveté. "
+  },
+  {
+    "key": "“This isn’t the sort of drug they sell at the corner store,” she said.",
+    "trx": "“Это не тот наркотик, который продают в магазине на углу”, - сказала она.",
+    "val": "“This isn’t the sort of drug they sell at the corner store,” she said."
+  },
+  {
+    "key": "“Getting approval for a new drug takes time. ",
+    "trx": "“Получение одобрения на новый препарат требует времени. ",
+    "val": "“Getting approval for a new drug takes time. "
+  },
+  {
+    "key": "It could be another five to ten years before this antiviral hits the marketplace.”",
+    "trx": "Может пройти еще пять-десять лет, прежде чем этот противовирусный препарат появится на рынке”.",
+    "val": "It could be another five to ten years before this antiviral hits the marketplace.”"
+  },
+  {
+    "key": "“So essentially, ",
+    "trx": "“Так по существу, ",
+    "val": "“So essentially, "
+  },
+  {
+    "key": "if someone got their hands on the antiviral now, they’d have a monopoly on it for a good while?” Kano asked.",
+    "trx": "если бы кто-то получил в свои руки антивирус сейчас, у них была бы монополия на него на долгое время?” - спросил Кано.",
+    "val": "if someone got their hands on the antiviral now, they’d have a monopoly on it for a good while?” Kano asked."
+  },
+  {
+    "key": "Now he understood why Alphard was going to such lengths to obtain the drug.",
+    "trx": "Теперь он понял, почему Альфард шел на все, чтобы заполучить наркотик.",
+    "val": "Now he understood why Alphard was going to such lengths to obtain the drug."
+  },
+  {
+    "key": "Still, that only brought him right back to the original question: ",
+    "trx": "Тем не менее, это только вернуло его к первоначальному вопросу: ",
+    "val": "Still, that only brought him right back to the original question: "
+  },
+  {
+    "key": "how might someone go about stealing the antiviral from the laboratory?",
+    "trx": "как кто-то может украсть антивирусное средство из лаборатории?",
+    "val": "how might someone go about stealing the antiviral from the laboratory?"
+  },
+  {
+    "key": "“Why not use Tanaka for the vessel instead of Hitomi?”",
+    "trx": "“Почему бы не использовать Танаку для судна вместо Хитоми?”",
+    "val": "“Why not use Tanaka for the vessel instead of Hitomi?”"
+  },
+  {
+    "key": "Tanaka could enter the lab along with Osawa, ",
+    "trx": "Танака мог войти в лабораторию вместе с Осавой, ",
+    "val": "Tanaka could enter the lab along with Osawa, "
+  },
+  {
+    "key": "then secretly inject himself with the antiviral. ",
+    "trx": "затем тайно вводит себе противовирусное средство. ",
+    "val": "then secretly inject himself with the antiviral. "
+  },
+  {
+    "key": "It didn’t seem like that would be terribly difficult.",
+    "trx": "Не казалось, что это будет ужасно сложно.",
+    "val": "It didn’t seem like that would be terribly difficult."
+  },
+  {
+    "key": "“A good question. If getting the antiviral were the only goal, that would be the most expedient means of doing it.”",
+    "trx": "“Хороший вопрос. Если бы получение противовирусного препарата было единственной целью, это было бы наиболее целесообразным способом сделать это \".",
+    "val": "“A good question. If getting the antiviral were the only goal, that would be the most expedient means of doing it.”"
+  },
+  {
+    "key": "“So then why use Hitomi Osawa?” Kano asked.",
+    "trx": "“Так зачем же тогда использовать Хитоми Осаву?” - спросил Кано.",
+    "val": "“So then why use Hitomi Osawa?” Kano asked."
+  },
+  {
+    "key": "Canaan thought for a moment before answering. ",
+    "trx": "Ханаан на мгновение задумался, прежде чем ответить. ",
+    "val": "Canaan thought for a moment before answering. "
+  },
+  {
+    "key": "“Tanaka may have objected to the idea of giving himself the drug. ",
+    "trx": "“Танака, возможно, возражал против идеи дать себе наркотик. ",
+    "val": "“Tanaka may have objected to the idea of giving himself the drug. "
+  },
+  {
+    "key": "I hear that it can have some severe side-effects.”",
+    "trx": "Я слышал, что это может иметь некоторые серьезные побочные эффекты.”",
+    "val": "I hear that it can have some severe side-effects.”"
+  },
+  {
+    "key": "But she seemed unconvinced by her own words.",
+    "trx": "Но ее, казалось, не убедили собственные слова.",
+    "val": "But she seemed unconvinced by her own words."
+  },
+  {
+    "key": "“",
+    "trx": "“",
+    "val": "“"
+  },
+  {
+    "key": "Do you",
+    "trx": "Вы",
+    "val": "Do you"
+  },
+  {
+    "key": " know why they targeted Hitomi?” Kano demanded.",
+    "trx": " знаешь, почему они нацелились на Хитоми?” - потребовал Кано.",
+    "val": " know why they targeted Hitomi?” Kano demanded."
+  },
+  {
+    "key": "“I don’t. ",
+    "trx": "“Я не знаю. ",
+    "val": "“I don’t. "
+  },
+  {
+    "key": "But I’m sure there must be some reason.”",
+    "trx": "Но я уверен, что должна быть какая-то причина.”",
+    "val": "But I’m sure there must be some reason.”"
+  },
+  {
+    "key": "Alphard hadn’t gone with using Tanaka, which would have been the sure thing.",
+    "trx": "Альфард не стал использовать Танаку, что было бы верным решением.",
+    "val": "Alphard hadn’t gone with using Tanaka, which would have been the sure thing."
+  },
+  {
+    "key": "Instead, they’d gone with Hitomi.",
+    "trx": "Вместо этого они пошли с Хитоми.",
+    "val": "Instead, they’d gone with Hitomi."
+  },
+  {
+    "key": "Hitomi was injected with the virus, ",
+    "trx": "Хитоми ввели вирус, ",
+    "val": "Hitomi was injected with the virus, "
+  },
+  {
+    "key": "brought into the lab, ",
+    "trx": "привезли в лабораторию, ",
+    "val": "brought into the lab, "
+  },
+  {
+    "key": "and used to sneak the antiviral out.",
+    "trx": "и использовал, чтобы тайком выносить противовирусное средство.",
+    "val": "and used to sneak the antiviral out."
+  },
+  {
+    "key": "Now, the plan was to extract the antiviral from Hitomi’s blood.",
+    "trx": "Теперь план состоял в том, чтобы извлечь противовирусное средство из крови Хитоми.",
+    "val": "Now, the plan was to extract the antiviral from Hitomi’s blood."
+  },
+  {
+    "key": "Hmm...",
+    "trx": "Хмм...",
+    "val": "Hmm..."
+  },
+  {
+    "key": "Something about this idea still struck Kano as incredibly odd.",
+    "trx": "Что-то в этой идее все еще казалось Кано невероятно странным.",
+    "val": "Something about this idea still struck Kano as incredibly odd."
+  },
+  {
+    "key": "“So wait—why not just abduct Hitomi from the very beginning? ",
+    "trx": "“Так подождите — почему бы просто не похитить Хитоми с самого начала? ",
+    "val": "“So wait—why not just abduct Hitomi from the very beginning? "
+  },
+  {
+    "key": "Why kidnap Maria instead?”",
+    "trx": "Зачем вместо этого похищать Марию?”",
+    "val": "Why kidnap Maria instead?”"
+  },
+  {
+    "key": "“Was there really no other way to get at the antiviral?”",
+    "trx": "“Неужели не было другого способа добраться до противовирусного препарата?”",
+    "val": "“Was there really no other way to get at the antiviral?”"
+  },
+  {
+    "key": "Kano wanted to make absolutely sure.",
+    "trx": "Кано хотел быть абсолютно уверенным.",
+    "val": "Kano wanted to make absolutely sure."
+  },
+  {
+    "key": "If there were people besides Osawa and Tanaka who had the means to get the drug out, that changed the story completely.",
+    "trx": "Если бы, кроме Осавы и Танаки, были люди, у которых были средства достать наркотик, это полностью изменило бы историю.",
+    "val": "If there were people besides Osawa and Tanaka who had the means to get the drug out, that changed the story completely."
+  },
+  {
+    "key": "“I infiltrated the lab’s security system and did some looking around,” Canaan said. ",
+    "trx": "“Я проник в систему безопасности лаборатории и немного осмотрелся\", - сказал Ханаан. ",
+    "val": "“I infiltrated the lab’s security system and did some looking around,” Canaan said. "
+  },
+  {
+    "key": "“There’s nothing in the logs showing that anything was taken out. ",
+    "trx": "“В журналах нет ничего, указывающего на то, что что-то было вывезено. ",
+    "val": "“There’s nothing in the logs showing that anything was taken out. "
+  },
+  {
+    "key": "There’s also no sign that the logs were altered at all.”",
+    "trx": "Также нет никаких признаков того, что журналы вообще были изменены.”",
+    "val": "There’s also no sign that the logs were altered at all.”"
+  },
+  {
+    "key": "“Which means...” ",
+    "trx": "\"Что означает...” ",
+    "val": "“Which means...” "
+  },
+  {
+    "key": "“We should assume nobody else was capable of taking the antiviral out. ",
+    "trx": "“Мы должны предположить, что никто другой не был способен вывести противовирусное средство. ",
+    "val": "“We should assume nobody else was capable of taking the antiviral out. "
+  },
+  {
+    "key": "Alphard must have made the same assumption, and decided to use Hitomi.”",
+    "trx": "Альфард, должно быть, сделал то же самое предположение и решил использовать Хитоми.”",
+    "val": "Alphard must have made the same assumption, and decided to use Hitomi.”"
+  },
+  {
+    "key": "“I see.”",
+    "trx": "“Я понимаю”.",
+    "val": "“I see.”"
+  },
+  {
+    "key": "Under the circumstances, that made sense.",
+    "trx": "В данных обстоятельствах это имело смысл.",
+    "val": "Under the circumstances, that made sense."
+  },
+  {
+    "key": "If some third party could have gotten the antiviral, Alphard probably would have reached out to them from the beginning.",
+    "trx": "Если бы какая-то третья сторона могла получить антивирусное средство, Альфард, вероятно, обратился бы к ним с самого начала.",
+    "val": "If some third party could have gotten the antiviral, Alphard probably would have reached out to them from the beginning."
+  },
+  {
+    "key": "There would have been no need to go through the trouble of injecting Hitomi with the virus, ",
+    "trx": "Не было бы необходимости в том, чтобы вводить Хитоми вирус, ",
+    "val": "There would have been no need to go through the trouble of injecting Hitomi with the virus, "
+  },
+  {
+    "key": "getting her into the lab, ",
+    "trx": "доставить ее в лабораторию, ",
+    "val": "getting her into the lab, "
+  },
+  {
+    "key": "and using her to sneak the antiviral out.",
+    "trx": "и использовал ее, чтобы выкрасть противовирусное средство.",
+    "val": "and using her to sneak the antiviral out."
+  },
+  {
+    "key": "Even so, ",
+    "trx": "Несмотря на это, ",
+    "val": "Even so, "
+  },
+  {
+    "key": "Kano still found one thing confusing.",
+    "trx": "Кано все еще находил одну вещь сбивающей с толку.",
+    "val": "Kano still found one thing confusing."
+  },
+  {
+    "key": "“If that’s the case, why kidnap Maria? ",
+    "trx": "“Если это так, то зачем похищать Марию? ",
+    "val": "“If that’s the case, why kidnap Maria? "
+  },
+  {
+    "key": "Why not just kidnap Hitomi and be done with it?”",
+    "trx": "Почему бы просто не похитить Хитоми и не покончить с этим?”",
+    "val": "Why not just kidnap Hitomi and be done with it?”"
+  },
+  {
+    "key": "Surely they couldn’t have been so foolish as to abduct the wrong target.",
+    "trx": "Конечно, они не могли быть настолько глупы, чтобы похитить не ту цель.",
+    "val": "Surely they couldn’t have been so foolish as to abduct the wrong target."
+  },
+  {
+    "key": "So, kidnapping Maria must have been intentional.",
+    "trx": "Итак, похищение Марии, должно быть, было преднамеренным.",
+    "val": "So, kidnapping Maria must have been intentional."
+  },
+  {
+    "key": "But it didn’t add up.",
+    "trx": "Но это не сходилось.",
+    "val": "But it didn’t add up."
+  },
+  {
+    "key": "No matter how he looked at it, Kano couldn’t see any reason to kidnap Hitomi’s sister.",
+    "trx": "Как бы он ни смотрел на это, Кано не видел никакой причины похищать сестру Хитоми.",
+    "val": "No matter how he looked at it, Kano couldn’t see any reason to kidnap Hitomi’s sister."
+  },
+  {
+    "key": "“It’s...it’s my fault that Maria was kidnapped.” ",
+    "trx": "“Это...это моя вина, что Марию похитили.” ",
+    "val": "“It’s...it’s my fault that Maria was kidnapped.” "
+  },
+  {
+    "key": "Canaan looked away.",
+    "trx": "Ханаан отвел взгляд.",
+    "val": "Canaan looked away."
+  },
+  {
+    "key": "The girls hadn’t gotten ",
+    "trx": "Девочки еще не получили ",
+    "val": "The girls hadn’t gotten "
+  },
+  {
+    "key": "themselves",
+    "trx": "самих себя",
+    "val": "themselves"
+  },
+  {
+    "key": " mixed up, had they?",
+    "trx": " перепутали, не так ли?",
+    "val": " mixed up, had they?"
+  },
+  {
+    "key": "Maria with Hitomi, ",
+    "trx": "Мария с Хитоми, ",
+    "val": "Maria with Hitomi, "
+  },
+  {
+    "key": "Hitomi with Maria...",
+    "trx": "Хитоми с Марией...",
+    "val": "Hitomi with Maria..."
+  },
+  {
+    "key": "If that were the case, then the syndicate’s plan actually had been to abduct Hitomi.",
+    "trx": "Если это было так, то план синдиката на самом деле состоял в том, чтобы похитить Хитоми.",
+    "val": "If that were the case, then the syndicate’s plan actually had been to abduct Hitomi."
+  },
+  {
+    "key": "“Yeah,” Kano said excitedly. ",
+    "trx": "”Да\", - взволнованно сказал Кано. ",
+    "val": "“Yeah,” Kano said excitedly. "
+  },
+  {
+    "key": "“When you think about it, it all makes sense.”",
+    "trx": "“Когда ты думаешь об этом, все это имеет смысл”.",
+    "val": "“When you think about it, it all makes sense.”"
+  },
+  {
+    "key": "Canaan gave him a look.",
+    "trx": "Ханаан бросил на него взгляд.",
+    "val": "Canaan gave him a look."
+  },
+  {
+    "key": "“No. It doesn’t. ",
+    "trx": "\"Нет. Это не. ",
+    "val": "“No. It doesn’t. "
+  },
+  {
+    "key": "Not that it isn’t an...interesting idea.”",
+    "trx": "Не то чтобы это не было... интересной идеей.”",
+    "val": "Not that it isn’t an...interesting idea.”"
+  },
+  {
+    "key": "Well, so much for that",
+    "trx": "Что ж, вот и все для этого",
+    "val": "Well, so much for that"
+  },
+  {
+    "key": ", Kano thought.",
+    "trx": "\"подумал Кано.",
+    "val": ", Kano thought."
+  },
+  {
+    "key": "“I’ve met both Maria and Hitomi,” Canaan said. ",
+    "trx": "“Я встречался и с Марией, и с Хитоми”, - сказал Ханаан. ",
+    "val": "“I’ve met both Maria and Hitomi,” Canaan said. "
+  },
+  {
+    "key": "“They look alike, but they’re completely different. ",
+    "trx": "“Они похожи, но они совершенно разные. ",
+    "val": "“They look alike, but they’re completely different. "
+  },
+  {
+    "key": "That was definitely Maria who was here just now.”",
+    "trx": "Это определенно была Мария, которая только что была здесь.”",
+    "val": "That was definitely Maria who was here just now.”"
+  },
+  {
+    "key": "She had a point.",
+    "trx": "В ее словах был смысл.",
+    "val": "She had a point."
+  },
+  {
+    "key": "Last night, back at the Osawa residence, when Hitomi had agreed to make the ransom handoff, her parents would have been with her.",
+    "trx": "Прошлой ночью, вернувшись в резиденцию Осава, когда Хитоми согласилась передать выкуп, ее родители должны были быть с ней.",
+    "val": "Last night, back at the Osawa residence, when Hitomi had agreed to make the ransom handoff, her parents would have been with her."
+  },
+  {
+    "key": "And ",
+    "trx": "И ",
+    "val": "And "
+  },
+  {
+    "key": "they",
+    "trx": "они",
+    "val": "they"
+  },
+  {
+    "key": " certainly wouldn’t get Maria and Hitomi confused.",
+    "trx": " конечно, это не смутило бы Марию и Хитоми.",
+    "val": " certainly wouldn’t get Maria and Hitomi confused."
+  },
+  {
+    "key": "It was hard to believe the girls had actually switched places.",
+    "trx": "Трудно было поверить, что девушки действительно поменялись местами.",
+    "val": "It was hard to believe the girls had actually switched places."
+  },
+  {
+    "key": "Which meant the criminals had deliberately abducted Maria after all. ",
+    "trx": "Это означало, что преступники все-таки намеренно похитили Марию. ",
+    "val": "Which meant the criminals had deliberately abducted Maria after all. "
+  },
+  {
+    "key": "“It’d be like mixing up two completely different colors,” Canaan said. ",
+    "trx": "“Это было бы все равно, что смешать два совершенно разных цвета\", - сказал Ханаан. ",
+    "val": "“It’d be like mixing up two completely different colors,” Canaan said. "
+  },
+  {
+    "key": "“They’re that different. ",
+    "trx": "“Они настолько разные. ",
+    "val": "“They’re that different. "
+  },
+  {
+    "key": "So it wasn’t Alphard’s mistake. ",
+    "trx": "Так что это не было ошибкой Альфарда. ",
+    "val": "So it wasn’t Alphard’s mistake. "
+  },
+  {
+    "key": "It’s...it’s my fault that Maria was kidnapped.” ",
+    "trx": "Это...это моя вина, что Марию похитили.” ",
+    "val": "It’s...it’s my fault that Maria was kidnapped.” "
+  },
+  {
+    "key": "Canaan looked away.",
+    "trx": "Ханаан отвел взгляд.",
+    "val": "Canaan looked away."
+  },
+  {
+    "key": "“Actually—can I see that GPS unit?”",
+    "trx": "“На самом деле — могу я посмотреть на этот GPS-модуль?”",
+    "val": "“Actually—can I see that GPS unit?”"
+  },
+  {
+    "key": "Kano peered over Canaan’s shoulder, and saw that the GPS was indeed pointing in the direction they were headed.",
+    "trx": "Кано заглянул через плечо Ханаана и увидел, что GPS действительно указывает в том направлении, в котором они направлялись.",
+    "val": "Kano peered over Canaan’s shoulder, and saw that the GPS was indeed pointing in the direction they were headed."
+  },
+  {
+    "key": "They weren’t just running around at random, nor was the unit broken.",
+    "trx": "Они не просто бегали наугад, и устройство не было сломано.",
+    "val": "They weren’t just running around at random, nor was the unit broken."
+  },
+  {
+    "key": "“Huh. Endo Electronics is right up ahead,” he said.",
+    "trx": "“Ха. Endo Electronics находится прямо впереди\", - сказал он.",
+    "val": "“Huh. Endo Electronics is right up ahead,” he said."
+  },
+  {
+    "key": "“What?”",
+    "trx": "«что?»",
+    "val": "“What?”"
+  }
+]

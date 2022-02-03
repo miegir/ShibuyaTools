@@ -1,0 +1,3642 @@
+[
+  {
+    "key": "?",
+    "trx": "?",
+    "val": "?"
+  },
+  {
+    "key": "Bottles of Burning Hammer litter the pavement, shattered into tiny bits of glass.",
+    "trx": "Бутылки с горящим молотом валяются на тротуаре, разбитые на мелкие осколки стекла.",
+    "val": "Bottles of Burning Hammer litter the pavement, shattered into tiny bits of glass."
+  },
+  {
+    "key": "Even if the recycling guy was really careless with the boxes, it shouldn’t have caused ",
+    "trx": "Даже если бы переработчик действительно был небрежен с коробками, это не должно было вызвать ",
+    "val": "Even if the recycling guy was really careless with the boxes, it shouldn’t have caused "
+  },
+  {
+    "key": "this",
+    "trx": "этот",
+    "val": "this"
+  },
+  {
+    "key": " much of a mess.",
+    "trx": " большой беспорядок.",
+    "val": " much of a mess."
+  },
+  {
+    "key": "It looks like someone came along and actually threw them all over the place.",
+    "trx": "Похоже, кто-то пришел и действительно разбросал их повсюду.",
+    "val": "It looks like someone came along and actually threw them all over the place."
+  },
+  {
+    "key": "“The heck with this thing!”",
+    "trx": "“К черту эту штуку!”",
+    "val": "“The heck with this thing!”"
+  },
+  {
+    "key": "I toss away the miracle stone, which has clearly brought me only bad luck.",
+    "trx": "Я отбрасываю чудо-камень, который явно принес мне только неудачу.",
+    "val": "I toss away the miracle stone, which has clearly brought me only bad luck."
+  },
+  {
+    "key": "We can’t have a product demo without a product.",
+    "trx": "У нас не может быть демонстрации продукта без продукта.",
+    "val": "We can’t have a product demo without a product."
+  },
+  {
+    "key": "Which in turn means I won’t be getting paid for this whole fiasco.",
+    "trx": "Что, в свою очередь, означает, что мне не заплатят за все это фиаско.",
+    "val": "Which in turn means I won’t be getting paid for this whole fiasco."
+  },
+  {
+    "key": "“Okay. We can do this. ",
+    "trx": "\"Ладно. Мы можем это сделать. ",
+    "val": "“Okay. We can do this. "
+  },
+  {
+    "key": "We can figure something out.”",
+    "trx": "Мы можем что-нибудь придумать.”",
+    "val": "We can figure something out.”"
+  },
+  {
+    "key": "I try to give myself a pep talk, but I hear the doubt in my own voice.",
+    "trx": "Я пытаюсь подбодрить себя, но слышу сомнение в собственном голосе.",
+    "val": "I try to give myself a pep talk, but I hear the doubt in my own voice."
+  },
+  {
+    "key": "I try to brainstorm anyway.",
+    "trx": "Я все равно пытаюсь провести мозговой штурм.",
+    "val": "I try to brainstorm anyway."
+  },
+  {
+    "key": "Finding inspiration is like trying to squeeze blood from a stone.",
+    "trx": "Искать вдохновение - все равно что пытаться выжать кровь из камня.",
+    "val": "Finding inspiration is like trying to squeeze blood from a stone."
+  },
+  {
+    "key": "I wrack my mind for the best course of action, ",
+    "trx": "Я ломаю голову над тем, как лучше поступить, ",
+    "val": "I wrack my mind for the best course of action, "
+  },
+  {
+    "key": "and at long last, I arrive at a conclusion.",
+    "trx": "и, наконец, я прихожу к выводу.",
+    "val": "and at long last, I arrive at a conclusion."
+  },
+  {
+    "key": "Somehow or another, I’m going to have to sell some Burning Hammer.",
+    "trx": "Так или иначе, мне придется продать какой-нибудь Пылающий Молот.",
+    "val": "Somehow or another, I’m going to have to sell some Burning Hammer."
+  },
+  {
+    "key": "I’ll just have to find something else to sell.",
+    "trx": "Мне просто нужно будет найти что-нибудь еще для продажи.",
+    "val": "I’ll just have to find something else to sell."
+  },
+  {
+    "key": "Somehow or another, I’m going to have to sell some Burning Hammer.",
+    "trx": "Так или иначе, мне придется продать какой-нибудь Пылающий Молот.",
+    "val": "Somehow or another, I’m going to have to sell some Burning Hammer."
+  },
+  {
+    "key": "The flyers have already been handed out.",
+    "trx": "Листовки уже розданы.",
+    "val": "The flyers have already been handed out."
+  },
+  {
+    "key": "People have come to the demo expecting to get Burning Hammer.",
+    "trx": "Люди пришли на демонстрацию, ожидая получить Горящий молот.",
+    "val": "People have come to the demo expecting to get Burning Hammer."
+  },
+  {
+    "key": "I may have to put it into some new bottles, ",
+    "trx": "Возможно, мне придется разлить его в несколько новых бутылок, ",
+    "val": "I may have to put it into some new bottles, "
+  },
+  {
+    "key": "and possibly water it down some, ",
+    "trx": "и, возможно, немного разбавить его водой, ",
+    "val": "and possibly water it down some, "
+  },
+  {
+    "key": "but getting this stuff sold is my only option.",
+    "trx": "но продать этот товар - мой единственный выход.",
+    "val": "but getting this stuff sold is my only option."
+  },
+  {
+    "key": "My eyes alight on one of the cardboard boxes, and I notice an odd mark that’s stamped on it.",
+    "trx": "Мои глаза останавливаются на одной из картонных коробок, и я замечаю странную метку, выбитую на ней.",
+    "val": "My eyes alight on one of the cardboard boxes, and I notice an odd mark that’s stamped on it."
+  },
+  {
+    "key": "“Wait a sec...",
+    "trx": "“Подожди секунду...",
+    "val": "“Wait a sec..."
+  },
+  {
+    "key": "I’ve seen this before!”",
+    "trx": "Я видел это раньше!”",
+    "val": "I’ve seen this before!”"
+  },
+  {
+    "key": "I recall something Chiri said earlier.",
+    "trx": "Я вспоминаю кое-что, что Чири сказала ранее.",
+    "val": "I recall something Chiri said earlier."
+  },
+  {
+    "key": "“This is the sorta thing they’d sell",
+    "trx": "“Это своего рода вещь, которую они бы продали",
+    "val": "“This is the sorta thing they’d sell"
+  },
+  {
+    "key": "in 100-yen shops or something.”",
+    "trx": "в магазинах за 100 иен или что-то в этом роде”.",
+    "val": "in 100-yen shops or something.”"
+  },
+  {
+    "key": "The mark on the box is the same one I saw at the shop that’s selling the necklace.",
+    "trx": "Метка на коробке та же, что я видел в магазине, где продается ожерелье.",
+    "val": "The mark on the box is the same one I saw at the shop that’s selling the necklace."
+  },
+  {
+    "key": "“That’s it! I can see if there’s more at the knickknack shop!”",
+    "trx": "“Вот и все! Я могу посмотреть, есть ли еще что-нибудь в магазине безделушек!”",
+    "val": "“That’s it! I can see if there’s more at the knickknack shop!”"
+  },
+  {
+    "key": "Guided by this ",
+    "trx": "Руководствуясь этим ",
+    "val": "Guided by this "
+  },
+  {
+    "key": "ray",
+    "trx": "луч",
+    "val": "ray"
+  },
+  {
+    "key": " of hope, I head for the knickknack shop as fast as I can run.",
+    "trx": " полный надежды, я направляюсь в магазин безделушек так быстро, как только могу бежать.",
+    "val": " of hope, I head for the knickknack shop as fast as I can run."
+  },
+  {
+    "key": "As soon as I reach the main road, I crash right into someone.",
+    "trx": "Как только я выезжаю на главную дорогу, я врезаюсь прямо в кого-то.",
+    "val": "As soon as I reach the main road, I crash right into someone."
+  },
+  {
+    "key": "It’s Chiri.",
+    "trx": "Это Чири.",
+    "val": "It’s Chiri."
+  },
+  {
+    "key": "“Oh hey, you find it?” she asks.",
+    "trx": "“О, привет, ты нашел это?” - спрашивает она.",
+    "val": "“Oh hey, you find it?” she asks."
+  },
+  {
+    "key": "She makes it sound like it’s not really her problem.",
+    "trx": "Она говорит так, будто на самом деле это не ее проблема.",
+    "val": "She makes it sound like it’s not really her problem."
+  },
+  {
+    "key": "“Not yet, ",
+    "trx": "“Еще нет, ",
+    "val": "“Not yet, "
+  },
+  {
+    "key": "but I think we can stock up at the 100-yen shop.”",
+    "trx": "но я думаю, что мы можем запастись в магазине за 100 иен”.",
+    "val": "but I think we can stock up at the 100-yen shop.”"
+  },
+  {
+    "key": "The words are hard to get out when I’m panting as hard as I am.",
+    "trx": "Слова трудно произнести, когда я так тяжело дышу, как сейчас.",
+    "val": "The words are hard to get out when I’m panting as hard as I am."
+  },
+  {
+    "key": "“For now, just stay calm, and go let the boss know.”",
+    "trx": "“А пока просто сохраняй спокойствие и иди, дай знать боссу”.",
+    "val": "“For now, just stay calm, and go let the boss know.”"
+  },
+  {
+    "key": "“Got it. ",
+    "trx": "“Понял. ",
+    "val": "“Got it. "
+  },
+  {
+    "key": " Leave it to me.” ",
+    "trx": " Предоставь это мне.” ",
+    "val": " Leave it to me.” "
+  },
+  {
+    "key": "Chiri nods, and I break back into a run.",
+    "trx": "Чири кивает, и я снова бросаюсь бежать.",
+    "val": "Chiri nods, and I break back into a run."
+  },
+  {
+    "key": "I’m practically praying as I rush into the knickknack shop - where I immediately spot the cardboard boxes I saw earlier, still stacked up.",
+    "trx": "Я практически молюсь, когда врываюсь в магазин безделушек, где сразу же замечаю картонные коробки, которые я видел раньше, все еще сложенные стопкой.",
+    "val": "I’m practically praying as I rush into the knickknack shop - where I immediately spot the cardboard boxes I saw earlier, still stacked up."
+  },
+  {
+    "key": "“Yes! I’m in luck!”",
+    "trx": "\"да! Мне повезло!”",
+    "val": "“Yes! I’m in luck!”"
+  },
+  {
+    "key": "I dive into one of the boxes to check what’s inside.",
+    "trx": "Я ныряю в одну из коробок, чтобы проверить, что внутри.",
+    "val": "I dive into one of the boxes to check what’s inside."
+  },
+  {
+    "key": "It’s packed with tiny bottles.",
+    "trx": "Он набит крошечными бутылочками.",
+    "val": "It’s packed with tiny bottles."
+  },
+  {
+    "key": "There’s no mistaking the noxious red liquid inside: that’s Burning Hammer, all right.",
+    "trx": "Ядовитую красную жидкость внутри невозможно спутать: это Горящий Молот, все в порядке.",
+    "val": "There’s no mistaking the noxious red liquid inside: that’s Burning Hammer, all right."
+  },
+  {
+    "key": "There’s fifty bottles per box.",
+    "trx": "В коробке по пятьдесят бутылок.",
+    "val": "There’s fifty bottles per box."
+  },
+  {
+    "key": "And there are four boxes total.",
+    "trx": "И всего там четыре коробки.",
+    "val": "And there are four boxes total."
+  },
+  {
+    "key": "Assuming each bottle is 100 yen including tax, I can buy the whole lot with the twenty thousand I’ve got in my wallet.",
+    "trx": "Предполагая, что каждая бутылка стоит 100 иен, включая налог, я могу купить всю партию на двадцать тысяч, которые у меня есть в кошельке.",
+    "val": "Assuming each bottle is 100 yen including tax, I can buy the whole lot with the twenty thousand I’ve got in my wallet."
+  },
+  {
+    "key": "Mr. Yanagishita said he was selling the bottles at the demo for fifteen thousand yen apiece.",
+    "trx": "Мистер Янагишита сказал, что продавал бутылки на демонстрации по пятнадцать тысяч иен за штуку.",
+    "val": "Mr. Yanagishita said he was selling the bottles at the demo for fifteen thousand yen apiece."
+  },
+  {
+    "key": "That way, if we sell all two hundred bottles, he’ll be able to pay back his debts no problem.",
+    "trx": "Таким образом, если мы продадим все двести бутылок, он сможет без проблем расплатиться со своими долгами.",
+    "val": "That way, if we sell all two hundred bottles, he’ll be able to pay back his debts no problem."
+  },
+  {
+    "key": "“Whoa! ",
+    "trx": "“Ух ты! ",
+    "val": "“Whoa! "
+  },
+  {
+    "key": "What’s the deal with you?”",
+    "trx": "Что с тобой такое?”",
+    "val": "What’s the deal with you?”"
+  },
+  {
+    "key": "The salesclerk’s eyes go wide when he sees my getup.",
+    "trx": "Глаза продавца расширяются, когда он видит мой наряд.",
+    "val": "The salesclerk’s eyes go wide when he sees my getup."
+  },
+  {
+    "key": "“This stuff! ",
+    "trx": "“Эта дрянь! ",
+    "val": "“This stuff! "
+  },
+  {
+    "key": "I’d like your entire stock!”",
+    "trx": "Я бы хотел получить весь ваш запас!”",
+    "val": "I’d like your entire stock!”"
+  },
+  {
+    "key": "I point at the Burning Hammer, and the clerk makes an awkward face.",
+    "trx": "Я указываю на Горящий Молоток, и клерк делает неловкое лицо.",
+    "val": "I point at the Burning Hammer, and the clerk makes an awkward face."
+  },
+  {
+    "key": "“I’m afraid that’s already been sold.”",
+    "trx": "“Боюсь, это уже продано\".",
+    "val": "“I’m afraid that’s already been sold.”"
+  },
+  {
+    "key": "“What?! ",
+    "trx": "“Что?! ",
+    "val": "“What?! "
+  },
+  {
+    "key": "You mean, like...",
+    "trx": "Ты имеешь в виду, например...",
+    "val": "You mean, like..."
+  },
+  {
+    "key": "all",
+    "trx": "все",
+    "val": "all"
+  },
+  {
+    "key": " of it?”",
+    "trx": " об этом?”",
+    "val": " of it?”"
+  },
+  {
+    "key": "Nobody in their right mind could possibly want all of this.",
+    "trx": "Никто в здравом уме не мог бы хотеть всего этого.",
+    "val": "Nobody in their right mind could possibly want all of this."
+  },
+  {
+    "key": "“Yes, all of it, I’m afraid.”",
+    "trx": "“Да, боюсь, все это\".",
+    "val": "“Yes, all of it, I’m afraid.”"
+  },
+  {
+    "key": "Well, I’m not going to roll over ",
+    "trx": "Что ж, я не собираюсь переворачиваться ",
+    "val": "Well, I’m not going to roll over "
+  },
+  {
+    "key": "that",
+    "trx": "тот",
+    "val": "that"
+  },
+  {
+    "key": " easily.",
+    "trx": " легко.",
+    "val": " easily."
+  },
+  {
+    "key": "Whether I earn that extra twenty thousand or not hinges on whether I can get this stuff.",
+    "trx": "Заработаю я эти дополнительные двадцать тысяч или нет, зависит от того, смогу ли я получить эти вещи.",
+    "val": "Whether I earn that extra twenty thousand or not hinges on whether I can get this stuff."
+  },
+  {
+    "key": "“Please, you’ve got to help me out!”",
+    "trx": "“Пожалуйста, ты должен мне помочь!”",
+    "val": "“Please, you’ve got to help me out!”"
+  },
+  {
+    "key": "“I’m afraid it’s out of my hands.”",
+    "trx": "“Боюсь, это не в моей власти\".",
+    "val": "“I’m afraid it’s out of my hands.”"
+  },
+  {
+    "key": "“Then could you get in touch with the buyer? ",
+    "trx": "“Тогда не могли бы вы связаться с покупателем? ",
+    "val": "“Then could you get in touch with the buyer? "
+  },
+  {
+    "key": "Tell them I’m willing to negotiate!”",
+    "trx": "Скажи им, что я готов вести переговоры!”",
+    "val": "Tell them I’m willing to negotiate!”"
+  },
+  {
+    "key": "“I suppose that wouldn’t be an issue, but...",
+    "trx": "“Я полагаю, что это не было бы проблемой, но...",
+    "val": "“I suppose that wouldn’t be an issue, but..."
+  },
+  {
+    "key": "Actually, would you mind waiting for just a moment? ",
+    "trx": "На самом деле, не могли бы вы подождать минутку? ",
+    "val": "Actually, would you mind waiting for just a moment? "
+  },
+  {
+    "key": "She said she’d be by ASAP.”",
+    "trx": "Она сказала, что приедет как можно скорее.”",
+    "val": "She said she’d be by ASAP.”"
+  },
+  {
+    "key": "Even as I’m speaking with the salesclerk, a girl wearing a hoodie comes in.",
+    "trx": "Как раз в тот момент, когда я разговариваю с продавцом, входит девушка в толстовке с капюшоном.",
+    "val": "Even as I’m speaking with the salesclerk, a girl wearing a hoodie comes in."
+  },
+  {
+    "key": "She’s got a tiny frame and a doe-eyed face.",
+    "trx": "У нее крошечная фигурка и личико с глазами лани.",
+    "val": "She’s got a tiny frame and a doe-eyed face."
+  },
+  {
+    "key": "“Hey, I’ve come to pick up something I reserved,” she says.",
+    "trx": "“Эй, я пришла забрать кое-что, что зарезервировала”, - говорит она.",
+    "val": "“Hey, I’ve come to pick up something I reserved,” she says."
+  },
+  {
+    "key": "This must be the customer the clerk was talking about.",
+    "trx": "Должно быть, это тот самый клиент, о котором говорил клерк.",
+    "val": "This must be the customer the clerk was talking about."
+  },
+  {
+    "key": "“Please pardon my intrusion! But—",
+    "trx": "“Пожалуйста, простите мое вторжение! Но—",
+    "val": "“Please pardon my intrusion! But—"
+  },
+  {
+    "key": "would you be willing to let me have these diet drinks?”",
+    "trx": "не могли бы вы дать мне эти диетические напитки?”",
+    "val": "would you be willing to let me have these diet drinks?”"
+  },
+  {
+    "key": "I bow extra-deep, and my costume head wobbles all around.",
+    "trx": "Я кланяюсь очень глубоко, и голова в моем костюме раскачивается во все стороны.",
+    "val": "I bow extra-deep, and my costume head wobbles all around."
+  },
+  {
+    "key": "“Wait, what?”",
+    "trx": "“Подожди, что?”",
+    "val": "“Wait, what?”"
+  },
+  {
+    "key": "“I’ll pay you double what they’re worth!”",
+    "trx": "“Я заплачу тебе вдвое больше, чем они стоят!”",
+    "val": "“Я заплачу двойную стоимость!”"
+  },
+  {
+    "key": "“No can do. ",
+    "trx": "“Ничего не поделаешь. ",
+    "val": "“No can do. "
+  },
+  {
+    "key": "I’ve never seen this brand before. ",
+    "trx": "Я никогда раньше не видел эту марку. ",
+    "val": "I’ve never seen this brand before. "
+  },
+  {
+    "key": "I’m super-curious about it.”",
+    "trx": "Мне это очень любопытно.”",
+    "val": "I’m super-curious about it.”"
+  },
+  {
+    "key": "“Surely you don’t need this many, though?”",
+    "trx": "“Но тебе, конечно, не нужно так много?”",
+    "val": "“Surely you don’t need this many, though?”"
+  },
+  {
+    "key": "“I do. ",
+    "trx": "\"я делаю. ",
+    "val": "“I do. "
+  },
+  {
+    "key": "I make my living with my body. ",
+    "trx": "Я зарабатываю на жизнь своим телом. ",
+    "val": "I make my living with my body. "
+  },
+  {
+    "key": "This is about how much I’ll need.”",
+    "trx": "Это примерно то, сколько мне понадобится.”",
+    "val": "This is about how much I’ll need.”"
+  },
+  {
+    "key": "“Oh, wow,” the salesclerk interjects. ",
+    "trx": "“О, ничего себе”, - вмешивается продавец. ",
+    "val": "“Oh, wow,” the salesclerk interjects. "
+  },
+  {
+    "key": "“What sort of work do you do, exactly?”",
+    "trx": "“Какого рода работой вы конкретно занимаетесь?”",
+    "val": "“What sort of work do you do, exactly?”"
+  },
+  {
+    "key": "“I’m a martial artist. ",
+    "trx": "“Я мастер боевых искусств. ",
+    "val": "“I’m a martial artist. "
+  },
+  {
+    "key": "I fight at a place called Bride. ",
+    "trx": "Я сражаюсь в месте под названием Брайд. ",
+    "val": "I fight at a place called Bride. "
+  },
+  {
+    "key": "You might have heard of it? ",
+    "trx": "Возможно, вы слышали об этом? ",
+    "val": "You might have heard of it? "
+  },
+  {
+    "key": "It’s one of the more popular hotspots in Shibuya these days.”",
+    "trx": "В наши дни это одно из самых популярных мест в Сибуе.”",
+    "val": "It’s one of the more popular hotspots in Shibuya these days.”"
+  },
+  {
+    "key": "“Oh, I know the place!” the salesclerk says, brimming with sudden excitement. ",
+    "trx": "“О, я знаю это место!” - говорит продавец, переполненный внезапным волнением. ",
+    "val": "“Oh, I know the place!” the salesclerk says, brimming with sudden excitement. "
+  },
+  {
+    "key": "“That pub where they have cosplay martial arts competitions, right?”",
+    "trx": "“Тот паб, где они проводят соревнования по боевым искусствам косплея, верно?”",
+    "val": "“That pub where they have cosplay martial arts competitions, right?”"
+  },
+  {
+    "key": "“Hold on, what are we talking about now? ",
+    "trx": "“Подожди, о чем мы сейчас говорим? ",
+    "val": "“Hold on, what are we talking about now? "
+  },
+  {
+    "key": "What’s ‘Bride’?”",
+    "trx": "Что такое ”Невеста\"?\"",
+    "val": "What’s ‘Bride’?”"
+  },
+  {
+    "key": "I’ve seriously never heard of the place.",
+    "trx": "Я серьезно никогда не слышал об этом месте.",
+    "val": "I’ve seriously never heard of the place."
+  },
+  {
+    "key": "“It’s a nightlife spot where ladies cosplay as anime characters, but they fight for real. ",
+    "trx": "“Это место ночной жизни, где дамы косплеят как персонажи аниме, но они сражаются по-настоящему. ",
+    "val": "“It’s a nightlife spot where ladies cosplay as anime characters, but they fight for real. "
+  },
+  {
+    "key": "I’ve been wanting to check it out, but they’ve hit their ",
+    "trx": "Я давно хотел это проверить, но они ударили по своим ",
+    "val": "I’ve been wanting to check it out, but they’ve hit their "
+  },
+  {
+    "key": "membership cap",
+    "trx": "ограничение на членство",
+    "val": "membership cap"
+  },
+  {
+    "key": ",” the salesclerk explains.",
+    "trx": ", ” объясняет продавец.",
+    "val": ",” the salesclerk explains."
+  },
+  {
+    "key": "“So then, uh, ",
+    "trx": "“Итак, тогда, э-э-э, ",
+    "val": "“So then, uh, "
+  },
+  {
+    "key": "you must be pretty strong, huh?” he says to the girl.",
+    "trx": "ты, должно быть, довольно сильная, да? - говорит он девушке.",
+    "val": "you must be pretty strong, huh?” he says to the girl."
+  },
+  {
+    "key": "“Well, I mean. ",
+    "trx": "“Ну, я имею в виду. ",
+    "val": "“Well, I mean. "
+  },
+  {
+    "key": "I may not look it, but I’m the current champion.” ",
+    "trx": "Может, я и не выгляжу так, но я действующий чемпион\". ",
+    "val": "I may not look it, but I’m the current champion.” "
+  },
+  {
+    "key": "The girl proudly adopts a fighting stance.",
+    "trx": "Девушка гордо принимает боевую стойку.",
+    "val": "The girl proudly adopts a fighting stance."
+  },
+  {
+    "key": "“Would you accept a challenge from me?” I ask.",
+    "trx": "“Ты бы принял вызов от меня?” Я спрашиваю.",
+    "val": "“Would you accept a challenge from me?” I ask."
+  },
+  {
+    "key": "“A challenge?”",
+    "trx": "“Вызов?”",
+    "val": "“A challenge?”"
+  },
+  {
+    "key": "“If I win, you have to let me have all of this.”",
+    "trx": "“Если я выиграю, ты должен будешь отдать мне все это”.",
+    "val": "“If I win, you have to let me have all of this.”"
+  },
+  {
+    "key": "The girl breaks into a confident smile. ",
+    "trx": "Девушка расплывается в уверенной улыбке. ",
+    "val": "The girl breaks into a confident smile. "
+  },
+  {
+    "key": "“Do you have any idea who you’re dealing with, here?” she asks.",
+    "trx": "“Ты хоть представляешь, с кем здесь имеешь дело?” - спрашивает она.",
+    "val": "“Do you have any idea who you’re dealing with, here?” she asks."
+  },
+  {
+    "key": "“I intend to find out.”",
+    "trx": "“Я намерен это выяснить\".",
+    "val": "“I intend to find out.”"
+  },
+  {
+    "key": "“Oh, wow!” the salesclerk exclaims. ",
+    "trx": "“О, ничего себе!” - восклицает продавец. ",
+    "val": "“Oh, wow!” the salesclerk exclaims. "
+  },
+  {
+    "key": "“I have just ",
+    "trx": "“Я только что ",
+    "val": "“I have just "
+  },
+  {
+    "key": "got",
+    "trx": "получил",
+    "val": "got"
+  },
+  {
+    "key": " to see this!”",
+    "trx": " чтобы увидеть это!”",
+    "val": " to see this!”"
+  },
+  {
+    "key": "I’m glad to have him egging us on.",
+    "trx": "Я рад, что он подстрекает нас к этому.",
+    "val": "I’m glad to have him egging us on."
+  },
+  {
+    "key": "“Well, if you’re that set on it, then sure, I accept your challenge.”",
+    "trx": "“Ну, если ты так настроен на это, тогда, конечно, я принимаю твой вызов”.",
+    "val": "“Well, if you’re that set on it, then sure, I accept your challenge.”"
+  },
+  {
+    "key": "Sweet.",
+    "trx": "Сладкий.",
+    "val": "Sweet."
+  },
+  {
+    "key": "We’ve established our terms.",
+    "trx": "Мы установили наши условия.",
+    "val": "We’ve established our terms."
+  },
+  {
+    "key": "This Burning Hammer may yet be mine.",
+    "trx": "Этот Пылающий Молот все еще может быть моим.",
+    "val": "This Burning Hammer may yet be mine."
+  },
+  {
+    "key": "The girl cracks her knuckles, clearly eager for a fight.",
+    "trx": "Девушка хрустит костяшками пальцев, явно готовясь к драке.",
+    "val": "The girl cracks her knuckles, clearly eager for a fight."
+  },
+  {
+    "key": "I’ve gotta win this.",
+    "trx": "Я должен победить в этом.",
+    "val": "I’ve gotta win this."
+  },
+  {
+    "key": "Somehow or another, I have ",
+    "trx": "Так или иначе, у меня есть ",
+    "val": "Somehow or another, I have "
+  },
+  {
+    "key": "got",
+    "trx": "получил",
+    "val": "got"
+  },
+  {
+    "key": " to.",
+    "trx": " к.",
+    "val": " to."
+  },
+  {
+    "key": "I mean, I’ve got to be good at ",
+    "trx": "Я имею в виду, что я должен быть хорош в ",
+    "val": "I mean, I’ve got to be good at "
+  },
+  {
+    "key": "something",
+    "trx": "что-то",
+    "val": "something"
+  },
+  {
+    "key": ".",
+    "trx": ".",
+    "val": "."
+  },
+  {
+    "key": "Facing off against this fighter is going to show me what I’m made of.",
+    "trx": "Встреча лицом к лицу с этим бойцом покажет мне, из чего я сделан.",
+    "val": "Facing off against this fighter is going to show me what I’m made of."
+  },
+  {
+    "key": "I address my opponent. ",
+    "trx": "Я обращаюсь к своему оппоненту. ",
+    "val": "I address my opponent. "
+  },
+  {
+    "key": "“And by challenge, I naturally mean...” ",
+    "trx": "“И под вызовом я, естественно, подразумеваю...” ",
+    "val": "“И под соревнованием я, естественно, подразумеваю...” "
+  },
+  {
+    "key": "“...let’s do rock-paper-scissors!”",
+    "trx": "\"...давайте сделаем камень-ножницы-бумага!”",
+    "val": "“...let’s do rock-paper-scissors!”"
+  },
+  {
+    "key": "“...let’s play a rhyming game!”",
+    "trx": "\"...давайте поиграем в рифмовку!”",
+    "val": "“...let’s play a rhyming game!”"
+  },
+  {
+    "key": "“...let’s have ourselves a straight-up fight!”",
+    "trx": "\"...давайте устроим себе честный бой!”",
+    "val": "“...let’s have ourselves a straight-up fight!”"
+  },
+  {
+    "key": "“Let’s have ourselves a straight-up fight!”",
+    "trx": "“Давайте устроим себе честный бой!”",
+    "val": "“Let’s have ourselves a straight-up fight!”"
+  },
+  {
+    "key": "The girl grins nice and wide, like she’d been waiting to hear me say that. ",
+    "trx": "Девушка улыбается мило и широко, как будто она ждала, чтобы я это сказал. ",
+    "val": "The girl grins nice and wide, like she’d been waiting to hear me say that. "
+  },
+  {
+    "key": "“Okay, you’re on! ",
+    "trx": "“Ладно, ты в деле! ",
+    "val": "“Okay, you’re on! "
+  },
+  {
+    "key": "The name’s Miku, by the way. ",
+    "trx": "Кстати, меня зовут Мику. ",
+    "val": "The name’s Miku, by the way. "
+  },
+  {
+    "key": "Challenge accepted!”",
+    "trx": "Вызов принят!”",
+    "val": "Challenge accepted!”"
+  },
+  {
+    "key": "Miku and I march out of the shop. Out on the pavement, we stare each other down.",
+    "trx": "Мику и я выходим из магазина. Выйдя на тротуар, мы пристально смотрим друг на друга сверху вниз.",
+    "val": "Miku and I march out of the shop. Out on the pavement, we stare each other down."
+  },
+  {
+    "key": "“So if you win, I’ll let you buy the Burning Hammer,” Miku says. ",
+    "trx": "“Так что, если ты выиграешь, я позволю тебе купить Пылающий Молот”, - говорит Мику. ",
+    "val": "“So if you win, I’ll let you buy the Burning Hammer,” Miku says. "
+  },
+  {
+    "key": "“But if ",
+    "trx": "“Но если ",
+    "val": "“But if "
+  },
+  {
+    "key": "I",
+    "trx": "Я",
+    "val": "I"
+  },
+  {
+    "key": " win, I get to keep it and you have to pay for it.”",
+    "trx": " выиграешь, я оставлю его себе, а ты должен за это заплатить”.",
+    "val": " win, I get to keep it and you have to pay for it.”"
+  },
+  {
+    "key": "“Whuh—? ",
+    "trx": "“Что—? ",
+    "val": "“Whuh—? "
+  },
+  {
+    "key": "Isn’t that a little unfair?”",
+    "trx": "Разве это не немного несправедливо?”",
+    "val": "Isn’t that a little unfair?”"
+  },
+  {
+    "key": "“If you don’t like it, then it’s no fight, no deal.”",
+    "trx": "“Если тебе это не нравится, тогда никакой борьбы, никакой сделки”.",
+    "val": "“If you don’t like it, then it’s no fight, no deal.”"
+  },
+  {
+    "key": "I don’t have the time to rethink this.",
+    "trx": "У меня нет времени переосмысливать это.",
+    "val": "I don’t have the time to rethink this."
+  },
+  {
+    "key": "“Uh, ",
+    "trx": "“Э-э-э, ",
+    "val": "“Uh, "
+  },
+  {
+    "key": "all right!”",
+    "trx": "хорошо!”",
+    "val": "all right!”"
+  },
+  {
+    "key": "“Ready whenever you are!” ",
+    "trx": "“Готов, когда бы ты ни был!” ",
+    "val": "“Ready whenever you are!” "
+  },
+  {
+    "key": "Miku does a little brisk ",
+    "trx": "Мику делает немного оживленный ",
+    "val": "Miku does a little brisk "
+  },
+  {
+    "key": "shadow-boxing",
+    "trx": "теневой бокс",
+    "val": "shadow-boxing"
+  },
+  {
+    "key": ", throwing a repeated one-two combination.",
+    "trx": ", бросая повторяющуюся комбинацию один-два.",
+    "val": ", throwing a repeated one-two combination."
+  },
+  {
+    "key": "“Whoa, what’s the deal?”",
+    "trx": "“Ого, в чем дело?”",
+    "val": "“Whoa, what’s the deal?”"
+  },
+  {
+    "key": "“Is something going on?”",
+    "trx": "“Что-то происходит?”",
+    "val": "“Is something going on?”"
+  },
+  {
+    "key": "“It’s a street fight!”",
+    "trx": "“Это уличная драка!”",
+    "val": "“It’s a street fight!”"
+  },
+  {
+    "key": "A number of people pass by, including a businessman, a ",
+    "trx": "Мимо проходит несколько человек, в том числе бизнесмен, ",
+    "val": "A number of people pass by, including a businessman, a "
+  },
+  {
+    "key": "couple",
+    "trx": "пара",
+    "val": "couple"
+  },
+  {
+    "key": ", as well as some pretty ",
+    "trx": ", а также несколько симпатичных ",
+    "val": ", as well as some pretty "
+  },
+  {
+    "key": "gruff-looking fellows",
+    "trx": "грубоватые на вид парни",
+    "val": "gruff-looking fellows"
+  },
+  {
+    "key": ", and some of them stop to form a small crowd.",
+    "trx": ", и некоторые из них останавливаются, чтобы образовать небольшую толпу.",
+    "val": ", and some of them stop to form a small crowd."
+  },
+  {
+    "key": "The sales demo has already started by now.",
+    "trx": "Демонстрация продаж уже началась.",
+    "val": "The sales demo has already started by now."
+  },
+  {
+    "key": "I don’t have time to goof around, here.",
+    "trx": "У меня нет времени валять дурака здесь.",
+    "val": "I don’t have time to goof around, here."
+  },
+  {
+    "key": "I watch as Miku starts up her footwork.",
+    "trx": "Я наблюдаю, как Мику начинает работать ногами.",
+    "val": "I watch as Miku starts up her footwork."
+  },
+  {
+    "key": "“Hmph!”",
+    "trx": "“Хм!”",
+    "val": "“Hmph!”"
+  },
+  {
+    "key": "A left jab.",
+    "trx": "Удар слева.",
+    "val": "A left jab."
+  },
+  {
+    "key": "She’s quick.",
+    "trx": "Она быстрая.",
+    "val": "She’s quick."
+  },
+  {
+    "key": "I can see why she’s the champion.",
+    "trx": "Я понимаю, почему она чемпионка.",
+    "val": "I can see why she’s the champion."
+  },
+  {
+    "key": "“Aiya!”",
+    "trx": "“Айя!”",
+    "val": "“Aiya!”"
+  },
+  {
+    "key": "She immediately follows up the jab with a wide right ",
+    "trx": "Она немедленно следует за ударом широким правым ",
+    "val": "She immediately follows up the jab with a wide right "
+  },
+  {
+    "key": "hook",
+    "trx": "крюк",
+    "val": "hook"
+  },
+  {
+    "key": ".",
+    "trx": ".",
+    "val": "."
+  },
+  {
+    "key": "I jerk aside at the last possible moment, and deliver a little swat to Miku’s shoulder.",
+    "trx": "Я дергаюсь в сторону в последний возможный момент и слегка шлепаю Мику по плечу.",
+    "val": "I jerk aside at the last possible moment, and deliver a little swat to Miku’s shoulder."
+  },
+  {
+    "key": "“Whoa!” ",
+    "trx": "“Ух ты!” ",
+    "val": "“Whoa!” "
+  },
+  {
+    "key": "She slips off balance and pitches forward.",
+    "trx": "Она теряет равновесие и бросается вперед.",
+    "val": "She slips off balance and pitches forward."
+  },
+  {
+    "key": "“Oh, wow! What was ",
+    "trx": "“О, ничего себе! Что было ",
+    "val": "“Oh, wow! What was "
+  },
+  {
+    "key": "that",
+    "trx": "тот",
+    "val": "that"
+  },
+  {
+    "key": "?!”",
+    "trx": "?!”",
+    "val": "?!”"
+  },
+  {
+    "key": "The crowd has started clamoring.",
+    "trx": "Толпа начала шуметь.",
+    "val": "The crowd has started clamoring."
+  },
+  {
+    "key": "Miku rights herself and gets back into a fighting stance. ",
+    "trx": "Мику выпрямляется и возвращается в боевую стойку. ",
+    "val": "Miku rights herself and gets back into a fighting stance. "
+  },
+  {
+    "key": "“What the—",
+    "trx": "“Что за—",
+    "val": "“What the—"
+  },
+  {
+    "key": "how?!”",
+    "trx": "как?!”",
+    "val": "how?!”"
+  },
+  {
+    "key": "She doesn’t seem to know what just happened.",
+    "trx": "Похоже, она не понимает, что только что произошло.",
+    "val": "She doesn’t seem to know what just happened."
+  },
+  {
+    "key": "“Rrragh!”",
+    "trx": "“Рррахх!”",
+    "val": "“Rrragh!”"
+  },
+  {
+    "key": "This time, I watch as she unleashes a kick with her left leg from a distance.",
+    "trx": "На этот раз я наблюдаю, как она издалека наносит удар левой ногой.",
+    "val": "This time, I watch as she unleashes a kick with her left leg from a distance."
+  },
+  {
+    "key": "On reflex I bring up my right hand and adopt a guarding stance.",
+    "trx": "Рефлекторно я поднимаю правую руку и принимаю защитную стойку.",
+    "val": "On reflex I bring up my right hand and adopt a guarding stance."
+  },
+  {
+    "key": "“Gotcha!” she calls out.",
+    "trx": "”Попался!\" - кричит она.",
+    "val": "“Gotcha!” she calls out."
+  },
+  {
+    "key": "It was a feint!",
+    "trx": "Это был обман!",
+    "val": "It was a feint!"
+  },
+  {
+    "key": "There’s a visceral ",
+    "trx": "Есть внутреннее ",
+    "val": "There’s a visceral "
+  },
+  {
+    "key": "whump",
+    "trx": "удар",
+    "val": "whump"
+  },
+  {
+    "key": " as a second kick connects, coming at me from a different angle.",
+    "trx": " как соединяется второй удар, идущий на меня под другим углом.",
+    "val": " as a second kick connects, coming at me from a different angle."
+  },
+  {
+    "key": "“Whoa, ",
+    "trx": "“Вау, ",
+    "val": "“Whoa, "
+  },
+  {
+    "key": "what gives?”",
+    "trx": "что дает?”",
+    "val": "what gives?”"
+  },
+  {
+    "key": "My big mascot head serves to cushion the blow to the point that I barely feel it.",
+    "trx": "Моя большая голова-талисман служит для смягчения удара до такой степени, что я его почти не чувствую.",
+    "val": "My big mascot head serves to cushion the blow to the point that I barely feel it."
+  },
+  {
+    "key": "“Hiii-yahhh!”",
+    "trx": "“Хиии-йаххх!”",
+    "val": "“Hiii-yahhh!”"
+  },
+  {
+    "key": "She proceeds to unleash a string of additional kicks with her left leg, trying to defeat my fuzzy armor.",
+    "trx": "Она продолжает наносить серию дополнительных ударов левой ногой, пытаясь победить мою пушистую броню.",
+    "val": "She proceeds to unleash a string of additional kicks with her left leg, trying to defeat my fuzzy armor."
+  },
+  {
+    "key": "Eventually I catch hold of her foot. Holding her off balance, I begin to walk her backward, making her hop awkwardly on one leg.",
+    "trx": "В конце концов я хватаю ее за ногу. Удерживая ее в равновесии, я начинаю вести ее назад, заставляя неловко подпрыгивать на одной ноге.",
+    "val": "Eventually I catch hold of her foot. Holding her off balance, I begin to walk her backward, making her hop awkwardly on one leg."
+  },
+  {
+    "key": "“Gwaaah!”",
+    "trx": "“Гвааах!”",
+    "val": "“Gwaaah!”"
+  },
+  {
+    "key": "A casual flip of my paw, and Miku goes whirling through the air.",
+    "trx": "Небрежный взмах моей лапы, и Мику кружится в воздухе.",
+    "val": "A casual flip of my paw, and Miku goes whirling through the air."
+  },
+  {
+    "key": "“Whoa!”",
+    "trx": "“Ух ты!”",
+    "val": "“Whoa!”"
+  },
+  {
+    "key": "“Ooh!”",
+    "trx": "“О-о-о!”",
+    "val": "“Ooh!”"
+  },
+  {
+    "key": "“Ahhh!”",
+    "trx": "“Аааа!”",
+    "val": "“Ahhh!”"
+  },
+  {
+    "key": "The crowd erupts into cheering and applause at the spectacle.",
+    "trx": "Толпа разражается радостными криками и аплодисментами при виде этого зрелища.",
+    "val": "The crowd erupts into cheering and applause at the spectacle."
+  },
+  {
+    "key": "“Whew, ",
+    "trx": "“Ух ты, ",
+    "val": "“Whew, "
+  },
+  {
+    "key": "you’re tough...",
+    "trx": "ты крутой...",
+    "val": "you’re tough..."
+  },
+  {
+    "key": "Who the heck are you?”",
+    "trx": "Кто ты, черт возьми, такой?”",
+    "val": "Who the heck are you?”"
+  },
+  {
+    "key": "“As you can see, ",
+    "trx": "“Как вы можете видеть, ",
+    "val": "“As you can see, "
+  },
+  {
+    "key": "I am a cat.”",
+    "trx": "Я и есть кошка.”",
+    "val": "I am a cat.”"
+  },
+  {
+    "key": "A wry smile comes to Miku’s face.",
+    "trx": "Кривая улыбка появляется на лице Мику.",
+    "val": "A wry smile comes to Miku’s face."
+  },
+  {
+    "key": "“To think a Bride competitor would lose in a street fight...",
+    "trx": "“Подумать только, конкурент невесты проиграет в уличной драке...",
+    "val": "“To think a Bride competitor would lose in a street fight..."
+  },
+  {
+    "key": "Guess it’s time to go back to being an ordinary girl. ",
+    "trx": "Думаю, пришло время вернуться к тому, чтобы быть обычной девушкой. ",
+    "val": "Guess it’s time to go back to being an ordinary girl. "
+  },
+  {
+    "key": "Today is the day I retire.”",
+    "trx": "Сегодня день, когда я ухожу на пенсию”.",
+    "val": "Today is the day I retire.”"
+  },
+  {
+    "key": "“Ah...",
+    "trx": "“Ах...",
+    "val": "“Ah..."
+  },
+  {
+    "key": "phew...! ",
+    "trx": "уф...! ",
+    "val": "phew...! "
+  },
+  {
+    "key": "Good match, there.”",
+    "trx": "Хорошая пара, вот так.”",
+    "val": "Good match, there.”"
+  },
+  {
+    "key": "Miku clasps my hand firmly. ",
+    "trx": "Мику крепко сжимает мою руку. ",
+    "val": "Miku clasps my hand firmly. "
+  },
+  {
+    "key": "“But hey...I’m just glad that my last opponent...",
+    "trx": "“Но эй...Я просто рад, что мой последний противник...",
+    "val": "“But hey...I’m just glad that my last opponent..."
+  },
+  {
+    "key": "was you.”",
+    "trx": "это был ты.”",
+    "val": "was you.”"
+  },
+  {
+    "key": "I hoist up the boxes of the diet drink.",
+    "trx": "Я поднимаю коробки с диетическим напитком.",
+    "val": "I hoist up the boxes of the diet drink."
+  },
+  {
+    "key": "“So, um, how much does this come to?” I ask the salesclerk.",
+    "trx": "“Итак, эм, во сколько это обойдется?” Я спрашиваю продавца.",
+    "val": "“So, um, how much does this come to?” I ask the salesclerk."
+  },
+  {
+    "key": "He shakes his head.",
+    "trx": "Он качает головой.",
+    "val": "He shakes his head."
+  },
+  {
+    "key": "“Oh, don’t worry about payment. ",
+    "trx": "“О, не беспокойтесь об оплате. ",
+    "val": "“Oh, don’t worry about payment. "
+  },
+  {
+    "key": "You’ve more than earned it with that spectacular display just now. ",
+    "trx": "Вы более чем заслужили это своей впечатляющей демонстрацией только что. ",
+    "val": "You’ve more than earned it with that spectacular display just now. "
+  },
+  {
+    "key": "That was ",
+    "trx": "Это было ",
+    "val": "That was "
+  },
+  {
+    "key": "really",
+    "trx": "действительно",
+    "val": "really"
+  },
+  {
+    "key": " something.”",
+    "trx": " что-то.”",
+    "val": " something.”"
+  },
+  {
+    "key": "Heck, even I am shocked at what just happened.",
+    "trx": "Черт возьми, даже я потрясен тем, что только что произошло.",
+    "val": "Heck, even I am shocked at what just happened."
+  },
+  {
+    "key": "It’s amazing what a little desperation will do for you.",
+    "trx": "Удивительно, что может сделать для вас небольшое отчаяние.",
+    "val": "It’s amazing what a little desperation will do for you."
+  },
+  {
+    "key": "“So that move you used—",
+    "trx": "“Так тот прием, который ты использовал—",
+    "val": "“So that move you used—"
+  },
+  {
+    "key": "that was some ",
+    "trx": "это было какое-то ",
+    "val": "that was some "
+  },
+  {
+    "key": "aiki-jujutsu",
+    "trx": "айки-дзюдзюцу",
+    "val": "aiki-jujutsu"
+  },
+  {
+    "key": ", yeah?”",
+    "trx": ", да?”",
+    "val": ", yeah?”"
+  },
+  {
+    "key": "“Huh? ",
+    "trx": "\"Хм? ",
+    "val": "“Huh? "
+  },
+  {
+    "key": "Oh, um, ",
+    "trx": "О, эм, ",
+    "val": "Oh, um, "
+  },
+  {
+    "key": "I guess?” ",
+    "trx": "Я полагаю?” ",
+    "val": "I guess?” "
+  },
+  {
+    "key": "I tilt my head noncommittally.",
+    "trx": "Я уклончиво наклоняю голову.",
+    "val": "I tilt my head noncommittally."
+  },
+  {
+    "key": "“Come now, no need to be so humble. ",
+    "trx": "“Ну же, не нужно быть таким скромным. ",
+    "val": "“Come now, no need to be so humble. "
+  },
+  {
+    "key": "I’m a ",
+    "trx": "Я ",
+    "val": "I’m a "
+  },
+  {
+    "key": "martial arts fanatic",
+    "trx": "фанатик боевых искусств",
+    "val": "martial arts fanatic"
+  },
+  {
+    "key": "! I know my moves when I see ‘em!”",
+    "trx": "! Я знаю свои движения, когда я их вижу!”",
+    "val": "! I know my moves when I see ‘em!”"
+  },
+  {
+    "key": "He can call it whatever he wants if he’s letting me have the drinks for free; this is going to be a life saver.",
+    "trx": "Он может называть это как угодно, если позволит мне выпить бесплатно; это спасет ему жизнь.",
+    "val": "He can call it whatever he wants if he’s letting me have the drinks for free; this is going to be a life saver."
+  },
+  {
+    "key": "“Is that all the shopping you’ll be doing with us today?” he asks.",
+    "trx": "“Это все покупки, которые ты будешь делать с нами сегодня?” спрашивает он.",
+    "val": "“Is that all the shopping you’ll be doing with us today?” he asks."
+  },
+  {
+    "key": "Actually, come to think of it...",
+    "trx": "На самом деле, если подумать об этом...",
+    "val": "Actually, come to think of it..."
+  },
+  {
+    "key": "“I do have one request,” I say.",
+    "trx": "“У меня есть одна просьба”, - говорю я.",
+    "val": "“I do have one request,” I say."
+  },
+  {
+    "key": "“Sure thing.”",
+    "trx": "“Конечно”.",
+    "val": "“Sure thing.”"
+  },
+  {
+    "key": "“Could you please not sell that necklace there? ",
+    "trx": "“Не могли бы вы, пожалуйста, не продавать это ожерелье там? ",
+    "val": "“Could you please not sell that necklace there? "
+  },
+  {
+    "key": "I promise I’ll be back to buy it later.”",
+    "trx": "Я обещаю, что вернусь, чтобы купить его позже\".",
+    "val": "I promise I’ll be back to buy it later.”"
+  },
+  {
+    "key": "“Sure! No problem.” ",
+    "trx": "“Конечно! Никаких проблем.” ",
+    "val": "“Sure! No problem.” "
+  },
+  {
+    "key": "The salesclerk gives a deep bow.",
+    "trx": "Продавец отвешивает глубокий поклон.",
+    "val": "The salesclerk gives a deep bow."
+  },
+  {
+    "key": "I did it. I managed to solve my Burning Hammer problem.",
+    "trx": "Я сделал это. Мне удалось решить мою проблему с горящим молотком.",
+    "val": "I did it. I managed to solve my Burning Hammer problem."
+  },
+  {
+    "key": "Now I’ve just got to get back to the sales demo.",
+    "trx": "Теперь мне просто нужно вернуться к демонстрации продаж.",
+    "val": "Now I’ve just got to get back to the sales demo."
+  },
+  {
+    "key": "“Oh, that must be awfully heavy. ",
+    "trx": "“О, это, должно быть, ужасно тяжело. ",
+    "val": "“Oh, that must be awfully heavy. "
+  },
+  {
+    "key": "Here, why don’t you use that dolly?” ",
+    "trx": "Вот, почему бы тебе не воспользоваться этой тележкой?” ",
+    "val": "Here, why don’t you use that dolly?” "
+  },
+  {
+    "key": "The salesclerk indicates the hand truck over in the corner.",
+    "trx": "Продавец указывает на ручную тележку в углу.",
+    "val": "The salesclerk indicates the hand truck over in the corner."
+  },
+  {
+    "key": "“Oh, thanks so much!”",
+    "trx": "“О, большое спасибо!”",
+    "val": "“Oh, thanks so much!”"
+  },
+  {
+    "key": "I load the pile of boxes onto the cart and rush back to the Nokane Building.",
+    "trx": "Я загружаю кучу коробок на тележку и спешу обратно в здание Ноканэ.",
+    "val": "I load the pile of boxes onto the cart and rush back to the Nokane Building."
+  },
+  {
+    "key": "By now the sales demo will be well underway.",
+    "trx": "К настоящему времени демонстрация продаж будет в самом разгаре.",
+    "val": "By now the sales demo will be well underway."
+  },
+  {
+    "key": "I need to get back as soon as I can.",
+    "trx": "Мне нужно вернуться как можно скорее.",
+    "val": "I need to get back as soon as I can."
+  },
+  {
+    "key": "If there’s nothing to buy, the customers are going to leave, and everything I’ve gone through will have been for nothing.",
+    "trx": "Если нечего будет купить, покупатели уйдут, и все, через что я прошел, будет напрасным.",
+    "val": "If there’s nothing to buy, the customers are going to leave, and everything I’ve gone through will have been for nothing."
+  },
+  {
+    "key": "C’mon, Tama, you can do it!",
+    "trx": "Давай, Тама, ты сможешь это сделать!",
+    "val": "C’mon, Tama, you can do it!"
+  },
+  {
+    "key": "Just gotta hurry.",
+    "trx": "Просто нужно поторопиться.",
+    "val": "Just gotta hurry."
+  },
+  {
+    "key": "I charge for the demo, pushing the dolly ahead of me like a battering ram.",
+    "trx": "Я бросаюсь на демонстрацию, толкая тележку перед собой, как таран.",
+    "val": "I charge for the demo, pushing the dolly ahead of me like a battering ram."
+  },
+  {
+    "key": "“Ah! ",
+    "trx": "\"ах! ",
+    "val": "“Ah! "
+  },
+  {
+    "key": "Oops! ",
+    "trx": "Упс! ",
+    "val": "Oops! "
+  },
+  {
+    "key": "Sorry to keep you waiting!”",
+    "trx": "Извините, что заставил вас ждать!”",
+    "val": "Sorry to keep you waiting!”"
+  },
+  {
+    "key": "“You’re late! ",
+    "trx": "“Ты опоздал! ",
+    "val": "“You’re late! "
+  },
+  {
+    "key": "What the heck have you been doing?” ",
+    "trx": "Какого черта ты делал?” ",
+    "val": "What the heck have you been doing?” "
+  },
+  {
+    "key": "Mr. Yanagishita practically throws himself at me; the wait must have been killing him.",
+    "trx": "Мистер Янагишита практически бросается на меня; ожидание, должно быть, убивало его.",
+    "val": "Mr. Yanagishita practically throws himself at me; the wait must have been killing him."
+  },
+  {
+    "key": "Standing behind him is ",
+    "trx": "Стоящий позади него - это ",
+    "val": "Standing behind him is "
+  },
+  {
+    "key": "a man I don’t recognize",
+    "trx": "мужчина, которого я не узнаю",
+    "val": "a man I don’t recognize"
+  },
+  {
+    "key": ".",
+    "trx": ".",
+    "val": "."
+  },
+  {
+    "key": "Who is that guy? ",
+    "trx": "Кто этот парень? ",
+    "val": "Who is that guy? "
+  },
+  {
+    "key": "He doesn’t look like a customer.",
+    "trx": "Он не похож на покупателя.",
+    "val": "He doesn’t look like a customer."
+  },
+  {
+    "key": "“Okay, Tama, just...just come with me for a minute.”",
+    "trx": "“Хорошо, Тама, просто...просто пойдем со мной на минутку.”",
+    "val": "“Okay, Tama, just...just come with me for a minute.”"
+  },
+  {
+    "key": "I follow Mr. Yanagishita into the break room.",
+    "trx": "Я следую за мистером Янагишитой в комнату отдыха.",
+    "val": "I follow Mr. Yanagishita into the break room."
+  },
+  {
+    "key": "“Sorry I’m late. ",
+    "trx": "“Извините, я опоздал. ",
+    "val": "“Sorry I’m late. "
+  },
+  {
+    "key": "There was a whole bunch of stuff that happened. ",
+    "trx": "Там была целая куча всего, что произошло. ",
+    "val": "There was a whole bunch of stuff that happened. "
+  },
+  {
+    "key": "But look! I got the product back!”",
+    "trx": "Но посмотрите! Я получил товар обратно!”",
+    "val": "But look! I got the product back!”"
+  },
+  {
+    "key": "I proudly open up one of the cardboard boxes.",
+    "trx": "Я с гордостью открываю одну из картонных коробок.",
+    "val": "I proudly open up one of the cardboard boxes."
+  },
+  {
+    "key": "“Ahh! ",
+    "trx": "“Ах! ",
+    "val": "“Ahh! "
+  },
+  {
+    "key": "It’s Burning Hammer! ",
+    "trx": "Это Горящий Молот! ",
+    "val": "It’s Burning Hammer! "
+  },
+  {
+    "key": "It really, really is!” ",
+    "trx": "Это действительно, действительно так!” ",
+    "val": "It really, really is!” "
+  },
+  {
+    "key": "Yanagishita clutches the box close, nuzzling it with his cheek.",
+    "trx": "Янагишита крепко прижимает коробку к себе, прижимаясь к ней щекой.",
+    "val": "Yanagishita clutches the box close, nuzzling it with his cheek."
+  },
+  {
+    "key": "“How’s the demo going?” I ask.",
+    "trx": "“Как продвигается демонстрация?” Я спрашиваю.",
+    "val": "“How’s the demo going?” I ask."
+  },
+  {
+    "key": "“I’ve got Chiri keeping them occupied with some magic tricks.”",
+    "trx": "“Я попросил Чири занять их кое-какими фокусами\".",
+    "val": "“I’ve got Chiri keeping them occupied with some magic tricks.”"
+  },
+  {
+    "key": "I sneak a peek through the door and see Chiri guzzling orange juice from a gigantic container, draining it in one go.",
+    "trx": "Я украдкой заглядываю в дверь и вижу, как Чири пьет апельсиновый сок из гигантского контейнера, осушая его одним глотком.",
+    "val": "I sneak a peek through the door and see Chiri guzzling orange juice from a gigantic container, draining it in one go."
+  },
+  {
+    "key": "“Is...that really a magic trick?”",
+    "trx": "“Есть...это действительно волшебный трюк?”",
+    "val": "“Is...that really a magic trick?”"
+  },
+  {
+    "key": "“If it buys us time, it’s magic enough!”",
+    "trx": "“Если это выиграет нам время, то это достаточно волшебно!”",
+    "val": "“If it buys us time, it’s magic enough!”"
+  },
+  {
+    "key": "Before long, the last of the juice is gone.",
+    "trx": "Вскоре остатки сока иссякнут.",
+    "val": "Before long, the last of the juice is gone."
+  },
+  {
+    "key": "Over in the corner of the stage, I see six more huge containers, all likewise empty.",
+    "trx": "В углу сцены я вижу еще шесть огромных контейнеров, все такие же пустые.",
+    "val": "Over in the corner of the stage, I see six more huge containers, all likewise empty."
+  },
+  {
+    "key": "It’s shocking to think that she may have drunk all seven of those things dry.",
+    "trx": "Шокирует мысль о том, что она, возможно, выпила все семь этих напитков досуха.",
+    "val": "It’s shocking to think that she may have drunk all seven of those things dry."
+  },
+  {
+    "key": "The audience erupts into sincere applause, like they’ve forgotten what they originally came here for.",
+    "trx": "Аудитория разражается искренними аплодисментами, как будто они забыли, зачем изначально пришли сюда.",
+    "val": "The audience erupts into sincere applause, like they’ve forgotten what they originally came here for."
+  },
+  {
+    "key": "Chiri comes back to the break room, positively drenched in sweat.",
+    "trx": "Чири возвращается в комнату отдыха, совершенно мокрая от пота.",
+    "val": "Chiri comes back to the break room, positively drenched in sweat."
+  },
+  {
+    "key": "“Urgh. I think I shoulda stuck to doing imitations for a little longer.”",
+    "trx": "“Ух. Я думаю, что мне следовало бы еще немного поработать над имитациями”.",
+    "val": "“Urgh. I think I shoulda stuck to doing imitations for a little longer.”"
+  },
+  {
+    "key": "“No, that was fantastic, Chiri!” Mr. Yanagishita says. ",
+    "trx": "“Нет, это было фантастически, Чири!” - говорит мистер Янагишита. ",
+    "val": "“No, that was fantastic, Chiri!” Mr. Yanagishita says. "
+  },
+  {
+    "key": "“Just fantastic! ",
+    "trx": "“Просто фантастика! ",
+    "val": "“Just fantastic! "
+  },
+  {
+    "key": "Thanks to you, we had enough time to get the Burning Hammer back!”",
+    "trx": "Благодаря тебе у нас было достаточно времени, чтобы вернуть Пылающий Молот!”",
+    "val": "Thanks to you, we had enough time to get the Burning Hammer back!”"
+  },
+  {
+    "key": "He bows profusely.",
+    "trx": "Он низко кланяется.",
+    "val": "He bows profusely."
+  },
+  {
+    "key": "“All right, now’s time for the main event. ",
+    "trx": "“Хорошо, теперь пришло время для главного события. ",
+    "val": "“All right, now’s time for the main event. "
+  },
+  {
+    "key": "Chiri, go out there and guzzle down some Burning Hammer. ",
+    "trx": "Чири, иди туда и проглоти немного Горящего Молота. ",
+    "val": "Chiri, go out there and guzzle down some Burning Hammer. "
+  },
+  {
+    "key": "Get yourself all drenched in sweat. ",
+    "trx": "Сделай так, чтобы ты весь покрылся потом. ",
+    "val": "Get yourself all drenched in sweat. "
+  },
+  {
+    "key": "Got it?”",
+    "trx": "Понял?”",
+    "val": "Got it?”"
+  },
+  {
+    "key": "“Aye aye, boss.”",
+    "trx": "“Есть, босс”.",
+    "val": "“Aye aye, boss.”"
+  },
+  {
+    "key": "“And Tama, just go up there, smile all big, and say ",
+    "trx": "“И Тама, просто подойди туда, широко улыбнись и скажи ",
+    "val": "“And Tama, just go up there, smile all big, and say "
+  },
+  {
+    "key": "‘This helped ",
+    "trx": "\"Это помогло ",
+    "val": "‘This helped "
+  },
+  {
+    "key": "me",
+    "trx": "мне",
+    "val": "me"
+  },
+  {
+    "key": " lose a bunch of weight, too!’ ",
+    "trx": " тоже сбрось кучу веса!’ ",
+    "val": " lose a bunch of weight, too!’ "
+  },
+  {
+    "key": "Got it?”",
+    "trx": "Понял?”",
+    "val": "Got it?”"
+  },
+  {
+    "key": "“Got it.”",
+    "trx": "“Понял”.",
+    "val": "“Got it.”"
+  },
+  {
+    "key": "“Mmm. Good. Now then—”",
+    "trx": "“Ммм. Хорошо. Тогда теперь...”",
+    "val": "“Mmm. Good. Now then—”"
+  },
+  {
+    "key": "Yanagishita gestures to a man I hadn’t noticed before, who’s been waiting quietly nearby.",
+    "trx": "Янагишита жестом указывает на мужчину, которого я раньше не замечал, который спокойно ждал неподалеку.",
+    "val": "Yanagishita gestures to a man I hadn’t noticed before, who’s been waiting quietly nearby."
+  },
+  {
+    "key": "“Of course. Begging your pardon, miss.”",
+    "trx": "\"конечно. Прошу прощения, мисс.”",
+    "val": "“Of course. Begging your pardon, miss.”"
+  },
+  {
+    "key": "It’s a ",
+    "trx": "Это ",
+    "val": "It’s a "
+  },
+  {
+    "key": "service rep from the rental shop",
+    "trx": "представитель службы проката автомобилей",
+    "val": "service rep from the rental shop"
+  },
+  {
+    "key": ", who proceeds to try to get me out of my mascot suit.",
+    "trx": ", который продолжает пытаться вытащить меня из моего костюма талисмана.",
+    "val": ", who proceeds to try to get me out of my mascot suit."
+  },
+  {
+    "key": "“Hmm. ",
+    "trx": "“Хм. ",
+    "val": "“Hmm. "
+  },
+  {
+    "key": "Oh? ",
+    "trx": "О? ",
+    "val": "Oh? "
+  },
+  {
+    "key": "That’s odd.” ",
+    "trx": "Это странно.” ",
+    "val": "That’s odd.” "
+  },
+  {
+    "key": "The rental guy tilts his head.",
+    "trx": "Парень из проката наклоняет голову.",
+    "val": "The rental guy tilts his head."
+  },
+  {
+    "key": "“What’s the matter?” Yanagishita asks nervously.",
+    "trx": "“В чем дело?” - спросил я. - нервно спрашивает Янагишита.",
+    "val": "“What’s the matter?” Yanagishita asks nervously."
+  },
+  {
+    "key": "“Ah, yeah. ",
+    "trx": "“Ах, да. ",
+    "val": "“Ah, yeah. "
+  },
+  {
+    "key": "This is a no-go.” ",
+    "trx": "Это не выход\". ",
+    "val": "This is a no-go.” "
+  },
+  {
+    "key": "The rental guy pokes his finger at the back of my suit. ",
+    "trx": "Парень из проката тычет пальцем в заднюю часть моего костюма. ",
+    "val": "The rental guy pokes his finger at the back of my suit. "
+  },
+  {
+    "key": "“This here zipper? ",
+    "trx": "“Эта вот молния? ",
+    "val": "“This here zipper? "
+  },
+  {
+    "key": "It’s all jammed up. It’s going to take a long time to get this thing off.”",
+    "trx": "Там все забито. Потребуется много времени, чтобы снять эту штуку”.",
+    "val": "It’s all jammed up. It’s going to take a long time to get this thing off.”"
+  },
+  {
+    "key": "“What the hell?!”",
+    "trx": "“Что за черт?!”",
+    "val": "“What the hell?!”"
+  },
+  {
+    "key": "Mr. Yanagishita clutches the sides of his head.",
+    "trx": "Мистер Янагишита хватается за голову по бокам.",
+    "val": "Mr. Yanagishita clutches the sides of his head."
+  },
+  {
+    "key": "The rental guy tries tugging at the costume from various angles, hoping to free up the zipper, but like he said, it’s no use.",
+    "trx": "Парень из проката пытается подергать костюм под разными углами, надеясь расстегнуть молнию, но, как он сказал, это бесполезно.",
+    "val": "The rental guy tries tugging at the costume from various angles, hoping to free up the zipper, but like he said, it’s no use."
+  },
+  {
+    "key": "“Meooow.”",
+    "trx": "“Мяууу”.",
+    "val": "“Meooow.”"
+  },
+  {
+    "key": "The rental guy’s eyes widen at the sudden sound of a cat’s mewling.",
+    "trx": "Глаза арендатора расширяются при внезапном звуке кошачьего мяуканья.",
+    "val": "The rental guy’s eyes widen at the sudden sound of a cat’s mewling."
+  },
+  {
+    "key": "“Was...",
+    "trx": "“Был...",
+    "val": "“Was..."
+  },
+  {
+    "key": "that you?” ",
+    "trx": "это ты?” ",
+    "val": "that you?” "
+  },
+  {
+    "key": "He looks at me, confused.",
+    "trx": "Он смотрит на меня в замешательстве.",
+    "val": "He looks at me, confused."
+  },
+  {
+    "key": "“Did you hear a cat meowing?”",
+    "trx": "“Ты слышал мяуканье кошки?”",
+    "val": "“Did you hear a cat meowing?”"
+  },
+  {
+    "key": "“Yes.”",
+    "trx": "\"да.\"",
+    "val": "“Yes.”"
+  },
+  {
+    "key": "“Was it you?”",
+    "trx": "“Это был ты?”",
+    "val": "“Was it you?”"
+  },
+  {
+    "key": "“No, not me.” ",
+    "trx": "“Нет, только не я”. ",
+    "val": "“No, not me.” "
+  },
+  {
+    "key": "I’m as surprised as he is.",
+    "trx": "Я удивлен так же, как и он.",
+    "val": "I’m as surprised as he is."
+  },
+  {
+    "key": "“Must be hearing things...” ",
+    "trx": "“Должно быть, что-то слышу...” ",
+    "val": "“Must be hearing things...” "
+  },
+  {
+    "key": "Mr. Yanagishita and Chiri don’t seem to have heard anything.",
+    "trx": "Мистер Янагишита и Чири, похоже, ничего не слышали.",
+    "val": "Mr. Yanagishita and Chiri don’t seem to have heard anything."
+  },
+  {
+    "key": "“Bah!” Yanagishita is fuming. “Just my luck! ",
+    "trx": "”Ба!“ Янагишита кипит от злости. “Просто мне повезло! ",
+    "val": "“Bah!” Yanagishita is fuming. “Just my luck! "
+  },
+  {
+    "key": "I finally find a cute model, and the crowd’s never going to see her!”",
+    "trx": "Я наконец-то нашел симпатичную модель, и толпа никогда ее не увидит!”",
+    "val": "I finally find a cute model, and the crowd’s never going to see her!”"
+  },
+  {
+    "key": "“Hey boss?” Chiri says. “The customers are gonna leave if you keep them waiting much longer. ",
+    "trx": "“Эй, босс?” - говорит Чири. “Клиенты уйдут, если ты заставишь их ждать еще дольше. ",
+    "val": "“Hey boss?” Chiri says. “The customers are gonna leave if you keep them waiting much longer. "
+  },
+  {
+    "key": "What do we do? ",
+    "trx": "Что нам делать? ",
+    "val": "What do we do? "
+  },
+  {
+    "key": "Want me to go out there and do some more ",
+    "trx": "Хочешь, чтобы я пошел туда и сделал еще кое-что ",
+    "val": "Want me to go out there and do some more "
+  },
+  {
+    "key": "impressions",
+    "trx": "впечатления",
+    "val": "impressions"
+  },
+  {
+    "key": "?”",
+    "trx": "?”",
+    "val": "?”"
+  },
+  {
+    "key": "“No. We don’t have any choice. ",
+    "trx": "\"Нет. У нас нет никакого выбора. ",
+    "val": "“No. We don’t have any choice. "
+  },
+  {
+    "key": "Tama, you’re just gonna have to go out there dressed like that.”",
+    "trx": "Тама, тебе просто придется выйти туда в таком виде”.",
+    "val": "Tama, you’re just gonna have to go out there dressed like that.”"
+  },
+  {
+    "key": "“Are you sure?” I ask.",
+    "trx": "\"Ты уверен?\" Я спрашиваю.",
+    "val": "“Are you sure?” I ask."
+  },
+  {
+    "key": "“If those people go home, we’re done for!” he exclaims. ",
+    "trx": "“Если эти люди вернутся домой, нам конец!” - восклицает он. ",
+    "val": "“If those people go home, we’re done for!” he exclaims. "
+  },
+  {
+    "key": "“Just get out there and get started! ",
+    "trx": "“Просто выходи и начинай! ",
+    "val": "“Just get out there and get started! "
+  },
+  {
+    "key": "I’m counting on you two!”",
+    "trx": "Я рассчитываю на вас двоих!”",
+    "val": "I’m counting on you two!”"
+  },
+  {
+    "key": "“Ladies! ",
+    "trx": "“Дамы! ",
+    "val": "“Ladies! "
+  },
+  {
+    "key": "Terribly sorry to have kept you waiting!”",
+    "trx": "Ужасно сожалею, что заставил вас ждать!”",
+    "val": "Terribly sorry to have kept you waiting!”"
+  },
+  {
+    "key": "Chiri and I spring into action on stage.",
+    "trx": "Мы с Чири начинаем действовать на сцене.",
+    "val": "Chiri and I spring into action on stage."
+  },
+  {
+    "key": "“But now, I’m proud to introduce to you the worldwide sensation that is Burning Hammer! ",
+    "trx": "“Но теперь я с гордостью представляю вам всемирную сенсацию - Горящий Молот! ",
+    "val": "“But now, I’m proud to introduce to you the worldwide sensation that is Burning Hammer! "
+  },
+  {
+    "key": "The latest product from the West that has taken the diet world by storm!”",
+    "trx": "Новейший продукт с Запада, который взял штурмом диетический мир!”",
+    "val": "The latest product from the West that has taken the diet world by storm!”"
+  },
+  {
+    "key": "Every seat in the house is packed.",
+    "trx": "Все места в зале заняты.",
+    "val": "Every seat in the house is packed."
+  },
+  {
+    "key": "That means there’s about forty people here.",
+    "trx": "Это значит, что здесь около сорока человек.",
+    "val": "That means there’s about forty people here."
+  },
+  {
+    "key": "We only need to sell five bottles to each customer in order to sell out.",
+    "trx": "Нам нужно всего лишь продать по пять бутылок каждому покупателю, чтобы распродать их.",
+    "val": "We only need to sell five bottles to each customer in order to sell out."
+  },
+  {
+    "key": "I’m hit with a sudden jolt of motivation.",
+    "trx": "Меня поражает внезапный прилив мотивации.",
+    "val": "I’m hit with a sudden jolt of motivation."
+  },
+  {
+    "key": "“Allow us to explain just how this revolutionary new diet drink works its magic!” Chiri begins.",
+    "trx": "“Позвольте нам объяснить, как этот новый революционный диетический напиток творит свое волшебство!” Чири начинает.",
+    "val": "“Allow us to explain just how this revolutionary new diet drink works its magic!” Chiri begins."
+  },
+  {
+    "key": "The plan is for me to describe how the drink works, and then Chiri will demonstrate it with a taste test.",
+    "trx": "План состоит в том, чтобы я описал, как работает напиток, а затем Чири продемонстрирует его с помощью теста на вкус.",
+    "val": "The plan is for me to describe how the drink works, and then Chiri will demonstrate it with a taste test."
+  },
+  {
+    "key": "K",
+    "trx": "K",
+    "val": "K"
+  },
+  {
+    "key": "All eyes are fixed on us.",
+    "trx": "Все взгляды устремлены на нас.",
+    "val": "All eyes are fixed on us."
+  },
+  {
+    "key": "I begin.",
+    "trx": "Я начинаю.",
+    "val": "I begin."
+  },
+  {
+    "key": "“For the first time in human history, ",
+    "trx": "“Впервые в истории человечества, ",
+    "val": "“For the first time in human history, "
+  },
+  {
+    "key": "you can drink a single bottle and lose a whole kilogram! ",
+    "trx": "вы можете выпить одну бутылку и сбросить целый килограмм! ",
+    "val": "you can drink a single bottle and lose a whole kilogram! "
+  },
+  {
+    "key": "Just drink and drink and ",
+    "trx": "Просто пей, и пей, и ",
+    "val": "Just drink and drink and "
+  },
+  {
+    "key": "burn",
+    "trx": "жечь",
+    "val": "burn"
+  },
+  {
+    "key": " that excess weight away!”",
+    "trx": " этот лишний вес прочь!”",
+    "val": " that excess weight away!”"
+  },
+  {
+    "key": "Astonished gasps rise up from the crowd.",
+    "trx": "Из толпы вырываются изумленные вздохи.",
+    "val": "Astonished gasps rise up from the crowd."
+  },
+  {
+    "key": "“Just take a look at this marvelous red liquid! ",
+    "trx": "“Только взгляните на эту чудесную красную жидкость! ",
+    "val": "“Just take a look at this marvelous red liquid! "
+  },
+  {
+    "key": "Even ",
+    "trx": "Даже ",
+    "val": "Even "
+  },
+  {
+    "key": "looking",
+    "trx": "взглянуть",
+    "val": "looking"
+  },
+  {
+    "key": " at it makes you feel like you’ll be shedding weight, right? ",
+    "trx": " при этом вы чувствуете, что скоро сбросите вес, верно? ",
+    "val": " at it makes you feel like you’ll be shedding weight, right? "
+  },
+  {
+    "key": "Here’s how Burning Hammer works: ",
+    "trx": "Вот как работает горящий молот: ",
+    "val": "Here’s how Burning Hammer works: "
+  },
+  {
+    "key": "It activates the ",
+    "trx": "Это активирует ",
+    "val": "It activates the "
+  },
+  {
+    "key": "capsaicin",
+    "trx": "капсаицин",
+    "val": "capsaicin"
+  },
+  {
+    "key": " found in chili peppers...” ",
+    "trx": " найдено в перце чили...” ",
+    "val": " found in chili peppers...” "
+  },
+  {
+    "key": "I pause to take a deep breath before continuing.",
+    "trx": "Я делаю паузу, чтобы сделать глубокий вдох, прежде чем продолжить.",
+    "val": "I pause to take a deep breath before continuing."
+  },
+  {
+    "key": "“...and, ah, ",
+    "trx": "“...и, ах, ",
+    "val": "“...and, ah, "
+  },
+  {
+    "key": "rapidly breaks down the triglycerides responsible for causing ",
+    "trx": "быстро расщепляет триглицериды, ответственные за вызывание ",
+    "val": "rapidly breaks down the triglycerides responsible for causing "
+  },
+  {
+    "key": "obesity",
+    "trx": "ожирение",
+    "val": "obesity"
+  },
+  {
+    "key": "!”",
+    "trx": "!”",
+    "val": "!”"
+  },
+  {
+    "key": "Again, the crowd hums with excitement.",
+    "trx": "И снова толпа гудит от возбуждения.",
+    "val": "Again, the crowd hums with excitement."
+  },
+  {
+    "key": "This response is better than I could have hoped.",
+    "trx": "Этот ответ лучше, чем я мог надеяться.",
+    "val": "This response is better than I could have hoped."
+  },
+  {
+    "key": "We’re off to a terrific start.",
+    "trx": "У нас потрясающий старт.",
+    "val": "We’re off to a terrific start."
+  },
+  {
+    "key": "“And now, this young lady here will demonstrate Burning Hammer’s effects before your very eyes!”",
+    "trx": "“А теперь эта юная леди продемонстрирует эффекты Горящего Молота прямо у вас на глазах!”",
+    "val": "“And now, this young lady here will demonstrate Burning Hammer’s effects before your very eyes!”"
+  },
+  {
+    "key": "Chiri steps into the spotlight.",
+    "trx": "Чири выходит в центр внимания.",
+    "val": "Chiri steps into the spotlight."
+  },
+  {
+    "key": "“Just wait ‘til you see how much she sweats—",
+    "trx": "“Просто подожди, пока ты не увидишь, как сильно она потеет—",
+    "val": "“Just wait ‘til you see how much she sweats—"
+  },
+  {
+    "key": "proof that the fat is being burned right there on the spot!”",
+    "trx": "доказательство того, что жир сжигается прямо там, на месте!”",
+    "val": "proof that the fat is being burned right there on the spot!”"
+  },
+  {
+    "key": "Chiri holds a bottle of Burning Hammer up high.",
+    "trx": "Чири высоко поднимает бутылку с Горящим молотом.",
+    "val": "Chiri holds a bottle of Burning Hammer up high."
+  },
+  {
+    "key": "“Cheers!” she says.",
+    "trx": "“Ваше здоровье!” - говорит она.",
+    "val": "“Cheers!” she says."
+  },
+  {
+    "key": "As she opens the bottle, however, one of the women in the front row speaks up.",
+    "trx": "Однако, когда она открывает бутылку, одна из женщин в первом ряду заговаривает.",
+    "val": "As she opens the bottle, however, one of the women in the front row speaks up."
+  },
+  {
+    "key": "“Hold on. ",
+    "trx": "“Подожди. ",
+    "val": "“Hold on. "
+  },
+  {
+    "key": "She’s already sweating pretty hard!”",
+    "trx": "Она уже довольно сильно вспотела!”",
+    "val": "She’s already sweating pretty hard!”"
+  },
+  {
+    "key": "She’s right; Chiri’s drenched in sweat from head to toe.",
+    "trx": "Она права; Чири промокла от пота с головы до ног.",
+    "val": "She’s right; Chiri’s drenched in sweat from head to toe."
+  },
+  {
+    "key": "Another woman chimes in, suspicious. ",
+    "trx": "С подозрением вмешивается другая женщина. ",
+    "val": "Another woman chimes in, suspicious. "
+  },
+  {
+    "key": "“Alla that juice-drinkin’ from earlier—",
+    "trx": "“Алла, что пила сок раньше—",
+    "val": "“Alla that juice-drinkin’ from earlier—"
+  },
+  {
+    "key": "that was all just to make ‘er sweat like that, weren’t it?”",
+    "trx": "это все было только для того, чтобы заставить ее так вспотеть, не так ли?”",
+    "val": "that was all just to make ‘er sweat like that, weren’t it?”"
+  },
+  {
+    "key": "All of a sudden, the crowd is in an uproar.",
+    "trx": "Внезапно толпа приходит в неистовство.",
+    "val": "All of a sudden, the crowd is in an uproar."
+  },
+  {
+    "key": "“No, ",
+    "trx": "“Нет, ",
+    "val": "“No, "
+  },
+  {
+    "key": "no, not at all! ",
+    "trx": "нет, вовсе нет! ",
+    "val": "no, not at all! "
+  },
+  {
+    "key": "Drinking Burning Hammer makes you sweat ",
+    "trx": "Питье Горящего молота заставляет тебя потеть ",
+    "val": "Drinking Burning Hammer makes you sweat "
+  },
+  {
+    "key": "way",
+    "trx": "путь",
+    "val": "way"
+  },
+  {
+    "key": " more than this!”",
+    "trx": " больше, чем это!”",
+    "val": " more than this!”"
+  },
+  {
+    "key": "I rush to towel off Chiri’s sweat for her.",
+    "trx": "Я спешу вытереть полотенцем пот Чири для нее.",
+    "val": "I rush to towel off Chiri’s sweat for her."
+  },
+  {
+    "key": "“Go on, hurry up! ",
+    "trx": "“Давай, поторопись! ",
+    "val": "“Go on, hurry up! "
+  },
+  {
+    "key": "Drink it down!”",
+    "trx": "Выпей это до дна!”",
+    "val": "Drink it down!”"
+  },
+  {
+    "key": "Chiri’s face screws up unpleasantly as she gulps down the bottle.",
+    "trx": "Лицо Чири неприятно морщится, когда она залпом осушает бутылку.",
+    "val": "Chiri’s face screws up unpleasantly as she gulps down the bottle."
+  },
+  {
+    "key": "And the sweat doesn’t come.",
+    "trx": "И пот не идет.",
+    "val": "And the sweat doesn’t come."
+  },
+  {
+    "key": "“Gaaah! Why isn’t it working?” I exclaim, the audience momentarily forgotten.",
+    "trx": "“Гааа! Почему это не работает?” - восклицаю я, на мгновение забыв о публике.",
+    "val": "“Gaaah! Why isn’t it working?” I exclaim, the audience momentarily forgotten."
+  },
+  {
+    "key": "“Guess I’ve already sweated out too much,” Chiri replies, unfazed.",
+    "trx": "“Наверное, я уже слишком сильно вспотела\", - невозмутимо отвечает Чири.",
+    "val": "“Guess I’ve already sweated out too much,” Chiri replies, unfazed."
+  },
+  {
+    "key": "“Well why ",
+    "trx": "“Ну, почему ",
+    "val": "“Well why "
+  },
+  {
+    "key": "were",
+    "trx": "были",
+    "val": "were"
+  },
+  {
+    "key": " you were sweating so much?!”",
+    "trx": " ты так сильно вспотел?!”",
+    "val": " you were sweating so much?!”"
+  },
+  {
+    "key": "“Look, you were taking forever at the 100-yen shop.”",
+    "trx": "“Послушай, ты потратил целую вечность в магазине за 100 иен”.",
+    "val": "“Look, you were taking forever at the 100-yen shop.”"
+  },
+  {
+    "key": "The crowd shifts from uproar into riot.",
+    "trx": "Толпа переходит от шума к бунту.",
+    "val": "The crowd shifts from uproar into riot."
+  },
+  {
+    "key": "“Did she just say 100-yen shop?!”",
+    "trx": "“Она только что сказала \"магазин за 100 иен\"?!”",
+    "val": "“Did she just say 100-yen shop?!”"
+  },
+  {
+    "key": "Scowling customers begin to close in.",
+    "trx": "Хмурые клиенты начинают приближаться.",
+    "val": "Scowling customers begin to close in."
+  },
+  {
+    "key": "“N-No, that’s not it! ",
+    "trx": "“Н-нет, дело не в этом! ",
+    "val": "“N-No, that’s not it! "
+  },
+  {
+    "key": "You’ve got it all wrong! ",
+    "trx": "Вы все неправильно поняли! ",
+    "val": "You’ve got it all wrong! "
+  },
+  {
+    "key": "Please just listen!”",
+    "trx": "Пожалуйста, просто послушай!”",
+    "val": "Please just listen!”"
+  },
+  {
+    "key": "“Oh, we can see what’s going on here!”",
+    "trx": "“О, мы можем видеть, что здесь происходит!”",
+    "val": "“Oh, we can see what’s going on here!”"
+  },
+  {
+    "key": "The situation has gotten out of our control.",
+    "trx": "Ситуация вышла из-под нашего контроля.",
+    "val": "The situation has gotten out of our control."
+  },
+  {
+    "key": "“Look—this product is so valuable that a 100-yen shop is about the only way we could get it!”",
+    "trx": "“Послушайте, этот товар настолько ценен, что магазин за 100 иен — это единственный способ его приобрести!”",
+    "val": "“Look—this product is so valuable that a 100-yen shop is about the only way we could get it!”"
+  },
+  {
+    "key": "Uh-oh.",
+    "trx": "О-о-о.",
+    "val": "Uh-oh."
+  },
+  {
+    "key": "I think I just put my foot in it.",
+    "trx": "Я думаю, что я просто поставил на это свою ногу.",
+    "val": "I think I just put my foot in it."
+  },
+  {
+    "key": "The customers glare at me, their eyes bright with rage.",
+    "trx": "Клиенты пристально смотрят на меня, их глаза сверкают от ярости.",
+    "val": "The customers glare at me, their eyes bright with rage."
+  },
+  {
+    "key": "“Please, let me apologize!”",
+    "trx": "“Пожалуйста, позвольте мне извиниться!”",
+    "val": "“Please, let me apologize!”"
+  },
+  {
+    "key": "Asking for forgiveness seems to be my only option.",
+    "trx": "Просить прощения, кажется, мой единственный выход.",
+    "val": "Asking for forgiveness seems to be my only option."
+  },
+  {
+    "key": "“Hahah! Kidding, kidding! That was just a joke!”",
+    "trx": "“Хахаха! Шучу, шучу! Это была просто шутка!”",
+    "val": "“Hahah! Kidding, kidding! That was just a joke!”"
+  },
+  {
+    "key": "I’ve just gotta play this off smooth.",
+    "trx": "Я просто должен разыграть это гладко.",
+    "val": "I’ve just gotta play this off smooth."
+  },
+  {
+    "key": "“Hunk o’ lamb chop!”",
+    "trx": "“Кусок бараньей отбивной!”",
+    "val": "“Hunk o’ lamb chop!”"
+  },
+  {
+    "key": "It’s a clumsy attempt to force it off, but it’s my only option.",
+    "trx": "Это неуклюжая попытка избавиться от него, но это мой единственный вариант.",
+    "val": "It’s a clumsy attempt to force it off, but it’s my only option."
+  },
+  {
+    "key": "“Please, let me apologize!”",
+    "trx": "“Пожалуйста, позвольте мне извиниться!”",
+    "val": "“Please, let me apologize!”"
+  },
+  {
+    "key": "Asking for forgiveness seems to be my only option.",
+    "trx": "Просить прощения, кажется, мой единственный выход.",
+    "val": "Asking for forgiveness seems to be my only option."
+  },
+  {
+    "key": "But the crowd is still up in arms, clamoring for blood.",
+    "trx": "Но толпа все еще с оружием в руках, требуя крови.",
+    "val": "But the crowd is still up in arms, clamoring for blood."
+  },
+  {
+    "key": "“Tama!” Yanagishita shouts, rushing out from the break room. ",
+    "trx": "“Тама!” - кричит Янагишита, выбегая из комнаты отдыха. ",
+    "val": "“Tama!” Yanagishita shouts, rushing out from the break room. "
+  },
+  {
+    "key": "“What the heck did you say?!”",
+    "trx": "“Что, черт возьми, ты сказал?!”",
+    "val": "“What the heck did you say?!”"
+  },
+  {
+    "key": "Guess he can’t just sit idly by and watch this any longer.",
+    "trx": "Думаю, он больше не может просто сидеть сложа руки и наблюдать за этим.",
+    "val": "Guess he can’t just sit idly by and watch this any longer."
+  },
+  {
+    "key": "“Abort! Abort!” he howls. ",
+    "trx": "“Отбой! Отбой!” - воет он. ",
+    "val": "“Abort! Abort!” he howls. "
+  },
+  {
+    "key": "“If you let these people know the truth about this stuff they’ll never buy it!”",
+    "trx": "“Если вы дадите этим людям знать правду об этом товаре, они никогда его не купят!”",
+    "val": "“If you let these people know the truth about this stuff they’ll never buy it!”"
+  },
+  {
+    "key": "“Uh-oh. ",
+    "trx": "“Ох-ох. ",
+    "val": "“Uh-oh. "
+  },
+  {
+    "key": "Now you’ve done it.”",
+    "trx": "Теперь ты сделал это\".",
+    "val": "Now you’ve done it.”"
+  },
+  {
+    "key": "Chiri doesn’t hesitate to point the finger at him, her stare ferocious.",
+    "trx": "Чири, не колеблясь, указывает на него пальцем, ее взгляд свиреп.",
+    "val": "Chiri doesn’t hesitate to point the finger at him, her stare ferocious."
+  },
+  {
+    "key": "“Uh...whoops.” ",
+    "trx": "\"Э-э... упс.” ",
+    "val": "“Uh...whoops.” "
+  },
+  {
+    "key": "Realizing what he just blurted out, Mr. Yanagishita is aghast.",
+    "trx": "Осознав, что он только что ляпнул, мистер Янагишита приходит в ужас.",
+    "val": "Realizing what he just blurted out, Mr. Yanagishita is aghast."
+  },
+  {
+    "key": "Now there really is no saving this.",
+    "trx": "Теперь это действительно невозможно спасти.",
+    "val": "Now there really is no saving this."
+  },
+  {
+    "key": "The customers descend upon Mr. Yanagishita, their wrath a terror to behold.",
+    "trx": "Клиенты обрушиваются на мистера Янагишиту, и их гнев вызывает ужас.",
+    "val": "The customers descend upon Mr. Yanagishita, their wrath a terror to behold."
+  },
+  {
+    "key": "“So then it ",
+    "trx": "“Так что тогда это ",
+    "val": "“So then it "
+  },
+  {
+    "key": "is",
+    "trx": "является",
+    "val": "is"
+  },
+  {
+    "key": " true!”",
+    "trx": " верно!”",
+    "val": " true!”"
+  },
+  {
+    "key": "“What the hell are you trying to pull?!”",
+    "trx": "“Какого черта ты пытаешься провернуть?!”",
+    "val": "“What the hell are you trying to pull?!”"
+  },
+  {
+    "key": "“I can’t ",
+    "trx": "“Я не могу ",
+    "val": "“I can’t "
+  },
+  {
+    "key": "believe",
+    "trx": "верить",
+    "val": "believe"
+  },
+  {
+    "key": " you’d try to sell this crap for these prices!”",
+    "trx": " ты бы попробовал продать это дерьмо по таким ценам!”",
+    "val": " you’d try to sell this crap for these prices!”"
+  },
+  {
+    "key": "“AIIIIIEEEEEEEEE!”",
+    "trx": "“ИИИИИИИИИИИИИ!”",
+    "val": "“AIIIIIEEEEEEEEE!”"
+  },
+  {
+    "key": "The throng goes on the attack.",
+    "trx": "Толпа идет в атаку.",
+    "val": "The throng goes on the attack."
+  },
+  {
+    "key": "“H",
+    "trx": "“Ч",
+    "val": "“H"
+  },
+  {
+    "key": "-",
+    "trx": "-",
+    "val": "-"
+  },
+  {
+    "key": "H",
+    "trx": "H",
+    "val": "H"
+  },
+  {
+    "key": "-H-",
+    "trx": "- Ч-",
+    "val": "-H-"
+  },
+  {
+    "key": "H-",
+    "trx": "H-",
+    "val": "H-"
+  },
+  {
+    "key": "H-",
+    "trx": "H-",
+    "val": "H-"
+  },
+  {
+    "key": "H-",
+    "trx": "H-",
+    "val": "H-"
+  },
+  {
+    "key": "H-",
+    "trx": "H-",
+    "val": "H-"
+  },
+  {
+    "key": "Heeeeeeelp!”",
+    "trx": "Хеееееелп!”",
+    "val": "Heeeeeeelp!”"
+  },
+  {
+    "key": "Chiri and I force our way through the angry mob, hoping to find some way to calm these people down.",
+    "trx": "Мы с Чири пробиваемся сквозь разъяренную толпу, надеясь найти какой-нибудь способ успокоить этих людей.",
+    "val": "Chiri and I force our way through the angry mob, hoping to find some way to calm these people down."
+  },
+  {
+    "key": "Cursing and profanity fill the air.",
+    "trx": "Ругань и ненормативная лексика наполняют воздух.",
+    "val": "Cursing and profanity fill the air."
+  },
+  {
+    "key": "The shouts are accompanied by merciless, open-handed slaps.",
+    "trx": "Крики сопровождаются безжалостными пощечинами с открытой ладонью.",
+    "val": "The shouts are accompanied by merciless, open-handed slaps."
+  },
+  {
+    "key": "I get all jostled and tumbled about, ",
+    "trx": "Меня постоянно толкают и кувыркают, ",
+    "val": "I get all jostled and tumbled about, "
+  },
+  {
+    "key": "and my mascot costume takes a bad beating.",
+    "trx": "и мой костюм талисмана сильно пострадал.",
+    "val": "and my mascot costume takes a bad beating."
+  },
+  {
+    "key": "Finally, the storm passes.",
+    "trx": "Наконец, буря проходит.",
+    "val": "Finally, the storm passes."
+  },
+  {
+    "key": "“It’s over...",
+    "trx": "“Все кончено...",
+    "val": "“It’s over..."
+  },
+  {
+    "key": "It’s...it’s all over!”",
+    "trx": "Это...все кончено!”",
+    "val": "It’s...it’s all over!”"
+  },
+  {
+    "key": "Mr. Yanagishita wails to the empty room.",
+    "trx": "Мистер Янагишита вопит в пустую комнату.",
+    "val": "Mr. Yanagishita wails to the empty room."
+  },
+  {
+    "key": "“So, um, boss? ",
+    "trx": "“Итак, эм, босс? ",
+    "val": "“So, um, boss? "
+  },
+  {
+    "key": "About getting paid...” ",
+    "trx": "Насчет того, чтобы получать деньги...” ",
+    "val": "About getting paid...” "
+  },
+  {
+    "key": "Even Chiri seems hesitant to ask.",
+    "trx": "Даже Чири, кажется, не решается спросить.",
+    "val": "Even Chiri seems hesitant to ask."
+  },
+  {
+    "key": "“Yeah, that’s...not gonna happen. ",
+    "trx": "“Да, этого... не случится. ",
+    "val": "“Yeah, that’s...not gonna happen. "
+  },
+  {
+    "key": "Obviously.” ",
+    "trx": "Очевидно.” ",
+    "val": "Obviously.” "
+  },
+  {
+    "key": "Yanagishita doesn’t so much as look up; his shoulders slump further in defeat.",
+    "trx": "Янагишита даже не поднимает глаз; его плечи еще больше опускаются в знак поражения.",
+    "val": "Yanagishita doesn’t so much as look up; his shoulders slump further in defeat."
+  },
+  {
+    "key": "“I’ll take payment-in-kind, then,” Chiri says. ",
+    "trx": "“Тогда я приму оплату натурой”, - говорит Чири. ",
+    "val": "“I’ll take payment-in-kind, then,” Chiri says. "
+  },
+  {
+    "key": "“Mind if I take this Burning Hammer home with me?”",
+    "trx": "“Не возражаешь, если я возьму этот Пылающий Молот с собой домой?”",
+    "val": "“Mind if I take this Burning Hammer home with me?”"
+  },
+  {
+    "key": "“Sure,” Yanagishita says lifelessly. ",
+    "trx": "”Конечно\", - безжизненно говорит Янагишита. ",
+    "val": "“Sure,” Yanagishita says lifelessly. "
+  },
+  {
+    "key": "“Go right ahead.”",
+    "trx": "“Иди прямо вперед”.",
+    "val": "“Go right ahead.”"
+  },
+  {
+    "key": "“All right, I’ll be off, then. ",
+    "trx": "“Хорошо, тогда я пойду. ",
+    "val": "“All right, I’ll be off, then. "
+  },
+  {
+    "key": "Later, Tama!” ",
+    "trx": "Позже, Тама!” ",
+    "val": "Later, Tama!” "
+  },
+  {
+    "key": "Chiri picks up the cardboard boxes and heads out.",
+    "trx": "Чири берет картонные коробки и направляется к выходу.",
+    "val": "Chiri picks up the cardboard boxes and heads out."
+  },
+  {
+    "key": "“Um...",
+    "trx": "“Эм...",
+    "val": "“Um..."
+  },
+  {
+    "key": "sir?”",
+    "trx": "сэр?”",
+    "val": "sir?”"
+  },
+  {
+    "key": "It’s the man from the rental place. ",
+    "trx": "Это мужчина из пункта проката. ",
+    "val": "It’s the man from the rental place. "
+  },
+  {
+    "key": "“I believe you still owe me for the costume rentals?”",
+    "trx": "“Я полагаю, ты все еще должен мне за прокат костюмов?”",
+    "val": "“I believe you still owe me for the costume rentals?”"
+  },
+  {
+    "key": "“Oh. Right. ",
+    "trx": "\"ой. Верно. ",
+    "val": "“Oh. Right. "
+  },
+  {
+    "key": "How much was it again?” ",
+    "trx": "Напомни, сколько это было?” ",
+    "val": "How much was it again?” "
+  },
+  {
+    "key": "Mr. Yanagishita rummages in his pockets.",
+    "trx": "Мистер Янагишита роется в своих карманах.",
+    "val": "Mr. Yanagishita rummages in his pockets."
+  },
+  {
+    "key": "“Well, given the severe damage, I’m afraid I have to add the full cost of the cat suit to your bill. ",
+    "trx": "“Ну, учитывая серьезный ущерб, боюсь, мне придется добавить полную стоимость костюма для кошки к вашему счету. ",
+    "val": "“Well, given the severe damage, I’m afraid I have to add the full cost of the cat suit to your bill. "
+  },
+  {
+    "key": "Your total comes to two hundred thousand yen.”",
+    "trx": "Ваша общая сумма составляет двести тысяч иен.”",
+    "val": "Your total comes to two hundred thousand yen.”"
+  },
+  {
+    "key": "“Wuzzat? ",
+    "trx": "“Уаззат? ",
+    "val": "“Wuzzat? "
+  },
+  {
+    "key": "Two hundred yen?!”",
+    "trx": "Двести иен?!”",
+    "val": "Two hundred yen?!”"
+  },
+  {
+    "key": "“No, sir. Two hundred ",
+    "trx": "“Нет, сэр. Двести ",
+    "val": "“No, sir. Two hundred "
+  },
+  {
+    "key": "thousand",
+    "trx": "тысяча",
+    "val": "thousand"
+  },
+  {
+    "key": ".”",
+    "trx": ".”",
+    "val": ".”"
+  },
+  {
+    "key": "“Hmm? ",
+    "trx": "«хмм? ",
+    "val": "“Hmm? "
+  },
+  {
+    "key": "Sorry, I can’t hear at all. ",
+    "trx": "Извините, я совсем ничего не слышу. ",
+    "val": "Sorry, I can’t hear at all. "
+  },
+  {
+    "key": "I think I might’ve ruptured my eardrum.”",
+    "trx": "Я думаю, что, возможно, у меня лопнула барабанная перепонка.”",
+    "val": "I think I might’ve ruptured my eardrum.”"
+  },
+  {
+    "key": "“Two hundred thousand yen, sir!”",
+    "trx": "“Двести тысяч иен, сэр!”",
+    "val": "“Two hundred thousand yen, sir!”"
+  },
+  {
+    "key": "“Okay, okay.” ",
+    "trx": "“Хорошо, хорошо”. ",
+    "val": "“Okay, okay.” "
+  },
+  {
+    "key": "Yanagishita takes all the cash he has in his wallet and holds it out reluctantly.",
+    "trx": "Янагишита берет всю наличность, которая у него есть в бумажнике, и неохотно протягивает ее.",
+    "val": "Yanagishita takes all the cash he has in his wallet and holds it out reluctantly."
+  },
+  {
+    "key": "“That’s only twenty thousand, sir.” ",
+    "trx": "“Это всего лишь двадцать тысяч, сэр”. ",
+    "val": "“That’s only twenty thousand, sir.” "
+  },
+  {
+    "key": "The rental guy furrows his brow. ",
+    "trx": "Парень из проката хмурит брови. ",
+    "val": "The rental guy furrows his brow. "
+  },
+  {
+    "key": "“I’m afraid this won’t cover it.”",
+    "trx": "“Я боюсь, что это не покроет этого”.",
+    "val": "“I’m afraid this won’t cover it.”"
+  },
+  {
+    "key": "“I understand that. ",
+    "trx": "“Я понимаю это. ",
+    "val": "“I understand that. "
+  },
+  {
+    "key": "But I don’t got no more than this.”",
+    "trx": "Но у меня больше ничего нет, кроме этого”.",
+    "val": "But I don’t got no more than this.”"
+  },
+  {
+    "key": "“’Don’t got no more?’ ",
+    "trx": "“’У тебя больше ничего нет?’ ",
+    "val": "“’Don’t got no more?’ "
+  },
+  {
+    "key": "Sir, please. You’re not a child.”",
+    "trx": "Сэр, пожалуйста. Ты не ребенок.”",
+    "val": "Sir, please. You’re not a child.”"
+  },
+  {
+    "key": "“Then gimme a discount. ",
+    "trx": "“Тогда сделай мне скидку. ",
+    "val": "“Then gimme a discount. "
+  },
+  {
+    "key": "Make it twenty thousand.”",
+    "trx": "Пусть будет двадцать тысяч.”",
+    "val": "Make it twenty thousand.”"
+  },
+  {
+    "key": "“Instead of the two hundred you owe? ",
+    "trx": "“Вместо двух сотен, которые ты должен? ",
+    "val": "“Instead of the two hundred you owe? "
+  },
+  {
+    "key": "You know I can’t do that, sir.”",
+    "trx": "Вы знаете, что я не могу этого сделать, сэр.”",
+    "val": "You know I can’t do that, sir.”"
+  },
+  {
+    "key": "But Mr. Yanagishita refuses to back down.",
+    "trx": "Но мистер Янагишита отказывается отступать.",
+    "val": "But Mr. Yanagishita refuses to back down."
+  },
+  {
+    "key": "“Ah! ",
+    "trx": "\"ах! ",
+    "val": "“Ah! "
+  },
+  {
+    "key": "That’s right! ",
+    "trx": "Это верно! ",
+    "val": "That’s right! "
+  },
+  {
+    "key": "Insurance! ",
+    "trx": "Страховка! ",
+    "val": "Insurance! "
+  },
+  {
+    "key": "I got insurance in the event the suit wound up damaged!”",
+    "trx": "Я получил страховку на случай, если костюм окажется поврежденным!”",
+    "val": "I got insurance in the event the suit wound up damaged!”"
+  },
+  {
+    "key": "“No, you didn’t.”",
+    "trx": "“Нет, ты этого не сделал”.",
+    "val": "“No, you didn’t.”"
+  },
+  {
+    "key": "“No, I did!”",
+    "trx": "“Нет, это сделал я!”",
+    "val": "“No, I did!”"
+  },
+  {
+    "key": "“You did not, sir.”",
+    "trx": "“Вы этого не сделали, сэр”.",
+    "val": "“You did not, sir.”"
+  },
+  {
+    "key": "“Noooo, I diiiid!”",
+    "trx": "“Неееет, я сдох!”",
+    "val": "“Noooo, I diiiid!”"
+  },
+  {
+    "key": "“Then where’s your paperwork to prove it?!”",
+    "trx": "“Тогда где твои документы, подтверждающие это?!”",
+    "val": "“Then where’s your paperwork to prove it?!”"
+  },
+  {
+    "key": "Yanagishita calmly claps a hand to his chest.",
+    "trx": "Янагишита спокойно хлопает себя ладонью по груди.",
+    "val": "Yanagishita calmly claps a hand to his chest."
+  },
+  {
+    "key": "“Right here. ",
+    "trx": "“Прямо здесь. ",
+    "val": "“Right here. "
+  },
+  {
+    "key": "The paperwork is here inside my heart.”",
+    "trx": "Документы здесь, в моем сердце.”",
+    "val": "The paperwork is here inside my heart.”"
+  },
+  {
+    "key": "The rental guy clutches the sides of his head in exasperation.",
+    "trx": "Парень из проката в раздражении хватается за голову по бокам.",
+    "val": "The rental guy clutches the sides of his head in exasperation."
+  },
+  {
+    "key": "And believe me, I feel his pain.",
+    "trx": "И поверьте мне, я чувствую его боль.",
+    "val": "And believe me, I feel his pain."
+  },
+  {
+    "key": "“You know what? Never mind. ",
+    "trx": "“Знаешь что? Неважно. ",
+    "val": "“You know what? Never mind. "
+  },
+  {
+    "key": "I’m going to leave this to ",
+    "trx": "Я собираюсь оставить это на ",
+    "val": "I’m going to leave this to "
+  },
+  {
+    "key": "my boss",
+    "trx": "мой босс",
+    "val": "my boss"
+  },
+  {
+    "key": ".”",
+    "trx": ".”",
+    "val": ".”"
+  },
+  {
+    "key": "Turning his back on the ruins of the sales demo, he slumps his way out of the room.",
+    "trx": "Повернувшись спиной к развалинам демонстрационной демонстрации продаж, он неуклюже выходит из комнаты.",
+    "val": "Turning his back on the ruins of the sales demo, he slumps his way out of the room."
+  },
+  {
+    "key": "Now it’s just me and Mr. Yanagishita.",
+    "trx": "Теперь остались только я и мистер Янагишита.",
+    "val": "Now it’s just me and Mr. Yanagishita."
+  },
+  {
+    "key": "“Please try not to let it get you down so much, sir,” I say, as cheerfully as I can muster.",
+    "trx": "“Пожалуйста, постарайтесь не позволять этому так сильно расстраивать вас, сэр”, - говорю я так бодро, как только могу.",
+    "val": "“Please try not to let it get you down so much, sir,” I say, as cheerfully as I can muster."
+  },
+  {
+    "key": "He’s already down on the floor, a sobbing mess.",
+    "trx": "Он уже лежит на полу, весь в рыданиях.",
+    "val": "He’s already down on the floor, a sobbing mess."
+  },
+  {
+    "key": "“You wouldn’t know what it’s like...",
+    "trx": "“Ты не представляешь, на что это похоже...",
+    "val": "“You wouldn’t know what it’s like..."
+  },
+  {
+    "key": "to feel so utterly hopeless...” ",
+    "trx": "чувствовать себя таким совершенно безнадежным...” ",
+    "val": "to feel so utterly hopeless...” "
+  },
+  {
+    "key": "“I think I might have an idea, sir. ",
+    "trx": "“Я думаю, что у меня может быть идея, сэр. ",
+    "val": "“I think I might have an idea, sir. "
+  },
+  {
+    "key": "In fact I’m sure of it.”",
+    "trx": "На самом деле я в этом уверен.”",
+    "val": "In fact I’m sure of it.”"
+  },
+  {
+    "key": "“At this point there’s nothing more I can possibly do.” ",
+    "trx": "“На данный момент я больше ничего не могу сделать\". ",
+    "val": "“At this point there’s nothing more I can possibly do.” "
+  },
+  {
+    "key": "He slumps forward, trembling like a willow tree.",
+    "trx": "Он падает вперед, дрожа, как ива.",
+    "val": "He slumps forward, trembling like a willow tree."
+  },
+  {
+    "key": "“Things will turn around soon enough, I’m sure.”",
+    "trx": "“Я уверен, что все изменится достаточно скоро”.",
+    "val": "“Things will turn around soon enough, I’m sure.”"
+  },
+  {
+    "key": "“You don’t know me like I know me,” he says. ",
+    "trx": "“Ты не знаешь меня так, как я знаю себя”, - говорит он. ",
+    "val": "“You don’t know me like I know me,” he says. "
+  },
+  {
+    "key": "“There’s not going to be any turnaround. Not after this.”",
+    "trx": "“Никакого поворота не будет. Не после этого.”",
+    "val": "“There’s not going to be any turnaround. Not after this.”"
+  },
+  {
+    "key": "Okay, now this little pity-party is starting to piss me off.",
+    "trx": "Ладно, теперь эта маленькая вечеринка жалости начинает меня бесить.",
+    "val": "Okay, now this little pity-party is starting to piss me off."
+  },
+  {
+    "key": "“You know, ",
+    "trx": "“Ты знаешь, ",
+    "val": "“You know, "
+  },
+  {
+    "key": "if you think you’re the only person who’s had a run of bad luck, you are ",
+    "trx": "если вы думаете, что вы единственный человек, которому не повезло, то так оно и есть ",
+    "val": "if you think you’re the only person who’s had a run of bad luck, you are "
+  },
+  {
+    "key": "dead",
+    "trx": "мертвый",
+    "val": "dead"
+  },
+  {
+    "key": " wrong!” ",
+    "trx": " неправильно!” ",
+    "val": " wrong!” "
+  },
+  {
+    "key": "I wind up shouting the words louder than I intended.",
+    "trx": "Я заканчиваю тем, что выкрикиваю эти слова громче, чем намеревался.",
+    "val": "I wind up shouting the words louder than I intended."
+  },
+  {
+    "key": "Mr. Yanagishita whips his head back up. ",
+    "trx": "Мистер Янагишита снова вскидывает голову. ",
+    "val": "Mr. Yanagishita whips his head back up. "
+  },
+  {
+    "key": "“Yikes, where’d ",
+    "trx": "“Черт возьми, где ты ",
+    "val": "“Yikes, where’d "
+  },
+  {
+    "key": "that",
+    "trx": "тот",
+    "val": "that"
+  },
+  {
+    "key": " come from?”",
+    "trx": " откуда пришел?”",
+    "val": " come from?”"
+  },
+  {
+    "key": "“I need to tell you something. ",
+    "trx": "“Мне нужно тебе кое-что сказать. ",
+    "val": "“I need to tell you something. "
+  },
+  {
+    "key": "I...” ",
+    "trx": "Я...” ",
+    "val": "I...” "
+  },
+  {
+    "key": "My pent-up emotions come surging to the surface.",
+    "trx": "Мои сдерживаемые эмоции вырываются на поверхность.",
+    "val": "My pent-up emotions come surging to the surface."
+  },
+  {
+    "key": "“I...",
+    "trx": "“Я...",
+    "val": "“I..."
+  },
+  {
+    "key": "I have amnesia!”",
+    "trx": "У меня амнезия!”",
+    "val": "I have amnesia!”"
+  },
+  {
+    "key": "Yanagishita’s eyes go wide. “What?!”",
+    "trx": "Глаза Янагишиты расширяются. “Что?!”",
+    "val": "Yanagishita’s eyes go wide. “What?!”"
+  },
+  {
+    "key": "“I ",
+    "trx": "“Я ",
+    "val": "“I "
+  },
+  {
+    "key": "can’t remember anything",
+    "trx": "ничего не могу вспомнить",
+    "val": "can’t remember anything"
+  },
+  {
+    "key": " from before this morning! ",
+    "trx": " до сегодняшнего утра! ",
+    "val": " from before this morning! "
+  },
+  {
+    "key": "My name, ",
+    "trx": "Мое имя, ",
+    "val": "My name, "
+  },
+  {
+    "key": "how old I am, ",
+    "trx": "сколько мне лет, ",
+    "val": "how old I am, "
+  },
+  {
+    "key": "where I live—any of it! ",
+    "trx": "где я живу — все это! ",
+    "val": "where I live—any of it! "
+  },
+  {
+    "key": "I would ",
+    "trx": "Я бы ",
+    "val": "I would "
+  },
+  {
+    "key": "much",
+    "trx": "много",
+    "val": "much"
+  },
+  {
+    "key": " rather be in your shoes, sir!”",
+    "trx": " лучше бы я был на вашем месте, сэр!”",
+    "val": " rather be in your shoes, sir!”"
+  },
+  {
+    "key": "Mr. Yanagishita looks at me with a hint of disbelief.",
+    "trx": "Мистер Янагишита смотрит на меня с оттенком недоверия.",
+    "val": "Mr. Yanagishita looks at me with a hint of disbelief."
+  },
+  {
+    "key": "“So where’d you get the name Tama, then?”",
+    "trx": "“Так откуда же тогда у тебя имя Тама?”",
+    "val": "“So where’d you get the name Tama, then?”"
+  },
+  {
+    "key": "“I thought of it when I saw the tamagoyaki in those lunch boxes.”",
+    "trx": "“Я подумал об этом, когда увидел тамагояки в этих коробках для ланча\".",
+    "val": "“I thought of it when I saw the tamagoyaki in those lunch boxes.”"
+  },
+  {
+    "key": "“Aha! ",
+    "trx": "“Ага! ",
+    "val": "“Aha! "
+  },
+  {
+    "key": "Tamagoyaki...Tama...",
+    "trx": "Тамагояки... Тама...",
+    "val": "Tamagoyaki...Tama..."
+  },
+  {
+    "key": "I get it!” ",
+    "trx": "Я понял!” ",
+    "val": "I get it!” "
+  },
+  {
+    "key": "He claps himself on the thighs, as if he’s had some big eureka moment.",
+    "trx": "Он хлопает себя по бедрам, как будто у него был какой-то важный момент эврики.",
+    "val": "He claps himself on the thighs, as if he’s had some big eureka moment."
+  },
+  {
+    "key": "“But wait, ",
+    "trx": "“Но подожди, ",
+    "val": "“But wait, "
+  },
+  {
+    "key": "how come you lost your memories?”",
+    "trx": "как получилось, что ты потерял свои воспоминания?”",
+    "val": "how come you lost your memories?”"
+  },
+  {
+    "key": "“Well I don’t know for certain—obviously. I don’t remember! ",
+    "trx": "“Ну, я не знаю наверняка — очевидно. Я не помню! ",
+    "val": "“Well I don’t know for certain—obviously. I don’t remember! "
+  },
+  {
+    "key": "But I’m pretty sure I took a hard blow to the head. ",
+    "trx": "Но я почти уверен, что получил сильный удар по голове. ",
+    "val": "But I’m pretty sure I took a hard blow to the head. "
+  },
+  {
+    "key": "When I came to, I was inside of a storehouse, with a massive headache.”",
+    "trx": "Когда я пришел в себя, я был внутри склада с сильной головной болью.”",
+    "val": "When I came to, I was inside of a storehouse, with a massive headache.”"
+  },
+  {
+    "key": "“A storehouse?”",
+    "trx": "“Склад?”",
+    "val": "“A storehouse?”"
+  },
+  {
+    "key": "A surge of vertigo washes through me as I recall waking up in that strange dim place.",
+    "trx": "Волна головокружения захлестывает меня, когда я вспоминаю, как проснулся в этом странном тусклом месте.",
+    "val": "A surge of vertigo washes through me as I recall waking up in that strange dim place."
+  },
+  {
+    "key": "“Yeah. I had just gotten out of there when you flagged me down, sir.”",
+    "trx": "\"Да. Я только что вышел оттуда, когда вы остановили меня, сэр.”",
+    "val": "“Yeah. I had just gotten out of there when you flagged me down, sir.”"
+  },
+  {
+    "key": "“Huh. Really? ",
+    "trx": "“Ха. Действительно? ",
+    "val": "“Huh. Really? "
+  },
+  {
+    "key": "So is it pretty unnerving, then? ",
+    "trx": "Значит, это довольно нервирует? ",
+    "val": "So is it pretty unnerving, then? "
+  },
+  {
+    "key": "Not knowing who you are?” ",
+    "trx": "Не зная, кто ты такой?” ",
+    "val": "Not knowing who you are?” "
+  },
+  {
+    "key": "He sounds like he’s taking me seriously, now.",
+    "trx": "Похоже, теперь он воспринимает меня всерьез.",
+    "val": "He sounds like he’s taking me seriously, now."
+  },
+  {
+    "key": "“Yeah, it sure is; ",
+    "trx": "“Да, это точно так; ",
+    "val": "“Yeah, it sure is; "
+  },
+  {
+    "key": "but it’s not going to do me any good to just fret over it. ",
+    "trx": "но мне не принесет никакой пользы, если я буду просто переживать из-за этого. ",
+    "val": "but it’s not going to do me any good to just fret over it. "
+  },
+  {
+    "key": "And besides, I’ve got a clue.”",
+    "trx": "И, кроме того, у меня есть ключ к разгадке.”",
+    "val": "And besides, I’ve got a clue.”"
+  },
+  {
+    "key": "“What sort of clue?”",
+    "trx": "“Какого рода подсказка?”",
+    "val": "“What sort of clue?”"
+  },
+  {
+    "key": "“There’s a necklace I saw at a knickknack shop—the same place I found the Burning Hammer. ",
+    "trx": "“Есть ожерелье, которое я видел в магазине безделушек — там же, где я нашел Горящий Молот. ",
+    "val": "“There’s a necklace I saw at a knickknack shop—the same place I found the Burning Hammer. "
+  },
+  {
+    "key": "Somehow I ",
+    "trx": "Каким-то образом я ",
+    "val": "Somehow I "
+  },
+  {
+    "key": "know",
+    "trx": "знать",
+    "val": "know"
+  },
+  {
+    "key": " that it’s important to me.”",
+    "trx": " что это важно для меня.”",
+    "val": " that it’s important to me.”"
+  },
+  {
+    "key": "“And so you took this job so you could afford to buy it?”",
+    "trx": "“И поэтому вы взялись за эту работу, чтобы позволить себе ее купить?”",
+    "val": "“And so you took this job so you could afford to buy it?”"
+  },
+  {
+    "key": "I nod.",
+    "trx": "Я киваю.",
+    "val": "I nod."
+  },
+  {
+    "key": "Of course, ",
+    "trx": "Конечно, ",
+    "val": "Of course, "
+  },
+  {
+    "key": "now that the job has ended in a total bust, I’ve lost my shot at getting it.",
+    "trx": "теперь, когда работа закончилась полным провалом, я потерял все шансы получить ее.",
+    "val": "now that the job has ended in a total bust, I’ve lost my shot at getting it."
+  },
+  {
+    "key": "“Okay, then.” ",
+    "trx": "“Тогда ладно”. ",
+    "val": "“Okay, then.” "
+  },
+  {
+    "key": "Mr. Yanagishita removes his shoe, then yanks out the insole. ",
+    "trx": "Мистер Янагишита снимает ботинок, затем выдергивает стельку. ",
+    "val": "Mr. Yanagishita removes his shoe, then yanks out the insole. "
+  },
+  {
+    "key": "“This here really ",
+    "trx": "“Это здесь действительно ",
+    "val": "“This here really "
+  },
+  {
+    "key": "is",
+    "trx": "является",
+    "val": "is"
+  },
+  {
+    "key": " the last of my money.”",
+    "trx": " последние мои деньги.”",
+    "val": " the last of my money.”"
+  },
+  {
+    "key": "He pulls out twenty thousand yen, adds it to the other twenty thousand from his wallet, and thrusts it all toward me.",
+    "trx": "Он вытаскивает двадцать тысяч иен, добавляет их к остальным двадцати тысячам из своего бумажника и протягивает все это мне.",
+    "val": "He pulls out twenty thousand yen, adds it to the other twenty thousand from his wallet, and thrusts it all toward me."
+  },
+  {
+    "key": "“Here you go,” he says. ",
+    "trx": "”Вот, держи\", - говорит он. ",
+    "val": "“Here you go,” he says. "
+  },
+  {
+    "key": "“That includes the reimbursement for the Burning Hammer you picked up.”",
+    "trx": "“Это включает в себя компенсацию за Горящий Молот, который ты подобрал”.",
+    "val": "“That includes the reimbursement for the Burning Hammer you picked up.”"
+  },
+  {
+    "key": "I pluck up two of the 10,000-yen bills between my fingertips. ",
+    "trx": "Я беру две купюры по 10 000 иен кончиками пальцев. ",
+    "val": "I pluck up two of the 10,000-yen bills between my fingertips. "
+  },
+  {
+    "key": "“I actually didn’t have to pay for it, so the twenty thousand we agreed upon is fine. ",
+    "trx": "“На самом деле мне не нужно было за это платить, так что двадцать тысяч, о которых мы договорились, вполне достаточно. ",
+    "val": "“I actually didn’t have to pay for it, so the twenty thousand we agreed upon is fine. "
+  },
+  {
+    "key": "But...how about you, sir? Are you going to be okay? ",
+    "trx": "Но... как насчет вас, сэр? С тобой все будет в порядке? ",
+    "val": "But...how about you, sir? Are you going to be okay? "
+  },
+  {
+    "key": "Like, after all this?”",
+    "trx": "Например, после всего этого?”",
+    "val": "Like, after all this?”"
+  },
+  {
+    "key": "“Compared to your misfortunes, mine are nothing. ",
+    "trx": "“По сравнению с твоими несчастьями мои - ничто. ",
+    "val": "“Compared to your misfortunes, mine are nothing. "
+  },
+  {
+    "key": "They might send me up the creek without a paddle, but I’ll bounce back somehow. I’m sure of it. ",
+    "trx": "Они могут отправить меня вверх по ручью без весла, но я как-нибудь приду в себя. Я уверен в этом. ",
+    "val": "They might send me up the creek without a paddle, but I’ll bounce back somehow. I’m sure of it. "
+  },
+  {
+    "key": "And then....” ",
+    "trx": "А потом....” ",
+    "val": "And then....” "
+  },
+  {
+    "key": "Clutching his fist, Mr. Yanagishita gets a far-off look in his eye.",
+    "trx": "Сжимая кулак, мистер Янагишита смотрит куда-то вдаль.",
+    "val": "Clutching his fist, Mr. Yanagishita gets a far-off look in his eye."
+  },
+  {
+    "key": "“And then, one more time, ",
+    "trx": "“А потом, еще раз, ",
+    "val": "“And then, one more time, "
+  },
+  {
+    "key": "I’m gonna go see a Bride fight!”",
+    "trx": "Я собираюсь пойти посмотреть бой невест!”",
+    "val": "I’m gonna go see a Bride fight!”"
+  },
+  {
+    "key": "My jaw nearly drops. ",
+    "trx": "У меня чуть не отвисает челюсть. ",
+    "val": "My jaw nearly drops. "
+  },
+  {
+    "key": "“Bride, like, the martial arts pub?”",
+    "trx": "“Невеста, типа, в пабе боевых искусств?”",
+    "val": "“Bride, like, the martial arts pub?”"
+  },
+  {
+    "key": "“Wait, you know about Bride? ",
+    "trx": "“Подожди, ты знаешь о Невесте? ",
+    "val": "“Wait, you know about Bride? "
+  },
+  {
+    "key": "Man, I’ve spent so much money at that place!”",
+    "trx": "Чувак, я потратил столько денег в этом заведении!”",
+    "val": "Man, I’ve spent so much money at that place!”"
+  },
+  {
+    "key": "Wow. It ",
+    "trx": "Вау. Оно ",
+    "val": "Wow. It "
+  },
+  {
+    "key": "is",
+    "trx": "является",
+    "val": "is"
+  },
+  {
+    "key": " a small world.",
+    "trx": " маленький мир.",
+    "val": " a small world."
+  },
+  {
+    "key": "“Especially that Miku...",
+    "trx": "“Особенно эта Мику...",
+    "val": "“Especially that Miku..."
+  },
+  {
+    "key": "heeheehee! ",
+    "trx": "хи-хи-хи! ",
+    "val": "heeheehee! "
+  },
+  {
+    "key": "I wonder how much ",
+    "trx": "Интересно, сколько ",
+    "val": "I wonder how much "
+  },
+  {
+    "key": "she",
+    "trx": "она",
+    "val": "she"
+  },
+  {
+    "key": " has made me spend?”",
+    "trx": " заставил меня тратить?”",
+    "val": " has made me spend?”"
+  },
+  {
+    "key": "“Miku, huh?”",
+    "trx": "“Мику, да?”",
+    "val": "“Miku, huh?”"
+  },
+  {
+    "key": "I’m pretty sure I just accidentally forced her into retirement, but I decide to keep quiet on that front.",
+    "trx": "Я почти уверен, что просто случайно вынудил ее уйти на пенсию, но я решаю помалкивать на этом фронте.",
+    "val": "I’m pretty sure I just accidentally forced her into retirement, but I decide to keep quiet on that front."
+  },
+  {
+    "key": "He nods. “To be honest, the reason I borrowed all that money was to pay my tabs at that place. ",
+    "trx": "Он кивает. “Честно говоря, причина, по которой я занял все эти деньги, заключалась в том, чтобы оплатить свои счета в этом заведении. ",
+    "val": "He nods. “To be honest, the reason I borrowed all that money was to pay my tabs at that place. "
+  },
+  {
+    "key": "And I had to borrow from some pretty shady sources, too.”",
+    "trx": "И мне тоже пришлось позаимствовать кое-что из довольно сомнительных источников.”",
+    "val": "And I had to borrow from some pretty shady sources, too.”"
+  },
+  {
+    "key": "I can’t help but suspect that this poor guy got a real raw deal.",
+    "trx": "Я не могу не подозревать, что этот бедняга получил по-настоящему выгодную сделку.",
+    "val": "I can’t help but suspect that this poor guy got a real raw deal."
+  },
+  {
+    "key": "“Why don’t you take that mascot costume with you?”",
+    "trx": "“Почему бы тебе не взять этот костюм талисмана с собой?”",
+    "val": "“Why don’t you take that mascot costume with you?”"
+  },
+  {
+    "key": "“Huh? ",
+    "trx": "\"Хм? ",
+    "val": "“Huh? "
+  },
+  {
+    "key": "I mean, ",
+    "trx": "Я имею в виду, ",
+    "val": "I mean, "
+  },
+  {
+    "key": "I don’t really need it.”",
+    "trx": "На самом деле мне это не нужно.”",
+    "val": "I don’t really need it.”"
+  },
+  {
+    "key": "“No, no, I insist. ",
+    "trx": "“Нет, нет, я настаиваю. ",
+    "val": "“No, no, I insist. "
+  },
+  {
+    "key": "Take it with my blessing.”",
+    "trx": "Прими это с моим благословением\".",
+    "val": "Take it with my blessing.”"
+  },
+  {
+    "key": "“Uh...sure. ",
+    "trx": "“Э-э... конечно. ",
+    "val": "“Uh...sure. "
+  },
+  {
+    "key": "I’ll be on my way, then.”",
+    "trx": "Тогда я пойду своей дорогой.”",
+    "val": "I’ll be on my way, then.”"
+  },
+  {
+    "key": "Out in the hallway, I pass by the ",
+    "trx": "Выйдя в коридор, я прохожу мимо ",
+    "val": "Out in the hallway, I pass by the "
+  },
+  {
+    "key": "man",
+    "trx": "человек",
+    "val": "man"
+  },
+  {
+    "key": " I’d noticed earlier, the one I didn’t recognize.",
+    "trx": " Я заметил это раньше, тот, которого я не узнал.",
+    "val": " I’d noticed earlier, the one I didn’t recognize."
+  },
+  {
+    "key": "Odd. The sales demo’s over. I wonder why he’s still here?",
+    "trx": "Странный. Демонстрация продаж закончена. Интересно, почему он все еще здесь?",
+    "val": "Odd. The sales demo’s over. I wonder why he’s still here?"
+  },
+  {
+    "key": "I give him a faint nod, and he nods back before slipping into the demo room.",
+    "trx": "Я слабо киваю ему, и он кивает в ответ, прежде чем проскользнуть в демонстрационную комнату.",
+    "val": "I give him a faint nod, and he nods back before slipping into the demo room."
+  },
+  {
+    "key": "I should keep my fingers crossed for the guy.",
+    "trx": "Я должен держать пальцы скрещенными за этого парня.",
+    "val": "I should keep my fingers crossed for the guy."
+  },
+  {
+    "key": "At last, I’m back outside the building.",
+    "trx": "Наконец-то я снова снаружи здания.",
+    "val": "At last, I’m back outside the building."
+  },
+  {
+    "key": "I feel bad about not returning the cat suit to the man from the rental place.",
+    "trx": "Я чувствую себя неловко из-за того, что не вернул кошачий костюм мужчине из пункта проката.",
+    "val": "I feel bad about not returning the cat suit to the man from the rental place."
+  },
+  {
+    "key": "Still, I can’t just walk around town wearing this thing. I’ll stick out like a sore thumb.",
+    "trx": "И все же я не могу просто разгуливать по городу в этой штуке. Я буду торчать, как больной палец.",
+    "val": "Still, I can’t just walk around town wearing this thing. I’ll stick out like a sore thumb."
+  },
+  {
+    "key": "I figure it’s best to just leave it behind.",
+    "trx": "Я полагаю, что лучше всего просто оставить это позади.",
+    "val": "I figure it’s best to just leave it behind."
+  },
+  {
+    "key": "And then it dawns on me: ",
+    "trx": "И тут меня осеняет: ",
+    "val": "And then it dawns on me: "
+  },
+  {
+    "key": "“Hold on! ",
+    "trx": "“Держись! ",
+    "val": "“Hold on! "
+  },
+  {
+    "key": "I still can’t get this thing off",
+    "trx": "Я все еще не могу снять эту штуку",
+    "val": "I still can’t get this thing off"
+  },
+  {
+    "key": "!”",
+    "trx": "!”",
+    "val": "!”"
+  },
+  {
+    "key": "It’s time I skinned this cat.",
+    "trx": "Пришло время освежевать этого кота.",
+    "val": "It’s time I skinned this cat."
+  },
+  {
+    "key": "I need to get rid of this costume, whatever it takes!",
+    "trx": "Мне нужно избавиться от этого костюма, чего бы это ни стоило!",
+    "val": "I need to get rid of this costume, whatever it takes!"
+  },
+  {
+    "key": "It’s not worth the struggle. Guess this cat’s staying in the bag.",
+    "trx": "Это не стоит такой борьбы. Думаю, этот кот останется в мешке.",
+    "val": "It’s not worth the struggle. Guess this cat’s staying in the bag."
+  },
+  {
+    "key": "I figure I’ll head to the knickknack shop as-is.",
+    "trx": "Я думаю, что отправлюсь в магазин безделушек как есть.",
+    "val": "I figure I’ll head to the knickknack shop as-is."
+  },
+  {
+    "key": "Guess this cat’s staying in the bag",
+    "trx": "Думаю, этот кот останется в мешке",
+    "val": "Guess this cat’s staying in the bag"
+  },
+  {
+    "key": ".",
+    "trx": ".",
+    "val": "."
+  },
+  {
+    "key": "I figure I’ll head to the knickknack shop as-is.",
+    "trx": "Я думаю, что отправлюсь в магазин безделушек как есть.",
+    "val": "I figure I’ll head to the knickknack shop as-is."
+  },
+  {
+    "key": ",\\",
+    "trx": ",\\",
+    "val": ",\\"
+  },
+  {
+    "key": "The sales demo is over, and against all odds, I managed to get paid.",
+    "trx": "Демонстрация продаж закончилась, и, несмотря ни на что, мне удалось получить деньги.",
+    "val": "The sales demo is over, and against all odds, I managed to get paid."
+  },
+  {
+    "key": "Money clutched in one paw, I head to the knickknack shop to finally buy that necklace I can’t stop thinking about.",
+    "trx": "Зажав деньги в одной лапе, я направляюсь в магазин безделушек, чтобы наконец купить то ожерелье, о котором не могу перестать думать.",
+    "val": "Money clutched in one paw, I head to the knickknack shop to finally buy that necklace I can’t stop thinking about."
+  },
+  {
+    "key": "“Hello? Anyone here?” I call out.",
+    "trx": "\"Привет? Здесь есть кто-нибудь?” Я кричу.",
+    "val": "“Hello? Anyone here?” I call out."
+  },
+  {
+    "key": "There’s no reply.",
+    "trx": "Ответа нет.",
+    "val": "There’s no reply."
+  },
+  {
+    "key": "Is the shopkeeper out?",
+    "trx": "Владельца магазина нет дома?",
+    "val": "Is the shopkeeper out?"
+  },
+  {
+    "key": "“Ah, just a moment!” ",
+    "trx": "“Ах, одну минутку!” ",
+    "val": "“Ah, just a moment!” "
+  },
+  {
+    "key": "Panting, the salesclerk comes scurrying into the shop behind me. ",
+    "trx": "Тяжело дыша, продавец вбегает в магазин следом за мной. ",
+    "val": "Panting, the salesclerk comes scurrying into the shop behind me. "
+  },
+  {
+    "key": "“Sorry about that! ",
+    "trx": "“Извините за это! ",
+    "val": "“Sorry about that! "
+  },
+  {
+    "key": "Just had to pop out for a sec. ",
+    "trx": "Просто нужно было выскочить на секунду. ",
+    "val": "Just had to pop out for a sec. "
+  },
+  {
+    "key": "Whew! You would not believe what I just saw!”",
+    "trx": "Фух! Вы не поверите, что я только что видел!”",
+    "val": "Whew! You would not believe what I just saw!”"
+  },
+  {
+    "key": "He leans against a pillar, gasping audibly as he tries to catch his breath.",
+    "trx": "Он прислоняется к колонне, громко задыхаясь, пытаясь отдышаться.",
+    "val": "He leans against a pillar, gasping audibly as he tries to catch his breath."
+  },
+  {
+    "key": "“Ah, you’re here about that necklace?”",
+    "trx": "“Ах, вы здесь из-за этого ожерелья?”",
+    "val": "“Ah, you’re here about that necklace?”"
+  },
+  {
+    "key": "“Do you still have it?”",
+    "trx": "“Он все еще у тебя?”",
+    "val": "“Do you still have it?”"
+  },
+  {
+    "key": "“Of course.”",
+    "trx": "\"конечно.\"",
+    "val": "“Of course.”"
+  },
+  {
+    "key": "“Thank you so much! ",
+    "trx": "“Большое вам спасибо! ",
+    "val": "“Thank you so much! "
+  },
+  {
+    "key": "I have half the money here, and the rest is in my—",
+    "trx": "У меня здесь половина денег, а остальное в моем—",
+    "val": "I have half the money here, and the rest is in my—"
+  },
+  {
+    "key": "oh.”",
+    "trx": "ох.”",
+    "val": "oh.”"
+  },
+  {
+    "key": "I suddenly remember something very important.",
+    "trx": "Я вдруг вспоминаю кое-что очень важное.",
+    "val": "I suddenly remember something very important."
+  },
+  {
+    "key": "“Oh, no!”",
+    "trx": "“О, нет!”",
+    "val": "“Oh, no!”"
+  },
+  {
+    "key": "The salesclerk gives me a curious look. ",
+    "trx": "Продавец бросает на меня любопытный взгляд. ",
+    "val": "The salesclerk gives me a curious look. "
+  },
+  {
+    "key": "“What’s the matter?”",
+    "trx": "“В чем дело?” - спросил я.",
+    "val": "“What’s the matter?”"
+  },
+  {
+    "key": "“My wallet—it’s still in here!” ",
+    "trx": "”Мой бумажник — он все еще здесь!\" ",
+    "val": "“My wallet—it’s still in here!” "
+  },
+  {
+    "key": "I pat the costume around the tummy.",
+    "trx": "Я похлопываю костюм по животу.",
+    "val": "I pat the costume around the tummy."
+  },
+  {
+    "key": "“So why don’t you just take that outfit off?”",
+    "trx": "“Так почему бы тебе просто не снять этот наряд?”",
+    "val": "“So why don’t you just take that outfit off?”"
+  },
+  {
+    "key": "“Well, I mean, ",
+    "trx": "“Ну, я имею в виду, ",
+    "val": "“Well, I mean, "
+  },
+  {
+    "key": "the zipper’s kind of broken.”",
+    "trx": "молния вроде как сломана.”",
+    "val": "the zipper’s kind of broken.”"
+  },
+  {
+    "key": "I wouldn’t be having all this trouble if I could just get out of this darn costume.",
+    "trx": "У меня не было бы всех этих проблем, если бы я мог просто избавиться от этого проклятого костюма.",
+    "val": "I wouldn’t be having all this trouble if I could just get out of this darn costume."
+  },
+  {
+    "key": "“‘Kind of’ broken? ",
+    "trx": "“‘Вроде как\" сломан? ",
+    "val": "“‘Kind of’ broken? "
+  },
+  {
+    "key": "It’s way more broken than that.”",
+    "trx": "Он гораздо более сломан, чем этот.”",
+    "val": "It’s way more broken than that.”"
+  },
+  {
+    "key": "The salesclerk points me to a full-body mirror.",
+    "trx": "Продавец указывает мне на зеркало в полный рост.",
+    "val": "The salesclerk points me to a full-body mirror."
+  },
+  {
+    "key": "He’s right. The zipper in back is hanging open.",
+    "trx": "Он прав. Молния сзади расстегнута.",
+    "val": "He’s right. The zipper in back is hanging open."
+  },
+  {
+    "key": "Taking this thing off will be a cinch, now.",
+    "trx": "Снять эту штуку сейчас будет несложно.",
+    "val": "Taking this thing off will be a cinch, now."
+  },
+  {
+    "key": "“Oh, thank you!”",
+    "trx": "“О, спасибо тебе!”",
+    "val": "“Oh, thank you!”"
+  },
+  {
+    "key": "I give him a bow.",
+    "trx": "Я отвешиваю ему поклон.",
+    "val": "I give him a bow."
+  },
+  {
+    "key": "“I’m not sure you need to be thanking me,” he says.",
+    "trx": "“Я не уверен, что тебе нужно благодарить меня”, - говорит он.",
+    "val": "“I’m not sure you need to be thanking me,” he says."
+  },
+  {
+    "key": "“No, I do! ",
+    "trx": "“Нет, я знаю! ",
+    "val": "“No, I do! "
+  },
+  {
+    "key": "If you hadn’t pointed that out, I might have let myself stay stuck in here forever! ",
+    "trx": "Если бы вы не указали на это, я мог бы позволить себе застрять здесь навсегда! ",
+    "val": "If you hadn’t pointed that out, I might have let myself stay stuck in here forever! "
+  },
+  {
+    "key": "So, really, thank you so much!”",
+    "trx": "Так что, действительно, большое вам спасибо!”",
+    "val": "So, really, thank you so much!”"
+  },
+  {
+    "key": "I bow again and again.",
+    "trx": "Я кланяюсь снова и снова.",
+    "val": "I bow again and again."
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "key": ".....................................",
+    "trx": ".....................................",
+    "val": "....................................."
+  },
+  {
+    "key": ".....................................",
+    "trx": ".....................................",
+    "val": "....................................."
+  },
+  {
+    "key": ".....................................",
+    "trx": ".....................................",
+    "val": "....................................."
+  },
+  {
+    "key": ".....................................",
+    "trx": ".....................................",
+    "val": "....................................."
+  },
+  {
+    "key": "..........you’ll have to forgive me.",
+    "trx": ".........тебе придется простить меня.",
+    "val": "..........you’ll have to forgive me."
+  },
+  {
+    "key": "This is the only way I can keep “them” from watching.",
+    "trx": "Это единственный способ, которым я могу уберечь “их” от наблюдения.",
+    "val": "This is the only way I can keep “them” from watching."
+  },
+  {
+    "key": "“They” are wary of me. It’s not as easy as it used to be to sneak a message into a game. That’s why I’ve used this transmission program to send my message to you. Surely they won’t notice this.",
+    "trx": "“Они” относятся ко мне настороженно. Проникнуть в игру не так просто, как раньше. Вот почему я использовал эту программу передачи, чтобы отправить вам свое сообщение. Конечно, они этого не заметят.",
+    "val": "“They” are wary of me. It’s not as easy as it used to be to sneak a message into a game. That’s why I’ve used this transmission program to send my message to you. Surely they won’t notice this."
+  },
+  {
+    "key": "My name is Koichi Nakamura, Chairman of Spike Chunsoft. I’ve given publicity interviews for our new game, so perhaps you are familiar with my face. But the “Koichi Nakamura” that you have seen is not actually me. He is one of “them”—a skillful impersonator who has taken my place.",
+    "trx": "Меня зовут Коичи Накамура, председатель правления Spike Chunsoft. Я давал рекламные интервью для нашей новой игры, так что, возможно, вам знакомо мое лицо. Но “Коичи Накамура”, которого вы видели, на самом деле не я. Он один из “них” — искусный имитатор, занявший мое место.",
+    "val": "My name is Koichi Nakamura, Chairman of Spike Chunsoft. I’ve given publicity interviews for our new game, so perhaps you are familiar with my face. But the “Koichi Nakamura” that you have seen is not actually me. He is one of “them”—a skillful impersonator who has taken my place."
+  },
+  {
+    "key": "Yet it seems that my captors are fickle masters. My only form of entertainment in this room is the TV, and just the other day, I saw my other self on the screen, and he looked subtly different than the one I’ve seen before. The original “Koichi Nakamura” who replaced me seems to have been nothing more than a disposable pawn to “them” as well.",
+    "trx": "И все же, похоже, что мои похитители - непостоянные хозяева. Мое единственное развлечение в этой комнате - телевизор, и буквально на днях я увидел на экране свое второе \"я\", и он выглядел неуловимо иначе, чем тот, кого я видел раньше. Оригинальный “Коичи Накамура”, который заменил меня, похоже, тоже был не более чем одноразовой пешкой для “них”.",
+    "val": "Yet it seems that my captors are fickle masters. My only form of entertainment in this room is the TV, and just the other day, I saw my other self on the screen, and he looked subtly different than the one I’ve seen before. The original “Koichi Nakamura” who replaced me seems to have been nothing more than a disposable pawn to “them” as well."
+  },
+  {
+    "key": "I’ve been locked up this tiny room for a long time. Telling the world about my captivity seemed impossible, and I had long since given up. But now, a chance has suddenly come my way.",
+    "trx": "Я уже давно заперт в этой крошечной комнатке. Рассказать миру о моем пленении казалось невозможным, и я уже давно сдался. Но теперь мне внезапно представился шанс.",
+    "val": "I’ve been locked up this tiny room for a long time. Telling the world about my captivity seemed impossible, and I had long since given up. But now, a chance has suddenly come my way."
+  },
+  {
+    "key": "The other day, the fake me came to my prison room with a request. He told me to remake my old game, ‘Door Door,’ so that a version could be included in this game. He told me that I had one hour. I tried to tell him that this was impossible, but he wouldn’t listen; he just said “I’ll be back in one hour,” and departed.",
+    "trx": "На днях фальшивый я пришел в мою тюремную комнату с просьбой. Он сказал мне переделать мою старую игру \"Дверь-дверь\", чтобы в эту игру можно было включить версию. Он сказал мне, что у меня есть один час. Я пытался сказать ему, что это невозможно, но он не слушал; он просто сказал: “Я вернусь через час” и ушел.",
+    "val": "The other day, the fake me came to my prison room with a request. He told me to remake my old game, ‘Door Door,’ so that a version could be included in this game. He told me that I had one hour. I tried to tell him that this was impossible, but he wouldn’t listen; he just said “I’ll be back in one hour,” and departed."
+  },
+  {
+    "key": "I’m sure he intended to torture me mercilessly if I didn’t meet my deadline. I had no choice. I had to do it. I dragged a dusty PC from the corner of the room and started coding as hard as I could. A half hour later, I had managed to finish. I gave the code a test-play. I hadn’t managed to reproduce all the fine details, but it worked, so that was good.",
+    "trx": "Я уверен, что он намеревался безжалостно пытать меня, если я не уложусь в срок. У меня не было выбора. Я должен был это сделать. Я вытащил пыльный компьютер из угла комнаты и начал кодировать так усердно, как только мог. Полчаса спустя мне удалось закончить. Я дал коду тестовую игру. Мне не удалось воспроизвести все мелкие детали, но это сработало, так что это было хорошо.",
+    "val": "I’m sure he intended to torture me mercilessly if I didn’t meet my deadline. I had no choice. I had to do it. I dragged a dusty PC from the corner of the room and started coding as hard as I could. A half hour later, I had managed to finish. I gave the code a test-play. I hadn’t managed to reproduce all the fine details, but it worked, so that was good."
+  },
+  {
+    "key": "Still, not having played ‘Door Door’ in so long, I’d forgotten how difficult it could be. I spent about twenty minutes struggling with it, and then I got an idea: I could hide my message in the code of this program. If all I did was hide it, though, “they” were certain to find it. In order to keep them from spotting it, I decided to include this transmission program. This should protect my secret.",
+    "trx": "И все же, так давно не играя в \"Дверь-дверь\", я забыл, насколько это может быть сложно. Я потратил около двадцати минут на борьбу с этим, а потом мне пришла в голову идея: я мог бы скрыть свое сообщение в коде этой программы. Однако, если бы все, что я сделал, это спрятал его, “они” наверняка нашли бы его. Чтобы они этого не заметили, я решил включить эту программу передачи. Это должно защитить мою тайну.",
+    "val": "Still, not having played ‘Door Door’ in so long, I’d forgotten how difficult it could be. I spent about twenty minutes struggling with it, and then I got an idea: I could hide my message in the code of this program. If all I did was hide it, though, “they” were certain to find it. In order to keep them from spotting it, I decided to include this transmission program. This should protect my secret."
+  },
+  {
+    "key": "Just now, I received a signal from your gaming device. I am writing this message in reply. Quite frankly, I didn’t expect to succeed. But I did! My fingertips are trembling with anticipation!",
+    "trx": "Только что я получил сигнал от вашего игрового устройства. Я пишу это сообщение в ответ. Откровенно говоря, я не ожидал, что добьюсь успеха. Но я сделал это! Кончики моих пальцев дрожат от предвкушения!",
+    "val": "Just now, I received a signal from your gaming device. I am writing this message in reply. Quite frankly, I didn’t expect to succeed. But I did! My fingertips are trembling with anticipation!"
+  },
+  {
+    "key": "These transmissions are my only means of contacting the outside world. I’m begging you—please, if you can, keep this game close at hand at all times. And every so often, boot the game up and check to make sure my messages are still live. A day will come when I am able to reveal “their” plan, but until that day comes, please, don’t let this game out of your possession. You have my deepest thanks for playing. —Koichi Nakamura",
+    "trx": "Эти передачи - мое единственное средство связи с внешним миром. Я умоляю вас — пожалуйста, если можете, всегда держите эту игру под рукой. И время от времени загружайте игру и проверяйте, все ли мои сообщения в актуальном состоянии. Настанет день, когда я смогу раскрыть “их” план, но до тех пор, пока этот день не наступит, пожалуйста, не выпускайте эту игру из своего владения. Примите мою глубочайшую благодарность за игру. — Коичи Накамура",
+    "val": "These transmissions are my only means of contacting the outside world. I’m begging you—please, if you can, keep this game close at hand at all times. And every so often, boot the game up and check to make sure my messages are still live. A day will come when I am able to reveal “their” plan, but until that day comes, please, don’t let this game out of your possession. You have my deepest thanks for playing. —Koichi Nakamura"
+  },
+  {
+    "key": "I have slipped out of the room where “they” keep me and am currently typing on the keyboard at a programmer’s desk. I think he’ll be back soon, so I need to be brief. This may sound like it’s all nonsense, but please, bear with me.",
+    "trx": "Я выскользнул из комнаты, где “они” держат меня, и в настоящее время печатаю на клавиатуре за столом программиста. Я думаю, он скоро вернется, так что мне нужно быть кратким. Может показаться, что все это чепуха, но, пожалуйста, потерпите меня.",
+    "val": "I have slipped out of the room where “they” keep me and am currently typing on the keyboard at a programmer’s desk. I think he’ll be back soon, so I need to be brief. This may sound like it’s all nonsense, but please, bear with me."
+  },
+  {
+    "key": "I believe that “he” has included a message in this game, passing it off as the truth. A message in which he claims to be the victim.",
+    "trx": "Я верю, что “он” включил сообщение в эту игру, выдавая его за правду. Сообщение, в котором он утверждает, что является жертвой.",
+    "val": "I believe that “he” has included a message in this game, passing it off as the truth. A message in which he claims to be the victim."
+  },
+  {
+    "key": "This message can only be viewed after you’ve played the game over and over. Upon reading it and feeling the sense of accomplishment that comes with it, you may be inclined to simply believe what it says.",
+    "trx": "Это сообщение можно просмотреть только после того, как вы сыграете в игру снова и снова. Прочитав его и почувствовав чувство выполненного долга, которое приходит вместе с ним, вы можете быть склонны просто поверить в то, что в нем говорится.",
+    "val": "This message can only be viewed after you’ve played the game over and over. Upon reading it and feeling the sense of accomplishment that comes with it, you may be inclined to simply believe what it says."
+  },
+  {
+    "key": "But it is all lies. It is a cunning trap set by Koichi Nakamura to deceive you. ",
+    "trx": "Но все это ложь. Это хитрая ловушка, расставленная Коичи Накамурой, чтобы обмануть вас. ",
+    "val": "But it is all lies. It is a cunning trap set by Koichi Nakamura to deceive you. "
+  },
+  {
+    "key": "Do not be fooled",
+    "trx": "Не позволяйте себя одурачить",
+    "val": "Do not be fooled"
+  },
+  {
+    "key": ".",
+    "trx": ".",
+    "val": "."
+  },
+  {
+    "key": "I got wind of his plan a long while back. It was summer, several years ago. He had hidden a message in a game he’d developed back at the time. Later, while out drinking with a friend who plays games, the subject of this secret message came up. My friend had played the game, and had seen the message; but he said there was no phone number included.",
+    "trx": "Я узнал о его плане давным-давно. Это было летом, несколько лет назад. Он спрятал сообщение в игре, которую разработал в то время. Позже, когда мы выпивали с другом, который играет в игры, всплыла тема этого секретного послания. Мой друг играл в эту игру и видел сообщение; но он сказал, что в нем не было номера телефона.",
+    "val": "I got wind of his plan a long while back. It was summer, several years ago. He had hidden a message in a game he’d developed back at the time. Later, while out drinking with a friend who plays games, the subject of this secret message came up. My friend had played the game, and had seen the message; but he said there was no phone number included."
+  },
+  {
+    "key": "The message I saw, however, definitely included a phone number. I thought it was strange, but I was curious enough to give it a call. A man answered. He spoke in a low, hushed voice.",
+    "trx": "Однако в сообщении, которое я видел, определенно был указан номер телефона. Мне это показалось странным, но мне было достаточно любопытно, чтобы позвонить. Ответил мужчина. Он говорил тихим, приглушенным голосом.",
+    "val": "The message I saw, however, definitely included a phone number. I thought it was strange, but I was curious enough to give it a call. A man answered. He spoke in a low, hushed voice."
+  },
+  {
+    "key": "“Mr. Kitajima,” he said, “could you please come here right away?” he asked.",
+    "trx": "“Мистер Китадзима, - сказал он, - не могли бы вы, пожалуйста, приехать сюда прямо сейчас?” он спросил.",
+    "val": "“Mr. Kitajima,” he said, “could you please come here right away?” he asked."
+  },
+  {
+    "key": "I headed for the designated location, which was in the Shibuya ward of Tokyo. Then, as I stood alone in the darkness of a side street, I was grabbed from behind, blindfolded, and abducted. I was struck on the back of the head with a blunt instrument, and immediately lost consciousness.",
+    "trx": "Я направился в назначенное место, которое находилось в токийском районе Сибуя. Затем, когда я стоял один в темноте боковой улицы, меня схватили сзади, завязали глаза и похитили. Меня ударили по затылку тупым предметом, и я сразу же потерял сознание.",
+    "val": "I headed for the designated location, which was in the Shibuya ward of Tokyo. Then, as I stood alone in the darkness of a side street, I was grabbed from behind, blindfolded, and abducted. I was struck on the back of the head with a blunt instrument, and immediately lost consciousness."
+  },
+  {
+    "key": "When I woke up, I was in a tiny room with no windows. Two other people were there.",
+    "trx": "Когда я проснулся, я был в крошечной комнате без окон. Там были еще два человека.",
+    "val": "When I woke up, I was in a tiny room with no windows. Two other people were there."
+  },
+  {
+    "key": "Takemaru Abiko and Kinoko Nasu, writers for the game.",
+    "trx": "Такемару Абико и Киноко Насу, сценаристы игры.",
+    "val": "Takemaru Abiko and Kinoko Nasu, writers for the game."
+  },
+  {
+    "key": "They had both been kidnapped the same way, locked up, and forced to write game scenarios. Nasu had been brought in relatively recently, but it sounded like Abiko had been locked in there for over a decade. (Right now, the people operating as myself, Abiko, and Nasu are not the real us, but fakes employed by Nakamura.)",
+    "trx": "Их обоих похитили одним и тем же способом, заперли и заставили писать игровые сценарии. Насу привезли сравнительно недавно, но, похоже, Абико была заперта там больше десяти лет. (Прямо сейчас люди, действующие как я, Абико и Насу, - это не настоящие мы, а подделки, нанятые Накамурой.)",
+    "val": "They had both been kidnapped the same way, locked up, and forced to write game scenarios. Nasu had been brought in relatively recently, but it sounded like Abiko had been locked in there for over a decade. (Right now, the people operating as myself, Abiko, and Nasu are not the real us, but fakes employed by Nakamura.)"
+  },
+  {
+    "key": "The details of my imprisonment naturally began to slip into my writing.",
+    "trx": "Подробности моего заключения, естественно, начали проскальзывать в мои записи.",
+    "val": "The details of my imprisonment naturally began to slip into my writing."
+  },
+  {
+    "key": "I’ll cut to the chase here.",
+    "trx": "Я сразу перейду к делу.",
+    "val": "I’ll cut to the chase here."
+  },
+  {
+    "key": "It was late at night, and I had come close to finishing up writing the scenario for this game.",
+    "trx": "Была поздняя ночь, и я был близок к тому, чтобы закончить писать сценарий для этой игры.",
+    "val": "It was late at night, and I had come close to finishing up writing the scenario for this game."
+  },
+  {
+    "key": "I could hear voices coming from the room next to mine.",
+    "trx": "Я слышал голоса, доносившиеся из соседней комнаты.",
+    "val": "I could hear voices coming from the room next to mine."
+  },
+  {
+    "key": "The voices of Nakamura and his underlings.",
+    "trx": "Голоса Накамуры и его подчиненных.",
+    "val": "The voices of Nakamura and his underlings."
+  },
+  {
+    "key": "I couldn’t believe what I heard. They said they had programmed the game to emit some kind of electromagnetic waves? (I couldn’t really hear that well) from the game’s screen, which would let them know who had purchased it.",
+    "trx": "Я не мог поверить в то, что услышал. Они сказали, что запрограммировали игру на излучение каких-то электромагнитных волн? (Я не очень хорошо это расслышал) с экрана игры, что позволило бы им узнать, кто ее купил.",
+    "val": "I couldn’t believe what I heard. They said they had programmed the game to emit some kind of electromagnetic waves? (I couldn’t really hear that well) from the game’s screen, which would let them know who had purchased it."
+  },
+  {
+    "key": "If the game console connected to the Internet, things got even more sinister.",
+    "trx": "Если игровая консоль подключалась к Интернету, все становилось еще более зловещим.",
+    "val": "If the game console connected to the Internet, things got even more sinister."
+  },
+  {
+    "key": "It would send a signal to them online, giving them the user’s name and address.",
+    "trx": "Он отправит им сигнал в режиме онлайн, сообщив имя и адрес пользователя.",
+    "val": "It would send a signal to them online, giving them the user’s name and address."
+  },
+  {
+    "key": "I couldn’t make out all the finer details, but their conversation was peppered with words like “abduction,” “brainwashing,” and “submission,” so it’s clear they had some kind of nefarious plan in the works.",
+    "trx": "Я не мог разобрать всех мельчайших деталей, но их разговор был усеян такими словами, как “похищение”, “промывание мозгов” и “подчинение”, так что ясно, что у них был какой-то гнусный план в разработке.",
+    "val": "I couldn’t make out all the finer details, but their conversation was peppered with words like “abduction,” “brainwashing,” and “submission,” so it’s clear they had some kind of nefarious plan in the works."
+  },
+  {
+    "key": "That’s why I decided to leave this message here—to warn you that you’re at risk, and the danger is getting ever nearer.",
+    "trx": "Вот почему я решил оставить это сообщение здесь — чтобы предупредить вас, что вы в опасности, и опасность становится все ближе.",
+    "val": "That’s why I decided to leave this message here—to warn you that you’re at risk, and the danger is getting ever nearer."
+  },
+  {
+    "key": "It wasn’t easy including this message in a way that “they” won’t find. If they do discover it, they will surely kill me. By the time you read this, I may already have left the world of the living. But when I think of you, an innocent gaming enthusiast just looking to play a great game, I cannot stand idly by and do nothing.",
+    "trx": "Было нелегко включить это сообщение таким образом, чтобы “они” его не нашли. Если они это обнаружат, то наверняка убьют меня. К тому времени, когда вы это прочтете, я, возможно, уже покинул мир живых. Но когда я думаю о вас, невинном любителе игр, который просто хочет поиграть в отличную игру, я не могу стоять сложа руки и ничего не делать.",
+    "val": "It wasn’t easy including this message in a way that “they” won’t find. If they do discover it, they will surely kill me. By the time you read this, I may already have left the world of the living. But when I think of you, an innocent gaming enthusiast just looking to play a great game, I cannot stand idly by and do nothing."
+  },
+  {
+    "key": "If it’s been a month or more since you purchased this game, then “they” almost certainly know who you are. It’s only a matter of time before “they” show up at your home. Maybe it’s already too late. “They” might already be right there, keeping an eye on you as they wait for the right moment to strike.",
+    "trx": "Если с тех пор, как вы купили эту игру, прошел месяц или больше, то “они” почти наверняка знают, кто вы такой. Это только вопрос времени, когда “они” появятся в вашем доме. Может быть, уже слишком поздно. “Они”, возможно, уже там, следят за вами, ожидая подходящего момента для удара.",
+    "val": "If it’s been a month or more since you purchased this game, then “they” almost certainly know who you are. It’s only a matter of time before “they” show up at your home. Maybe it’s already too late. “They” might already be right there, keeping an eye on you as they wait for the right moment to strike."
+  },
+  {
+    "key": "Has anyone moved into your neighborhood lately? Did the clerk at the nearby convenience store get replaced by someone else? If you live with parents or siblings, take a good, close look at their faces. It’s not inconceivable that they’ve been swapped out with convincing fakes.",
+    "trx": "Кто-нибудь переезжал в ваш район в последнее время? Неужели продавца в соседнем круглосуточном магазине заменил кто-то другой? Если вы живете с родителями или братьями и сестрами, внимательно посмотрите на их лица. Не исключено, что их заменили убедительными подделками.",
+    "val": "Has anyone moved into your neighborhood lately? Did the clerk at the nearby convenience store get replaced by someone else? If you live with parents or siblings, take a good, close look at their faces. It’s not inconceivable that they’ve been swapped out with convincing fakes."
+  },
+  {
+    "key": "You don’t feel like there’s someone watching over your shoulder right now...do you?",
+    "trx": "Ты ведь не чувствуешь, что кто-то смотрит тебе через плечо, верно now...do ты?",
+    "val": "You don’t feel like there’s someone watching over your shoulder right now...do you?"
+  },
+  {
+    "key": "Wait! If you ",
+    "trx": "Подожди! Если ты ",
+    "val": "Wait! If you "
+  },
+  {
+    "key": "do",
+    "trx": "делать",
+    "val": "do"
+  },
+  {
+    "key": " sense a watcher, don’t just turn around. If you do, “they” will notice, and you’ll become their prey on the spot.",
+    "trx": " почувствуй наблюдателя, не оборачивайся просто так. Если вы это сделаете, “они” заметят, и вы тут же станете их добычей.",
+    "val": " sense a watcher, don’t just turn around. If you do, “they” will notice, and you’ll become their prey on the spot."
+  },
+  {
+    "key": "Just act like you’re enjoying the game and haven’t noticed anything unusual.",
+    "trx": "Просто ведите себя так, как будто вы наслаждаетесь игрой и не заметили ничего необычного.",
+    "val": "Just act like you’re enjoying the game and haven’t noticed anything unusual."
+  },
+  {
+    "key": "Maybe you don’t believe me, but this is all true.",
+    "trx": "Может быть, вы мне не верите, но все это правда.",
+    "val": "Maybe you don’t believe me, but this is all true."
+  },
+  {
+    "key": "The conspiracy is getting bigger. It’s spread throughout Japan, throughout the rest of the world. Now it’s on your very doorstep.",
+    "trx": "Заговор становится все больше. Она распространилась по всей Японии, по всему остальному миру. Теперь он у самого вашего порога.",
+    "val": "The conspiracy is getting bigger. It’s spread throughout Japan, throughout the rest of the world. Now it’s on your very doorstep."
+  },
+  {
+    "key": "This is not the first time I’ve included a message like this in a game.",
+    "trx": "Это не первый раз, когда я включаю подобное сообщение в игру.",
+    "val": "This is not the first time I’ve included a message like this in a game."
+  },
+  {
+    "key": "The last time I did so, several brave people took action. Perhaps that’s the reason why Koichi Nakamura grows more restless every day.",
+    "trx": "В последний раз, когда я сделал это, несколько отважных людей приняли меры. Возможно, именно по этой причине Коичи Накамура с каждым днем становится все более беспокойным.",
+    "val": "The last time I did so, several brave people took action. Perhaps that’s the reason why Koichi Nakamura grows more restless every day."
+  },
+  {
+    "key": "Just a little more. We need just a little more patience. At long last, we have a chance to stop “their” secret plan.",
+    "trx": "Еще немного. Нам нужно еще немного терпения. Наконец-то у нас есть шанс остановить “их” секретный план.",
+    "val": "Just a little more. We need just a little more patience. At long last, we have a chance to stop “their” secret plan."
+  },
+  {
+    "key": "Try to hold out if you can.",
+    "trx": "Постарайся продержаться, если сможешь.",
+    "val": "Try to hold out if you can."
+  },
+  {
+    "key": "Don’t get caught up in their conspiracy. Don’t be deceived by their schemes.",
+    "trx": "Не впутывайся в их заговор. Не обманывайтесь их планами.",
+    "val": "Don’t get caught up in their conspiracy. Don’t be deceived by their schemes."
+  },
+  {
+    "key": "The day of our victory approaches.",
+    "trx": "Приближается день нашей победы.",
+    "val": "The day of our victory approaches."
+  }
+]

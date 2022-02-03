@@ -1,0 +1,827 @@
+[
+  {
+    "key": "“It’s the virus.”",
+    "trx": "“Это вирус”.",
+    "val": "“It’s the virus.”"
+  },
+  {
+    "key": "Osawa",
+    "trx": "Осава",
+    "val": "Osawa"
+  },
+  {
+    "key": " remained silent.",
+    "trx": " хранил молчание.",
+    "val": " remained silent."
+  },
+  {
+    "key": "“Mr. Osawa? ",
+    "trx": "“Мистер Осава? ",
+    "val": "“Mr. Osawa? "
+  },
+  {
+    "key": "Is everything all right?”",
+    "trx": "Все в порядке?”",
+    "val": "Is everything all right?”"
+  },
+  {
+    "key": "The line went dead.",
+    "trx": "Линия оборвалась.",
+    "val": "The line went dead."
+  },
+  {
+    "key": "“Technically, that’s incorrect,” Stanley muttered. ",
+    "trx": "“Технически, это неверно\", - пробормотал Стэнли. ",
+    "val": "“Technically, that’s incorrect,” Stanley muttered. "
+  },
+  {
+    "key": "“It’s not the virus they’re after; it’s his daughter Hitomi, who’s carrying the antiviral.”",
+    "trx": "“Они охотятся не за вирусом, а за его дочерью Хитоми, у которой есть противовирусное средство”.",
+    "val": "“It’s not the virus they’re after; it’s his daughter Hitomi, who’s carrying the antiviral.”"
+  },
+  {
+    "key": "“It’s you.”",
+    "trx": "“Это ты”.",
+    "val": "“It’s you.”"
+  },
+  {
+    "key": "Osawa",
+    "trx": "Осава",
+    "val": "Osawa"
+  },
+  {
+    "key": " remained silent.",
+    "trx": " хранил молчание.",
+    "val": " remained silent."
+  },
+  {
+    "key": "“Mr. Osawa? ",
+    "trx": "“Мистер Осава? ",
+    "val": "“Mr. Osawa? "
+  },
+  {
+    "key": "Is everything all right?”",
+    "trx": "Все в порядке?”",
+    "val": "Is everything all right?”"
+  },
+  {
+    "key": "The line went dead.",
+    "trx": "Линия оборвалась.",
+    "val": "The line went dead."
+  },
+  {
+    "key": "“Kano,” Stanley chided, “I would have put it more like this: ",
+    "trx": "“Кано, - упрекнул его Стэнли, - я бы выразился так: ",
+    "val": "“Kano,” Stanley chided, “I would have put it more like this: "
+  },
+  {
+    "key": "They’re after Hitomi because she has the antiviral.’”",
+    "trx": "Они охотятся за Хитоми, потому что у нее есть противовирусное средство”.\"",
+    "val": "They’re after Hitomi because she has the antiviral.’”"
+  },
+  {
+    "key": "“Yeah, I know that. ",
+    "trx": "“Да, я знаю это. ",
+    "val": "“Yeah, I know that. "
+  },
+  {
+    "key": "But if they’re after the antiviral, that makes the person who created it a potential target as well. ",
+    "trx": "Но если они охотятся за противовирусным препаратом, это также делает человека, создавшего его, потенциальной мишенью. ",
+    "val": "But if they’re after the antiviral, that makes the person who created it a potential target as well. "
+  },
+  {
+    "key": "Right?”",
+    "trx": "Верно?”",
+    "val": "Right?”"
+  },
+  {
+    "key": "“Ah, indeed. ",
+    "trx": "“Ах, действительно. ",
+    "val": "“Ah, indeed. "
+  },
+  {
+    "key": "Looks like you ",
+    "trx": "Похож на тебя ",
+    "val": "Looks like you "
+  },
+  {
+    "key": "do",
+    "trx": "делать",
+    "val": "do"
+  },
+  {
+    "key": " have some brains after all.” ",
+    "trx": " в конце концов, у тебя есть немного мозгов.” ",
+    "val": " have some brains after all.” "
+  },
+  {
+    "key": "Stanley flashed Kano a thin smile.",
+    "trx": "Стэнли одарил Кано тонкой улыбкой.",
+    "val": "Stanley flashed Kano a thin smile."
+  },
+  {
+    "key": "At some point, he’d ditched his anime-nerd costume for a cat mascot suit.",
+    "trx": "В какой-то момент он сменил свой костюм аниме-ботаника на костюм кота-талисмана.",
+    "val": "At some point, he’d ditched his anime-nerd costume for a cat mascot suit."
+  },
+  {
+    "key": "“Oh, no,” Kano muttered. ",
+    "trx": "”О, нет\", - пробормотал Кано. ",
+    "val": "“Oh, no,” Kano muttered. "
+  },
+  {
+    "key": "“That getup’s going to make Sasayama stand out like a sore thumb!”",
+    "trx": "“Этот наряд заставит Сасаяму выделяться, как больной палец!”",
+    "val": "“That getup’s going to make Sasayama stand out like a sore thumb!”"
+  },
+  {
+    "key": "“Shoot! The mutt spotted me! ",
+    "trx": "“Стреляй! Дворняжка заметила меня! ",
+    "val": "“Shoot! The mutt spotted me! "
+  },
+  {
+    "key": "I’m going in pursuit!”",
+    "trx": "Я отправляюсь в погоню!”",
+    "val": "I’m going in pursuit!”"
+  },
+  {
+    "key": "Sasayama slipped out of the camera’s view.",
+    "trx": "Сасаяма выскользнул из поля зрения камеры.",
+    "val": "Sasayama slipped out of the camera’s view."
+  },
+  {
+    "key": "“Whoa! ",
+    "trx": "“Ух ты! ",
+    "val": "“Whoa! "
+  },
+  {
+    "key": "What gives? Let go of me!”",
+    "trx": "Что дает? Отпусти меня!”",
+    "val": "What gives? Let go of me!”"
+  },
+  {
+    "key": "“You’re Mr. Yanagishita, right? ",
+    "trx": "“Вы мистер Янагишита, верно? ",
+    "val": "“You’re Mr. Yanagishita, right? "
+  },
+  {
+    "key": "Look, I’m sorry, but I really do need you to return that costume!”",
+    "trx": "Слушай, извини, но мне действительно нужно, чтобы ты вернул этот костюм!”",
+    "val": "Look, I’m sorry, but I really do need you to return that costume!”"
+  },
+  {
+    "key": "The voices came in over the wireless; it sounded like Sasayama was caught up in an argument with someone.",
+    "trx": "По радио доносились голоса; похоже, Сасаяма с кем-то спорил.",
+    "val": "The voices came in over the wireless; it sounded like Sasayama was caught up in an argument with someone."
+  },
+  {
+    "key": "“Sasayama!” Kano shouted as he eyed the monitor.",
+    "trx": "“Сасаяма!” - крикнул Кано, глядя на монитор.",
+    "val": "“Sasayama!” Kano shouted as he eyed the monitor."
+  },
+  {
+    "key": "“Kano, I need some help, here! ",
+    "trx": "“Кано, мне нужна помощь, сюда! ",
+    "val": "“Kano, I need some help, here! "
+  },
+  {
+    "key": "Requesting emergency backu—”",
+    "trx": "Запрашиваю экстренную поддержку—”",
+    "val": "Requesting emergency backu—”"
+  },
+  {
+    "key": "The line went dead before Sasayama could finish.",
+    "trx": "Линия оборвалась прежде, чем Сасаяма успел закончить.",
+    "val": "The line went dead before Sasayama could finish."
+  },
+  {
+    "key": "Kano didn’t have the faintest idea what was going on, but obviously his partner needed him.",
+    "trx": "Кано не имел ни малейшего представления о том, что происходит, но, очевидно, его партнер нуждался в нем.",
+    "val": "Kano didn’t have the faintest idea what was going on, but obviously his partner needed him."
+  },
+  {
+    "key": "He rushed out of the precinct.",
+    "trx": "Он выбежал из участка.",
+    "val": "He rushed out of the precinct."
+  },
+  {
+    "key": "When he arrived on the scene, he saw Sasayama, still in the cat suit, caught up in a scuffle with a man he’d never seen before.",
+    "trx": "Когда он прибыл на место происшествия, то увидел Сасаяму, все еще в костюме кошки, втянутого в драку с человеком, которого он никогда раньше не видел.",
+    "val": "When he arrived on the scene, he saw Sasayama, still in the cat suit, caught up in a scuffle with a man he’d never seen before."
+  },
+  {
+    "key": "There was no sign of al-Karawan.",
+    "trx": "Аль-Каравана нигде не было видно.",
+    "val": "There was no sign of al-Karawan."
+  },
+  {
+    "key": "“Sasayama, what’s going on?”",
+    "trx": "“Сасаяма, что происходит?”",
+    "val": "“Sasayama, what’s going on?”"
+  },
+  {
+    "key": "“That’s an excellent question,” Sasayama replied. ",
+    "trx": "“Это отличный вопрос\", ” ответил Сасаяма. ",
+    "val": "“That’s an excellent question,” Sasayama replied. "
+  },
+  {
+    "key": "“This guy just came at me out of nowhere.”",
+    "trx": "“Этот парень просто набросился на меня из ниоткуда”.",
+    "val": "“This guy just came at me out of nowhere.”"
+  },
+  {
+    "key": "He sounded pretty riled up.",
+    "trx": "Он казался довольно раздраженным.",
+    "val": "He sounded pretty riled up."
+  },
+  {
+    "key": "“Sir, I need you to return this costume! ",
+    "trx": "“Сэр, мне нужно, чтобы вы вернули этот костюм! ",
+    "val": "“Sir, I need you to return this costume! "
+  },
+  {
+    "key": "My boss was very insistent on that point!” ",
+    "trx": "Мой босс был очень настойчив в этом вопросе!” ",
+    "val": "My boss was very insistent on that point!” "
+  },
+  {
+    "key": "The man was panting with exertion, shouting in Sasayama’s face.",
+    "trx": "Мужчина задыхался от напряжения, крича в лицо Сасаяме.",
+    "val": "The man was panting with exertion, shouting in Sasayama’s face."
+  },
+  {
+    "key": "Was he the owner of the suit?",
+    "trx": "Был ли он владельцем костюма?",
+    "val": "Was he the owner of the suit?"
+  },
+  {
+    "key": "“What’s the deal with that thing, Sasayama?” Kano asked.",
+    "trx": "“Что случилось с этой штукой, Сасаяма?” - спросил Кано.",
+    "val": "“What’s the deal with that thing, Sasayama?” Kano asked."
+  },
+  {
+    "key": "“I bought it at a variety store on Center Gai. ",
+    "trx": "“Я купил его в универсаме на Сентер-Гай. ",
+    "val": "“I bought it at a variety store on Center Gai. "
+  },
+  {
+    "key": "Figured it’d be a perfect disguise. ",
+    "trx": "Решил, что это будет идеальная маскировка. ",
+    "val": "Figured it’d be a perfect disguise. "
+  },
+  {
+    "key": "I didn’t steal anything!”",
+    "trx": "Я ничего не крал!”",
+    "val": "I didn’t steal anything!”"
+  },
+  {
+    "key": "“Sir, I’m telling you, you need to give that back!”",
+    "trx": "“Сэр, я говорю вам, вы должны вернуть это!”",
+    "val": "“Sir, I’m telling you, you need to give that back!”"
+  },
+  {
+    "key": "“And I’m telling you I’ve got no idea what you’re on about!” ",
+    "trx": "“А я говорю тебе, что понятия не имею, о чем ты говоришь!” ",
+    "val": "“And I’m telling you I’ve got no idea what you’re on about!” "
+  },
+  {
+    "key": "Sasayama stamped his foot.",
+    "trx": "Сасаяма топнул ногой.",
+    "val": "Sasayama stamped his foot."
+  },
+  {
+    "key": "“I realize that you’re not Mr. Yanagishita. ",
+    "trx": "“Я понимаю, что вы не мистер Янагишита. ",
+    "val": "“I realize that you’re not Mr. Yanagishita. "
+  },
+  {
+    "key": "That isn’t the issue. ",
+    "trx": "Проблема не в этом. ",
+    "val": "That isn’t the issue. "
+  },
+  {
+    "key": "I just need you to return that costume!”",
+    "trx": "Мне просто нужно, чтобы ты вернул этот костюм!”",
+    "val": "I just need you to return that costume!”"
+  },
+  {
+    "key": "“All right, sure, I’ll give it to you! ",
+    "trx": "“Хорошо, конечно, я отдам его тебе! ",
+    "val": "“All right, sure, I’ll give it to you! "
+  },
+  {
+    "key": "I just need it a little longer, so let go of me!”",
+    "trx": "Мне просто нужно это еще немного, так что отпусти меня!”",
+    "val": "I just need it a little longer, so let go of me!”"
+  },
+  {
+    "key": "“I can’t do that, sir! ",
+    "trx": "“Я не могу этого сделать, сэр! ",
+    "val": "“I can’t do that, sir! "
+  },
+  {
+    "key": "I need you to get out of that suit right now!”",
+    "trx": "Мне нужно, чтобы ты снял этот костюм прямо сейчас!”",
+    "val": "I need you to get out of that suit right now!”"
+  },
+  {
+    "key": "“Yeah, I get that, buddy, but no can do! ",
+    "trx": "“Да, я понимаю это, приятель, но ничего не поделаешь! ",
+    "val": "“Yeah, I get that, buddy, but no can do! "
+  },
+  {
+    "key": "It’s like I told you before: ",
+    "trx": "Все так, как я тебе уже говорил: ",
+    "val": "It’s like I told you before: "
+  },
+  {
+    "key": "the zipper on this thing’s snagged!”",
+    "trx": "молния на этой штуке зацепилась!”",
+    "val": "the zipper on this thing’s snagged!”"
+  },
+  {
+    "key": "Kano watched as the argument descended further and further into absurdity.",
+    "trx": "Кано наблюдал, как спор все больше и больше скатывался к абсурду.",
+    "val": "Kano watched as the argument descended further and further into absurdity."
+  },
+  {
+    "key": "Meanwhile, al-Karawan was getting away.",
+    "trx": "Тем временем аль-Караван уходил.",
+    "val": "Meanwhile, al-Karawan was getting away."
+  },
+  {
+    "key": "This was ridiculous. He turned to go in pursuit of the suspect.",
+    "trx": "Это было нелепо. Он повернулся, чтобы отправиться в погоню за подозреваемым.",
+    "val": "This was ridiculous. He turned to go in pursuit of the suspect."
+  },
+  {
+    "key": "“Kano, wait!” Sasayama called out.",
+    "trx": "“Кано, подожди!” - крикнул Сасаяма.",
+    "val": "“Kano, wait!” Sasayama called out."
+  },
+  {
+    "key": "“C’mon, ",
+    "trx": "“Давай, ",
+    "val": "“C’mon, "
+  },
+  {
+    "key": "help me out, man.”",
+    "trx": "помоги мне выбраться, чувак.”",
+    "val": "help me out, man.”"
+  },
+  {
+    "key": "“Huh?”",
+    "trx": "\"Хм?\"",
+    "val": "“Huh?”"
+  },
+  {
+    "key": "“Help me get this thing off.”",
+    "trx": "“Помоги мне снять эту штуку”.",
+    "val": "“Help me get this thing off.”"
+  },
+  {
+    "key": "“Now really isn’t the time for this,” Kano replied. ",
+    "trx": "“Сейчас действительно не время для этого”, - ответил Кано. ",
+    "val": "“Now really isn’t the time for this,” Kano replied. "
+  },
+  {
+    "key": "“I’m going after the suspect.”",
+    "trx": "“Я иду за подозреваемым\".",
+    "val": "“I’m going after the suspect.”"
+  },
+  {
+    "key": "“Oh, I get it. You’re gonna ditch me here so you can take all the credit for yourself.”",
+    "trx": "“О, я понимаю. Ты собираешься бросить меня здесь, чтобы присвоить всю славу себе\".",
+    "val": "“Oh, I get it. You’re gonna ditch me here so you can take all the credit for yourself.”"
+  },
+  {
+    "key": "“Whoa, what?”",
+    "trx": "“Вау, что?”",
+    "val": "“Whoa, what?”"
+  },
+  {
+    "key": "“I was ",
+    "trx": "“Я был ",
+    "val": "“I was "
+  },
+  {
+    "key": "this",
+    "trx": "этот",
+    "val": "this"
+  },
+  {
+    "key": " close to nabbing the guy! ",
+    "trx": " близок к тому, чтобы схватить этого парня! ",
+    "val": " close to nabbing the guy! "
+  },
+  {
+    "key": "That arrest is ",
+    "trx": "Этот арест является ",
+    "val": "That arrest is "
+  },
+  {
+    "key": "mine",
+    "trx": "мой",
+    "val": "mine"
+  },
+  {
+    "key": " to make! ",
+    "trx": " чтобы сделать! ",
+    "val": " to make! "
+  },
+  {
+    "key": "And you know it!”",
+    "trx": "И ты это знаешь!”",
+    "val": "And you know it!”"
+  },
+  {
+    "key": "It wasn’t as though Kano couldn’t empathize.",
+    "trx": "Не то чтобы Кано не мог сопереживать.",
+    "val": "It wasn’t as though Kano couldn’t empathize."
+  },
+  {
+    "key": "If Sasayama hadn’t been blindsided by this random stranger, he probably would have caught al-Karawan just fine.",
+    "trx": "Если бы Сасаяма не был застигнут врасплох этим случайным незнакомцем, он, вероятно, прекрасно поймал бы аль-Каравана.",
+    "val": "If Sasayama hadn’t been blindsided by this random stranger, he probably would have caught al-Karawan just fine."
+  },
+  {
+    "key": "“All right, then,” Kano said.",
+    "trx": "“Тогда ладно\", ” сказал Кано.",
+    "val": "“All right, then,” Kano said."
+  },
+  {
+    "key": "He reached for the zipper at the back of the cat suit.",
+    "trx": "Он потянулся к молнии на спине кошачьего костюма.",
+    "val": "He reached for the zipper at the back of the cat suit."
+  },
+  {
+    "key": "But as Sasayama had said, the metal fittings were snagged, and refused to budge.",
+    "trx": "Но, как и сказал Сасаяма, металлическая арматура была зацеплена и отказывалась сдвинуться с места.",
+    "val": "But as Sasayama had said, the metal fittings were snagged, and refused to budge."
+  },
+  {
+    "key": "“Hurry up!”",
+    "trx": "“Поторопись!”",
+    "val": "“Hurry up!”"
+  },
+  {
+    "key": "“I’m trying.”",
+    "trx": "“Я пытаюсь”.",
+    "val": "“I’m trying.”"
+  },
+  {
+    "key": "There wasn’t time to do this slowly and carefully. Kano yanked down on the zipper hard.",
+    "trx": "Не было времени делать это медленно и осторожно. Кано резко дернул вниз молнию.",
+    "val": "There wasn’t time to do this slowly and carefully. Kano yanked down on the zipper hard."
+  },
+  {
+    "key": "“Stop!” the stranger shrieked in alarm. ",
+    "trx": "“Стой!\" - испуганно взвизгнул незнакомец. ",
+    "val": "“Stop!” the stranger shrieked in alarm. "
+  },
+  {
+    "key": "“Don’t be so rough like that!”",
+    "trx": "“Не будь таким грубым!”",
+    "val": "“Don’t be so rough like that!”"
+  },
+  {
+    "key": "“But if I don’t, I’ll never—”",
+    "trx": "\"Но если я этого не сделаю, я никогда...”",
+    "val": "“But if I don’t, I’ll never—”"
+  },
+  {
+    "key": "“You mustn’t! ",
+    "trx": "“Ты не должен! ",
+    "val": "“You mustn’t! "
+  },
+  {
+    "key": "If you aren’t careful, you’ll cause a malfunction!”",
+    "trx": "Если вы не будете осторожны, вы вызовете неисправность!”",
+    "val": "If you aren’t careful, you’ll cause a malfunction!”"
+  },
+  {
+    "key": "Malfunction?",
+    "trx": "Неисправность?",
+    "val": "Malfunction?"
+  },
+  {
+    "key": "What the hell was this guy talking about?",
+    "trx": "О чем, черт возьми, говорил этот парень?",
+    "val": "What the hell was this guy talking about?"
+  },
+  {
+    "key": "Kano got an ever firmer grip on the zipper and pulled again.",
+    "trx": "Кано еще крепче ухватился за молнию и снова потянул.",
+    "val": "Kano got an ever firmer grip on the zipper and pulled again."
+  },
+  {
+    "key": "“Meow.”",
+    "trx": "“Мяу”.",
+    "val": "“Meow.”"
+  },
+  {
+    "key": "He paused in surprise as Sasayama mewled.",
+    "trx": "Он остановился в удивлении, когда Сасаяма мяукнул.",
+    "val": "He paused in surprise as Sasayama mewled."
+  },
+  {
+    "key": "“Meowww.”",
+    "trx": "“Мяууу”.",
+    "val": "“Meowww.”"
+  },
+  {
+    "key": "Again, Sasayama let out a little cry.",
+    "trx": "И снова Сасаяма негромко вскрикнул.",
+    "val": "Again, Sasayama let out a little cry."
+  },
+  {
+    "key": "Except it didn’t sound like Sasayama’s voice at all.",
+    "trx": "Только это совсем не походило на голос Сасаямы.",
+    "val": "Except it didn’t sound like Sasayama’s voice at all."
+  },
+  {
+    "key": "“Uh, guys?” Sasayama said. ",
+    "trx": "“Э-э, ребята?” Сказал Сасаяма. ",
+    "val": "“Uh, guys?” Sasayama said. "
+  },
+  {
+    "key": "“There’s something making a rumbling noise inside this thing.”",
+    "trx": "“Внутри этой штуки что-то издает грохочущий звук\".",
+    "val": "“There’s something making a rumbling noise inside this thing.”"
+  },
+  {
+    "key": "He sounded pretty alarmed.",
+    "trx": "Он казался довольно встревоженным.",
+    "val": "He sounded pretty alarmed."
+  },
+  {
+    "key": "“Uh-oh,” said the other man. ",
+    "trx": "“О-о\", ” сказал другой мужчина. ",
+    "val": "“Uh-oh,” said the other man. "
+  },
+  {
+    "key": "“It has started.”",
+    "trx": "“Это началось”.",
+    "val": "“It has started.”"
+  },
+  {
+    "key": "His face went pale.",
+    "trx": "Его лицо побледнело.",
+    "val": "His face went pale."
+  },
+  {
+    "key": "“What are you talking about?” Sasayama demanded. “",
+    "trx": "“О чем ты говоришь?” - потребовал Сасаяма.“",
+    "val": "“What are you talking about?” Sasayama demanded. “"
+  },
+  {
+    "key": "What’s",
+    "trx": "Что",
+    "val": "What’s"
+  },
+  {
+    "key": " started?”",
+    "trx": " началось?”",
+    "val": " started?”"
+  },
+  {
+    "key": "The man hesitated, then seemed to come to a decision. ",
+    "trx": "Мужчина поколебался, затем, казалось, принял решение. ",
+    "val": "The man hesitated, then seemed to come to a decision. "
+  },
+  {
+    "key": "“Well, you see, ",
+    "trx": "“Ну, ты видишь, ",
+    "val": "“Well, you see, "
+  },
+  {
+    "key": "this is no ordinary cat costume.”",
+    "trx": "это не обычный кошачий костюм.”",
+    "val": "this is no ordinary cat costume.”"
+  },
+  {
+    "key": "“Meaning what, exactly?”",
+    "trx": "“Что именно это значит?”",
+    "val": "“Meaning what, exactly?”"
+  },
+  {
+    "key": "“Our shop rented this unit out by mistake. ",
+    "trx": "“Наш магазин сдал это помещение в аренду по ошибке. ",
+    "val": "“Our shop rented this unit out by mistake. "
+  },
+  {
+    "key": "Oh, I had no idea it was anything so horrifying! ",
+    "trx": "О, я понятия не имела, что это было что-то настолько ужасное! ",
+    "val": "Oh, I had no idea it was anything so horrifying! "
+  },
+  {
+    "key": "Not until the boss filled me in a little while ago!”",
+    "trx": "Нет, пока босс не ввел меня в курс дела некоторое время назад!”",
+    "val": "Not until the boss filled me in a little while ago!”"
+  },
+  {
+    "key": "“",
+    "trx": "“",
+    "val": "“"
+  },
+  {
+    "key": "What’s",
+    "trx": "Что",
+    "val": "What’s"
+  },
+  {
+    "key": " horrifying? You’re not answering the question!”",
+    "trx": " ужасающий? Ты не отвечаешь на вопрос!”",
+    "val": " horrifying? You’re not answering the question!”"
+  },
+  {
+    "key": "The man’s gaze grew hollow and distant.",
+    "trx": "Взгляд мужчины стал пустым и отстраненным.",
+    "val": "The man’s gaze grew hollow and distant."
+  },
+  {
+    "key": "“CATS,” he said.",
+    "trx": "”КОШКИ\", - сказал он.",
+    "val": "“CATS,” he said."
+  },
+  {
+    "key": "For a moment, there was only silence.",
+    "trx": "На мгновение воцарилась тишина.",
+    "val": "For a moment, there was only silence."
+  },
+  {
+    "key": "Then Sasayama spoke up nervously.",
+    "trx": "Затем нервно заговорил Сасаяма.",
+    "val": "Then Sasayama spoke up nervously."
+  },
+  {
+    "key": "“Um, well, yeah. ",
+    "trx": "“Эм, ну, да. ",
+    "val": "“Um, well, yeah. "
+  },
+  {
+    "key": "It’s a cat. ",
+    "trx": "Это кошка. ",
+    "val": "It’s a cat. "
+  },
+  {
+    "key": "I know that already.”",
+    "trx": "Я это уже знаю.”",
+    "val": "I know that already.”"
+  },
+  {
+    "key": "“No, ",
+    "trx": "“Нет, ",
+    "val": "“No, "
+  },
+  {
+    "key": "you’re not listening. ",
+    "trx": "ты не слушаешь. ",
+    "val": "you’re not listening. "
+  },
+  {
+    "key": "This is a CATS!”",
+    "trx": "Это КОШКА!”",
+    "val": "This is a CATS!”"
+  },
+  {
+    "key": "“Like I said, I already know it’s a cat. ",
+    "trx": "“Как я уже сказал, я уже знаю, что это кошка. ",
+    "val": "“Like I said, I already know it’s a cat. "
+  },
+  {
+    "key": "Anyone can see that just from looking at it.”",
+    "trx": "Любой может увидеть это, просто взглянув на него”.",
+    "val": "Anyone can see that just from looking at it.”"
+  },
+  {
+    "key": "“No, not a cat! ",
+    "trx": "“Нет, не кошка! ",
+    "val": "“No, not a cat! "
+  },
+  {
+    "key": "CATS",
+    "trx": "кошки",
+    "val": "CATS"
+  },
+  {
+    "key": "!”",
+    "trx": "!”",
+    "val": "!”"
+  },
+  {
+    "key": "“Meow meow meow meow meow meow meow ",
+    "trx": "“Мяу-мяу-мяу-мяу-мяу-мяу-мяу ",
+    "val": "“Meow meow meow meow meow meow meow "
+  },
+  {
+    "key": "meow meow meow meow meow meow meow ",
+    "trx": "мяу мяу мяу мяу мяу мяу мяу мяу ",
+    "val": "meow meow meow meow meow meow meow "
+  },
+  {
+    "key": "meow meow meow meow meow meow meow ",
+    "trx": "мяу мяу мяу мяу мяу мяу мяу мяу ",
+    "val": "meow meow meow meow meow meow meow "
+  },
+  {
+    "key": "meow meow meow meow meow meow meow ",
+    "trx": "мяу мяу мяу мяу мяу мяу мяу мяу ",
+    "val": "meow meow meow meow meow meow meow "
+  },
+  {
+    "key": "meow meow meow meow meow meow meow ",
+    "trx": "мяу мяу мяу мяу мяу мяу мяу мяу ",
+    "val": "meow meow meow meow meow meow meow "
+  },
+  {
+    "key": "meow meow meow meow meow meow meow ",
+    "trx": "мяу мяу мяу мяу мяу мяу мяу мяу ",
+    "val": "meow meow meow meow meow meow meow "
+  },
+  {
+    "key": "meow meow meow meow meow meow meow ",
+    "trx": "мяу мяу мяу мяу мяу мяу мяу мяу ",
+    "val": "meow meow meow meow meow meow meow "
+  },
+  {
+    "key": "meow meow meow meow meow meow meow ",
+    "trx": "мяу мяу мяу мяу мяу мяу мяу мяу ",
+    "val": "meow meow meow meow meow meow meow "
+  },
+  {
+    "key": "meow meow meow meow meow meow...” ",
+    "trx": "мяу-мяу-мяу-мяу-мяу-мяу...” ",
+    "val": "meow meow meow meow meow meow...” "
+  },
+  {
+    "key": "The meowing started back up again.",
+    "trx": "Мяуканье возобновилось снова.",
+    "val": "The meowing started back up again."
+  },
+  {
+    "key": "With each new mewl, the sound got faster.",
+    "trx": "С каждым новым мяуканьем звук становился все быстрее.",
+    "val": "With each new mewl, the sound got faster."
+  },
+  {
+    "key": "Soon, it sounded less like a cat and more like some mechanism that was whirring about.",
+    "trx": "Вскоре он стал меньше походить на кошку и больше походил на какой-то механизм, который жужжал.",
+    "val": "Soon, it sounded less like a cat and more like some mechanism that was whirring about."
+  },
+  {
+    "key": "There was a sudden, fierce, blinding flash.",
+    "trx": "Последовала внезапная, яростная, ослепительная вспышка.",
+    "val": "There was a sudden, fierce, blinding flash."
+  },
+  {
+    "key": "Space itself began to warp in a roughly three-meter radius around Sasayama and his costume.",
+    "trx": "Само пространство начало деформироваться в радиусе примерно трех метров вокруг Сасаямы и его костюма.",
+    "val": "Space itself began to warp in a roughly three-meter radius around Sasayama and his costume."
+  },
+  {
+    "key": "A moment later, Kano and the others had vanished.",
+    "trx": "Мгновение спустя Кано и остальные исчезли.",
+    "val": "A moment later, Kano and the others had vanished."
+  },
+  {
+    "key": "No. 35\u3000",
+    "trx": "№ 35\u3000",
+    "val": "No. 35\u3000"
+  },
+  {
+    "key": "CATS",
+    "trx": "кошки",
+    "val": "CATS"
+  },
+  {
+    "key": "Hint",
+    "trx": "Подсказка",
+    "val": "Hint"
+  },
+  {
+    "key": "Kano, Sasayama and the rental guy were sent into another dimension due to a malfunction in the CATS. Detective Sasayama should probably never have put that cat suit on.",
+    "trx": "Кано, Сасаяма и парень из проката были отправлены в другое измерение из-за неисправности в КОШКАХ. Детективу Сасаяме, наверное, не следовало надевать этот кошачий костюм.",
+    "val": "Kano, Sasayama and the rental guy were sent into another dimension due to a malfunction in the CATS. Detective Sasayama should probably never have put that cat suit on."
+  },
+  {
+    "key": "He mentioned “buying it at a variety shop on Center Gai.” That’s your lead, here.",
+    "trx": "Он упомянул, что “купил его в магазине на Сентер-Гай”. Вот ваша зацепка.",
+    "val": "He mentioned “buying it at a variety shop on Center Gai.” That’s your lead, here."
+  },
+  {
+    "key": "“Get the case!”",
+    "trx": "“Бери кейс!”",
+    "val": "“Get the case!”"
+  },
+  {
+    "key": "Stanley headed for the attaché case while Kano went after the suspect.",
+    "trx": "Стэнли направился к атташе-кейсу, в то время как Кано отправился за подозреваемым.",
+    "val": "Stanley headed for the attaché case while Kano went after the suspect."
+  },
+  {
+    "key": "Suddenly the fleeing man skidded to a stop.",
+    "trx": "Внезапно убегающий мужчина резко остановился.",
+    "val": "Suddenly the fleeing man skidded to a stop."
+  }
+]

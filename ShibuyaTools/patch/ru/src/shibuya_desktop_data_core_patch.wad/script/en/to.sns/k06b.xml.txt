@@ -1,0 +1,342 @@
+[
+  {
+    "key": "Then Kano saw flames. This hadn’t been an accident.",
+    "trx": "Затем Кано увидел пламя. Это не было несчастным случаем.",
+    "val": "Then Kano saw flames. This hadn’t been an accident."
+  },
+  {
+    "key": "Someone had set off an explosion.",
+    "trx": "Кто-то устроил взрыв.",
+    "val": "Someone had set off an explosion."
+  },
+  {
+    "key": "Several people were on the ground nearby, evidently injured by the detonation.",
+    "trx": "Несколько человек лежали на земле неподалеку, очевидно, раненные взрывом.",
+    "val": "Several people were on the ground nearby, evidently injured by the detonation."
+  },
+  {
+    "key": "“Mr. Minorikawa! Mr. Minorikawa!”",
+    "trx": "“Мистер Минорикава! Мистер Минорикава!”",
+    "val": "“Mr. Minorikawa! Mr. Minorikawa!”"
+  },
+  {
+    "key": "A high school-aged girl was crying, clinging tightly to a man who’d been caught in the blast.",
+    "trx": "Девочка старшеклассница плакала, крепко прижимаясь к мужчине, которого зацепило взрывом.",
+    "val": "A high school-aged girl was crying, clinging tightly to a man who’d been caught in the blast."
+  },
+  {
+    "key": "Kano recognized her as the girl he’d talked to earlier, during the traffic jam.",
+    "trx": "Кано узнал в ней девушку, с которой разговаривал раньше, во время пробки.",
+    "val": "Kano recognized her as the girl he’d talked to earlier, during the traffic jam."
+  },
+  {
+    "key": "The man looked like he might still be alive.",
+    "trx": "Мужчина выглядел так, как будто он все еще мог быть жив.",
+    "val": "The man looked like he might still be alive."
+  },
+  {
+    "key": "Kano hurried over to them. ",
+    "trx": "Кано поспешил к ним. ",
+    "val": "Kano hurried over to them. "
+  },
+  {
+    "key": "“Police!” he announced.",
+    "trx": "“Полиция!” - объявил он.",
+    "val": "“Police!” he announced."
+  },
+  {
+    "key": "Blood was streaming from the man’s mouth.",
+    "trx": "Изо рта мужчины текла кровь.",
+    "val": "Blood was streaming from the man’s mouth."
+  },
+  {
+    "key": "He’d clearly suffered some internal damage.",
+    "trx": "У него явно были какие-то внутренние повреждения.",
+    "val": "He’d clearly suffered some internal damage."
+  },
+  {
+    "key": "“Hang in there, buddy!” Kano told him. “Stay with us!”",
+    "trx": "“Держись там, приятель!” Кано рассказал ему. “Оставайся с нами!”",
+    "val": "“Hang in there, buddy!” Kano told him. “Stay with us!”"
+  },
+  {
+    "key": "The man’s face twisted up in pain, but somehow he managed to croak out a few words.",
+    "trx": "Лицо мужчины исказилось от боли, но каким-то образом ему удалось выдавить несколько слов.",
+    "val": "The man’s face twisted up in pain, but somehow he managed to croak out a few words."
+  },
+  {
+    "key": "Kano let out a gasp.",
+    "trx": "Кано испустил вздох.",
+    "val": "Kano let out a gasp."
+  },
+  {
+    "key": "The man’s voice was almost too weak to hear, but what he said still shook Kano the core.",
+    "trx": "Голос мужчины был почти слишком слаб, чтобы его можно было расслышать, но то, что он сказал, все равно потрясло Кано до глубины души.",
+    "val": "The man’s voice was almost too weak to hear, but what he said still shook Kano the core."
+  },
+  {
+    "key": "This man knew something important.",
+    "trx": "Этот человек знал что-то важное.",
+    "val": "This man knew something important."
+  },
+  {
+    "key": "Something...",
+    "trx": "Что-то...",
+    "val": "Something..."
+  },
+  {
+    "key": "Something crucial to the investigation.",
+    "trx": "Что-то важное для расследования.",
+    "val": "Something crucial to the investigation."
+  },
+  {
+    "key": "Rescue vehicles arrived on the scene, and the wounded man was promptly loaded onto a stretcher.",
+    "trx": "На место происшествия прибыли спасательные машины, и раненого быстро уложили на носилки.",
+    "val": "Rescue vehicles arrived on the scene, and the wounded man was promptly loaded onto a stretcher."
+  },
+  {
+    "key": "When he was placed inside the ambulance, Kano flashed his badge at the paramedics and got in alongside him.",
+    "trx": "Когда его поместили в машину скорой помощи, Кано показал свой значок парамедикам и сел рядом с ним.",
+    "val": "When he was placed inside the ambulance, Kano flashed his badge at the paramedics and got in alongside him."
+  },
+  {
+    "key": "The man had already fallen unconscious.",
+    "trx": "Мужчина уже потерял сознание.",
+    "val": "The man had already fallen unconscious."
+  },
+  {
+    "key": "Kano didn’t know when he’d wake back up, but he knew he needed to hear what the guy had to say.",
+    "trx": "Кано не знал, когда он снова проснется, но он знал, что ему нужно услышать, что скажет этот парень.",
+    "val": "Kano didn’t know when he’d wake back up, but he knew he needed to hear what the guy had to say."
+  },
+  {
+    "key": "He sensed that this stranger was the key to unlocking the entire case.",
+    "trx": "Он чувствовал, что этот незнакомец был ключом к разгадке всего дела.",
+    "val": "He sensed that this stranger was the key to unlocking the entire case."
+  },
+  {
+    "key": "But though Kano kept a lonely vigil, the man never woke again.",
+    "trx": "Но хотя Кано нес одинокое бдение, мужчина больше никогда не просыпался.",
+    "val": "But though Kano kept a lonely vigil, the man never woke again."
+  },
+  {
+    "key": "The antiviral that had been given to Hitomi.",
+    "trx": "Противовирусное средство, которое дали Хитоми.",
+    "val": "The antiviral that had been given to Hitomi."
+  },
+  {
+    "key": "The blue minivan al-Karawan told Hitomi to look for.",
+    "trx": "Синий микроавтобус, который аль-Караван велел искать Хитоми.",
+    "val": "The blue minivan al-Karawan told Hitomi to look for."
+  },
+  {
+    "key": "And now, the minivan exploding...",
+    "trx": "И вот теперь взрывается микроавтобус...",
+    "val": "And now, the minivan exploding..."
+  },
+  {
+    "key": "Kano was sure this man had known how all of these tied together.",
+    "trx": "Кано был уверен, что этот человек знал, как все это связано воедино.",
+    "val": "Kano was sure this man had known how all of these tied together."
+  },
+  {
+    "key": "But now, the key to solving the case was gone for good.",
+    "trx": "Но теперь ключ к раскрытию этого дела исчез навсегда.",
+    "val": "But now, the key to solving the case was gone for good."
+  },
+  {
+    "key": "No. 42\u3000",
+    "trx": "№ 42\u3000",
+    "val": "No. 42\u3000"
+  },
+  {
+    "key": "A Blown Lead",
+    "trx": "Взорванный Провод",
+    "val": "A Blown Lead"
+  },
+  {
+    "key": "Hint",
+    "trx": "Подсказка",
+    "val": "Hint"
+  },
+  {
+    "key": " Kano tried to get information from a man who was caught in the explosion: Minorikawa—but he arrived too late. If Minorikawa hadn’t been caught in the blast, things would have gone differently for Kano. At 15:30, somebody shouts something—and depending on what they shout, both Kano’s and Minorikawa’s fates may change.",
+    "trx": " Кано попытался получить информацию от человека, который пострадал во время взрыва: Минорикава, — но он прибыл слишком поздно. Если бы Минорикава не попал под взрыв, для Кано все пошло бы по-другому. В 15:30 кто—то что-то кричит - и в зависимости от того, что они кричат, судьбы Кано и Минорикавы могут измениться.",
+    "val": " Kano tried to get information from a man who was caught in the explosion: Minorikawa—but he arrived too late. If Minorikawa hadn’t been caught in the blast, things would have gone differently for Kano. At 15:30, somebody shouts something—and depending on what they shout, both Kano’s and Minorikawa’s fates may change."
+  },
+  {
+    "key": "“I’m the one who deserves to get hit.” ",
+    "trx": "“Я тот, кто заслуживает того, чтобы меня ударили\". ",
+    "val": "“I’m the one who deserves to get hit.” "
+  },
+  {
+    "key": "Thinking about Sasayama, Kano couldn’t help but feel guilty. ",
+    "trx": "Думая о Сасаяме, Кано не мог не чувствовать себя виноватым. ",
+    "val": "Thinking about Sasayama, Kano couldn’t help but feel guilty. "
+  },
+  {
+    "key": "“If I weren’t such a bumbling clod, Sasayama would never have...” ",
+    "trx": "“Если бы я не был таким неуклюжим болваном, Сасаяма никогда бы...” ",
+    "val": "“If I weren’t such a bumbling clod, Sasayama would never have...” "
+  },
+  {
+    "key": "“Hey—don’t blame yourself,” Stanley said. ",
+    "trx": "\"Эй, не вини себя\", — сказал Стэнли. ",
+    "val": "“Hey—don’t blame yourself,” Stanley said. "
+  },
+  {
+    "key": "“You guys have been doing better than I expected.”",
+    "trx": "“У вас, ребята, дела идут лучше, чем я ожидал”.",
+    "val": "“You guys have been doing better than I expected.”"
+  },
+  {
+    "key": "“More sarcasm, huh?”",
+    "trx": "“Больше сарказма, да?”",
+    "val": "“More sarcasm, huh?”"
+  },
+  {
+    "key": "Stanley’s mouth curled up sheepishly and he held his hands wide.",
+    "trx": "Рот Стэнли застенчиво скривился, и он широко развел руки.",
+    "val": "Stanley’s mouth curled up sheepishly and he held his hands wide."
+  },
+  {
+    "key": "Without a word, Kano threw a punch.",
+    "trx": "Не говоря ни слова, Кано нанес удар.",
+    "val": "Without a word, Kano threw a punch."
+  },
+  {
+    "key": "Stanley soaked up the rage-fueled blow, his face a mask of calm.",
+    "trx": "Стэнли впитал подогретый яростью удар, его лицо превратилось в маску спокойствия.",
+    "val": "Stanley soaked up the rage-fueled blow, his face a mask of calm."
+  },
+  {
+    "key": "Kano felt all the more miserable in the face of such unflinching resolve.",
+    "trx": "Кано чувствовал себя еще более несчастным перед лицом такой непоколебимой решимости.",
+    "val": "Kano felt all the more miserable in the face of such unflinching resolve."
+  },
+  {
+    "key": "“If I weren’t such a bumbling clod, Sasayama would never have...” ",
+    "trx": "“Если бы я не был таким неуклюжим болваном, Сасаяма никогда бы...” ",
+    "val": "“If I weren’t such a bumbling clod, Sasayama would never have...” "
+  },
+  {
+    "key": "“Hey—don’t blame yourself,” Stanley said. ",
+    "trx": "\"Эй, не вини себя\", — сказал Стэнли. ",
+    "val": "“Hey—don’t blame yourself,” Stanley said. "
+  },
+  {
+    "key": "“You guys have been doing better than I expected.”",
+    "trx": "“У вас, ребята, дела идут лучше, чем я ожидал”.",
+    "val": "“You guys have been doing better than I expected.”"
+  },
+  {
+    "key": "“More sarcasm, huh?”",
+    "trx": "“Больше сарказма, да?”",
+    "val": "“More sarcasm, huh?”"
+  },
+  {
+    "key": "Stanley’s mouth curled up sheepishly and he held his hands wide.",
+    "trx": "Рот Стэнли застенчиво скривился, и он широко развел руки.",
+    "val": "Stanley’s mouth curled up sheepishly and he held his hands wide."
+  },
+  {
+    "key": "Kano decided not to press. ",
+    "trx": "Кано решил не давить. ",
+    "val": "Kano decided not to press. "
+  },
+  {
+    "key": "“If it’s that difficult to talk about, you don’t have to.”",
+    "trx": "“Если об этом так трудно говорить, то тебе и не нужно”.",
+    "val": "“If it’s that difficult to talk about, you don’t have to.”"
+  },
+  {
+    "key": "“No,” Stanley said. “I should tell you this.” ",
+    "trx": "”Нет\", - сказал Стэнли. “Я должен сказать тебе это\". ",
+    "val": "“No,” Stanley said. “I should tell you this.” "
+  },
+  {
+    "key": "He braced himself before continuing.",
+    "trx": "Он собрался с духом, прежде чем продолжить.",
+    "val": "He braced himself before continuing."
+  },
+  {
+    "key": "Kano’s part in this was over.",
+    "trx": "Роль Кано в этом деле была закончена.",
+    "val": "Kano’s part in this was over."
+  },
+  {
+    "key": "He had to hurry and find Rumi before it was too late.",
+    "trx": "Он должен был поторопиться и найти Руми, пока не стало слишком поздно.",
+    "val": "He had to hurry and find Rumi before it was too late."
+  },
+  {
+    "key": "He left the electronics store, and headed for the café where Rumi and Shizuo were waiting.",
+    "trx": "Он вышел из магазина электроники и направился в кафе, где его ждали Руми и Шизуо.",
+    "val": "He left the electronics store, and headed for the café where Rumi and Shizuo were waiting."
+  },
+  {
+    "key": "“Listen. ",
+    "trx": "“Послушай. ",
+    "val": "“Listen. "
+  },
+  {
+    "key": "There’s a...",
+    "trx": "Там есть...",
+    "val": "There’s a..."
+  },
+  {
+    "key": "risk of...” ",
+    "trx": "риск...” ",
+    "val": "risk of...” "
+  },
+  {
+    "key": "“What’s that?”",
+    "trx": "“Что это?” - спросил я.",
+    "val": "“What’s that?”"
+  },
+  {
+    "key": "“What I mean is, ",
+    "trx": "“Я имею в виду, что, ",
+    "val": "“What I mean is, "
+  },
+  {
+    "key": "bio...",
+    "trx": "био...",
+    "val": "bio..."
+  },
+  {
+    "key": "risk of, ah...” ",
+    "trx": "риск, э-э...” ",
+    "val": "risk of, ah...” "
+  },
+  {
+    "key": "Shizuo pounded his fist on the table. ",
+    "trx": "Шизуо стукнул кулаком по столу. ",
+    "val": "Shizuo pounded his fist on the table. "
+  },
+  {
+    "key": "“Spit it out!”",
+    "trx": "“Выкладывай это!”",
+    "val": "“Spit it out!”"
+  },
+  {
+    "key": "Kano just couldn’t say it.",
+    "trx": "Кано просто не мог этого сказать.",
+    "val": "Kano just couldn’t say it."
+  },
+  {
+    "key": "It didn’t matter who he was talking to; he couldn’t make himself leak the details of an ongoing investigation.",
+    "trx": "Не имело значения, с кем он разговаривал; он не мог заставить себя выдать подробности продолжающегося расследования.",
+    "val": "It didn’t matter who he was talking to; he couldn’t make himself leak the details of an ongoing investigation."
+  },
+  {
+    "key": "Besides, there was no guarantee a bioterrorist attack would actually happen.",
+    "trx": "Кроме того, не было никакой гарантии, что биотеррористическая атака действительно произойдет.",
+    "val": "Besides, there was no guarantee a bioterrorist attack would actually happen."
+  },
+  {
+    "key": "If they could just find and secure Maria Osawa before she went symptomatic...",
+    "trx": "Если бы они только могли найти и обезопасить Марию Осаву до того, как у нее начнутся симптомы...",
+    "val": "If they could just find and secure Maria Osawa before she went symptomatic..."
+  }
+]

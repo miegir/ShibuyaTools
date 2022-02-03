@@ -1,0 +1,387 @@
+[
+  {
+    "key": "Suddenly Achi heard a voice from behind him.",
+    "trx": "Внезапно Ачи услышал голос у себя за спиной.",
+    "val": "Suddenly Achi heard a voice from behind him."
+  },
+  {
+    "key": "“Well, well. ",
+    "trx": "“Так, так. ",
+    "val": "“Well, well. "
+  },
+  {
+    "key": "If it ain’t our legendary founder.”",
+    "trx": "Если это не наш легендарный основатель.”",
+    "val": "If it ain’t our legendary founder.”"
+  },
+  {
+    "key": "An instant later, he took a hard blow to the side of the head.",
+    "trx": "Мгновение спустя он получил сильный удар сбоку по голове.",
+    "val": "An instant later, he took a hard blow to the side of the head."
+  },
+  {
+    "key": "“Heheh. ",
+    "trx": "“Хе-хе. ",
+    "val": "“Heheh. "
+  },
+  {
+    "key": "I was just out lookin’ for some small fry, but looks like I landed me a big one!”",
+    "trx": "Я просто искал какую-нибудь мелкую сошку, но, похоже, я поймал себе крупную!”",
+    "val": "I was just out lookin’ for some small fry, but looks like I landed me a big one!”"
+  },
+  {
+    "key": "Achi’s head swam, his vision fading in and out.",
+    "trx": "Голова Ачи закружилась, зрение то появлялось, то исчезало.",
+    "val": "Achi’s head swam, his vision fading in and out."
+  },
+  {
+    "key": "Before he had a chance to recover, something smashed into his knee.",
+    "trx": "Прежде чем он успел прийти в себя, что-то врезалось ему в колено.",
+    "val": "Before he had a chance to recover, something smashed into his knee."
+  },
+  {
+    "key": "He lay crumpled on the ground, unable to retaliate as kicks and punches rained down on him.",
+    "trx": "Он лежал, скорчившись, на земле, не в силах ответить, когда на него посыпались удары ногами и кулаками.",
+    "val": "He lay crumpled on the ground, unable to retaliate as kicks and punches rained down on him."
+  },
+  {
+    "key": "Even after Achi could no longer move, the beating didn’t stop.",
+    "trx": "Даже после того, как Ачи больше не мог двигаться, избиение не прекратилось.",
+    "val": "Even after Achi could no longer move, the beating didn’t stop."
+  },
+  {
+    "key": "His ruptured eardrums could barely make out ",
+    "trx": "Его разорванные барабанные перепонки едва могли разобрать ",
+    "val": "His ruptured eardrums could barely make out "
+  },
+  {
+    "key": "the sound of Hitomi screaming.",
+    "trx": "звук крика Хитоми.",
+    "val": "the sound of Hitomi screaming."
+  },
+  {
+    "key": "Hitomi, ",
+    "trx": "Хитоми, ",
+    "val": "Hitomi, "
+  },
+  {
+    "key": "run...",
+    "trx": "бежать...",
+    "val": "run..."
+  },
+  {
+    "key": "With his final plea silenced before it reached his lips, ",
+    "trx": "С его последней мольбой, заглушенной прежде, чем она достигла его губ, ",
+    "val": "With his final plea silenced before it reached his lips, "
+  },
+  {
+    "key": "Achi felt his consciousness battered away.",
+    "trx": "Ачи почувствовал, как его сознание покинуло его.",
+    "val": "Achi felt his consciousness battered away."
+  },
+  {
+    "key": "No. 54\u3000",
+    "trx": "№ 54\u3000",
+    "val": "No. 54\u3000"
+  },
+  {
+    "key": "Kiryu’s Ambush",
+    "trx": "Засада Кирью",
+    "val": "Kiryu’s Ambush"
+  },
+  {
+    "key": "Hint",
+    "trx": "Подсказка",
+    "val": "Hint"
+  },
+  {
+    "key": "Kiryu turned up out of nowhere and gave Achi a beatdown with a piece of timber. But just before he attacked Achi, Kiryu had run into someone else; that person said something that changed what Kiryu did. The individual in question needs to say something different to ensure Kiryu doesn’t go to Dogenzaka while Achi and Hitomi are there.",
+    "trx": "Кирью появился из ниоткуда и избил Ачи куском дерева. Но как раз перед тем, как он напал на Ачи, Кирью столкнулся с кем-то еще; этот человек сказал что-то, что изменило то, что сделал Кирью. Человек, о котором идет речь, должен сказать что-то другое, чтобы Кирю не отправился в Догензаку, пока там находятся Ачи и Хитоми.",
+    "val": "Kiryu turned up out of nowhere and gave Achi a beatdown with a piece of timber. But just before he attacked Achi, Kiryu had run into someone else; that person said something that changed what Kiryu did. The individual in question needs to say something different to ensure Kiryu doesn’t go to Dogenzaka while Achi and Hitomi are there."
+  },
+  {
+    "key": "Achi wasn’t about to just let them go.",
+    "trx": "Ачи не собирался просто так их отпускать.",
+    "val": "Achi wasn’t about to just let them go."
+  },
+  {
+    "key": "He raced after them.",
+    "trx": "Он помчался за ними.",
+    "val": "He raced after them."
+  },
+  {
+    "key": "“Hey, get back here!”",
+    "trx": "“Эй, вернись сюда!”",
+    "val": "“Hey, get back here!”"
+  },
+  {
+    "key": "The gang members sprinted away at full speed.",
+    "trx": "Члены банды помчались прочь на полной скорости.",
+    "val": "The gang members sprinted away at full speed."
+  },
+  {
+    "key": "They scattered in different directions to throw him off, but Achi wasn’t going to let them get away that easily.",
+    "trx": "Они разбежались в разные стороны, чтобы сбросить его, но Ачи не собирался позволять им так легко уйти.",
+    "val": "They scattered in different directions to throw him off, but Achi wasn’t going to let them get away that easily."
+  },
+  {
+    "key": "He kept after the ringleaders as they headed toward the Nanpeidai area, darting down a narrow side street.",
+    "trx": "Он последовал за главарями, когда они направились в район Нанпэйдай, свернув на узкую боковую улочку.",
+    "val": "He kept after the ringleaders as they headed toward the Nanpeidai area, darting down a narrow side street."
+  },
+  {
+    "key": "He could see an intersection up ahead.",
+    "trx": "Он мог видеть впереди перекресток.",
+    "val": "He could see an intersection up ahead."
+  },
+  {
+    "key": "Achi sped after them, making sure not to take his eyes off them for a second.",
+    "trx": "Ачи помчался за ними, стараясь ни на секунду не спускать с них глаз.",
+    "val": "Achi sped after them, making sure not to take his eyes off them for a second."
+  },
+  {
+    "key": "Uh-oh!",
+    "trx": "О-о-о!",
+    "val": "Uh-oh!"
+  },
+  {
+    "key": "With his attention fixed on the fleeing troublemakers, Achi never saw the car speeding directly at him.",
+    "trx": "Сосредоточив свое внимание на убегающих нарушителях спокойствия, Ачи так и не увидел машину, несущуюся прямо на него.",
+    "val": "With his attention fixed on the fleeing troublemakers, Achi never saw the car speeding directly at him."
+  },
+  {
+    "key": "By the time he registered the impact against his side, he was sailing through the air.",
+    "trx": "К тому времени, когда он почувствовал удар в бок, он уже парил в воздухе.",
+    "val": "By the time he registered the impact against his side, he was sailing through the air."
+  },
+  {
+    "key": "He crashed to the pavement, skewed to a stop, and laid there struggling to breathe.",
+    "trx": "Он рухнул на тротуар, резко остановился и лежал там, пытаясь дышать.",
+    "val": "He crashed to the pavement, skewed to a stop, and laid there struggling to breathe."
+  },
+  {
+    "key": "As he watched two men get out of the taxi that had hit him, Achi thought to himself, ",
+    "trx": "Наблюдая, как двое мужчин выходят из сбившего его такси, Ачи подумал про себя, ",
+    "val": "As he watched two men get out of the taxi that had hit him, Achi thought to himself, "
+  },
+  {
+    "key": "I’m going to die here.",
+    "trx": "Я собираюсь умереть здесь.",
+    "val": "I’m going to die here."
+  },
+  {
+    "key": "He’d been too careless.",
+    "trx": "Он был слишком беспечен.",
+    "val": "He’d been too careless."
+  },
+  {
+    "key": "It was too late to walk that back.",
+    "trx": "Было слишком поздно идти назад.",
+    "val": "It was too late to walk that back."
+  },
+  {
+    "key": "He could hear the sound of his own heart, beating all too slowly.",
+    "trx": "Он слышал стук собственного сердца, бьющегося слишком медленно.",
+    "val": "He could hear the sound of his own heart, beating all too slowly."
+  },
+  {
+    "key": "And then ",
+    "trx": "И затем ",
+    "val": "And then "
+  },
+  {
+    "key": "he heard it stop.",
+    "trx": "он услышал, как она остановилась.",
+    "val": "he heard it stop."
+  },
+  {
+    "key": "No. 55\u3000",
+    "trx": "№ 55\u3000",
+    "val": "No. 55\u3000"
+  },
+  {
+    "key": "Hit by a Taxi",
+    "trx": "Сбитое такси",
+    "val": "Hit by a Taxi"
+  },
+  {
+    "key": "Hint",
+    "trx": "Подсказка",
+    "val": "Hint"
+  },
+  {
+    "key": "In his headlong pursuit of some S.O.S. troublemakers, Achi ran right in front of a speeding taxi. Sure, as the gang’s former leader, he can’t just stand idly by and let them be a menace, but still—maybe it’d make more sense to talk to their current leader.",
+    "trx": "В своей стремительной погоне за некоторыми нарушителями спокойствия S.O.S. Ачи выбежал прямо перед мчащимся такси. Конечно, как бывший лидер банды, он не может просто стоять сложа руки и позволять им представлять угрозу, но все же — возможно, было бы разумнее поговорить с их нынешним лидером.",
+    "val": "In his headlong pursuit of some S.O.S. troublemakers, Achi ran right in front of a speeding taxi. Sure, as the gang’s former leader, he can’t just stand idly by and let them be a menace, but still—maybe it’d make more sense to talk to their current leader."
+  },
+  {
+    "key": "“And I’ll remember it when this is all done.”",
+    "trx": "“И я вспомню об этом, когда все это закончится”.",
+    "val": "“And I’ll remember it when this is all done.”"
+  },
+  {
+    "key": "“Achi!”",
+    "trx": "“Ачи!”",
+    "val": "“Achi!”"
+  },
+  {
+    "key": "“I’m sorry, I’ve made up my mind. ",
+    "trx": "“Прости, я принял решение. ",
+    "val": "“I’m sorry, I’ve made up my mind. "
+  },
+  {
+    "key": "We can go see Suzune after we’ve rescued your sister.”",
+    "trx": "Мы можем пойти навестить Сузуне после того, как спасем твою сестру.”",
+    "val": "We can go see Suzune after we’ve rescued your sister.”"
+  },
+  {
+    "key": "Hitomi looked like she had more to say, but Achi grabbed her by the hand and dragged her off toward Endo Electronics.",
+    "trx": "Хитоми выглядела так, словно хотела еще что-то сказать, но Ачи схватил ее за руку и потащил в сторону Эндо Электроникс.",
+    "val": "Hitomi looked like she had more to say, but Achi grabbed her by the hand and dragged her off toward Endo Electronics."
+  },
+  {
+    "key": "As they turned a corner, Achi caught side of a group of foreign men heading in their direction on the other side of the street.",
+    "trx": "Когда они завернули за угол, Ачи заметил группу иностранцев, направлявшихся в их сторону по другой стороне улицы.",
+    "val": "As they turned a corner, Achi caught side of a group of foreign men heading in their direction on the other side of the street."
+  },
+  {
+    "key": "The men saw them, too, and immediately broke into a run towards them.",
+    "trx": "Мужчины тоже увидели их и сразу же бросились бежать к ним.",
+    "val": "The men saw them, too, and immediately broke into a run towards them."
+  },
+  {
+    "key": "“Dammit! ",
+    "trx": "“Черт возьми! ",
+    "val": "“Dammit! "
+  },
+  {
+    "key": "How are there still ",
+    "trx": "Как там еще ",
+    "val": "How are there still "
+  },
+  {
+    "key": "more",
+    "trx": "больше",
+    "val": "more"
+  },
+  {
+    "key": " people chasing after us?!” ",
+    "trx": " люди гонятся за нами?!” ",
+    "val": " people chasing after us?!” "
+  },
+  {
+    "key": "Achi spun around and started to sprint in the other direction.",
+    "trx": "Ачи развернулся и побежал в другом направлении.",
+    "val": "Achi spun around and started to sprint in the other direction."
+  },
+  {
+    "key": "Maybe these new guys were associates of the foreign thug who’d fought the man with the cane?",
+    "trx": "Может быть, эти новые парни были сообщниками иностранного головореза, который дрался с человеком с тростью?",
+    "val": "Maybe these new guys were associates of the foreign thug who’d fought the man with the cane?"
+  },
+  {
+    "key": "Achi mulled that over as they ran, getting farther and farther from Dogenzaka.",
+    "trx": "Ачи обдумывал это, пока они бежали, удаляясь все дальше и дальше от Догензаки.",
+    "val": "Achi mulled that over as they ran, getting farther and farther from Dogenzaka."
+  },
+  {
+    "key": "The crooks were clearly pretty familiar with the layout of Shibuya; they weren’t easy to lose.",
+    "trx": "Мошенники явно были хорошо знакомы с планировкой Сибуи; их было нелегко потерять.",
+    "val": "The crooks were clearly pretty familiar with the layout of Shibuya; they weren’t easy to lose."
+  },
+  {
+    "key": "Achi and Hitomi finally lost sight of them somewhere around Nanpeidai, finally stopping once they got to Sakuragaoka.",
+    "trx": "Ачи и Хитоми наконец потеряли их из виду где-то в районе Нанпэйдая, окончательно остановившись, как только добрались до Сакурагаоки.",
+    "val": "Achi and Hitomi finally lost sight of them somewhere around Nanpeidai, finally stopping once they got в Сакурагаоку."
+  },
+  {
+    "key": "“Are you all right?” Achi panted.",
+    "trx": "“С тобой все в порядке?” Ачи тяжело дышал.",
+    "val": "“Are you all right?” Achi panted."
+  },
+  {
+    "key": "“Yes, I think so.”",
+    "trx": "“Да, я так думаю”.",
+    "val": "“Yes, I think so.”"
+  },
+  {
+    "key": "“Well—guess we wound up coming here anyway.”",
+    "trx": "“Ну, думаю, мы все равно пришли сюда”.",
+    "val": "“Well—guess we wound up coming here anyway.”"
+  },
+  {
+    "key": "Hitomi raised an eyebrow in confusion.",
+    "trx": "Хитоми в замешательстве подняла бровь.",
+    "val": "Hitomi raised an eyebrow in confusion."
+  },
+  {
+    "key": "“Suzune’s hospital. ",
+    "trx": "“Больница Сузуне. ",
+    "val": "“Suzune’s hospital. "
+  },
+  {
+    "key": "It’s just over there.”",
+    "trx": "Это как раз вон там.”",
+    "val": "It’s just over there.”"
+  },
+  {
+    "key": "“In that case, can you ",
+    "trx": "“В таком случае, не могли бы вы ",
+    "val": "“In that case, can you "
+  },
+  {
+    "key": "please",
+    "trx": "пожалуйста",
+    "val": "please"
+  },
+  {
+    "key": " just go and see her?” ",
+    "trx": " просто пойти и повидаться с ней?” ",
+    "val": " just go and see her?” "
+  },
+  {
+    "key": "She fixed him with a look of earnest pleading, and despite his misgivings, Achi nodded.",
+    "trx": "Она устремила на него взгляд, полный искренней мольбы, и, несмотря на его опасения, Ачи кивнул.",
+    "val": "She fixed him with a look of earnest pleading, and despite his misgivings, Achi nodded."
+  },
+  {
+    "key": "“This might be the person Canaan was warning us about.”",
+    "trx": "“Это может быть тот человек, о котором предупреждал нас Ханаан”.",
+    "val": "“This might be the person Canaan was warning us about.”"
+  },
+  {
+    "key": "“Oho. ",
+    "trx": "“Ого. ",
+    "val": "“Oho. "
+  },
+  {
+    "key": "You know Canaan, do you?” ",
+    "trx": "Ты знаешь Ханаан, не так ли?” ",
+    "val": "You know Canaan, do you?” "
+  },
+  {
+    "key": "The man spoke without changing his facial expression. ",
+    "trx": "Мужчина заговорил, не меняя выражения лица. ",
+    "val": "The man spoke without changing his facial expression. "
+  },
+  {
+    "key": "“She let a few things slip, herself.”",
+    "trx": "“Она сама кое-что упустила”.",
+    "val": "“She let a few things slip, herself.”"
+  },
+  {
+    "key": "“Look, who the hell are you?!” Achi demanded.",
+    "trx": "“Слушай, кто ты, черт возьми, такой?!” - потребовал Ачи.",
+    "val": "“Look, who the hell are you?!” Achi demanded."
+  },
+  {
+    "key": "The man calmly reached into his jacket pocket.",
+    "trx": "Мужчина спокойно полез в карман пиджака.",
+    "val": "The man calmly reached into his jacket pocket."
+  },
+  {
+    "key": "Fearing he might be about to draw his gun, Achi braced for action.",
+    "trx": "Опасаясь, что он может вот-вот выхватить пистолет, Ачи приготовился к действию.",
+    "val": "Fearing he might be about to draw his gun, Achi braced for action."
+  }
+]

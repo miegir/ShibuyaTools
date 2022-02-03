@@ -1,0 +1,4522 @@
+[
+  {
+    "key": "It was almost one o’clock.",
+    "trx": "Был почти час дня.",
+    "val": "It was almost one o’clock."
+  },
+  {
+    "key": "Takuya Kazama watched the orderly collect his meal tray, waiting for the door to fully close behind him before slipping out of bed.",
+    "trx": "Такуя Казама наблюдал, как санитар собирает поднос с едой, ожидая, пока дверь полностью закроется за ним, прежде чем выскользнуть из постели.",
+    "val": "Takuya Kazama watched the orderly collect his meal tray, waiting for the door to fully close behind him before slipping out of bed."
+  },
+  {
+    "key": "He dragged the folding chair closer to the window and sat down; then he meticulously scanned the entire length of the vast central courtyard outside.",
+    "trx": "Он подтащил складной стул поближе к окну и сел; затем тщательно осмотрел весь обширный центральный двор снаружи.",
+    "val": "He dragged the folding chair closer to the window and sat down; then he meticulously scanned the entire length of the vast central courtyard outside."
+  },
+  {
+    "key": "From up here on the second floor, he had a great view of the whole open space.",
+    "trx": "Отсюда, со второго этажа, у него был прекрасный вид на все открытое пространство.",
+    "val": "From up here on the second floor, he had a great view of the whole open space."
+  },
+  {
+    "key": "The hospital building was shaped like a boxy ‘U,’ enclosing a promenade that wove its way between the trees, ",
+    "trx": "Здание больницы имело форму квадратной буквы \"U\", окружавшей набережную, которая петляла между деревьями, ",
+    "val": "The hospital building was shaped like a boxy ‘U,’ enclosing a promenade that wove its way between the trees, "
+  },
+  {
+    "key": "where pajama-clad patients and visitors from their families were enjoying the first day of sunshine to come along in a while.",
+    "trx": "где одетые в пижамы пациенты и посетители из их семей наслаждались первым солнечным днем, который наступит через некоторое время.",
+    "val": "where pajama-clad patients and visitors from their families were enjoying the first day of sunshine to come along in a while."
+  },
+  {
+    "key": "Not yet.",
+    "trx": "Ещё нет.",
+    "val": "Not yet."
+  },
+  {
+    "key": "She still isn’t here.",
+    "trx": "Ее все еще здесь нет.",
+    "val": "She still isn’t here."
+  },
+  {
+    "key": "I seem to be doing okay today.",
+    "trx": "Кажется, сегодня у меня все хорошо.",
+    "val": "I seem to be doing okay today."
+  },
+  {
+    "key": "If she does show up in the courtyard, I’ll sneak out for a walk, myself.",
+    "trx": "Если она все-таки появится во дворе, я сам ускользну на прогулку.",
+    "val": "If she does show up in the courtyard, I’ll sneak out for a walk, myself."
+  },
+  {
+    "key": "And then I’ll make sure I go and talk to her.",
+    "trx": "А потом я обязательно пойду и поговорю с ней.",
+    "val": "And then I’ll make sure I go and talk to her."
+  },
+  {
+    "key": "“Hey, what’s your name?”",
+    "trx": "“Эй, как тебя зовут?”",
+    "val": "“Hey, what’s your name?”"
+  },
+  {
+    "key": "No, no; I can’t just up and ask her like that.",
+    "trx": "Нет, нет, я не могу просто взять и спросить ее вот так.",
+    "val": "No, no; I can’t just up and ask her like that."
+  },
+  {
+    "key": "Maybe I should tell her my name first?",
+    "trx": "Может быть, мне сначала сказать ей свое имя?",
+    "val": "Maybe I should tell her my name first?"
+  },
+  {
+    "key": "“I’m Takuya. Who are you?”",
+    "trx": "“Я Такуя. Кто ты такой?”",
+    "val": "“I’m Takuya. Who are you?”"
+  },
+  {
+    "key": "Or is it silly to tell her what my name is when she hasn’t even asked?",
+    "trx": "Или глупо говорить ей, как меня зовут, когда она даже не спросила?",
+    "val": "Or is it silly to tell her what my name is when she hasn’t even asked?"
+  },
+  {
+    "key": "“So what’s wrong with ",
+    "trx": "“Так что же не так с ",
+    "val": "“So what’s wrong with "
+  },
+  {
+    "key": "you",
+    "trx": "ты",
+    "val": "you"
+  },
+  {
+    "key": "?”",
+    "trx": "?”",
+    "val": "?”"
+  },
+  {
+    "key": "No, she’s been here at least as long as I have. Whatever it is can’t be anything small.",
+    "trx": "Нет, она здесь по крайней мере столько же, сколько и я. Что бы это ни было, это не может быть чем-то маленьким.",
+    "val": "No, she’s been here at least as long as I have. Whatever it is can’t be anything small."
+  },
+  {
+    "key": "So yeah, no way can I open with that.",
+    "trx": "Так что да, я ни в коем случае не могу начать с этого.",
+    "val": "So yeah, no way can I open with that."
+  },
+  {
+    "key": "That comes later. Much later.",
+    "trx": "Это будет позже. Гораздо позже.",
+    "val": "That comes later. Much later."
+  },
+  {
+    "key": "“Nice weather we’re having.”",
+    "trx": "“У нас хорошая погода”.",
+    "val": "“Nice weather we’re having.”"
+  },
+  {
+    "key": "Nah. What am I? 90 years old?",
+    "trx": "Нет. Сколько мне? 90 лет?",
+    "val": "Nah. What am I? 90 years old?"
+  },
+  {
+    "key": "I need to say something...hip.",
+    "trx": "Мне нужно сказать кое-что... модное.",
+    "val": "I need to say something...hip."
+  },
+  {
+    "key": "“You come out here all the time, huh?”",
+    "trx": "“Ты приходишь сюда все время, да?”",
+    "val": "“You come out here all the time, huh?”"
+  },
+  {
+    "key": "No, that’s terrible!",
+    "trx": "Нет, это ужасно!",
+    "val": "No, that’s terrible!"
+  },
+  {
+    "key": "I might as well say “I’ve been watching you.”",
+    "trx": "С таким же успехом я мог бы сказать: “Я наблюдал за тобой”.",
+    "val": "I might as well say “I’ve been watching you.”"
+  },
+  {
+    "key": "She’ll think I’m a stalker.",
+    "trx": "Она подумает, что я преследую ее.",
+    "val": "She’ll think I’m a stalker."
+  },
+  {
+    "key": "In the midst of his internal debate, Takuya happened to cast his gaze back out into the courtyard—",
+    "trx": "В разгар своих внутренних дебатов Такуя случайно бросил взгляд обратно во двор—",
+    "val": "In the midst of his internal debate, Takuya happened to cast his gaze back out into the courtyard—"
+  },
+  {
+    "key": "and there she was, standing right under his window.",
+    "trx": "и вот она была там, стояла прямо под его окном.",
+    "val": "and there she was, standing right under his window."
+  },
+  {
+    "key": "She wore a white cardigan over her pajamas, standing with her head tilted back and her eyes closed, basking in the light of the sun.",
+    "trx": "На ней был белый кардиган поверх пижамы, она стояла, запрокинув голову и закрыв глаза, греясь в лучах солнца.",
+    "val": "She wore a white cardigan over her pajamas, standing with her head tilted back and her eyes closed, basking in the light of the sun."
+  },
+  {
+    "key": "The angle finally gave him a good look at her face.",
+    "trx": "Угол обзора наконец позволил ему хорошенько рассмотреть ее лицо.",
+    "val": "The angle finally gave him a good look at her face."
+  },
+  {
+    "key": "The wind caught her evenly-cropped bangs, blowing them back to expose the delicate curve of her forehead.",
+    "trx": "Ветер подхватил ее ровно подстриженную челку и откинул ее назад, обнажив изящный изгиб лба.",
+    "val": "The wind caught her evenly-cropped bangs, blowing them back to expose the delicate curve of her forehead."
+  },
+  {
+    "key": "She looked deeply happy as she stood, breathing, ",
+    "trx": "Она выглядела глубоко счастливой, когда стояла, дыша, ",
+    "val": "She looked deeply happy as she stood, breathing, "
+  },
+  {
+    "key": "a gentle smile across her face.",
+    "trx": "нежная улыбка на ее лице.",
+    "val": "a gentle smile across her face."
+  },
+  {
+    "key": "Takuya felt as though she were smiling at him, and it brought a tightness to his chest.",
+    "trx": "Такуя почувствовал, что она улыбается ему, и от этого у него защемило в груди.",
+    "val": "Takuya felt as though she were smiling at him, and it brought a tightness to his chest."
+  },
+  {
+    "key": "He’d always thought that it would make him impossibly happy were that angelic smile ever to turn his way—so why did it hurt so much, instead?",
+    "trx": "Он всегда думал, что это сделало бы его невероятно счастливым, если бы эта ангельская улыбка когда—нибудь повернулась в его сторону - так почему же вместо этого было так больно?",
+    "val": "He’d always thought that it would make him impossibly happy were that angelic smile ever to turn his way—so why did it hurt so much, instead?"
+  },
+  {
+    "key": "He saw her open her eyes back up, and he hurriedly backed away from the window.",
+    "trx": "Он увидел, как она снова открыла глаза, и поспешно отступил от окна.",
+    "val": "He saw her open her eyes back up, and he hurriedly backed away from the window."
+  },
+  {
+    "key": "She saw me!",
+    "trx": "Она видела меня!",
+    "val": "She saw me!"
+  },
+  {
+    "key": "...or did she?",
+    "trx": "...или она это сделала?",
+    "val": "...or did she?"
+  },
+  {
+    "key": "No,",
+    "trx": "Нет,",
+    "val": "No,"
+  },
+  {
+    "key": "there’s no way she could see in here with the glare.",
+    "trx": "она никак не могла видеть здесь при таком ярком свете.",
+    "val": "there’s no way she could see in here with the glare."
+  },
+  {
+    "key": "But what does it even matter?",
+    "trx": "Но какое это вообще имеет значение?",
+    "val": "But what does it even matter?"
+  },
+  {
+    "key": "I was going to talk to her anyway...",
+    "trx": "Я все равно собирался с ней поговорить...",
+    "val": "I was going to talk to her anyway..."
+  },
+  {
+    "key": "right?",
+    "trx": "верно?",
+    "val": "right?"
+  },
+  {
+    "key": "So go on. ",
+    "trx": "Так что продолжай. ",
+    "val": "So go on. "
+  },
+  {
+    "key": "Get out there.",
+    "trx": "Беги оттуда.",
+    "val": "Get out there."
+  },
+  {
+    "key": "Fighting his nerves, Takuya moved back to the windowsill.",
+    "trx": "Борясь со своими нервами, Такуя вернулся к подоконнику.",
+    "val": "Fighting his nerves, Takuya moved back to the windowsill."
+  },
+  {
+    "key": "She was gone.",
+    "trx": "Она исчезла.",
+    "val": "She was gone."
+  },
+  {
+    "key": "Where had she disappeared to?! ",
+    "trx": "Куда она исчезла?! ",
+    "val": "Where had she disappeared to?! "
+  },
+  {
+    "key": "Takuya scrambled out of his room and rushed to the elevator.",
+    "trx": "Такуя выскочил из своей комнаты и бросился к лифту.",
+    "val": "Takuya scrambled out of his room and rushed to the elevator."
+  },
+  {
+    "key": "It’ll be all right. My muscles aren’t too stiff.",
+    "trx": "Все будет хорошо. Мои мышцы не слишком напряжены.",
+    "val": "It’ll be all right. My muscles aren’t too stiff."
+  },
+  {
+    "key": "Today’s a good day.",
+    "trx": "Сегодня хороший день.",
+    "val": "Today’s a good day."
+  },
+  {
+    "key": "“Takuya? ",
+    "trx": "“Такуя? ",
+    "val": "“Takuya? "
+  },
+  {
+    "key": "Takuya, where are you going?”",
+    "trx": "Такуя, куда ты идешь?”",
+    "val": "Takuya, where are you going?”"
+  },
+  {
+    "key": "He recognized the voice of a familiar nurse calling out from behind him, but he ignored her and jammed his thumb on the ‘Close’ button.",
+    "trx": "Он узнал голос знакомой медсестры, зовущей его сзади, но проигнорировал ее и нажал большим пальцем на кнопку \"Закрыть\".",
+    "val": "He recognized the voice of a familiar nurse calling out from behind him, but he ignored her and jammed his thumb on the ‘Close’ button."
+  },
+  {
+    "key": "Once he was down on the first floor, he made his way to the courtyard exit, slipped on some sandals, and headed outside.",
+    "trx": "Спустившись на первый этаж, он направился к выходу во внутренний двор, надел сандалии и направился наружу.",
+    "val": "Once he was down on the first floor, he made his way to the courtyard exit, slipped on some sandals, and headed outside."
+  },
+  {
+    "key": "He pretended to be out for a walk as he wandered in search of the girl, ",
+    "trx": "Он притворился, что вышел на прогулку, а сам отправился на поиски девушки, ",
+    "val": "He pretended to be out for a walk as he wandered in search of the girl, "
+  },
+  {
+    "key": "but went the length of the courtyard and back to the spot under his window without finding her.",
+    "trx": "но прошел через весь двор и вернулся на место под своим окном, так и не найдя ее.",
+    "val": "but went the length of the courtyard and back to the spot under his window without finding her."
+  },
+  {
+    "key": "That’s odd.",
+    "trx": "Это странно.",
+    "val": "That’s odd."
+  },
+  {
+    "key": "Usually she stays out here a lot longer.",
+    "trx": "Обычно она остается здесь намного дольше.",
+    "val": "Usually she stays out here a lot longer."
+  },
+  {
+    "key": "“You look a little pale. ",
+    "trx": "“Ты выглядишь немного бледной. ",
+    "val": "“You look a little pale. "
+  },
+  {
+    "key": "Are you all right?” ",
+    "trx": "С тобой все в порядке?” ",
+    "val": "Are you all right?” "
+  },
+  {
+    "key": "asked a voice.",
+    "trx": "спросил голос.",
+    "val": "asked a voice."
+  },
+  {
+    "key": "“Huh?”",
+    "trx": "\"Хм?\"",
+    "val": "“Huh?”"
+  },
+  {
+    "key": "He turned, and saw the girl sitting on a nearby bench.",
+    "trx": "Он обернулся и увидел девушку, сидящую на соседней скамейке.",
+    "val": "He turned, and saw the girl sitting on a nearby bench."
+  },
+  {
+    "key": "Takuya took half a step back in surprise.",
+    "trx": "Такуя от удивления отступил на полшага назад.",
+    "val": "Takuya took half a step back in surprise."
+  },
+  {
+    "key": "Somehow he’d missed her in the shadow of the trees.",
+    "trx": "Каким-то образом он разминулся с ней в тени деревьев.",
+    "val": "Somehow he’d missed her in the shadow of the trees."
+  },
+  {
+    "key": "“I’m sorry,” she said. ",
+    "trx": "”Мне жаль\", - сказала она. ",
+    "val": "“I’m sorry,” she said. "
+  },
+  {
+    "key": "“Did I startle you?”",
+    "trx": "“Я тебя напугал?”",
+    "val": "“Did I startle you?”"
+  },
+  {
+    "key": "“N-No...",
+    "trx": "“Н-Нет...",
+    "val": "“N-No..."
+  },
+  {
+    "key": "not really.”",
+    "trx": "не совсем.”",
+    "val": "not really.”"
+  },
+  {
+    "key": "“You look like you’re in pain. ",
+    "trx": "“Ты выглядишь так, как будто тебе больно. ",
+    "val": "“You look like you’re in pain. "
+  },
+  {
+    "key": "Should I go get a doctor?”",
+    "trx": "Может, мне сходить за доктором?”",
+    "val": "Should I go get a doctor?”"
+  },
+  {
+    "key": "She was right. He wasn’t used to so much walking.",
+    "trx": "Она была права. Он не привык так много ходить пешком.",
+    "val": "She was right. He wasn’t used to so much walking."
+  },
+  {
+    "key": "“I’ll be all right. ",
+    "trx": "“Со мной все будет в порядке. ",
+    "val": "“I’ll be all right. "
+  },
+  {
+    "key": "I just need to rest for a bit,” ",
+    "trx": "Мне просто нужно немного отдохнуть\". ",
+    "val": "I just need to rest for a bit,” "
+  },
+  {
+    "key": "he said, ",
+    "trx": "он сказал, ",
+    "val": "he said, "
+  },
+  {
+    "key": "relieved he’d managed to answer.",
+    "trx": "с облегчением, что он сумел ответить.",
+    "val": "relieved he’d managed to answer."
+  },
+  {
+    "key": "Lately, his words hadn’t been coming out all that well.",
+    "trx": "В последнее время его слова звучали не так уж хорошо.",
+    "val": "Lately, his words hadn’t been coming out all that well."
+  },
+  {
+    "key": "The girl stood up and reached a hand out to him, but Takuya couldn’t bring himself to take it.",
+    "trx": "Девушка встала и протянула ему руку, но Такуя не смог заставить себя взять ее.",
+    "val": "The girl stood up and reached a hand out to him, but Takuya couldn’t bring himself to take it."
+  },
+  {
+    "key": "Instead, he simply sat down on the bench.",
+    "trx": "Вместо этого он просто сел на скамейку.",
+    "val": "Instead, he simply sat down on the bench."
+  },
+  {
+    "key": "Not too close to her, ",
+    "trx": "Не слишком близко к ней, ",
+    "val": "Not too close to her, "
+  },
+  {
+    "key": "but not too far away, either.",
+    "trx": "но и не слишком далеко.",
+    "val": "but not too far away, either."
+  },
+  {
+    "key": "His heart had suddenly begun pounding, but he couldn’t tell if it was because of his exhaustion or because he was so close to her.",
+    "trx": "Его сердце внезапно заколотилось, но он не мог сказать, было ли это из-за его усталости или из-за того, что он был так близко к ней.",
+    "val": "His heart had suddenly begun pounding, but he couldn’t tell if it was because of his exhaustion or because he was so close to her."
+  },
+  {
+    "key": "“So, ",
+    "trx": "“Итак, ",
+    "val": "“So, "
+  },
+  {
+    "key": "you’re the boy from that room up there, right?” ",
+    "trx": "ты тот мальчик из той комнаты наверху, верно?” ",
+    "val": "you’re the boy from that room up there, right?” "
+  },
+  {
+    "key": "She pointed to his window on the second floor, and Takuya had to stifle a gasp.",
+    "trx": "Она указала на его окно на втором этаже, и Такуе пришлось подавить вздох.",
+    "val": "She pointed to his window on the second floor, and Takuya had to stifle a gasp."
+  },
+  {
+    "key": "“A little earlier, ",
+    "trx": "“Немного раньше, ",
+    "val": "“A little earlier, "
+  },
+  {
+    "key": "we made eye contact, didn’t we?”",
+    "trx": "мы посмотрели друг другу в глаза, не так ли?”",
+    "val": "we made eye contact, didn’t we?”"
+  },
+  {
+    "key": "“Did we?” Takuya mumbled, ",
+    "trx": "“Разве мы это сделали?” Пробормотал Такуя, ",
+    "val": "“Did we?” Takuya mumbled, "
+  },
+  {
+    "key": "averting his gaze. ",
+    "trx": "отводя взгляд. ",
+    "val": "averting his gaze. "
+  },
+  {
+    "key": "“I was just spacing out. I didn’t notice.”",
+    "trx": "“Я просто отвлекся. Я не заметил.”",
+    "val": "“I was just spacing out. I didn’t notice.”"
+  },
+  {
+    "key": "“I’ve seen you up there from time to time. ",
+    "trx": "“Я видел тебя там время от времени. ",
+    "val": "“I’ve seen you up there from time to time. "
+  },
+  {
+    "key": "You look lonely. ",
+    "trx": "Ты выглядишь одинокой. ",
+    "val": "You look lonely. "
+  },
+  {
+    "key": "Are you not able to leave your room much?”",
+    "trx": "Ты что, не можешь часто выходить из своей комнаты?”",
+    "val": "Are you not able to leave your room much?”"
+  },
+  {
+    "key": "She didn’t notice that I’m always looking at her. Good. ",
+    "trx": "Она не замечала, что я все время смотрю на нее. Хорошо. ",
+    "val": "She didn’t notice that I’m always looking at her. Good. "
+  },
+  {
+    "key": "“Yeah. ",
+    "trx": "\"Да. ",
+    "val": "“Yeah. "
+  },
+  {
+    "key": "I get tired real easy.”",
+    "trx": "Я очень легко устаю.”",
+    "val": "I get tired real easy.”"
+  },
+  {
+    "key": "“I see. ",
+    "trx": "“Я понимаю. ",
+    "val": "“I see. "
+  },
+  {
+    "key": "I’m not able to get very much exercise myself, ",
+    "trx": "Я сам не в состоянии много тренироваться, ",
+    "val": "I’m not able to get very much exercise myself, "
+  },
+  {
+    "key": "but they told me that when I’m feeling well enough for it, I should get up and walk around a bit so my leg muscles don’t get weak.”",
+    "trx": "но они сказали мне, что, когда я буду чувствовать себя достаточно хорошо для этого, я должен встать и немного пройтись, чтобы мышцы моих ног не ослабели”.",
+    "val": "but they told me that when I’m feeling well enough for it, I should get up and walk around a bit so my leg muscles don’t get weak.”"
+  },
+  {
+    "key": "“You have a problem with your legs?”",
+    "trx": "“У тебя проблемы с ногами?”",
+    "val": "“You have a problem with your legs?”"
+  },
+  {
+    "key": "“No. With my heart. ",
+    "trx": "\"Нет. С моим сердцем. ",
+    "val": "“No. With my heart. "
+  },
+  {
+    "key": "And they say the legs are like a second heart. They play an important part in blood circulation. ",
+    "trx": "И они говорят, что ноги подобны второму сердцу. Они играют важную роль в кровообращении. ",
+    "val": "And they say the legs are like a second heart. They play an important part in blood circulation. "
+  },
+  {
+    "key": "So if my leg muscles get too weak, it’s bad for my health. ",
+    "trx": "Так что, если мышцы моих ног станут слишком слабыми, это плохо скажется на моем здоровье. ",
+    "val": "So if my leg muscles get too weak, it’s bad for my health. "
+  },
+  {
+    "key": "You know how when a racehorse breaks a leg it winds up dying? I guess it’s sort of like that.”",
+    "trx": "Ты знаешь, как, когда скаковая лошадь ломает ногу, она умирает? Я думаю, что это что-то вроде этого.”",
+    "val": "You know how when a racehorse breaks a leg it winds up dying? I guess it’s sort of like that.”"
+  },
+  {
+    "key": "Her tone was cheerful enough, as if she talked about this all the time, but the thought filled Takuya with sadness.",
+    "trx": "Ее тон был достаточно жизнерадостным, как будто она говорила об этом все время, но эта мысль наполнила Такую грустью.",
+    "val": "Her tone was cheerful enough, as if she talked about this all the time, but the thought filled Takuya with sadness."
+  },
+  {
+    "key": "“So, um...” he began.",
+    "trx": "“Итак, эм...” - начал он.",
+    "val": "“So, um...” he began."
+  },
+  {
+    "key": "“Yes?”",
+    "trx": "\"да?\"",
+    "val": "“Yes?”"
+  },
+  {
+    "key": "“Do you...",
+    "trx": "“Неужели ты...",
+    "val": "“Do you..."
+  },
+  {
+    "key": "mind if I ask you your name?”",
+    "trx": "не возражаете, если я спрошу, как вас зовут?”",
+    "val": "mind if I ask you your name?”"
+  },
+  {
+    "key": "As he fumbled the words out, the girl broke into a beaming smile.",
+    "trx": "Когда он с трудом выговорил эти слова, девушка расплылась в лучезарной улыбке.",
+    "val": "As he fumbled the words out, the girl broke into a beaming smile."
+  },
+  {
+    "key": "That wonderful smile, the one that until now he had only seen from afar, so many, many times.",
+    "trx": "Эта чудесная улыбка, ту, которую до сих пор он видел только издалека, так много-много раз.",
+    "val": "That wonderful smile, the one that until now he had only seen from afar, so many, many times."
+  },
+  {
+    "key": "“Suzune Endo. ",
+    "trx": "“Сузуне Эндо. ",
+    "val": "“Suzune Endo. "
+  },
+  {
+    "key": "The ‘Suzune’ is written with the characters for ‘bell’ and ‘sound.’ So like, ‘the chiming of bells.’”",
+    "trx": "‘Сузуне’ написана иероглифами ‘колокол’ и ‘звук’. Так похоже на ‘звон колоколов\".”",
+    "val": "The ‘Suzune’ is written with the characters for ‘bell’ and ‘sound.’ So like, ‘the chiming of bells.’”"
+  },
+  {
+    "key": "Suzune—",
+    "trx": "Сузуне—",
+    "val": "Suzune—"
+  },
+  {
+    "key": "the chiming of bells...",
+    "trx": "звон колоколов...",
+    "val": "the chiming of bells..."
+  },
+  {
+    "key": "it was a name that suited her soothing voice perfectly.",
+    "trx": "это имя идеально подходило к ее успокаивающему голосу.",
+    "val": "it was a name that suited her soothing voice perfectly."
+  },
+  {
+    "key": "Suzune Endo.",
+    "trx": "Сузуне Эндо.",
+    "val": "Suzune Endo."
+  },
+  {
+    "key": "Suzune Endo.",
+    "trx": "Сузуне Эндо.",
+    "val": "Suzune Endo."
+  },
+  {
+    "key": "Takuya repeated the name to himself over and over.",
+    "trx": "Такуя повторял это имя про себя снова и снова.",
+    "val": "Takuya repeated the name to himself over and over."
+  },
+  {
+    "key": "“What’s your name?”",
+    "trx": "“Как тебя зовут?”",
+    "val": "“What’s your name?”"
+  },
+  {
+    "key": "“Takuya. ",
+    "trx": "“Такуя. ",
+    "val": "“Takuya. "
+  },
+  {
+    "key": "Takuya Kazama.”",
+    "trx": "Такуя Казама.”",
+    "val": "Takuya Kazama.”"
+  },
+  {
+    "key": "“Takuya Kazama, huh? ",
+    "trx": "“Такуя Казама, да? ",
+    "val": "“Takuya Kazama, huh? "
+  },
+  {
+    "key": "That’s a pretty cool name.”",
+    "trx": "Это довольно крутое имя.”",
+    "val": "That’s a pretty cool name.”"
+  },
+  {
+    "key": "“I guess it means ‘tough guy’ or something...",
+    "trx": "“Я думаю, это означает \"крутой парень\" или что-то в этом роде...",
+    "val": "“I guess it means ‘tough guy’ or something..."
+  },
+  {
+    "key": "not that I live up to that..” ",
+    "trx": "не то чтобы я соответствовал этому...” ",
+    "val": "not that I live up to that..” "
+  },
+  {
+    "key": "The truth was that Takuya was always embarrassed to tell strangers his name.",
+    "trx": "Правда заключалась в том, что Такуя всегда стеснялся называть незнакомым людям свое имя.",
+    "val": "The truth was that Takuya was always embarrassed to tell strangers his name."
+  },
+  {
+    "key": "“I don’t know about that. ",
+    "trx": "“Я не знаю об этом. ",
+    "val": "“I don’t know about that. "
+  },
+  {
+    "key": "You seem pretty cool to me, Takuya. ",
+    "trx": "Ты кажешься мне довольно крутым, Такуя. ",
+    "val": "You seem pretty cool to me, Takuya. "
+  },
+  {
+    "key": "So, how old are you?”",
+    "trx": "Итак, сколько тебе лет?”",
+    "val": "So, how old are you?”"
+  },
+  {
+    "key": "Takuya’s heart sank. ",
+    "trx": "Сердце Такуи упало. ",
+    "val": "Takuya’s heart sank. "
+  },
+  {
+    "key": "Only kids had to be told they were ‘cool.’ ",
+    "trx": "Только детям нужно было говорить, что они \"крутые\". ",
+    "val": "Only kids had to be told they were ‘cool.’ "
+  },
+  {
+    "key": "“I’m fourteen. ",
+    "trx": "“Мне четырнадцать. ",
+    "val": "“I’m fourteen. "
+  },
+  {
+    "key": "What about you, Suzune?”",
+    "trx": "А как насчет тебя, Сузуне?”",
+    "val": "What about you, Suzune?”"
+  },
+  {
+    "key": "From afar, he hadn’t realized how tall she was. Taller than him, and probably older.",
+    "trx": "Издалека он не понял, насколько она высока. Выше его и, вероятно, старше.",
+    "val": "From afar, he hadn’t realized how tall she was. Taller than him, and probably older."
+  },
+  {
+    "key": "“I’m seventeen.”",
+    "trx": "“Мне семнадцать”.",
+    "val": "“I’m seventeen.”"
+  },
+  {
+    "key": "He’d thought the difference would be less. ",
+    "trx": "Он думал, что разница будет меньше. ",
+    "val": "He’d thought the difference would be less. "
+  },
+  {
+    "key": "Three whole years apart? ",
+    "trx": "Целых три года разлуки? ",
+    "val": "Three whole years apart? "
+  },
+  {
+    "key": "Takuya’s heart sank further. Now she seemed even more unattainable.",
+    "trx": "Сердце Такуи упало еще сильнее. Теперь она казалась еще более недостижимой.",
+    "val": "Takuya’s heart sank further. Now she seemed even more unattainable."
+  },
+  {
+    "key": "As he tried to think of a way to nonchalantly ask Suzune where her room was, he heard the slap-slap of sandals approaching.",
+    "trx": "Пока он пытался придумать способ небрежно спросить Сузуне, где ее комната, он услышал приближающееся шлепанье сандалий.",
+    "val": "As he tried to think of a way to nonchalantly ask Suzune where her room was, he heard the slap-slap of sandals approaching."
+  },
+  {
+    "key": "“Suzune!” ",
+    "trx": "“Сузуне!” ",
+    "val": "“Suzune!” "
+  },
+  {
+    "key": "A boy came running up. He was young, maybe in first grade or so.",
+    "trx": "Подбежал мальчик. Он был молод, может быть, в первом классе или около того.",
+    "val": "A boy came running up. He was young, maybe in first grade or so."
+  },
+  {
+    "key": "“Hi, Ken. Long time no see.”",
+    "trx": "“Привет, Кен. Давно не виделись.”",
+    "val": "“Hi, Ken. Long time no see.”"
+  },
+  {
+    "key": "“This your brother?” Takuya asked.",
+    "trx": "“Это твой брат?” - спросил Такуя.",
+    "val": "“This your brother?” Takuya asked."
+  },
+  {
+    "key": "“No, he’s in the room next to mine.”",
+    "trx": "“Нет, он в соседней с моей комнате”.",
+    "val": "“No, he’s in the room next to mine.”"
+  },
+  {
+    "key": "“Who’s this?” ",
+    "trx": "“Кто это?” ",
+    "val": "“Who’s this?” "
+  },
+  {
+    "key": "The boy clung possessively to Suzune’s knee as he peered at Takuya.",
+    "trx": "Мальчик собственнически вцепился в колено Сузуне, пристально глядя на Такую.",
+    "val": "The boy clung possessively to Suzune’s knee as he peered at Takuya."
+  },
+  {
+    "key": "“This is Takuya Kazama. ",
+    "trx": "“Это Такуя Казама. ",
+    "val": "“This is Takuya Kazama. "
+  },
+  {
+    "key": "He’s a patient, like us.”",
+    "trx": "Он такой же пациент, как и мы.”",
+    "val": "He’s a patient, like us.”"
+  },
+  {
+    "key": "“Huh. ",
+    "trx": "“Ха. ",
+    "val": "“Huh. "
+  },
+  {
+    "key": "Hey, I got some candy. Wanna eat it?” ",
+    "trx": "Эй, у меня есть немного конфет. Хочешь это съесть?” ",
+    "val": "Hey, I got some candy. Wanna eat it?” "
+  },
+  {
+    "key": "The boy tugged on Suzune’s hand.",
+    "trx": "Мальчик потянул Сузуне за руку.",
+    "val": "The boy tugged on Suzune’s hand."
+  },
+  {
+    "key": "“Oh yeah? ",
+    "trx": "“О, да? ",
+    "val": "“Oh yeah? "
+  },
+  {
+    "key": "All right, then, Takuya. ",
+    "trx": "Тогда ладно, Такуя. ",
+    "val": "All right, then, Takuya. "
+  },
+  {
+    "key": "I’ll see you later.”",
+    "trx": "Увидимся позже.”",
+    "val": "I’ll see you later.”"
+  },
+  {
+    "key": "“Yeah. ",
+    "trx": "\"Да. ",
+    "val": "“Yeah. "
+  },
+  {
+    "key": "Later.”",
+    "trx": "Позже.”",
+    "val": "Later.”"
+  },
+  {
+    "key": "Later?",
+    "trx": "Позже?",
+    "val": "Later?"
+  },
+  {
+    "key": "Later when?",
+    "trx": "Когда позже?",
+    "val": "Later when?"
+  },
+  {
+    "key": "Am I actually going to get to see her again?",
+    "trx": "Я действительно увижу ее снова?",
+    "val": "Am I actually going to get to see her again?"
+  },
+  {
+    "key": "As Takuya watched the young boy drag Suzune back inside, he felt a bitter surge of resentment.",
+    "trx": "Когда Такуя наблюдал, как мальчик тащит Сузуне обратно внутрь, он почувствовал горький прилив негодования.",
+    "val": "As Takuya watched the young boy drag Suzune back inside, he felt a bitter surge of resentment."
+  },
+  {
+    "key": "He’d thought that finally getting the chance to talk to her would make him feel a lot better, ",
+    "trx": "Он думал, что, наконец, получив возможность поговорить с ней, почувствует себя намного лучше, ",
+    "val": "He’d thought that finally getting the chance to talk to her would make him feel a lot better, "
+  },
+  {
+    "key": "but instead he felt worse than he had back when all he could do was stare at her through the window.",
+    "trx": "но вместо этого он чувствовал себя хуже, чем тогда, когда все, что он мог делать, это смотреть на нее через окно.",
+    "val": "but instead he felt worse than he had back when all he could do was stare at her through the window."
+  },
+  {
+    "key": "The sunlit garden suddenly struck him as cold and desolate, ",
+    "trx": "Залитый солнцем сад внезапно показался ему холодным и пустынным, ",
+    "val": "The sunlit garden suddenly struck him as cold and desolate, "
+  },
+  {
+    "key": "so he trudged back inside, his muscles faintly shuddering with each step.",
+    "trx": "поэтому он поплелся обратно внутрь, его мышцы слегка вздрагивали при каждом шаге.",
+    "val": "so he trudged back inside, his muscles faintly shuddering with each step."
+  },
+  {
+    "key": "He made his way back toward the elevator to find the head nurse waiting in the corridor, glaring at him.",
+    "trx": "Он направился обратно к лифту и обнаружил старшую медсестру, которая ждала в коридоре, пристально глядя на него.",
+    "val": "He made his way back toward the elevator to find the head nurse waiting in the corridor, glaring at him."
+  },
+  {
+    "key": "He kept his head down and tried to slip on past her, but she snapped at him as he drew near. ",
+    "trx": "Он опустил голову и попытался проскользнуть мимо нее, но она огрызнулась на него, когда он приблизился. ",
+    "val": "He kept his head down and tried to slip on past her, but she snapped at him as he drew near. "
+  },
+  {
+    "key": "“What were you talking about with Miss Endo?”",
+    "trx": "“О чем вы говорили с мисс Эндо?”",
+    "val": "“What were you talking about with Miss Endo?”"
+  },
+  {
+    "key": "“Huh?”",
+    "trx": "\"Хм?\"",
+    "val": "“Huh?”"
+  },
+  {
+    "key": "Takuya blushed at the idea that she’d been watching them, ",
+    "trx": "Такуя покраснел при мысли о том, что она наблюдала за ними, ",
+    "val": "Takuya blushed at the idea that she’d been watching them, "
+  },
+  {
+    "key": "but he soon realized she was being serious.",
+    "trx": "но вскоре он понял, что она говорит серьезно.",
+    "val": "but he soon realized she was being serious."
+  },
+  {
+    "key": "“You shouldn’t get too close to that girl.”",
+    "trx": "“Тебе не следует подходить слишком близко к этой девушке”.",
+    "val": "“You shouldn’t get too close to that girl.”"
+  },
+  {
+    "key": "“Why not?” he asked.",
+    "trx": "\"почему нет?\" он спросил.",
+    "val": "“Why not?” he asked."
+  },
+  {
+    "key": "“She may not look it, but she’s seriously ill. ",
+    "trx": "“Может, она и не выглядит так, но она серьезно больна. ",
+    "val": "“She may not look it, but she’s seriously ill. "
+  },
+  {
+    "key": "Neither of you has the ability to fend off a major infection, and we certainly don’t want you to go catching anything.” ",
+    "trx": "Ни у кого из вас нет возможности защититься от серьезной инфекции, и мы, конечно, не хотим, чтобы вы что-нибудь подхватили”. ",
+    "val": "Neither of you has the ability to fend off a major infection, and we certainly don’t want you to go catching anything.” "
+  },
+  {
+    "key": "The nurse looked away as she spoke, rattling off the words.",
+    "trx": "Медсестра отвела взгляд, когда заговорила, выговаривая слова.",
+    "val": "The nurse looked away as she spoke, rattling off the words."
+  },
+  {
+    "key": "“But they let her go outside like that, right?”",
+    "trx": "“Но они позволили ей вот так выйти на улицу, верно?”",
+    "val": "“But they let her go outside like that, right?”"
+  },
+  {
+    "key": "“Yes, that’s true. ",
+    "trx": "“Да, это правда. ",
+    "val": "“Yes, that’s true. "
+  },
+  {
+    "key": "But Takuya, why in the world did ",
+    "trx": "Но Такуя, зачем, черт возьми, ты это сделал ",
+    "val": "But Takuya, why in the world did "
+  },
+  {
+    "key": "you",
+    "trx": "ты",
+    "val": "you"
+  },
+  {
+    "key": " go out? ",
+    "trx": " выйти на улицу? ",
+    "val": " go out? "
+  },
+  {
+    "key": "Did the doctor tell you to go for a walk?”",
+    "trx": "Доктор сказал тебе пойти прогуляться?”",
+    "val": "Did the doctor tell you to go for a walk?”"
+  },
+  {
+    "key": "“No. ",
+    "trx": "\"Нет. ",
+    "val": "“No. "
+  },
+  {
+    "key": "But I thought that, since I was feeling pretty well and all...” ",
+    "trx": "Но я подумал, что, поскольку я чувствовал себя довольно хорошо и все такое...” ",
+    "val": "But I thought that, since I was feeling pretty well and all...” "
+  },
+  {
+    "key": "“You expect me to believe that? ",
+    "trx": "“Ты думаешь, я поверю в это? ",
+    "val": "“You expect me to believe that? "
+  },
+  {
+    "key": "You’re shaking! ",
+    "trx": "Ты дрожишь! ",
+    "val": "You’re shaking! "
+  },
+  {
+    "key": "Come on, let’s get you back to bed.”",
+    "trx": "Давай, давай отнесем тебя обратно в постель.”",
+    "val": "Come on, let’s get you back to bed.”"
+  },
+  {
+    "key": "The nurse ushered Takuya into the elevator and escorted him back to his room.",
+    "trx": "Медсестра проводила Такую в лифт и проводила его обратно в палату.",
+    "val": "The nurse ushered Takuya into the elevator and escorted him back to his room."
+  },
+  {
+    "key": "He was actually quite exhausted, and so he quietly got back into bed.",
+    "trx": "На самом деле он был совершенно измотан и поэтому тихо вернулся в постель.",
+    "val": "He was actually quite exhausted, and so he quietly got back into bed."
+  },
+  {
+    "key": "“Nurse?” ",
+    "trx": "“Медсестра?” ",
+    "val": "“Nurse?” "
+  },
+  {
+    "key": "Takuya called out to her as she was leaving.",
+    "trx": "Такуя окликнул ее, когда она уходила.",
+    "val": "Takuya called out to her as she was leaving."
+  },
+  {
+    "key": "“Yes?”",
+    "trx": "\"да?\"",
+    "val": "“Yes?”"
+  },
+  {
+    "key": "“Suzune—",
+    "trx": "“Сузуне—",
+    "val": "“Suzune—"
+  },
+  {
+    "key": "Miss Endo, I mean. She’s got a bad heart, doesn’t she?”",
+    "trx": "Мисс Эндо, я имею в виду. У нее больное сердце, не так ли?”",
+    "val": "Miss Endo, I mean. She’s got a bad heart, doesn’t she?”"
+  },
+  {
+    "key": "“Did she tell you that?” ",
+    "trx": "“Это она тебе сказала?” ",
+    "val": "“Did she tell you that?” "
+  },
+  {
+    "key": "For whatever reason, the head nurse seemed quite shocked that Suzune had shared this information.",
+    "trx": "По какой-то причине старшая медсестра казалась совершенно шокированной тем, что Сузуне поделилась этой информацией.",
+    "val": "For whatever reason, the head nurse seemed quite shocked that Suzune had shared this information."
+  },
+  {
+    "key": "“Yeah. ",
+    "trx": "\"Да. ",
+    "val": "“Yeah. "
+  },
+  {
+    "key": "What is she sick with?”",
+    "trx": "Чем она больна?”",
+    "val": "What is she sick with?”"
+  },
+  {
+    "key": "“It’s something very serious. ",
+    "trx": "“Это что-то очень серьезное. ",
+    "val": "“It’s something very serious. "
+  },
+  {
+    "key": "That’s why you ought to leave her alone.”",
+    "trx": "Вот почему ты должен оставить ее в покое.”",
+    "val": "That’s why you ought to leave her alone.”"
+  },
+  {
+    "key": "“But, ",
+    "trx": "\"но, ",
+    "val": "“But, "
+  },
+  {
+    "key": "she’s going to get better, right?”",
+    "trx": "ей ведь станет лучше, верно?”",
+    "val": "she’s going to get better, right?”"
+  },
+  {
+    "key": "Takuya regretted the question the instant he asked it.",
+    "trx": "Такуя пожалел о своем вопросе в тот же миг, как задал его.",
+    "val": "Takuya regretted the question the instant he asked it."
+  },
+  {
+    "key": "The nurse’s grim expression was answer enough.",
+    "trx": "Мрачное выражение лица медсестры было достаточным ответом.",
+    "val": "The nurse’s grim expression was answer enough."
+  },
+  {
+    "key": "A sweet and cheerful girl like that had an incurable illness?",
+    "trx": "У такой милой и жизнерадостной девушки была неизлечимая болезнь?",
+    "val": "A sweet and cheerful girl like that had an incurable illness?"
+  },
+  {
+    "key": "For a while, Takuya couldn’t even believe it; ",
+    "trx": "Какое-то время Такуя даже не мог в это поверить; ",
+    "val": "For a while, Takuya couldn’t even believe it; "
+  },
+  {
+    "key": "after the nurse had left, he stared at the closed door in a daze.",
+    "trx": "после того, как медсестра ушла, он ошеломленно уставился на закрытую дверь.",
+    "val": "after the nurse had left, he stared at the closed door in a daze."
+  },
+  {
+    "key": "From that day on, Takuya kept up his vigilant watch on the courtyard, ",
+    "trx": "С этого дня Такуя продолжал бдительно следить за внутренним двором, ",
+    "val": "From that day on, Takuya kept up his vigilant watch on the courtyard, "
+  },
+  {
+    "key": "sneaking out of his room whenever he caught sight of Suzune; ",
+    "trx": "выскальзывал из своей комнаты всякий раз, когда видел Сузуне; ",
+    "val": "sneaking out of his room whenever he caught sight of Suzune; "
+  },
+  {
+    "key": " bit by bit, the two of them began talking more.",
+    "trx": " мало-помалу они вдвоем стали больше разговаривать.",
+    "val": " bit by bit, the two of them began talking more."
+  },
+  {
+    "key": "Sometimes she’d come out two days in a row, ",
+    "trx": "Иногда она выходила два дня подряд, ",
+    "val": "Sometimes she’d come out two days in a row, "
+  },
+  {
+    "key": "and sometimes he wouldn’t see her for nearly a week at a time.",
+    "trx": "а иногда он не видел ее почти неделю за раз.",
+    "val": "and sometimes he wouldn’t see her for nearly a week at a time."
+  },
+  {
+    "key": "Other times, he would wander the hospital corridors in search of her room, only to be intercepted and sent back to his own room by the head nurse.",
+    "trx": "В других случаях он бродил по больничным коридорам в поисках ее палаты, но старшая медсестра перехватывала его и отправляла обратно в его собственную палату.",
+    "val": "Other times, he would wander the hospital corridors in search of her room, only to be intercepted and sent back to his own room by the head nurse."
+  },
+  {
+    "key": "Suzune was quite popular.",
+    "trx": "Сузуне была довольно популярна.",
+    "val": "Suzune was quite popular."
+  },
+  {
+    "key": "Most especially, the old men, ",
+    "trx": "Особенно старики, ",
+    "val": "Most especially, the old men, "
+  },
+  {
+    "key": "old women, ",
+    "trx": "старые женщины, ",
+    "val": "old women, "
+  },
+  {
+    "key": "and young children at the hospital all seemed devoted to her, ",
+    "trx": "и все маленькие дети в больнице казались ей преданными, ",
+    "val": "and young children at the hospital all seemed devoted to her, "
+  },
+  {
+    "key": "their faces lighting up whenever she was around.",
+    "trx": "их лица загорались всякий раз, когда она была рядом.",
+    "val": "their faces lighting up whenever she was around."
+  },
+  {
+    "key": "She was kind enough to listen to all their grumbling or trifling conversations.",
+    "trx": "Она была достаточно добра, чтобы выслушивать все их ворчание или пустячные разговоры.",
+    "val": "She was kind enough to listen to all their grumbling or trifling conversations."
+  },
+  {
+    "key": "Takuya was equal parts impressed and baffled by her ability to relate to them.",
+    "trx": "Такуя был в равной степени впечатлен и озадачен ее способностью общаться с ними.",
+    "val": "Takuya was equal parts impressed and baffled by her ability to relate to them."
+  },
+  {
+    "key": "I could never put up with that sort of thing.",
+    "trx": "Я никогда не мог смириться с подобными вещами.",
+    "val": "I could never put up with that sort of thing."
+  },
+  {
+    "key": "More than anything, though, her popularity was frustrating.",
+    "trx": "Однако больше всего на свете ее популярность расстраивала.",
+    "val": "More than anything, though, her popularity was frustrating."
+  },
+  {
+    "key": "He would have had much more time alone with her if all these people weren’t always around.",
+    "trx": "У него было бы гораздо больше времени наедине с ней, если бы все эти люди не были всегда рядом.",
+    "val": "He would have had much more time alone with her if all these people weren’t always around."
+  },
+  {
+    "key": "He felt like he was the last in a long line of supplicants waiting for her to grace him with a few moments of her time.",
+    "trx": "Он чувствовал себя последним в длинной очереди просителей, ожидающих, когда она удостоит его несколькими минутами своего времени.",
+    "val": "He felt like he was the last in a long line of supplicants waiting for her to grace him with a few moments of her time."
+  },
+  {
+    "key": "But after she learned about Takuya’s condition, ",
+    "trx": "Но после того, как она узнала о состоянии Такуи, ",
+    "val": "But after she learned about Takuya’s condition, "
+  },
+  {
+    "key": "perhaps out of some strange form of camaraderie, Suzune seemed to develop more of an interest in him.",
+    "trx": "возможно, из-за какой-то странной формы товарищества, Сузуне, казалось, проявляла к нему больший интерес.",
+    "val": "perhaps out of some strange form of camaraderie, Suzune seemed to develop more of an interest in him."
+  },
+  {
+    "key": "“",
+    "trx": "“",
+    "val": "“"
+  },
+  {
+    "key": "Wilson’s disease",
+    "trx": "Болезнь Вильсона",
+    "val": "Wilson’s disease"
+  },
+  {
+    "key": "? ",
+    "trx": "? ",
+    "val": "? "
+  },
+  {
+    "key": "I’ve never heard of it. Is it serious?”",
+    "trx": "Я никогда об этом не слышал. Это серьезно?”",
+    "val": "I’ve never heard of it. Is it serious?”"
+  },
+  {
+    "key": "Suzune’s concern seemed entirely genuine.",
+    "trx": "Беспокойство Сузуне казалось совершенно искренним.",
+    "val": "Suzune’s concern seemed entirely genuine."
+  },
+  {
+    "key": "For a brief moment, Takuya was almost happy about his rare and grave condition.",
+    "trx": "На краткий миг Такуя почти обрадовался своему редкому и тяжелому состоянию.",
+    "val": "For a brief moment, Takuya was almost happy about his rare and grave condition."
+  },
+  {
+    "key": "But he couldn’t say that, of course, and so he just nodded.",
+    "trx": "Но он, конечно, не мог этого сказать и поэтому просто кивнул.",
+    "val": "But he couldn’t say that, of course, and so he just nodded."
+  },
+  {
+    "key": "“Yeah. ",
+    "trx": "\"Да. ",
+    "val": "“Yeah. "
+  },
+  {
+    "key": "If you look, you can see that my eyes have turned kind of brown.”",
+    "trx": "Если ты посмотришь, то увидишь, что мои глаза стали немного карими.”",
+    "val": "If you look, you can see that my eyes have turned kind of brown.”"
+  },
+  {
+    "key": "Takuya pointed at one of his eyes to indicate the ",
+    "trx": "Такуя указал на один из своих глаз, чтобы указать на ",
+    "val": "Takuya pointed at one of his eyes to indicate the "
+  },
+  {
+    "key": "pale brown ring",
+    "trx": "бледно-коричневое кольцо",
+    "val": "pale brown ring"
+  },
+  {
+    "key": " in his cornea.",
+    "trx": " в его роговице.",
+    "val": " in his cornea."
+  },
+  {
+    "key": "“It’s something you’re born with, where copper builds up inside your body. ",
+    "trx": "“Это то, с чем вы рождаетесь, когда медь накапливается внутри вашего тела. ",
+    "val": "“It’s something you’re born with, where copper builds up inside your body. "
+  },
+  {
+    "key": "I’d get really tired super easily, and when the doctors checked me out it turned out I had hepatitis caused by Wilson’s disease. ",
+    "trx": "Я очень легко уставал, и когда врачи осмотрели меня, оказалось, что у меня гепатит, вызванный болезнью Уилсона. ",
+    "val": "I’d get really tired super easily, and when the doctors checked me out it turned out I had hepatitis caused by Wilson’s disease. "
+  },
+  {
+    "key": "My liver was already seriously damaged, and the only thing that’ll fix it is a transplant. That’s why I’m in here. ",
+    "trx": "Моя печень уже была серьезно повреждена, и единственное, что ее исправит, - это пересадка. Вот почему я здесь. ",
+    "val": "My liver was already seriously damaged, and the only thing that’ll fix it is a transplant. That’s why I’m in here. "
+  },
+  {
+    "key": "But finding a compatible donor has been...hard”",
+    "trx": "Но найти совместимого донора было... трудно”",
+    "val": "But finding a compatible donor has been...hard”"
+  },
+  {
+    "key": "“I guess...",
+    "trx": "“Я думаю...",
+    "val": "“I guess..."
+  },
+  {
+    "key": "we’re in the same boat.”",
+    "trx": "мы в одной лодке.”",
+    "val": "we’re in the same boat.”"
+  },
+  {
+    "key": "“You need a transplant too, Suzune?”",
+    "trx": "“Тебе тоже нужна пересадка, Сузуне?”",
+    "val": "“You need a transplant too, Suzune?”"
+  },
+  {
+    "key": "“Yeah. ",
+    "trx": "\"Да. ",
+    "val": "“Yeah. "
+  },
+  {
+    "key": "I’m still waiting. ",
+    "trx": "Я все еще жду. ",
+    "val": "I’m still waiting. "
+  },
+  {
+    "key": "I have what’s called ",
+    "trx": "У меня есть то, что называется ",
+    "val": "I have what’s called "
+  },
+  {
+    "key": "dilated cardiomyopathy",
+    "trx": "дилатационная кардиомиопатия",
+    "val": "dilated cardiomyopathy"
+  },
+  {
+    "key": ". ",
+    "trx": ". ",
+    "val": ". "
+  },
+  {
+    "key": "They’ve tried other forms of treatment, like limiting food and water intake for long periods, putting in an ",
+    "trx": "Они пробовали другие формы лечения, такие как ограничение потребления пищи и воды в течение длительного времени, введение ",
+    "val": "They’ve tried other forms of treatment, like limiting food and water intake for long periods, putting in an "
+  },
+  {
+    "key": "implanted defibrillator",
+    "trx": "имплантированный дефибриллятор",
+    "val": "implanted defibrillator"
+  },
+  {
+    "key": ", and other things, ",
+    "trx": ", и другие вещи, ",
+    "val": ", and other things, "
+  },
+  {
+    "key": "but it looks like a transplant is the only real solution.”",
+    "trx": "но, похоже, трансплантация - единственное реальное решение\".",
+    "val": "but it looks like a transplant is the only real solution.”"
+  },
+  {
+    "key": "Dilated cardiomyopathy? ",
+    "trx": "Дилатационная кардиомиопатия? ",
+    "val": "Dilated cardiomyopathy? "
+  },
+  {
+    "key": "Defibrillator? ",
+    "trx": "Дефибриллятор? ",
+    "val": "Defibrillator? "
+  },
+  {
+    "key": "What are those?",
+    "trx": "Что это такое?",
+    "val": "What are those?"
+  },
+  {
+    "key": "Takuya didn’t understand all the vocabulary, but it sounded like her condition was even worse than his own.",
+    "trx": "Такуя не понимал всего словарного запаса, но, похоже, ее состояние было еще хуже, чем его собственное.",
+    "val": "Takuya didn’t understand all the vocabulary, but it sounded like her condition was even worse than his own."
+  },
+  {
+    "key": "“But the biggest problem,” Suzune continued, ",
+    "trx": "“Но самая большая проблема”, - продолжила Сузуне, ",
+    "val": "“But the biggest problem,” Suzune continued, "
+  },
+  {
+    "key": "“is that there just aren’t a lot of heart donors in Japan. ",
+    "trx": "“дело в том, что в Японии просто не так много доноров сердца. ",
+    "val": "“is that there just aren’t a lot of heart donors in Japan. "
+  },
+  {
+    "key": "And moreover—”",
+    "trx": "И более того...”",
+    "val": "And moreover—”"
+  },
+  {
+    "key": "Abruptly, she fell silent.",
+    "trx": "Внезапно она замолчала.",
+    "val": "Abruptly, she fell silent."
+  },
+  {
+    "key": "A look of loneliness crossed her face; then she turned back to Takuya with a reassuring smile. ",
+    "trx": "На ее лице появилось выражение одиночества, затем она повернулась к Такуе с ободряющей улыбкой. ",
+    "val": "A look of loneliness crossed her face; then she turned back to Takuya with a reassuring smile. "
+  },
+  {
+    "key": "“You’ll find a match soon, Takuya. ",
+    "trx": "“Ты скоро найдешь себе пару, Такуя. ",
+    "val": "“Ты скоро найдешь подходящего донора, Такуя. "
+  },
+  {
+    "key": "Everything will be fine.”",
+    "trx": "Все будет хорошо\".",
+    "val": "Everything will be fine.”"
+  },
+  {
+    "key": "“And you’ll find one too, Suzune. ",
+    "trx": "“И ты тоже найдешь его, Сузуне. ",
+    "val": "“And you’ll find one too, Suzune. "
+  },
+  {
+    "key": "Isn’t that right?” ",
+    "trx": "Разве это не так?” ",
+    "val": "Isn’t that right?” "
+  },
+  {
+    "key": "Takuya felt like something was caught in his throat; it was hard to get the words out.",
+    "trx": "Такуя почувствовал, как что-то застряло у него в горле; ему было трудно произнести слова.",
+    "val": "Takuya felt like something was caught in his throat; it was hard to get the words out."
+  },
+  {
+    "key": "“Yeah. ",
+    "trx": "\"Да. ",
+    "val": "“Yeah. "
+  },
+  {
+    "key": "If I’m really lucky.” ",
+    "trx": "Если мне действительно повезет.” ",
+    "val": "If I’m really lucky.” "
+  },
+  {
+    "key": "Suzune hesitated before continuing. ",
+    "trx": "Сузуне поколебалась, прежде чем продолжить. ",
+    "val": "Suzune hesitated before continuing. "
+  },
+  {
+    "key": "“But even then, I doubt I’ll be able to get the surgery.”",
+    "trx": "“Но даже тогда я сомневаюсь, что смогу сделать операцию”.",
+    "val": "“But even then, I doubt I’ll be able to get the surgery.”"
+  },
+  {
+    "key": "Her tone was so matter-of-fact.",
+    "trx": "Ее тон был таким будничным.",
+    "val": "Her tone was so matter-of-fact."
+  },
+  {
+    "key": "“Why not?” Takuya asked.",
+    "trx": "\"почему нет?\" - спросил Такуя.",
+    "val": "“Why not?” Takuya asked."
+  },
+  {
+    "key": "“My family doesn’t have much money, so we can’t afford to get surgery overseas. ",
+    "trx": "“У моей семьи не так много денег, поэтому мы не можем позволить себе операцию за границей. ",
+    "val": "“My family doesn’t have much money, so we can’t afford to get surgery overseas. "
+  },
+  {
+    "key": "But it’s all right. ",
+    "trx": "Но все в порядке. ",
+    "val": "But it’s all right. "
+  },
+  {
+    "key": "I don’t really like the idea of being saved by getting some poor brain-dead person’s heart. ",
+    "trx": "Мне не очень нравится идея быть спасенным, получив сердце какого-то бедного безмозглого человека. ",
+    "val": "I don’t really like the idea of being saved by getting some poor brain-dead person’s heart. "
+  },
+  {
+    "key": "I mean that’s what it comes down to, you know? ",
+    "trx": "Я имею в виду, вот к чему все сводится, понимаешь? ",
+    "val": "I mean that’s what it comes down to, you know? "
+  },
+  {
+    "key": "Unless someone else dies, I can’t be saved. ",
+    "trx": "Если кто-то еще не умрет, я не смогу быть спасен. ",
+    "val": "Unless someone else dies, I can’t be saved. "
+  },
+  {
+    "key": "If I had to think of some family out there grieving over their loss, ",
+    "trx": "Если бы мне пришлось думать о какой-нибудь семье, скорбящей о своей потере, ",
+    "val": "If I had to think of some family out there grieving over their loss, "
+  },
+  {
+    "key": "I wouldn’t be able to be happy, even if it did mean I got better.”",
+    "trx": "Я бы не смогла быть счастливой, даже если бы это означало, что мне стало лучше\".",
+    "val": "I wouldn’t be able to be happy, even if it did mean I got better.”"
+  },
+  {
+    "key": "Takuya had never thought about that.",
+    "trx": "Такуя никогда не думал об этом.",
+    "val": "Takuya had never thought about that."
+  },
+  {
+    "key": "Just imagining part of some stranger’s body getting put inside his own was more than scary enough.",
+    "trx": "Просто представить, как часть тела какого-то незнакомца помещается в его собственное, было более чем достаточно страшно.",
+    "val": "Just imagining part of some stranger’s body getting put inside his own was more than scary enough."
+  },
+  {
+    "key": "Still, if he had to choose between that and death, well, ",
+    "trx": "И все же, если бы ему пришлось выбирать между этим и смертью, что ж, ",
+    "val": "Still, if he had to choose between that and death, well, "
+  },
+  {
+    "key": "it wasn’t even a contest.",
+    "trx": "это даже не было соревнованием.",
+    "val": "it wasn’t even a contest."
+  },
+  {
+    "key": "“But, if you don’t get a transplant, ",
+    "trx": "“Но если тебе не сделают пересадку, ",
+    "val": "“But, if you don’t get a transplant, "
+  },
+  {
+    "key": "then...” ",
+    "trx": "тогда...” ",
+    "val": "then...” "
+  },
+  {
+    "key": "“Everybody dies. ",
+    "trx": "“Все умирают. ",
+    "val": "“Everybody dies. "
+  },
+  {
+    "key": "That’s just how it is. ",
+    "trx": "Просто так оно и есть. ",
+    "val": "That’s just how it is. "
+  },
+  {
+    "key": "For some of us it just happens earlier than for others.”",
+    "trx": "Для некоторых из нас это просто происходит раньше, чем для других”.",
+    "val": "For some of us it just happens earlier than for others.”"
+  },
+  {
+    "key": "“You can’t just give up like that!” Takuya cried. ",
+    "trx": "“Ты не можешь вот так просто сдаться!” - воскликнул Такуя. ",
+    "val": "“You can’t just give up like that!” Takuya cried. "
+  },
+  {
+    "key": "“I...",
+    "trx": "“Я...",
+    "val": "“I..."
+  },
+  {
+    "key": "I...",
+    "trx": "Я...",
+    "val": "I..."
+  },
+  {
+    "key": "I won’t survive unless I get someone’s liver. ",
+    "trx": "Я не выживу, если не получу чью-нибудь печень. ",
+    "val": "I won’t survive unless I get someone’s liver. "
+  },
+  {
+    "key": "But if I’m lucky—",
+    "trx": "Но если мне повезет—",
+    "val": "But if I’m lucky—"
+  },
+  {
+    "key": "if I’m lucky enough to actually get one, I’ll be happy about it. ",
+    "trx": "если мне повезет и я действительно его получу, я буду этому рад. ",
+    "val": "if I’m lucky enough to actually get one, I’ll be happy about it. "
+  },
+  {
+    "key": "The doctor told me that people only give their organs on death because they want to. ",
+    "trx": "Доктор сказал мне, что люди отдают свои органы только после смерти, потому что они этого хотят. ",
+    "val": "The doctor told me that people only give their organs on death because they want to. "
+  },
+  {
+    "key": "They want to save lives.”",
+    "trx": "Они хотят спасать жизни\".",
+    "val": "They want to save lives.”"
+  },
+  {
+    "key": "Suzune appeared flustered. ",
+    "trx": "Сузуне казалась взволнованной. ",
+    "val": "Suzune appeared flustered. "
+  },
+  {
+    "key": "“I’m sorry. ",
+    "trx": "\"мне жаль. ",
+    "val": "“I’m sorry. "
+  },
+  {
+    "key": "I know that’s the way I should be thinking about it. ",
+    "trx": "Я знаю, что именно так мне и следует думать об этом. ",
+    "val": "I know that’s the way I should be thinking about it. "
+  },
+  {
+    "key": "I’m sure that things will go well for you, Takuya, and that they’ll find a donor for you. And you shouldn’t hesitate to get that surgery. ",
+    "trx": "Я уверен, что у тебя все будет хорошо, Такуя, и что они найдут для тебя донора. И вы не должны колебаться, чтобы сделать эту операцию. ",
+    "val": "I’m sure that things will go well for you, Takuya, and that they’ll find a donor for you. And you shouldn’t hesitate to get that surgery. "
+  },
+  {
+    "key": "By getting better, you’ll be honoring the dead, in a way. ",
+    "trx": "Выздоравливая, вы в некотором смысле почтите память погибших. ",
+    "val": "By getting better, you’ll be honoring the dead, in a way. "
+  },
+  {
+    "key": "But...” ",
+    "trx": "Но...” ",
+    "val": "But...” "
+  },
+  {
+    "key": "She let out a sigh.",
+    "trx": "Она вздохнула.",
+    "val": "She let out a sigh."
+  },
+  {
+    "key": "“That’s not going to happen for me.”",
+    "trx": "“Со мной этого не случится”.",
+    "val": "“That’s not going to happen for me.”"
+  },
+  {
+    "key": "“Why not?”",
+    "trx": "\"почему нет?\"",
+    "val": "“Why not?”"
+  },
+  {
+    "key": "“My blood type is really unique. ",
+    "trx": "“Моя группа крови действительно уникальна. ",
+    "val": "“My blood type is really unique. "
+  },
+  {
+    "key": "I don’t think a compatible donor is ever going to turn up.” ",
+    "trx": "Я не думаю, что совместимый донор когда-нибудь найдется”. ",
+    "val": "I don’t think a compatible donor is ever going to turn up.” "
+  },
+  {
+    "key": "“A unique blood type?” ",
+    "trx": "“Уникальная группа крови?” ",
+    "val": "“A unique blood type?” "
+  },
+  {
+    "key": "Takuya stammered a little as he asked. ",
+    "trx": "Такуя слегка запнулся, когда спросил. ",
+    "val": "Takuya stammered a little as he asked. "
+  },
+  {
+    "key": "“You mean like Rh negative?”",
+    "trx": "“Ты имеешь в виду отрицательный резус?”",
+    "val": "“You mean like Rh negative?”"
+  },
+  {
+    "key": "Suzune shook her head.",
+    "trx": "Сузуне покачала головой.",
+    "val": "Suzune shook her head."
+  },
+  {
+    "key": "“You’ve probably never heard of it. ",
+    "trx": "“Вы, наверное, никогда об этом не слышали. ",
+    "val": "“You’ve probably never heard of it. "
+  },
+  {
+    "key": "It’s called Bombay. ",
+    "trx": "Это называется Бомбей. ",
+    "val": "It’s called Bombay. "
+  },
+  {
+    "key": "They say only a few dozen people have it in all of Japan. ",
+    "trx": "Говорят, во всей Японии им болеют всего несколько десятков человек. ",
+    "val": "They say only a few dozen people have it in all of Japan. "
+  },
+  {
+    "key": "One of that handful of people would have to happen to go brain-dead, ",
+    "trx": "У одного из этой горстки людей должен был бы отмереть мозг, ",
+    "val": "One of that handful of people would have to happen to go brain-dead, "
+  },
+  {
+    "key": "then they’d need to get that person here before their heart stopped, ",
+    "trx": "тогда им нужно было бы доставить этого человека сюда до того, как у него остановится сердце, ",
+    "val": "then they’d need to get that person here before their heart stopped, "
+  },
+  {
+    "key": "and then the surgery itself would need to go well enough—",
+    "trx": "и тогда сама операция должна была бы пройти достаточно хорошо—",
+    "val": "and then the surgery itself would need to go well enough—"
+  },
+  {
+    "key": "that’s too many coincidences to hope for, you know?”",
+    "trx": "слишком много совпадений, чтобы надеяться на них, понимаешь?”",
+    "val": "that’s too many coincidences to hope for, you know?”"
+  },
+  {
+    "key": "Takuya was too surprised to say anything at all.",
+    "trx": "Такуя был слишком удивлен, чтобы вообще что-то сказать.",
+    "val": "Takuya was too surprised to say anything at all."
+  },
+  {
+    "key": "“I’m not about to live what’s left of my life expecting that I’ll win the lottery like that,” Suzune said. ",
+    "trx": "“Я не собираюсь жить тем, что осталось от моей жизни, ожидая, что я выиграю в лотерею таким образом”, - сказала Сузуне. ",
+    "val": "“I’m not about to live what’s left of my life expecting that I’ll win the lottery like that,” Suzune said. "
+  },
+  {
+    "key": "“It’s better to focus as best I can on what I ",
+    "trx": "“Лучше сосредоточиться как можно лучше на том, что я ",
+    "val": "“It’s better to focus as best I can on what I "
+  },
+  {
+    "key": "can",
+    "trx": "мочь",
+    "val": "can"
+  },
+  {
+    "key": " do.”",
+    "trx": " делай.”",
+    "val": " do.”"
+  },
+  {
+    "key": "“On what you can do? ",
+    "trx": "“О том, что ты можешь сделать? ",
+    "val": "“On what you can do? "
+  },
+  {
+    "key": "What do you mean?”",
+    "trx": "Что вы имеете в виду?”",
+    "val": "What do you mean?”"
+  },
+  {
+    "key": "“There are a lot of patients here like you and me who have been here for a very long time. ",
+    "trx": "“Здесь много таких пациентов, как мы с вами, которые находятся здесь уже очень давно. ",
+    "val": "“There are a lot of patients here like you and me who have been here for a very long time. "
+  },
+  {
+    "key": "Most of them are senior citizens whose families rarely if ever come to see them. ",
+    "trx": "Большинство из них - пожилые люди, чьи семьи редко, если вообще когда-либо, навещают их. ",
+    "val": "Most of them are senior citizens whose families rarely if ever come to see them. "
+  },
+  {
+    "key": "And I kind of enjoy listening to older people talk. ",
+    "trx": "И мне вроде как нравится слушать разговоры пожилых людей. ",
+    "val": "And I kind of enjoy listening to older people talk. "
+  },
+  {
+    "key": "They’ve all got plenty of interesting stories to tell. ",
+    "trx": "У всех них есть масса интересных историй, которые можно рассказать. ",
+    "val": "They’ve all got plenty of interesting stories to tell. "
+  },
+  {
+    "key": "But more importantly, it brings smiles to their faces, having someone who will listen to them.",
+    "trx": "Но что еще более важно, это вызывает улыбки на их лицах, когда есть кто-то, кто будет их слушать.",
+    "val": "But more importantly, it brings smiles to their faces, having someone who will listen to them."
+  },
+  {
+    "key": "They tell me that, for a little while, it’s like they’re young again. Like their pain has gone away. ",
+    "trx": "Они говорят мне, что на какое-то время они как будто снова стали молодыми. Как будто их боль ушла. ",
+    "val": "They tell me that, for a little while, it’s like they’re young again. Like their pain has gone away. "
+  },
+  {
+    "key": "And seeing them smile—it makes me happy, too. ",
+    "trx": "И видеть, как они улыбаются, — это тоже делает меня счастливым. ",
+    "val": "And seeing them smile—it makes me happy, too. "
+  },
+  {
+    "key": "I want to make friends with as many people as possible, to learn about as many people as I can. ",
+    "trx": "Я хочу подружиться с как можно большим количеством людей, узнать о как можно большем количестве людей. ",
+    "val": "I want to make friends with as many people as possible, to learn about as many people as I can. "
+  },
+  {
+    "key": "I don’t have time to wallow in my own misfortune.”",
+    "trx": "У меня нет времени погрязать в собственном несчастье.”",
+    "val": "I don’t have time to wallow in my own misfortune.”"
+  },
+  {
+    "key": "Takuya had assumed that, unlike himself, Suzune was as cheerful as she seemed to be because she had hope that she’d get better.",
+    "trx": "Такуя предположил, что, в отличие от него самого, Сузуне была такой жизнерадостной, какой казалась, потому что у нее была надежда, что ей станет лучше.",
+    "val": "Takuya had assumed that, unlike himself, Suzune was as cheerful as she seemed to be because she had hope that she’d get better."
+  },
+  {
+    "key": "He had been suffering through his own illness, and had thought day in and day out about how unlucky he was to have been born with it.",
+    "trx": "Он страдал от своей собственной болезни и изо дня в день думал о том, как ему не повезло родиться с ней.",
+    "val": "He had been suffering through his own illness, and had thought day in and day out about how unlucky he was to have been born with it."
+  },
+  {
+    "key": "Though he hated to admit it, he had long since discarded any hope that they’d find a donor and give him a successful transplant.",
+    "trx": "Хотя ему было неприятно это признавать, он уже давно отбросил всякую надежду на то, что они найдут донора и сделают ему успешную пересадку.",
+    "val": "Though he hated to admit it, he had long since discarded any hope that they’d find a donor and give him a successful transplant."
+  },
+  {
+    "key": "Until he met Suzune, he’d lived every day cursing his fate.",
+    "trx": "Пока он не встретил Сузуне, он жил каждый день, проклиная свою судьбу.",
+    "val": "Until he met Suzune, he’d lived every day cursing his fate."
+  },
+  {
+    "key": "Their circumstances were so similar—so why were they so different?",
+    "trx": "Их обстоятельства были так похожи — так почему же они были такими разными?",
+    "val": "Their circumstances were so similar—so why were they so different?"
+  },
+  {
+    "key": "Suzune.",
+    "trx": "Сузуне.",
+    "val": "Suzune."
+  },
+  {
+    "key": "Suzune was like an angel.",
+    "trx": "Сузуне была похожа на ангела.",
+    "val": "Suzune was like an angel."
+  },
+  {
+    "key": "Takuya...felt like a miserable excuse for a human being.",
+    "trx": "Такуя...чувствовал себя жалким подобием человеческого существа.",
+    "val": "Takuya...felt like a miserable excuse for a human being."
+  },
+  {
+    "key": "“I have to spent a lot of time resting in bed,” Suzune said, “so I read a lot. ",
+    "trx": "“Мне приходится проводить много времени, отдыхая в постели, - сказала Сузуне, - поэтому я много читаю. ",
+    "val": "“I have to spent a lot of time resting in bed,” Suzune said, “so I read a lot. "
+  },
+  {
+    "key": "Novels, essays...",
+    "trx": "Романы, эссе...",
+    "val": "Novels, essays..."
+  },
+  {
+    "key": "sometimes I try reading more difficult books on philosophy. ",
+    "trx": "иногда я пробую читать более сложные книги по философии. ",
+    "val": "sometimes I try reading more difficult books on philosophy. "
+  },
+  {
+    "key": "I don’t always understand a lot of it, but sometimes it just clicks, you know? ",
+    "trx": "Я не всегда многое понимаю, но иногда это просто срабатывает, понимаешь? ",
+    "val": "I don’t always understand a lot of it, but sometimes it just clicks, you know? "
+  },
+  {
+    "key": "And I read high school textbooks sometimes, too—",
+    "trx": "И я тоже иногда читаю школьные учебники—",
+    "val": "And I read high school textbooks sometimes, too—"
+  },
+  {
+    "key": "well, except for math. I’ve given up on that.”",
+    "trx": "ну, кроме математики. Я отказался от этого\".",
+    "val": "well, except for math. I’ve given up on that.”"
+  },
+  {
+    "key": "Takuya didn’t like reading.",
+    "trx": "Такуя не любил читать.",
+    "val": "Takuya didn’t like reading."
+  },
+  {
+    "key": "When he was in his room, he just watched TV.",
+    "trx": "Когда он был в своей комнате, он просто смотрел телевизор.",
+    "val": "When he was in his room, he just watched TV."
+  },
+  {
+    "key": "A lot of the time, the only shows that were on were garbage, and he ",
+    "trx": "Большую часть времени единственными шоу, которые шли, были отбросы, и он ",
+    "val": "A lot of the time, the only shows that were on were garbage, and he "
+  },
+  {
+    "key": "knew",
+    "trx": "знал",
+    "val": "knew"
+  },
+  {
+    "key": " they were garbage while he was watching them, ",
+    "trx": " они были мусором, пока он наблюдал за ними, ",
+    "val": " they were garbage while he was watching them, "
+  },
+  {
+    "key": "but there wasn’t anything else that caught his interest.",
+    "trx": "но больше его ничего не интересовало.",
+    "val": "but there wasn’t anything else that caught his interest."
+  },
+  {
+    "key": "His motivation to study was nonexistent, and he certainly didn’t have any textbooks in his room.It wasn’t like he was going to go on and live a full life, get a normal job, have a normal family.",
+    "trx": "Его мотивация к учебе отсутствовала, и у него, конечно же, не было никаких учебников в его комнате.Не похоже было, что он собирался продолжать жить полноценной жизнью, найти нормальную работу, завести нормальную семью.",
+    "val": "His motivation to study was nonexistent, and he certainly didn’t have any textbooks in his room.It wasn’t like he was going to go on and live a full life, get a normal job, have a normal family."
+  },
+  {
+    "key": "So what point was there in studying?",
+    "trx": "Так какой же смысл был в учебе?",
+    "val": "So what point was there in studying?"
+  },
+  {
+    "key": "That’s what he had always thought, at least.",
+    "trx": "По крайней мере, так он всегда думал.",
+    "val": "That’s what he had always thought, at least."
+  },
+  {
+    "key": "Am I just wrong?",
+    "trx": "Я просто ошибаюсь?",
+    "val": "Am I just wrong?"
+  },
+  {
+    "key": "Halfway through her dinner, Suzune found that she’d lost her appetite; her mood was bleak.",
+    "trx": "В середине ужина Сузуне обнаружила, что потеряла аппетит; ее настроение было мрачным.",
+    "val": "Halfway through her dinner, Suzune found that she’d lost her appetite; her mood was bleak."
+  },
+  {
+    "key": "Why did I get so high-and-mighty with Takuya like that?",
+    "trx": "Почему я стал таким высокомерным и могущественным с Такуей?",
+    "val": "Why did I get so high-and-mighty with Takuya like that?"
+  },
+  {
+    "key": "All I ever do is pretend to be the person I wish I was.",
+    "trx": "Все, что я когда-либо делаю, это притворяюсь тем человеком, которым я хотел бы быть.",
+    "val": "All I ever do is pretend to be the person I wish I was."
+  },
+  {
+    "key": "In reality, all I do is worry about just when this heart of mine is going to stop.",
+    "trx": "На самом деле все, что я делаю, это беспокоюсь о том, когда мое сердце остановится.",
+    "val": "In reality, all I do is worry about just when this heart of mine is going to stop."
+  },
+  {
+    "key": "I know it’s normal to be afraid of dying.",
+    "trx": "Я знаю, что бояться смерти - это нормально.",
+    "val": "I know it’s normal to be afraid of dying."
+  },
+  {
+    "key": "I practice smiling for my father and my brother.",
+    "trx": "Я практикую улыбку для моего отца и моего брата.",
+    "val": "I practice smiling for my father and my brother."
+  },
+  {
+    "key": "I don’t want them to see my fear.",
+    "trx": "Я не хочу, чтобы они видели мой страх.",
+    "val": "I don’t want them to see my fear."
+  },
+  {
+    "key": "I was happy, and a little bit shocked, when I realized that my fake smiles actually worked.",
+    "trx": "Я был счастлив и немного шокирован, когда понял, что мои фальшивые улыбки действительно работают.",
+    "val": "I was happy, and a little bit shocked, when I realized that my fake smiles actually worked."
+  },
+  {
+    "key": "My smiles might have been forced, but the ones I got from those old men and old women and all the little kids—those were real.",
+    "trx": "Мои улыбки, возможно, были вымученными, но те, что я получил от этих стариков, старух и всех маленьких детей, были настоящими.",
+    "val": "My smiles might have been forced, but the ones I got from those old men and old women and all the little kids—those were real."
+  },
+  {
+    "key": "“",
+    "trx": "“",
+    "val": "“"
+  },
+  {
+    "key": "Oh, hey Suzune!",
+    "trx": "О, привет, Сузуне!",
+    "val": "Oh, hey Suzune!"
+  },
+  {
+    "key": "”",
+    "trx": "”",
+    "val": "”"
+  },
+  {
+    "key": "“",
+    "trx": "“",
+    "val": "“"
+  },
+  {
+    "key": "Hello, young lady.",
+    "trx": "Здравствуйте, юная леди.",
+    "val": "Hello, young lady."
+  },
+  {
+    "key": "”",
+    "trx": "”",
+    "val": "”"
+  },
+  {
+    "key": "Everyone’s always so happy to see me.",
+    "trx": "Все всегда так рады меня видеть.",
+    "val": "Everyone’s always so happy to see me."
+  },
+  {
+    "key": "At some point, Suzune had realized that she was no longer able to tell if her own smile was fake or not.",
+    "trx": "В какой-то момент Сузуне поняла, что больше не может сказать, была ли ее собственная улыбка фальшивой или нет.",
+    "val": "At some point, Suzune had realized that she was no longer able to tell if her own smile was fake or not."
+  },
+  {
+    "key": "She wasn’t lying when she said that the smiles on other people’s faces brought her joy.",
+    "trx": "Она не лгала, когда говорила, что улыбки на лицах других людей приносят ей радость.",
+    "val": "She wasn’t lying when she said that the smiles on other people’s faces brought her joy."
+  },
+  {
+    "key": "But every now and then, the loneliness returned.",
+    "trx": "Но время от времени одиночество возвращалось.",
+    "val": "But every now and then, the loneliness returned."
+  },
+  {
+    "key": "She wished she could tell someone how scared she was, finally let herself shed the tears she’d held in for so long.",
+    "trx": "Ей хотелось рассказать кому-нибудь, как ей было страшно, наконец-то позволить себе пролить слезы, которые она так долго сдерживала.",
+    "val": "She wished she could tell someone how scared she was, finally let herself shed the tears she’d held in for so long."
+  },
+  {
+    "key": "But she’d never be able to do that to either her father or her brother.",
+    "trx": "Но она никогда не смогла бы поступить так ни со своим отцом, ни со своим братом.",
+    "val": "But she’d never be able to do that to either her father or her brother."
+  },
+  {
+    "key": "She didn’t want them worrying about her any more than they already did.",
+    "trx": "Она не хотела, чтобы они беспокоились о ней больше, чем уже беспокоились.",
+    "val": "She didn’t want them worrying about her any more than they already did."
+  },
+  {
+    "key": "Her pulse grew erratic.",
+    "trx": "Ее пульс участился.",
+    "val": "Her pulse grew erratic."
+  },
+  {
+    "key": "Her ",
+    "trx": "Ее ",
+    "val": "Her "
+  },
+  {
+    "key": "intense heartbeat",
+    "trx": "интенсивное сердцебиение",
+    "val": "intense heartbeat"
+  },
+  {
+    "key": " hammered like the hoofbeats of a horse at full gallop, ",
+    "trx": " стучали, как удары копыт лошади на полном скаку, ",
+    "val": " hammered like the hoofbeats of a horse at full gallop, "
+  },
+  {
+    "key": "a sensation she’d known since childhood.",
+    "trx": "ощущение, знакомое ей с детства.",
+    "val": "a sensation she’d known since childhood."
+  },
+  {
+    "key": "Then she felt an intensely painful electrical shock course through her.",
+    "trx": "Затем она почувствовала, как через нее прошел очень болезненный электрический разряд.",
+    "val": "Then she felt an intensely painful electrical shock course through her."
+  },
+  {
+    "key": "Her implanted defibrillator had activated.",
+    "trx": "Ее имплантированный дефибриллятор активировался.",
+    "val": "Her implanted defibrillator had activated."
+  },
+  {
+    "key": "After suffering through the pain for about ten seconds, she felt her heartbeat stabilize.",
+    "trx": "Потерпев боль около десяти секунд, она почувствовала, что ее сердцебиение стабилизировалось.",
+    "val": "After suffering through the pain for about ten seconds, she felt her heartbeat stabilize."
+  },
+  {
+    "key": "I’m all right",
+    "trx": "Со мной все в порядке",
+    "val": "I’m all right"
+  },
+  {
+    "key": "My heart is still pumping.",
+    "trx": "Мое сердце все еще колотится.",
+    "val": "My heart is still pumping."
+  },
+  {
+    "key": "But despite her relief, it was impossible not to think about her how time was drawing ever closer.",
+    "trx": "Но, несмотря на ее облегчение, было невозможно не думать о ней, о том, как время приближается все ближе.",
+    "val": "But despite her relief, it was impossible not to think about her how time was drawing ever closer."
+  },
+  {
+    "key": "“If you’re in pain,",
+    "trx": "“Если тебе больно,",
+    "val": "“If you’re in pain,"
+  },
+  {
+    "key": "just say so.",
+    "trx": "просто скажи так.",
+    "val": "just say so."
+  },
+  {
+    "key": "It’s okay to admit it.”",
+    "trx": "Это нормально - признавать это.”",
+    "val": "It’s okay to admit it.”"
+  },
+  {
+    "key": "With a start, Suzune looked up and saw a nurse in her doorway.",
+    "trx": "Вздрогнув, Сузуне подняла глаза и увидела медсестру в дверях.",
+    "val": "With a start, Suzune looked up and saw a nurse in her doorway."
+  },
+  {
+    "key": "She hadn’t even noticed the door opening.",
+    "trx": "Она даже не заметила, как открылась дверь.",
+    "val": "She hadn’t even noticed the door opening."
+  },
+  {
+    "key": "Was it time to have her temperature taken again?",
+    "trx": "Не пора ли снова измерить ей температуру?",
+    "val": "Was it time to have her temperature taken again?"
+  },
+  {
+    "key": "She hurriedly put on the mask of a smile. ",
+    "trx": "Она поспешно надела маску улыбки. ",
+    "val": "She hurriedly put on the mask of a smile. "
+  },
+  {
+    "key": "“Hmm? ",
+    "trx": "«хмм? ",
+    "val": "“Hmm? "
+  },
+  {
+    "key": "Oh, no, I’m okay. ",
+    "trx": "О, нет, я в порядке. ",
+    "val": "Oh, no, I’m okay. "
+  },
+  {
+    "key": "It’s all calmed down now.”",
+    "trx": "Теперь все успокоилось.”",
+    "val": "It’s all calmed down now.”"
+  },
+  {
+    "key": "“Your illness isn’t the problem. ",
+    "trx": "“Проблема не в твоей болезни. ",
+    "val": "“Your illness isn’t the problem. "
+  },
+  {
+    "key": "Hiding it is. If you need a little comfort, just ask.”",
+    "trx": "Скрывать это так и есть. Если тебе нужно немного утешения, просто попроси.”",
+    "val": "Hiding it is. If you need a little comfort, just ask.”"
+  },
+  {
+    "key": "Suzune was at a loss for words.",
+    "trx": "Сузуне не находила слов.",
+    "val": "Suzune was at a loss for words."
+  },
+  {
+    "key": "It was dark outside, and with the lights in her room turned off, she couldn’t get a good look at the nurse’s face.",
+    "trx": "На улице было темно, и из-за выключенного света в ее комнате она не могла как следует разглядеть лицо медсестры.",
+    "val": "It was dark outside, and with the lights in her room turned off, she couldn’t get a good look at the nurse’s face."
+  },
+  {
+    "key": "The woman was tall and slender, and had a rather nice build.",
+    "trx": "Женщина была высокой и стройной, довольно приятного телосложения.",
+    "val": "The woman was tall and slender, and had a rather nice build."
+  },
+  {
+    "key": "Was there a nurse like that on staff in this ward? She couldn’t remember.",
+    "trx": "Была ли такая медсестра в штате этой палаты? Она не могла вспомнить.",
+    "val": "Was there a nurse like that on staff in this ward? She couldn’t remember."
+  },
+  {
+    "key": "“What ",
+    "trx": "“Что ",
+    "val": "“What "
+  },
+  {
+    "key": "are you talking about?” ",
+    "trx": "ты о чем говоришь?” ",
+    "val": "are you talking about?” "
+  },
+  {
+    "key": "Suzune felt her smile warp as she struggled to conceal a sudden upwelling of sorrow.",
+    "trx": "Сузуне почувствовала, как ее улыбка исказилась, когда она изо всех сил пыталась скрыть внезапный прилив печали.",
+    "val": "Suzune felt her smile warp as she struggled to conceal a sudden upwelling of sorrow."
+  },
+  {
+    "key": "“You’re facing your condition like an adult, but from your father’s perspective, you’re still his little girl. ",
+    "trx": "“Ты смотришь в лицо своему состоянию как взрослая, но с точки зрения твоего отца ты все еще его маленькая девочка. ",
+    "val": "“You’re facing your condition like an adult, but from your father’s perspective, you’re still his little girl. "
+  },
+  {
+    "key": "It’s completely natural for your family to worry about you.”",
+    "trx": "Для твоей семьи совершенно естественно беспокоиться о тебе\".",
+    "val": "It’s completely natural for your family to worry about you.”"
+  },
+  {
+    "key": "This person knows who I am.",
+    "trx": "Этот человек знает, кто я такой.",
+    "val": "This person knows who I am."
+  },
+  {
+    "key": "I’m not sure how, but she knows everything...",
+    "trx": "Я не знаю как, но она знает все...",
+    "val": "I’m not sure how, but she knows everything..."
+  },
+  {
+    "key": "Suzune let her mask fall.",
+    "trx": "Сузуне позволила своей маске упасть.",
+    "val": "Suzune let her mask fall."
+  },
+  {
+    "key": "She looked down at her hands, balled tightly into fists, and she let the tears come.",
+    "trx": "Она посмотрела вниз на свои руки, крепко сжатые в кулаки, и дала волю слезам.",
+    "val": "She looked down at her hands, balled tightly into fists, and she let the tears come."
+  },
+  {
+    "key": "“I...",
+    "trx": "“Я...",
+    "val": "“I..."
+  },
+  {
+    "key": "I want to be a strong person. ",
+    "trx": "Я хочу быть сильным человеком. ",
+    "val": "Я хочу быть сильной. "
+  },
+  {
+    "key": "But I can’t do it. ",
+    "trx": "Но я не могу этого сделать. ",
+    "val": "But I can’t do it. "
+  },
+  {
+    "key": "Everyone tells me what a strong and cheerful girl I am, ",
+    "trx": "Все говорят мне, какая я сильная и жизнерадостная девушка, ",
+    "val": "Everyone tells me what a strong and cheerful girl I am, "
+  },
+  {
+    "key": "but it’s all a lie.”",
+    "trx": "но все это ложь\".",
+    "val": "but it’s all a lie.”"
+  },
+  {
+    "key": "The words spilled out as her emotions came rushing to the surface.",
+    "trx": "Слова вырвались наружу, когда ее эмоции вырвались на поверхность.",
+    "val": "The words spilled out as her emotions came rushing to the surface."
+  },
+  {
+    "key": "“I’m afraid of dying, ",
+    "trx": "“Я боюсь умереть, ",
+    "val": "“I’m afraid of dying, "
+  },
+  {
+    "key": "I’m afraid of getting surgery, ",
+    "trx": "Я боюсь, что мне сделают операцию, ",
+    "val": "I’m afraid of getting surgery, "
+  },
+  {
+    "key": "I’m even afraid to go on living. ",
+    "trx": "Я даже боюсь продолжать жить. ",
+    "val": "I’m even afraid to go on living. "
+  },
+  {
+    "key": "What scares me more than anything is when night comes. ",
+    "trx": "Что пугает меня больше всего на свете, так это когда наступает ночь. ",
+    "val": "What scares me more than anything is when night comes. "
+  },
+  {
+    "key": "I’m afraid every time I go to sleep that I might not wake up again. ",
+    "trx": "Я боюсь каждый раз, когда ложусь спать, что могу больше не проснуться. ",
+    "val": "I’m afraid every time I go to sleep that I might not wake up again. "
+  },
+  {
+    "key": "I thought that if I kept pretending I wasn’t scared that eventually I’d be able to fool myself. ",
+    "trx": "Я думал, что если буду продолжать притворяться, что мне не страшно, то в конце концов смогу обмануть самого себя. ",
+    "val": "I thought that if I kept pretending I wasn’t scared that eventually I’d be able to fool myself. "
+  },
+  {
+    "key": "But that didn’t happen. ",
+    "trx": "Но этого не произошло. ",
+    "val": "But that didn’t happen. "
+  },
+  {
+    "key": "I’m the only one I can’t fool.”",
+    "trx": "Я единственный, кого я не могу обмануть.”",
+    "val": "I’m the only one I can’t fool.”"
+  },
+  {
+    "key": "“I think you’re plenty strong.”",
+    "trx": "“Я думаю, что ты достаточно силен\".",
+    "val": "“I think you’re plenty strong.”"
+  },
+  {
+    "key": "“Huh?”",
+    "trx": "\"Хм?\"",
+    "val": "“Huh?”"
+  },
+  {
+    "key": "“Everyone’s afraid of death. ",
+    "trx": "“Все боятся смерти. ",
+    "val": "“Everyone’s afraid of death. "
+  },
+  {
+    "key": "That’s why they try their hardest to look away from it. ",
+    "trx": "Вот почему они изо всех сил стараются отвести от этого взгляд. ",
+    "val": "That’s why they try their hardest to look away from it. "
+  },
+  {
+    "key": "Why they try to forget during the day-to-day that it’s coming. ",
+    "trx": "Почему они изо дня в день стараются забыть, что это грядет. ",
+    "val": "Why they try to forget during the day-to-day that it’s coming. "
+  },
+  {
+    "key": "But you face it every day. ",
+    "trx": "Но ты сталкиваешься с этим каждый день. ",
+    "val": "But you face it every day. "
+  },
+  {
+    "key": "Face it head-on. ",
+    "trx": "Посмотри правде в глаза. ",
+    "val": "Face it head-on. "
+  },
+  {
+    "key": "You’re a stronger girl than you think. ",
+    "trx": "Ты более сильная девушка, чем ты думаешь. ",
+    "val": "You’re a stronger girl than you think. "
+  },
+  {
+    "key": "Everyone else probably ",
+    "trx": "Все остальные, наверное ",
+    "val": "Everyone else probably "
+  },
+  {
+    "key": "under",
+    "trx": "под",
+    "val": "under"
+  },
+  {
+    "key": "-estimates your strength.”",
+    "trx": "- оценивает твою силу.”",
+    "val": "-estimates your strength.”"
+  },
+  {
+    "key": "The nurse’s voice was smooth and soft; her words flowed over Suzune, washing away her darker emotions.",
+    "trx": "Голос медсестры был ровным и мягким; ее слова лились на Сузуне, смывая ее темные эмоции.",
+    "val": "The nurse’s voice was smooth and soft; her words flowed over Suzune, washing away her darker emotions."
+  },
+  {
+    "key": "“That’s why you shouldn’t push yourself so hard. ",
+    "trx": "“Вот почему ты не должен так сильно давить на себя. ",
+    "val": "“That’s why you shouldn’t push yourself so hard. "
+  },
+  {
+    "key": "If you keep trying to face all your fears by yourself, then one day you might break. ",
+    "trx": "Если ты будешь продолжать пытаться справиться со всеми своими страхами самостоятельно, то однажды ты можешь сломаться. ",
+    "val": "If you keep trying to face all your fears by yourself, then one day you might break. "
+  },
+  {
+    "key": "It’s okay to let it out every now and then. ",
+    "trx": "Это нормально - время от времени выплескивать это наружу. ",
+    "val": "It’s okay to let it out every now and then. "
+  },
+  {
+    "key": "Vent your frustrations. ",
+    "trx": "Выплесни свое разочарование. ",
+    "val": "Vent your frustrations. "
+  },
+  {
+    "key": "You’re fighting so hard every day; there’s nothing wrong with asking for a little help.”",
+    "trx": "Ты так упорно сражаешься каждый день; нет ничего плохого в том, чтобы попросить о небольшой помощи”.",
+    "val": "You’re fighting so hard every day; there’s nothing wrong with asking for a little help.”"
+  },
+  {
+    "key": "The nurse sat down on the bed and began to gently stroke Suzune’s hair.",
+    "trx": "Медсестра села на кровать и начала нежно гладить Сузуне по волосам.",
+    "val": "The nurse sat down on the bed and began to gently stroke Suzune’s hair."
+  },
+  {
+    "key": "“If you’re ever afraid to go to sleep, call for me, anytime. ",
+    "trx": "“Если ты когда-нибудь будешь бояться заснуть, зови меня в любое время. ",
+    "val": "“If you’re ever afraid to go to sleep, call for me, anytime. "
+  },
+  {
+    "key": "I’m always here for you. ",
+    "trx": "Я всегда здесь для тебя. ",
+    "val": "I’m always here for you. "
+  },
+  {
+    "key": "I’ll watch until you wake up in the morning. ",
+    "trx": "Я буду наблюдать, пока ты не проснешься утром. ",
+    "val": "I’ll watch until you wake up in the morning. "
+  },
+  {
+    "key": "That should help, yes?”",
+    "trx": "Это должно помочь, да?”",
+    "val": "That should help, yes?”"
+  },
+  {
+    "key": "“I couldn’t...” ",
+    "trx": "”Я не мог...\" ",
+    "val": "“I couldn’t...” "
+  },
+  {
+    "key": "...ask you that, ",
+    "trx": "...спросить вас об этом, ",
+    "val": "...ask you that, "
+  },
+  {
+    "key": "is what Suzune had meant to say.",
+    "trx": "вот что хотела сказать Сузуне.",
+    "val": "is what Suzune had meant to say."
+  },
+  {
+    "key": "But the comforting warmth that enveloped her stopped the words, carrying her gently toward sleep.",
+    "trx": "Но успокаивающее тепло, окутавшее ее, остановило слова, мягко унося ее в сон.",
+    "val": "But the comforting warmth that enveloped her stopped the words, carrying her gently toward sleep."
+  },
+  {
+    "key": "It was a feeling she’d nearly forgotten.",
+    "trx": "Это было чувство, которое она почти забыла.",
+    "val": "It was a feeling she’d nearly forgotten."
+  },
+  {
+    "key": "Like something from very long ago.",
+    "trx": "Как что-то очень давнее.",
+    "val": "Like something from very long ago."
+  },
+  {
+    "key": "But from when, exactly?",
+    "trx": "Но с каких именно пор?",
+    "val": "But from when, exactly?"
+  },
+  {
+    "key": "When Suzune woke the next morning, the nurse was gone, ",
+    "trx": "Когда Сузуне проснулась на следующее утро, медсестры уже не было, ",
+    "val": "When Suzune woke the next morning, the nurse was gone, "
+  },
+  {
+    "key": "but she did not despair.",
+    "trx": "но она не отчаивалась.",
+    "val": "but she did not despair."
+  },
+  {
+    "key": "If she ever needed her, the nurse would be there for her again.",
+    "trx": "Если она когда-нибудь понадобится ей, медсестра снова будет рядом.",
+    "val": "If she ever needed her, the nurse would be there for her again."
+  },
+  {
+    "key": "Of that she was sure.",
+    "trx": "В этом она была уверена.",
+    "val": "Of that she was sure."
+  },
+  {
+    "key": "“Good morning, Miss Endo.” ",
+    "trx": "“Доброе утро, мисс Эндо”. ",
+    "val": "“Good morning, Miss Endo.” "
+  },
+  {
+    "key": "The nurse who came to take her temperature was the usual one, not the one who’d been there in the night.",
+    "trx": "Медсестра, которая пришла измерить ей температуру, была обычной, а не той, что была там ночью.",
+    "val": "The nurse who came to take her temperature was the usual one, not the one who’d been there in the night."
+  },
+  {
+    "key": "“Good morning.” ",
+    "trx": "“Доброе утро”. ",
+    "val": "“Good morning.” "
+  },
+  {
+    "key": "A natural smile came to Suzune’s face.",
+    "trx": "Естественная улыбка появилась на лице Сузуне.",
+    "val": "A natural smile came to Suzune’s face."
+  },
+  {
+    "key": "She felt deeply grateful that she’d gotten to live to see another day.",
+    "trx": "Она чувствовала глубокую благодарность за то, что ей удалось дожить до следующего дня.",
+    "val": "She felt deeply grateful that she’d gotten to live to see another day."
+  },
+  {
+    "key": "The weather was nice, so after lunch, Suzune headed out into the courtyard.",
+    "trx": "Погода была хорошая, поэтому после обеда Сузуне направилась во внутренний двор.",
+    "val": "The weather was nice, so after lunch, Suzune headed out into the courtyard."
+  },
+  {
+    "key": "More than anyone else, she hoped to run into Takuya.",
+    "trx": "Больше, чем кто-либо другой, она надеялась столкнуться с Такуей.",
+    "val": "More than anyone else, she hoped to run into Takuya."
+  },
+  {
+    "key": "She’d understood his outlook on the world the moment she learned of his condition.",
+    "trx": "Она поняла его взгляд на мир в тот момент, когда узнала о его состоянии.",
+    "val": "She’d understood his outlook on the world the moment she learned of his condition."
+  },
+  {
+    "key": "Plus, it was kind of cute, seeing how hard he tried to hide the way he felt.",
+    "trx": "Плюс, это было довольно мило, видеть, как сильно он пытался скрыть свои чувства.",
+    "val": "Plus, it was kind of cute, seeing how hard he tried to hide the way he felt."
+  },
+  {
+    "key": "The fondness she felt for him was like that for a younger brother; at some point, she’d realized that they had a special bond.",
+    "trx": "Нежность, которую она испытывала к нему, была подобна нежности к младшему брату; в какой-то момент она поняла, что у них особая связь.",
+    "val": "The fondness she felt for him was like that for a younger brother; at some point, she’d realized that they had a special bond."
+  },
+  {
+    "key": "There was a sense of solidarity, knowing that they were both waiting on a transplant for an otherwise incurable disease.",
+    "trx": "Было чувство солидарности, зная, что они оба ждут трансплантации от неизлечимой болезни.",
+    "val": "There was a sense of solidarity, knowing that they were both waiting on a transplant for an otherwise incurable disease."
+  },
+  {
+    "key": "She wanted to say that the things she’d told him the day before, that was just her searching for an ideal—something to live up to. ",
+    "trx": "Она хотела сказать, что то, что она сказала ему накануне, было просто ее поиском идеала — чего-то, чему можно было бы соответствовать. ",
+    "val": "She wanted to say that the things she’d told him the day before, that was just her searching for an ideal—something to live up to. "
+  },
+  {
+    "key": "She wasn’t philosophical. She wasn’t enlightened. ",
+    "trx": "Она не была философом. Она не была просветленной. ",
+    "val": "She wasn’t philosophical. She wasn’t enlightened. "
+  },
+  {
+    "key": "She just wanted to be honest about how hard it was every day.",
+    "trx": "Она просто хотела быть честной о том, как тяжело ей было каждый день.",
+    "val": "She just wanted to be honest about how hard it was every day."
+  },
+  {
+    "key": "Surely, he would understand.",
+    "trx": "Конечно, он бы понял.",
+    "val": "Surely, he would understand."
+  },
+  {
+    "key": "But ",
+    "trx": "Но ",
+    "val": "But "
+  },
+  {
+    "key": "Suzune didn’t see Takuya in the courtyard that afternoon.",
+    "trx": "Сузуне не видела Такую во дворе в тот день.",
+    "val": "Suzune didn’t see Takuya in the courtyard that afternoon."
+  },
+  {
+    "key": "She made small talk with several other patients like she usually did, then headed back to her room.",
+    "trx": "Она немного поболтала с несколькими другими пациентами, как обычно, а затем направилась обратно в свою палату.",
+    "val": "She made small talk with several other patients like she usually did, then headed back to her room."
+  },
+  {
+    "key": "Takuya didn’t turn up the next day, either, ",
+    "trx": "Такуя не появился и на следующий день, ",
+    "val": "Takuya didn’t turn up the next day, either, "
+  },
+  {
+    "key": "nor the day after that.",
+    "trx": "ни на следующий день после этого.",
+    "val": "nor the day after that."
+  },
+  {
+    "key": "She would look up at his window from the courtyard, but she never saw him.",
+    "trx": "Она смотрела на его окно со двора, но никогда его не видела.",
+    "val": "She would look up at his window from the courtyard, but she never saw him."
+  },
+  {
+    "key": "Where was he?",
+    "trx": "Где он был?",
+    "val": "Where was he?"
+  },
+  {
+    "key": "Had his condition taken a turn for the worse?",
+    "trx": "Стало ли его состояние хуже?",
+    "val": "Had his condition taken a turn for the worse?"
+  },
+  {
+    "key": "Was he no longer well enough to go outside?",
+    "trx": "Был ли он уже недостаточно здоров, чтобы выходить на улицу?",
+    "val": "Was he no longer well enough to go outside?"
+  },
+  {
+    "key": "Suzune had never been to the second floor where his room was, but she knew the first floor well enough that she could guess the layout well enough to avoid getting lost.",
+    "trx": "Сузуне никогда не была на втором этаже, где находилась его комната, но она знала первый этаж достаточно хорошо, чтобы угадать планировку достаточно хорошо, чтобы не заблудиться.",
+    "val": "Suzune had never been to the second floor where his room was, but she knew the first floor well enough that she could guess the layout well enough to avoid getting lost."
+  },
+  {
+    "key": "With that in mind, she decided to pay Takuya a visit.",
+    "trx": "Имея это в виду, она решила нанести визит Такуе.",
+    "val": "With that in mind, she decided to pay Takuya a visit."
+  },
+  {
+    "key": "She went up to the second floor, ",
+    "trx": "Она поднялась на второй этаж, ",
+    "val": "She went up to the second floor, "
+  },
+  {
+    "key": "walking slowly as she eyed the nameplates for the rooms along the courtyard side.",
+    "trx": "медленно прогуливаясь, она разглядывала таблички с названиями комнат со стороны внутреннего двора.",
+    "val": "walking slowly as she eyed the nameplates for the rooms along the courtyard side."
+  },
+  {
+    "key": "There, right about where she expected it to be, she found it: ‘Takuya Kazama.’",
+    "trx": "Там, примерно там, где она и ожидала, она нашла это: \"Такуя Казама\".",
+    "val": "There, right about where she expected it to be, she found it: ‘Takuya Kazama.’"
+  },
+  {
+    "key": "She’d been afraid that his name plate had been removed.",
+    "trx": "Она боялась, что табличку с его именем сняли.",
+    "val": "She’d been afraid that his name plate had been removed."
+  },
+  {
+    "key": "If it hadn’t been there, ",
+    "trx": "Если бы его там не было, ",
+    "val": "If it hadn’t been there, "
+  },
+  {
+    "key": "that would have meant he’d been discharged, ",
+    "trx": "это означало бы, что его уволили, ",
+    "val": "that would have meant he’d been discharged, "
+  },
+  {
+    "key": "that his room had been swapped for some reason, ",
+    "trx": "что его комнату по какой-то причине поменяли местами, ",
+    "val": "that his room had been swapped for some reason, "
+  },
+  {
+    "key": "or else...",
+    "trx": "или еще...",
+    "val": "or else..."
+  },
+  {
+    "key": "As Suzune was about to knock, a voice called out from behind her. ",
+    "trx": "Когда Сузуне собиралась постучать, позади нее раздался голос. ",
+    "val": "As Suzune was about to knock, a voice called out from behind her. "
+  },
+  {
+    "key": "“Miss Endo?”",
+    "trx": "“Мисс Эндо?”",
+    "val": "“Miss Endo?”"
+  },
+  {
+    "key": "She turned around to see an unfamiliar nurse standing there.",
+    "trx": "Она обернулась и увидела стоящую там незнакомую медсестру.",
+    "val": "She turned around to see an unfamiliar nurse standing there."
+  },
+  {
+    "key": "Perhaps she was in charge of the ward, or had seen Suzune walking around before, and that was how she knew her name.",
+    "trx": "Возможно, она была заведующей отделением или видела Сузуне раньше, когда та ходила вокруг, и именно так она узнала ее имя.",
+    "val": "Perhaps she was in charge of the ward, or had seen Suzune walking around before, and that was how she knew her name."
+  },
+  {
+    "key": "“Yes?” Suzune asked.",
+    "trx": "\"да?\" Спросила Сузуне.",
+    "val": "“Yes?” Suzune asked."
+  },
+  {
+    "key": "“Were you looking for Takuya?”",
+    "trx": "“Ты искал Такую?”",
+    "val": "“Were you looking for Takuya?”"
+  },
+  {
+    "key": "“Um, yeah. ",
+    "trx": "“Эм, да. ",
+    "val": "“Um, yeah. "
+  },
+  {
+    "key": "I hadn’t seen him in a while, so I was wondering...” ",
+    "trx": "Я давно его не видел, так что мне было интересно...” ",
+    "val": "I hadn’t seen him in a while, so I was wondering...” "
+  },
+  {
+    "key": "“I’m sorry. ",
+    "trx": "\"мне жаль. ",
+    "val": "“I’m sorry. "
+  },
+  {
+    "key": "Takuya wants to get out more than he does, but honestly he’s not in any shape to be moving around much. ",
+    "trx": "Такуя хочет выйти на улицу больше, чем он, но, честно говоря, он не в той форме, чтобы много передвигаться. ",
+    "val": "Takuya wants to get out more than he does, but honestly he’s not in any shape to be moving around much. "
+  },
+  {
+    "key": "We’re worried about infection, as well, so we’ve limited his visitors. ",
+    "trx": "Мы также беспокоимся о заражении, поэтому ограничили количество его посетителей. ",
+    "val": "We’re worried about infection, as well, so we’ve limited his visitors. "
+  },
+  {
+    "key": "You probably shouldn’t be wandering this far yourself.”",
+    "trx": "Тебе, наверное, не следовало бы самому забредать так далеко.”",
+    "val": "You probably shouldn’t be wandering this far yourself.”"
+  },
+  {
+    "key": "The nurse pointedly pulled the sliding door to Takuya’s room closed.",
+    "trx": "Медсестра демонстративно закрыла раздвижную дверь в палату Такуи.",
+    "val": "The nurse pointedly pulled the sliding door to Takuya’s room closed."
+  },
+  {
+    "key": "“If I could just see him real quick—”",
+    "trx": "“Если бы я только мог увидеть его очень быстро...”",
+    "val": "“If I could just see him real quick—”"
+  },
+  {
+    "key": "“No,” the nurse snapped, ",
+    "trx": "”Нет\", - отрезала медсестра, ",
+    "val": "“No,” the nurse snapped, "
+  },
+  {
+    "key": "then hurriedly cleared her throat and spoke more softly.",
+    "trx": "затем поспешно прочистила горло и заговорила тише.",
+    "val": "then hurriedly cleared her throat and spoke more softly."
+  },
+  {
+    "key": "“You wouldn’t want his condition to get worse, would you?”",
+    "trx": "“Вы бы не хотели, чтобы его состояние ухудшилось, не так ли?”",
+    "val": "“You wouldn’t want his condition to get worse, would you?”"
+  },
+  {
+    "key": "Suzune saw that she’d have to back down; she returned obediently to her own ward.",
+    "trx": "Сузуне поняла, что ей придется отступить; она послушно вернулась в свою палату.",
+    "val": "Suzune saw that she’d have to back down; she returned obediently to her own ward."
+  },
+  {
+    "key": "But she had a hard time accepting the fact that she couldn’t visit Takuya.",
+    "trx": "Но ей было трудно смириться с тем фактом, что она не может навестить Такую.",
+    "val": "But she had a hard time accepting the fact that she couldn’t visit Takuya."
+  },
+  {
+    "key": "Does that nurse have some kind of grudge against me?",
+    "trx": "У этой медсестры есть на меня какая-то обида?",
+    "val": "Does that nurse have some kind of grudge against me?"
+  },
+  {
+    "key": "Not only does she know my name and know about my condition—she must also know that I’ve been talking with Takuya in the courtyard.",
+    "trx": "Она не только знает мое имя и знает о моем состоянии — она также должна знать, что я разговаривал с Такуей во дворе.",
+    "val": "Not only does she know my name and know about my condition—she must also know that I’ve been talking with Takuya in the courtyard."
+  },
+  {
+    "key": "Does she think I’m the reason his condition has gotten worse?",
+    "trx": "Неужели она думает, что я - причина того, что его состояние ухудшилось?",
+    "val": "Does she think I’m the reason his condition has gotten worse?"
+  },
+  {
+    "key": "Suzune knew that his health wasn’t as good as he might have claimed, and she felt a little guilty that she hadn’t been as considerate as she perhaps should have.",
+    "trx": "Сузуне знала, что его здоровье было не так хорошо, как он мог бы утверждать, и она чувствовала себя немного виноватой, что не была так внимательна, как, возможно, следовало бы.",
+    "val": "Suzune knew that his health wasn’t as good as he might have claimed, and she felt a little guilty that she hadn’t been as considerate as she perhaps should have."
+  },
+  {
+    "key": "After that, whenever Suzune went out for a walk, she made a point of swinging by Takuya’s room, asking several nurses and doctors about his condition.",
+    "trx": "После этого, всякий раз, когда Сузуне выходила на прогулку, она обязательно заглядывала в палату Такуи, расспрашивая нескольких медсестер и врачей о его состоянии.",
+    "val": "After that, whenever Suzune went out for a walk, she made a point of swinging by Takuya’s room, asking several nurses and doctors about his condition."
+  },
+  {
+    "key": "They would always say he was ‘doing fine,’ but staunchly refuse to let her see him.",
+    "trx": "Они всегда говорили, что у него \"все хорошо\", но упорно отказывались позволять ей видеться с ним.",
+    "val": "They would always say he was ‘doing fine,’ but staunchly refuse to let her see him."
+  },
+  {
+    "key": "Is he maybe already—? ",
+    "trx": "Может быть, он уже...? ",
+    "val": "Is he maybe already—? "
+  },
+  {
+    "key": "Suzune couldn’t help but imagine the worst.",
+    "trx": "Сузуне не могла не представить себе худшего.",
+    "val": "Suzune couldn’t help but imagine the worst."
+  },
+  {
+    "key": "Is everyone just working together to keep me in the dark?",
+    "trx": "Неужели все просто работают вместе, чтобы держать меня в неведении?",
+    "val": "Is everyone just working together to keep me in the dark?"
+  },
+  {
+    "key": "But why would they do that?",
+    "trx": "Но зачем им это делать?",
+    "val": "But why would they do that?"
+  },
+  {
+    "key": "Do they think I’m his girlfriend and they’re trying to keep me from the shock of finding out or something?",
+    "trx": "Они думают, что я его девушка, и они пытаются уберечь меня от шока, узнав об этом, или что-то в этом роде?",
+    "val": "Do they think I’m his girlfriend and they’re trying to keep me from the shock of finding out or something?"
+  },
+  {
+    "key": "No, that was ridiculous.",
+    "trx": "Нет, это было нелепо.",
+    "val": "No, that was ridiculous."
+  },
+  {
+    "key": "Besides, this was a hospital; Suzune knew full well that they didn’t have the time to put on some weird piece of theater after a patient had passed away.",
+    "trx": "Кроме того, это была больница; Сузуне прекрасно знала, что у них не было времени устраивать какой-то странный спектакль после смерти пациента.",
+    "val": "Besides, this was a hospital; Suzune knew full well that they didn’t have the time to put on some weird piece of theater after a patient had passed away."
+  },
+  {
+    "key": "There must be some other reason.",
+    "trx": "Должна быть какая-то другая причина.",
+    "val": "There must be some other reason."
+  },
+  {
+    "key": "Some reason they don’t want us to see each other.",
+    "trx": "По какой-то причине они не хотят, чтобы мы виделись.",
+    "val": "Some reason they don’t want us to see each other."
+  },
+  {
+    "key": "Willing to do whatever she could to discover that reason, Suzune tried changing the time of day that she stopped by Takuya’s room.",
+    "trx": "Желая сделать все возможное, чтобы выяснить эту причину, Сузуне попыталась изменить время суток, когда она заходила в комнату Такуи.",
+    "val": "Willing to do whatever she could to discover that reason, Suzune tried changing the time of day that she stopped by Takuya’s room."
+  },
+  {
+    "key": "Maybe, if nobody was watching, she’d be able to sneak a peek inside.",
+    "trx": "Может быть, если бы никто не смотрел, она смогла бы украдкой заглянуть внутрь.",
+    "val": "Maybe, if nobody was watching, she’d be able to sneak a peek inside."
+  },
+  {
+    "key": "If someone happened to be coming or going, she might even be able to get a look at his face.",
+    "trx": "Если бы кто-то случайно приходил или уходил, она могла бы даже взглянуть на его лицо.",
+    "val": "If someone happened to be coming or going, she might even be able to get a look at his face."
+  },
+  {
+    "key": "But Suzune never imagined the way she’d finally wind up seeing him again.",
+    "trx": "Но Сузуне и представить себе не могла, что в конце концов снова увидит его.",
+    "val": "But Suzune never imagined the way she’d finally wind up seeing him again."
+  },
+  {
+    "key": "On that day, she had been hiding behind one of the heated meal carts used for delivering dinner to the patients.",
+    "trx": "В тот день она пряталась за одной из тележек с подогревом, используемых для доставки ужина пациентам.",
+    "val": "On that day, she had been hiding behind one of the heated meal carts used for delivering dinner to the patients."
+  },
+  {
+    "key": "She followed the orderlies as they brought the cart toward Takuya’s room; they’d have to open his door in order to bring his tray inside.",
+    "trx": "Она последовала за санитарами, когда они подкатили тележку к палате Такуи; им пришлось бы открыть его дверь, чтобы внести его поднос внутрь.",
+    "val": "She followed the orderlies as they brought the cart toward Takuya’s room; they’d have to open his door in order to bring his tray inside."
+  },
+  {
+    "key": "But before she reached his room, the door swung forcefully open, ",
+    "trx": "Но прежде чем она добралась до его комнаты, дверь с силой распахнулась, ",
+    "val": "But before she reached his room, the door swung forcefully open, "
+  },
+  {
+    "key": "and a bed was swiftly pushed from inside.",
+    "trx": "и кровать была быстро выдвинута изнутри.",
+    "val": "and a bed was swiftly pushed from inside."
+  },
+  {
+    "key": "Doctors and nurses, their faces pale, ushered it along, ",
+    "trx": "Врачи и медсестры с бледными лицами вели его вперед, ",
+    "val": "Doctors and nurses, their faces pale, ushered it along, "
+  },
+  {
+    "key": "pushing the meal cart out of the way as they raced down the corridor.",
+    "trx": "оттолкнув тележку с едой с дороги, они помчались по коридору.",
+    "val": "pushing the meal cart out of the way as they raced down the corridor."
+  },
+  {
+    "key": "Takuya lay on the bed, his eyes closed, his face severely jaundiced; he didn’t appear to be conscious.",
+    "trx": "Такуя лежал на кровати с закрытыми глазами, его лицо было сильно желтушным; казалось, он был без сознания.",
+    "val": "Takuya lay on the bed, his eyes closed, his face severely jaundiced; he didn’t appear to be conscious."
+  },
+  {
+    "key": "“Takuya!”",
+    "trx": "“Такуя!”",
+    "val": "“Takuya!”"
+  },
+  {
+    "key": "Suzune cried out without thinking; one of the nurses glanced back at her briefly before disappearing from sight with the others as they brought the bed into the elevator.",
+    "trx": "Сузуне вскрикнула, не подумав; одна из медсестер коротко оглянулась на нее, прежде чем исчезнуть из поля зрения вместе с остальными, когда они внесли кровать в лифт.",
+    "val": "Suzune cried out without thinking; one of the nurses glanced back at her briefly before disappearing from sight with the others as they brought the bed into the elevator."
+  },
+  {
+    "key": "“Takuya...” ",
+    "trx": "“Такуя...” ",
+    "val": "“Takuya...” "
+  },
+  {
+    "key": "As Suzune stood there dumbstruck, her eyes strayed to the open door to his room.",
+    "trx": "Пока Сузуне стояла ошеломленная, ее взгляд упал на открытую дверь в его комнату.",
+    "val": "As Suzune stood there dumbstruck, her eyes strayed to the open door to his room."
+  },
+  {
+    "key": "With shaky footsteps, she went inside.",
+    "trx": "Неуверенными шагами она вошла внутрь.",
+    "val": "With shaky footsteps, she went inside."
+  },
+  {
+    "key": "Takuya’s room was largely the same as her own.",
+    "trx": "Комната Такуи была в основном такой же, как и ее собственная.",
+    "val": "Takuya’s room was largely the same as her own."
+  },
+  {
+    "key": "There was a locker by the entrance, along with a small refrigerator.",
+    "trx": "У входа стоял шкафчик и небольшой холодильник.",
+    "val": "There was a locker by the entrance, along with a small refrigerator."
+  },
+  {
+    "key": "Over by the window was a TV stand.",
+    "trx": "У окна стояла подставка для телевизора.",
+    "val": "Over by the window was a TV stand."
+  },
+  {
+    "key": "Next to that was a bookshelf, packed with books.",
+    "trx": "Рядом с ним была книжная полка, забитая книгами.",
+    "val": "Next to that was a bookshelf, packed with books."
+  },
+  {
+    "key": "She picked up one of the books atop the bedside table; it was a beginner’s primer on topics such as organ transplantation and brain death.",
+    "trx": "Она взяла одну из книг, лежавших на прикроватном столике; это был учебник для начинающих по таким темам, как трансплантация органов и смерть мозга.",
+    "val": "She picked up one of the books atop the bedside table; it was a beginner’s primer on topics such as organ transplantation and brain death."
+  },
+  {
+    "key": "On the bookshelf were other, more difficult-looking medical volumes, intended for experts.",
+    "trx": "На книжной полке стояли другие, более сложные на вид медицинские тома, предназначенные для экспертов.",
+    "val": "On the bookshelf were other, more difficult-looking medical volumes, intended for experts."
+  },
+  {
+    "key": "Takuya’s been studying up on diseases?",
+    "trx": "Такуя изучал болезни?",
+    "val": "Takuya’s been studying up on diseases?"
+  },
+  {
+    "key": "I wonder if he’s been holed up in here reading these the whole time?",
+    "trx": "Интересно, он все это время отсиживался здесь и читал это?",
+    "val": "I wonder if he’s been holed up in here reading these the whole time?"
+  },
+  {
+    "key": "Maybe he’d overdone it, studying.",
+    "trx": "Может быть, он перестарался с учебой.",
+    "val": "Maybe he’d overdone it, studying."
+  },
+  {
+    "key": "That would be a cruel irony.",
+    "trx": "Это было бы жестокой иронией.",
+    "val": "That would be a cruel irony."
+  },
+  {
+    "key": "Suzune prayed to a God she had never before believed in.",
+    "trx": "Сузуне молилась Богу, в которого никогда раньше не верила.",
+    "val": "Suzune prayed to a God she had never before believed in."
+  },
+  {
+    "key": "Please, ",
+    "trx": "Пожалуйста, ",
+    "val": "Please, "
+  },
+  {
+    "key": "save him.",
+    "trx": "спаси его.",
+    "val": "save him."
+  },
+  {
+    "key": "Takuya blearily opened his eyes.",
+    "trx": "Такуя с трудом открыл глаза.",
+    "val": "Takuya blearily opened his eyes."
+  },
+  {
+    "key": "This wasn’t his room.",
+    "trx": "Это была не его комната.",
+    "val": "This wasn’t his room."
+  },
+  {
+    "key": "An artificial respirator was fitted over his nose and mouth, and several tubes ran between his body and a ",
+    "trx": "На его нос и рот был надет аппарат искусственного дыхания, и несколько трубок проходили между его телом и ",
+    "val": "An artificial respirator was fitted over his nose and mouth, and several tubes ran between his body and a "
+  },
+  {
+    "key": "hemofiltration machine",
+    "trx": "машина для гемофильтрации",
+    "val": "hemofiltration machine"
+  },
+  {
+    "key": "; vinyl curtains enclosed the area around his bed.",
+    "trx": "; виниловые занавески закрывали пространство вокруг его кровати.",
+    "val": "; vinyl curtains enclosed the area around his bed."
+  },
+  {
+    "key": "He was in an ",
+    "trx": "Он был в ",
+    "val": "He was in an "
+  },
+  {
+    "key": "ICU",
+    "trx": "ОТДЕЛЕНИЕ интенсивной терапии",
+    "val": "ICU"
+  },
+  {
+    "key": ".",
+    "trx": ".",
+    "val": "."
+  },
+  {
+    "key": "Several people bustled frantically about.",
+    "trx": "Несколько человек лихорадочно суетились вокруг.",
+    "val": "Several people bustled frantically about."
+  },
+  {
+    "key": "The last thing Takuya remembered was being in his room. ",
+    "trx": "Последнее, что помнил Такуя, это то, что он был в своей комнате. ",
+    "val": "The last thing Takuya remembered was being in his room. "
+  },
+  {
+    "key": "Was that minutes ago? ",
+    "trx": "Это было несколько минут назад? ",
+    "val": "Was that minutes ago? "
+  },
+  {
+    "key": "Or has it been days?",
+    "trx": "Или прошло уже несколько дней?",
+    "val": "Or has it been days?"
+  },
+  {
+    "key": "“Excuse me...",
+    "trx": "“Извините меня...",
+    "val": "“Excuse me..."
+  },
+  {
+    "key": "Could someone...” ",
+    "trx": "Мог бы кто-нибудь...” ",
+    "val": "Could someone...” "
+  },
+  {
+    "key": "Takuya paused; his voice didn’t even sound like his own.",
+    "trx": "Такуя сделал паузу; его голос даже не походил на его собственный.",
+    "val": "Takuya paused; his voice didn’t even sound like his own."
+  },
+  {
+    "key": "“Doctor, ",
+    "trx": "“Доктор, ",
+    "val": "“Doctor, "
+  },
+  {
+    "key": "he’s regained consciousness!” a nurse announced.",
+    "trx": "он пришел в сознание! - объявила медсестра.",
+    "val": "he’s regained consciousness!” a nurse announced."
+  },
+  {
+    "key": "At that, the face of his attending physician, Dr. Saeki, suddenly came into view; he was wearing an operating mask.",
+    "trx": "При этом внезапно появилось лицо его лечащего врача, доктора Саеки; на нем была операционная маска.",
+    "val": "At that, the face of his attending physician, Dr. Saeki, suddenly came into view; he was wearing an operating mask."
+  },
+  {
+    "key": "“Takuya?” the doctor said. ",
+    "trx": "“Такуя?” - сказал доктор. ",
+    "val": "“Takuya?” the doctor said. "
+  },
+  {
+    "key": "“Please, hang in there!”",
+    "trx": "“Пожалуйста, держись там!”",
+    "val": "“Please, hang in there!”"
+  },
+  {
+    "key": "“Takuya!”",
+    "trx": "“Такуя!”",
+    "val": "“Takuya!”"
+  },
+  {
+    "key": "It sounded like his father and mother were there, on the other side of the curtain.",
+    "trx": "Это звучало так, как будто его отец и мать были там, по другую сторону занавеса.",
+    "val": "It sounded like his father and mother were there, on the other side of the curtain."
+  },
+  {
+    "key": "If the staff had called them here, did that mean he was on the brink?",
+    "trx": "Если персонал позвал их сюда, означало ли это, что он был на грани?",
+    "val": "If the staff had called them here, did that mean he was on the brink?"
+  },
+  {
+    "key": "“What day...",
+    "trx": "“Какой день...",
+    "val": "“What day..."
+  },
+  {
+    "key": "is it?”",
+    "trx": "так ли это?”",
+    "val": "is it?”"
+  },
+  {
+    "key": "“Hm? ",
+    "trx": "“Хм? ",
+    "val": "“Hm? "
+  },
+  {
+    "key": "What was that?”",
+    "trx": "Что это было?”",
+    "val": "What was that?”"
+  },
+  {
+    "key": "The respirator was making Takuya’s voice hard to understand.",
+    "trx": "Из-за респиратора голос Такуи было трудно разобрать.",
+    "val": "The respirator was making Takuya’s voice hard to understand."
+  },
+  {
+    "key": "He struggled to form the words.",
+    "trx": "Он с трудом подбирал слова.",
+    "val": "He struggled to form the words."
+  },
+  {
+    "key": "“Today. ",
+    "trx": "“Сегодня. ",
+    "val": "“Today. "
+  },
+  {
+    "key": "What day is it?”",
+    "trx": "Какой сегодня день?”",
+    "val": "What day is it?”"
+  },
+  {
+    "key": "“It’s April 5th.”",
+    "trx": "“Сегодня 5 апреля”.",
+    "val": "“It’s April 5th.”"
+  },
+  {
+    "key": "April 5th...",
+    "trx": "5 апреля...",
+    "val": "April 5th..."
+  },
+  {
+    "key": "there were still over three weeks to go until his fifteenth birthday.",
+    "trx": "до его пятнадцатилетия оставалось еще больше трех недель.",
+    "val": "there were still over three weeks to go until his fifteenth birthday."
+  },
+  {
+    "key": "What was going on?",
+    "trx": "Что происходит?",
+    "val": "What was going on?"
+  },
+  {
+    "key": "“It’s...",
+    "trx": "“Это...",
+    "val": "“It’s..."
+  },
+  {
+    "key": "too late to save me, isn’t it?”",
+    "trx": "слишком поздно спасать меня, не так ли?”",
+    "val": "too late to save me, isn’t it?”"
+  },
+  {
+    "key": "“You mustn’t say things like that.”",
+    "trx": "“Ты не должен говорить такие вещи\".",
+    "val": "“You mustn’t say things like that.”"
+  },
+  {
+    "key": "“How much longer do I have? ",
+    "trx": "“Сколько мне еще осталось? ",
+    "val": "“How much longer do I have? "
+  },
+  {
+    "key": "Will I make it another month?”",
+    "trx": "Смогу ли я продержаться еще месяц?”",
+    "val": "Will I make it another month?”"
+  },
+  {
+    "key": "Saeki lowered his eyes.",
+    "trx": "Саэки опустил глаза.",
+    "val": "Saeki lowered his eyes."
+  },
+  {
+    "key": "No guarantees, then.",
+    "trx": "Тогда никаких гарантий.",
+    "val": "No guarantees, then."
+  },
+  {
+    "key": "“Please, Doctor. ",
+    "trx": "“Пожалуйста, доктор. ",
+    "val": "“Please, Doctor. "
+  },
+  {
+    "key": "I just need three more weeks. ",
+    "trx": "Мне просто нужно еще три недели. ",
+    "val": "I just need three more weeks. "
+  },
+  {
+    "key": "Please, do whatever you can to let me live for just three more weeks. ",
+    "trx": "Пожалуйста, сделай все, что в твоих силах, чтобы я прожил еще три недели. ",
+    "val": "Please, do whatever you can to let me live for just three more weeks. "
+  },
+  {
+    "key": "I can’t die yet.”",
+    "trx": "Я еще не могу умереть.”",
+    "val": "I can’t die yet.”"
+  },
+  {
+    "key": "Dr. Saeki nodded, a thoughtful look on his face.",
+    "trx": "Доктор Саэки кивнул с задумчивым выражением на лице.",
+    "val": "Dr. Saeki nodded, a thoughtful look on his face."
+  },
+  {
+    "key": "“Is there something you can do? ",
+    "trx": "“Есть ли что-нибудь, что ты можешь сделать? ",
+    "val": "“Is there something you can do? "
+  },
+  {
+    "key": "Please. ",
+    "trx": "Пожалуйста. ",
+    "val": "Please. "
+  },
+  {
+    "key": "I don’t want to die yet. ",
+    "trx": "Я еще не хочу умирать. ",
+    "val": "I don’t want to die yet. "
+  },
+  {
+    "key": "I haven’t done anything yet. ",
+    "trx": "Я еще ничего не сделал. ",
+    "val": "I haven’t done anything yet. "
+  },
+  {
+    "key": "Please, just a little more time.”",
+    "trx": "Пожалуйста, еще немного времени.”",
+    "val": "Please, just a little more time.”"
+  },
+  {
+    "key": "“There is a life-prolonging procedure; highly experimental. ",
+    "trx": "“Существует процедура продления жизни, в высшей степени экспериментальная. ",
+    "val": "“There is a life-prolonging procedure; highly experimental. "
+  },
+  {
+    "key": "However...” ",
+    "trx": "Однако...” ",
+    "val": "However...” "
+  },
+  {
+    "key": "“I don’t care about the risks. ",
+    "trx": "“Меня не волнует риск. ",
+    "val": "“I don’t care about the risks. "
+  },
+  {
+    "key": "I just don’t want to die yet!”",
+    "trx": "Я просто еще не хочу умирать!”",
+    "val": "I just don’t want to die yet!”"
+  },
+  {
+    "key": "“There’s something called an ",
+    "trx": "“Есть нечто, называемое ",
+    "val": "“There’s something called an "
+  },
+  {
+    "key": "artificial liver system",
+    "trx": "система искусственной печени",
+    "val": "artificial liver system"
+  },
+  {
+    "key": "; clinical trials have only just been concluded in Japan. ",
+    "trx": "; клинические испытания только что завершились в Японии. ",
+    "val": "; clinical trials have only just been concluded in Japan. "
+  },
+  {
+    "key": "It’s a device that uses cells harvested from pigs. ",
+    "trx": "Это устройство, в котором используются клетки, полученные от свиней. ",
+    "val": "It’s a device that uses cells harvested from pigs. "
+  },
+  {
+    "key": "If things go well, rather than just three weeks, it might be possible to keep you alive until a donor turns up.”",
+    "trx": "Если все пойдет хорошо, а не только через три недели, возможно, удастся сохранить тебе жизнь до тех пор, пока не появится донор”.",
+    "val": "If things go well, rather than just three weeks, it might be possible to keep you alive until a donor turns up.”"
+  },
+  {
+    "key": "The mention of pig cells was startling.",
+    "trx": "Упоминание о клетках для свиней было поразительным.",
+    "val": "The mention of pig cells was startling."
+  },
+  {
+    "key": "But right now was no time to be squeamish.",
+    "trx": "Но сейчас было не время для брезгливости.",
+    "val": "But right now was no time to be squeamish."
+  },
+  {
+    "key": "“Please, Doctor. ",
+    "trx": "“Пожалуйста, доктор. ",
+    "val": "“Please, Doctor. "
+  },
+  {
+    "key": "If there’s even the slightest chance, it’s worth it.”",
+    "trx": "Если есть хоть малейший шанс, оно того стоит.”",
+    "val": "If there’s even the slightest chance, it’s worth it.”"
+  },
+  {
+    "key": "After Takuya was rushed to the ICU, Suzune went to check up on him every day, without regard for her own well-being.",
+    "trx": "После того, как Такую срочно доставили в отделение интенсивной терапии, Сузуне ходила проверять его каждый день, не заботясь о своем собственном самочувствии.",
+    "val": "After Takuya was rushed to the ICU, Suzune went to check up on him every day, without regard for her own well-being."
+  },
+  {
+    "key": "Day after day she visited, only to be told that he was still in an unconscious state.",
+    "trx": "День за днем она навещала его только для того, чтобы узнать, что он все еще находится в бессознательном состоянии.",
+    "val": "Day after day she visited, only to be told that he was still in an unconscious state."
+  },
+  {
+    "key": "Three weeks went by without a change.",
+    "trx": "Три недели прошли без каких-либо изменений.",
+    "val": "Three weeks went by without a change."
+  },
+  {
+    "key": "Then, one morning, while passing by the kitchenette on her way to the ICU, Suzune overheard some nurses talking.",
+    "trx": "Затем, однажды утром, проходя мимо кухни по пути в отделение интенсивной терапии, Сузуне подслушала разговор нескольких медсестер.",
+    "val": "Then, one morning, while passing by the kitchenette on her way to the ICU, Suzune overheard some nurses talking."
+  },
+  {
+    "key": "“Did you hear? ",
+    "trx": "“Ты слышал? ",
+    "val": "“Did you hear? "
+  },
+  {
+    "key": "Takuya’s regained consciousness.”",
+    "trx": "Такуя пришел в сознание.”",
+    "val": "Takuya’s regained consciousness.”"
+  },
+  {
+    "key": "“For better or for worse. ",
+    "trx": "“К лучшему или к худшему. ",
+    "val": "“For better or for worse. "
+  },
+  {
+    "key": "Poor kid. ",
+    "trx": "Бедный ребенок. ",
+    "val": "Poor kid. "
+  },
+  {
+    "key": "He keeps saying that he doesn’t want to die yet. ",
+    "trx": "Он продолжает говорить, что пока не хочет умирать. ",
+    "val": "He keeps saying that he doesn’t want to die yet. "
+  },
+  {
+    "key": "That he wants to live. ",
+    "trx": "Что он хочет жить. ",
+    "val": "That he wants to live. "
+  },
+  {
+    "key": "He’s only, what, fourteen?”",
+    "trx": "Ему всего, сколько, четырнадцать?”",
+    "val": "He’s only, what, fourteen?”"
+  },
+  {
+    "key": "The young nurse’s voice was tearful.",
+    "trx": "Голос молодой медсестры был полон слез.",
+    "val": "The young nurse’s voice was tearful."
+  },
+  {
+    "key": "Suzune felt a new kind of pain in her chest.",
+    "trx": "Сузуне почувствовала новый вид боли в груди.",
+    "val": "Suzune felt a new kind of pain in her chest."
+  },
+  {
+    "key": "“He’s running out of time for a transplant. ",
+    "trx": "“У него заканчивается время для пересадки. ",
+    "val": "“He’s running out of time for a transplant. "
+  },
+  {
+    "key": "And with that rare blood type...” ",
+    "trx": "И с такой редкой группой крови...” ",
+    "val": "And with that rare blood type...” "
+  },
+  {
+    "key": "Rare blood type?",
+    "trx": "Редкая группа крови?",
+    "val": "Rare blood type?"
+  },
+  {
+    "key": "Suzune stopped in her tracks, then rushed back to the kitchenette.",
+    "trx": "Сузуне остановилась как вкопанная, затем бросилась обратно на кухню.",
+    "val": "Suzune stopped in her tracks, then rushed back to the kitchenette."
+  },
+  {
+    "key": "“Excuse me. ",
+    "trx": "“Извините меня. ",
+    "val": "“Excuse me. "
+  },
+  {
+    "key": "What do you mean by rare blood type?”",
+    "trx": "Что вы подразумеваете под редкой группой крови?”",
+    "val": "What do you mean by rare blood type?”"
+  },
+  {
+    "key": "The moment she saw Suzune, the nurse clammed up and tried to slip away.",
+    "trx": "В тот момент, когда она увидела Сузуне, медсестра замолчала и попыталась ускользнуть.",
+    "val": "The moment she saw Suzune, the nurse clammed up and tried to slip away."
+  },
+  {
+    "key": "“Please, hold on! ",
+    "trx": "“Пожалуйста, держитесь! ",
+    "val": "“Please, hold on! "
+  },
+  {
+    "key": "That rare blood type—",
+    "trx": "Эта редкая группа крови—",
+    "val": "That rare blood type—"
+  },
+  {
+    "key": "is it...",
+    "trx": "это...",
+    "val": "is it..."
+  },
+  {
+    "key": "is it Bombay?” Suzune shouted.",
+    "trx": "это Бомбей?” - крикнула Сузуне.",
+    "val": "is it Bombay?” Suzune shouted."
+  },
+  {
+    "key": "The nurses exchanged an awkward look with one another; and though neither of them said anything, Suzune knew that she was right.",
+    "trx": "Медсестры обменялись неловкими взглядами друг с другом; и хотя ни одна из них ничего не сказала, Сузуне знала, что она была права.",
+    "val": "The nurses exchanged an awkward look with one another; and though neither of them said anything, Suzune knew that she was right."
+  },
+  {
+    "key": "Takuya has Bombay blood, too.",
+    "trx": "В Такуе тоже есть бомбейская кровь.",
+    "val": "Takuya has Bombay blood, too."
+  },
+  {
+    "key": "This was a hospital with high-end facilities that drew patients with incurable diseases from all over the country, so maybe it wasn’t such a remarkable coincidence.",
+    "trx": "Это была больница с первоклассным оборудованием, которая привлекала пациентов с неизлечимыми заболеваниями со всей страны, так что, возможно, это было не такое уж замечательное совпадение.",
+    "val": "This was a hospital with high-end facilities that drew patients with incurable diseases from all over the country, so maybe it wasn’t such a remarkable coincidence."
+  },
+  {
+    "key": "Transfusions for rare blood types such as Bombay were difficult to come by at regional hospitals.",
+    "trx": "Переливание крови для редких групп крови, таких как Бомбей, было трудно получить в региональных больницах.",
+    "val": "Transfusions for rare blood types such as Bombay were difficult to come by at regional hospitals."
+  },
+  {
+    "key": "There were some advantages to having another such patient on hand nearby.",
+    "trx": "В том, чтобы иметь поблизости еще одного такого пациента, были некоторые преимущества.",
+    "val": "There were some advantages to having another such patient on hand nearby."
+  },
+  {
+    "key": "But there were downsides, too.",
+    "trx": "Но были и недостатки.",
+    "val": "But there were downsides, too."
+  },
+  {
+    "key": "Now the inexplicable behavior of the doctors and nurses made sense.",
+    "trx": "Теперь необъяснимое поведение врачей и медсестер обрело смысл.",
+    "val": "Now the inexplicable behavior of the doctors and nurses made sense."
+  },
+  {
+    "key": "They’d been trying to keep Suzune and Takuya from each discovering that the other had Bombay blood.",
+    "trx": "Они пытались уберечь Сузуне и Такую от того, чтобы каждый из них обнаружил, что в другом есть бомбейская кровь.",
+    "val": "They’d been trying to keep Suzune and Takuya from each discovering that the other had Bombay blood."
+  },
+  {
+    "key": "It was unsettling enough to know that someone else with a blood type only possessed by a few dozen other people in all of Japan was hospitalized right alongside you.",
+    "trx": "Было достаточно тревожно знать, что кто-то еще с группой крови, которой обладают только несколько десятков других людей во всей Японии, был госпитализирован прямо рядом с вами.",
+    "val": "It was unsettling enough to know that someone else with a blood type only possessed by a few dozen other people in all of Japan was hospitalized right alongside you."
+  },
+  {
+    "key": "But when both of you were waiting for compatible donors in the hope of receiving a transplant...",
+    "trx": "Но когда вы оба ждали совместимых доноров в надежде получить трансплантацию...",
+    "val": "But when both of you were waiting for compatible donors in the hope of receiving a transplant..."
+  },
+  {
+    "key": "That was enough to upset anyone’s composure.",
+    "trx": "Этого было достаточно, чтобы вывести из равновесия любого.",
+    "val": "That was enough to upset anyone’s composure."
+  },
+  {
+    "key": "How must Takuya have felt when she’d told him that she had Bombay blood as well?",
+    "trx": "Как, должно быть, чувствовал себя Такуя, когда она сказала ему, что в ней тоже есть бомбейская кровь?",
+    "val": "How must Takuya have felt when she’d told him that she had Bombay blood as well?"
+  },
+  {
+    "key": "‘If I die, she could live.’",
+    "trx": "‘Если я умру, она может жить\".",
+    "val": "‘If I die, she could live.’"
+  },
+  {
+    "key": "Something like that must have crossed his mind.",
+    "trx": "Что-то подобное, должно быть, приходило ему в голову.",
+    "val": "Something like that must have crossed his mind."
+  },
+  {
+    "key": "The fact that he’d started studying up about transplants again must mean he’d been thinking of",
+    "trx": "Тот факт, что он снова начал изучать трансплантацию, должно быть, означал, что он думал о",
+    "val": "The fact that he’d started studying up about transplants again must mean he’d been thinking of"
+  },
+  {
+    "key": " something",
+    "trx": " что-то",
+    "val": " something"
+  },
+  {
+    "key": ".",
+    "trx": ".",
+    "val": "."
+  },
+  {
+    "key": "What in the world was he thinking?",
+    "trx": "О чем, черт возьми, он думал?",
+    "val": "What in the world was he thinking?"
+  },
+  {
+    "key": "If our positions were reversed, what would I have done?",
+    "trx": "Если бы наши позиции поменялись местами, что бы я сделал?",
+    "val": "If our positions were reversed, what would I have done?"
+  },
+  {
+    "key": "Suzune knew what she had to do. She headed for the ICU.",
+    "trx": "Сузуне знала, что она должна была сделать. Она направилась в отделение интенсивной терапии.",
+    "val": "Suzune knew what she had to do. She headed for the ICU."
+  },
+  {
+    "key": "She got there just as Dr. Saeki, who was her own attending physician as well, emerged from inside.",
+    "trx": "Она добралась туда как раз в тот момент, когда доктор Саеки, который также был ее лечащим врачом, вышел изнутри.",
+    "val": "She got there just as Dr. Saeki, who was her own attending physician as well, emerged from inside."
+  },
+  {
+    "key": "“Miss Endo.” ",
+    "trx": "“Мисс Эндо”. ",
+    "val": "“Miss Endo.” "
+  },
+  {
+    "key": "The doctor stopped, surprised.",
+    "trx": "Доктор удивленно остановился.",
+    "val": "The doctor stopped, surprised."
+  },
+  {
+    "key": "Suzune drew herself upright and looked him right in the eye.",
+    "trx": "Сузуне выпрямилась и посмотрела ему прямо в глаза.",
+    "val": "Suzune drew herself upright and looked him right in the eye."
+  },
+  {
+    "key": "“Doctor, ",
+    "trx": "“Доктор, ",
+    "val": "“Doctor, "
+  },
+  {
+    "key": "please...",
+    "trx": "пожалуйста...",
+    "val": "please..."
+  },
+  {
+    "key": "please use my liver for a transplant for Takuya. ",
+    "trx": "пожалуйста, используйте мою печень для пересадки Такуе. ",
+    "val": "please use my liver for a transplant for Takuya. "
+  },
+  {
+    "key": "You can perform a living liver transplant, right? ",
+    "trx": "Вы можете провести живую пересадку печени, верно? ",
+    "val": "You can perform a living liver transplant, right? "
+  },
+  {
+    "key": "If you need to take half or even two thirds of it, then please, by all means.”",
+    "trx": "Если вам нужно взять половину или даже две трети этого, то, пожалуйста, во что бы то ни стало\".",
+    "val": "If you need to take half or even two thirds of it, then please, by all means.”"
+  },
+  {
+    "key": "For a moment, Dr. Saeki looked as if he’d taken a punch to the face; but soon his expression resolved into a sad smile.",
+    "trx": "На мгновение доктор Саэки выглядел так, словно получил удар в лицо, но вскоре выражение его лица сменилось грустной улыбкой.",
+    "val": "For a moment, Dr. Saeki looked as if he’d taken a punch to the face; but soon his expression resolved into a sad smile."
+  },
+  {
+    "key": "“You heard about the blood.”",
+    "trx": "“Ты слышал о крови”.",
+    "val": "“You heard about the blood.”"
+  },
+  {
+    "key": "Suzune nodded.",
+    "trx": "Сузуне кивнула.",
+    "val": "Suzune nodded."
+  },
+  {
+    "key": "“I’m afraid that won’t be possible. ",
+    "trx": "“Я боюсь, что это будет невозможно. ",
+    "val": "“I’m afraid that won’t be possible. "
+  },
+  {
+    "key": "A living liver transplant is dangerous enough for a healthy person; someone in your condition would never be able to tolerate the surgery.”",
+    "trx": "Пересадка живой печени достаточно опасна для здорового человека; кто-то в вашем состоянии никогда не смог бы перенести операцию\".",
+    "val": "A living liver transplant is dangerous enough for a healthy person; someone in your condition would never be able to tolerate the surgery.”"
+  },
+  {
+    "key": "“You can do it when my time comes, then,” Suzune said.",
+    "trx": "“Тогда ты сможешь сделать это, когда придет мое время”, - сказала Сузуне.",
+    "val": "“You can do it when my time comes, then,” Suzune said."
+  },
+  {
+    "key": "“Regardless, Miss Endo, I can’t carry out a living liver transplant between complete strangers. ",
+    "trx": "“Как бы то ни было, мисс Эндо, я не могу провести живую пересадку печени между совершенно незнакомыми людьми. ",
+    "val": "“Regardless, Miss Endo, I can’t carry out a living liver transplant between complete strangers. "
+  },
+  {
+    "key": "The law doesn’t allow it. ",
+    "trx": "Закон этого не допускает. ",
+    "val": "The law doesn’t allow it. "
+  },
+  {
+    "key": "If the two of you got married, that would be a different story—",
+    "trx": "Если бы вы двое поженились, это была бы совсем другая история—",
+    "val": "If the two of you got married, that would be a different story—"
+  },
+  {
+    "key": "but that’s not possible, either. ",
+    "trx": "но это тоже невозможно. ",
+    "val": "but that’s not possible, either. "
+  },
+  {
+    "key": "Neither you nor Takuya can legally marry until you’re eighteen.”",
+    "trx": "Ни ты, ни Такуя не можете вступить в законный брак, пока вам не исполнится восемнадцать.”",
+    "val": "Neither you nor Takuya can legally marry until you’re eighteen.”"
+  },
+  {
+    "key": "Married—",
+    "trx": "Женат—",
+    "val": "Married—"
+  },
+  {
+    "key": "Suzune had never thought about such a thing, but if marrying Takuya would make the surgery possible, she’d do whatever it took.",
+    "trx": "Сузуне никогда не думала о таком, но если брак с Такуей сделает операцию возможной, она сделает все, что потребуется.",
+    "val": "Suzune had never thought about such a thing, but if marrying Takuya would make the surgery possible, she’d do whatever it took."
+  },
+  {
+    "key": "But apparently the law wasn’t going to allow for that, either.",
+    "trx": "Но, очевидно, закон тоже не собирался этого допускать.",
+    "val": "But apparently the law wasn’t going to allow for that, either."
+  },
+  {
+    "key": "“Well, I...",
+    "trx": "“Ну, я...",
+    "val": "“Well, I..."
+  },
+  {
+    "key": "I don’t care what the law says! ",
+    "trx": "Меня не волнует, что говорит закон! ",
+    "val": "I don’t care what the law says! "
+  },
+  {
+    "key": "If I’m the only person who can save Takuya, then please, take my liver! ",
+    "trx": "Если я единственный человек, который может спасти Такую, тогда, пожалуйста, забери мою печень! ",
+    "val": "If I’m the only person who can save Takuya, then please, take my liver! "
+  },
+  {
+    "key": "Doctor, ",
+    "trx": "Врач, ",
+    "val": "Doctor, "
+  },
+  {
+    "key": "please—”",
+    "trx": "пожалуйста...”",
+    "val": "please—”"
+  },
+  {
+    "key": "“I’m afraid what you’re asking simply can’t be done. ",
+    "trx": "“Я боюсь, что то, о чем вы просите, просто невозможно сделать. ",
+    "val": "“I’m afraid what you’re asking simply can’t be done. "
+  },
+  {
+    "key": "You need to focus on your own condition, and on getting better yourself.”",
+    "trx": "Тебе нужно сосредоточиться на своем собственном состоянии и на том, чтобы самому стать лучше”.",
+    "val": "You need to focus on your own condition, and on getting better yourself.”"
+  },
+  {
+    "key": "“I’m beyond saving anyway, though, ",
+    "trx": "“Впрочем, меня все равно уже не спасти, ",
+    "val": "“I’m beyond saving anyway, though, "
+  },
+  {
+    "key": "right? ",
+    "trx": "верно? ",
+    "val": "right? "
+  },
+  {
+    "key": "So please, I’m begging you, ",
+    "trx": "Так что, пожалуйста, я умоляю тебя, ",
+    "val": "So please, I’m begging you, "
+  },
+  {
+    "key": "Takuya needs—”",
+    "trx": "Такуя нуждается...”",
+    "val": "Takuya needs—”"
+  },
+  {
+    "key": "As Suzune grabbed hold of the doctor’s gown, pleading, a sharp pain shot through her chest.",
+    "trx": "Когда Сузуне с мольбой вцепилась в халат доктора, ее грудь пронзила острая боль.",
+    "val": "As Suzune grabbed hold of the doctor’s gown, pleading, a sharp pain shot through her chest."
+  },
+  {
+    "key": "The galloping heartbeat was back.",
+    "trx": "Бешеное сердцебиение вернулось.",
+    "val": "The galloping heartbeat was back."
+  },
+  {
+    "key": "No—her pulse had never been quite this erratic before.",
+    "trx": "Нет, ее пульс никогда раньше не был таким неровным.",
+    "val": "No—her pulse had never been quite this erratic before."
+  },
+  {
+    "key": "Her mouth opened and closed reflexively; she was unable to breathe.",
+    "trx": "Ее рот рефлекторно открывался и закрывался; она не могла дышать.",
+    "val": "Her mouth opened and closed reflexively; she was unable to breathe."
+  },
+  {
+    "key": "“Doc...",
+    "trx": "“Док...",
+    "val": "“Doc..."
+  },
+  {
+    "key": "tor...",
+    "trx": "Тор...",
+    "val": "tor..."
+  },
+  {
+    "key": "p-",
+    "trx": "p-",
+    "val": "p-"
+  },
+  {
+    "key": "please...” ",
+    "trx": "пожалуйста...” ",
+    "val": "please...” "
+  },
+  {
+    "key": "An electrical shock went through her from the implanted defibrillator. The world faded as she slowly collapsed to the floor.",
+    "trx": "Через нее прошел электрический разряд от имплантированного дефибриллятора. Мир померк, когда она медленно рухнула на пол.",
+    "val": "An electrical shock went through her from the implanted defibrillator. The world faded as she slowly collapsed to the floor."
+  },
+  {
+    "key": "Suzune had a long, ",
+    "trx": "У Сузуне был долгий, ",
+    "val": "Suzune had a long, "
+  },
+  {
+    "key": "long ",
+    "trx": "длинный ",
+    "val": "long "
+  },
+  {
+    "key": "dream.",
+    "trx": "мечта.",
+    "val": "dream."
+  },
+  {
+    "key": "Her father was in that dream—",
+    "trx": "В этом сне был ее отец—",
+    "val": "Her father was in that dream—"
+  },
+  {
+    "key": "and though Suzune couldn’t clearly remember her face, ",
+    "trx": "и хотя Сузуне не могла четко вспомнить ее лицо, ",
+    "val": "and though Suzune couldn’t clearly remember her face, "
+  },
+  {
+    "key": "her late mother was there, too, trying desperately to save her.",
+    "trx": "ее покойная мать тоже была там, отчаянно пытаясь спасти ее.",
+    "val": "her late mother was there, too, trying desperately to save her."
+  },
+  {
+    "key": "And then there was Takuya.",
+    "trx": "А потом появился Такуя.",
+    "val": "And then there was Takuya."
+  },
+  {
+    "key": "Takuya was smiling.",
+    "trx": "Такуя улыбался.",
+    "val": "Takuya was smiling."
+  },
+  {
+    "key": "A genuine smile.",
+    "trx": "Искренняя улыбка.",
+    "val": "A genuine smile."
+  },
+  {
+    "key": "A smile that Suzune had never seen.",
+    "trx": "Улыбка, которую Сузуне никогда не видела.",
+    "val": "A smile that Suzune had never seen."
+  },
+  {
+    "key": "Takuya’s mouth was moving,",
+    "trx": "Рот Такуи двигался,",
+    "val": "Takuya’s mouth was moving,"
+  },
+  {
+    "key": "but no sound came out.",
+    "trx": "но не раздалось ни звука.",
+    "val": "but no sound came out."
+  },
+  {
+    "key": "She tried to read his lips.",
+    "trx": "Она попыталась прочитать по его губам.",
+    "val": "She tried to read his lips."
+  },
+  {
+    "key": "...t...h...a...n...k...y...o...u...",
+    "trx": "...т...ч...а...н...к...у...о...у...",
+    "val": "...t...h...a...n...k...y...o...u..."
+  },
+  {
+    "key": "Thank you?",
+    "trx": "Спасибо тебе?",
+    "val": "Thank you?"
+  },
+  {
+    "key": "“Wait, what do you mean?”",
+    "trx": "“Подожди, что ты имеешь в виду?”",
+    "val": "“Wait, what do you mean?”"
+  },
+  {
+    "key": "Suzune cried out as she woke. ",
+    "trx": "Сузуне вскрикнула, просыпаясь. ",
+    "val": "Suzune cried out as she woke. "
+  },
+  {
+    "key": "She was staring up at a familiar ceiling. ",
+    "trx": "Она смотрела в знакомый потолок. ",
+    "val": "She was staring up at a familiar ceiling. "
+  },
+  {
+    "key": "She was back in her own room. ",
+    "trx": "Она вернулась в свою комнату. ",
+    "val": "She was back in her own room. "
+  },
+  {
+    "key": "She spotted her older brother ",
+    "trx": "Она заметила своего старшего брата ",
+    "val": "She spotted her older brother "
+  },
+  {
+    "key": "Achi",
+    "trx": "Ачи",
+    "val": "Achi"
+  },
+  {
+    "key": " sleeping in a folding chair nearby.",
+    "trx": " спит на складном стуле неподалеку.",
+    "val": " sleeping in a folding chair nearby."
+  },
+  {
+    "key": "“Achi...” ",
+    "trx": "\"Ачи...” ",
+    "val": "“Achi...” "
+  },
+  {
+    "key": "The word creaked raspily from her throat.",
+    "trx": "Слово хрипло сорвалось с ее горла.",
+    "val": "The word creaked raspily from her throat."
+  },
+  {
+    "key": "“Hunh...? ",
+    "trx": "“Хм...? ",
+    "val": "“Hunh...? "
+  },
+  {
+    "key": "Suzune...? ",
+    "trx": "Сузуне...? ",
+    "val": "Suzune...? "
+  },
+  {
+    "key": "You awake?” ",
+    "trx": "Ты не спишь?” ",
+    "val": "You awake?” "
+  },
+  {
+    "key": "Her brother rose from the chair, then excitedly scampered out of the room.",
+    "trx": "Ее брат поднялся со стула, затем взволнованно выбежал из комнаты.",
+    "val": "Her brother rose from the chair, then excitedly scampered out of the room."
+  },
+  {
+    "key": "With a start, Suzune realized something was attached to her chest.",
+    "trx": "Вздрогнув, Сузуне поняла, что к ее груди что-то прикреплено.",
+    "val": "With a start, Suzune realized something was attached to her chest."
+  },
+  {
+    "key": "She felt a peculiar sensation, six distinct tingles all running from the center to the left side of her chest. ",
+    "trx": "Она почувствовала странное ощущение, шесть отчетливых покалываний, идущих от центра к левой стороне груди. ",
+    "val": "She felt a peculiar sensation, six distinct tingles all running from the center to the left side of her chest. "
+  },
+  {
+    "key": "Electrocardiograph electrodes...",
+    "trx": "Электроды электрокардиографа...",
+    "val": "Electrocardiograph electrodes..."
+  },
+  {
+    "key": "She followed the leads that ran from her chest to the monitor by her pillow, and was surprised to see the waveform moving across it.",
+    "trx": "Она проследила за проводами, которые тянулись от ее груди к монитору у подушки, и была удивлена, увидев движущуюся по нему форму волны.",
+    "val": "She followed the leads that ran from her chest to the monitor by her pillow, and was surprised to see the waveform moving across it."
+  },
+  {
+    "key": "It was her pulse.",
+    "trx": "Это был ее пульс.",
+    "val": "It was her pulse."
+  },
+  {
+    "key": "And, amazingly, ",
+    "trx": "И, удивительно, ",
+    "val": "And, amazingly, "
+  },
+  {
+    "key": "the rhythm was solid and strong, ",
+    "trx": "ритм был твердым и сильным, ",
+    "val": "the rhythm was solid and strong, "
+  },
+  {
+    "key": "nothing like the one she’d been familiar with for so long.",
+    "trx": "ничего похожего на то, с чем она была знакома так долго.",
+    "val": "nothing like the one she’d been familiar with for so long."
+  },
+  {
+    "key": "No. ",
+    "trx": "Нет. ",
+    "val": "No. "
+  },
+  {
+    "key": "That’s not ",
+    "trx": "Это не ",
+    "val": "That’s not "
+  },
+  {
+    "key": "my",
+    "trx": "мой",
+    "val": "my"
+  },
+  {
+    "key": " pulse.",
+    "trx": " пульс.",
+    "val": " pulse."
+  },
+  {
+    "key": "Suzune realized what she was seeing.",
+    "trx": "Сузуне поняла, что она видела.",
+    "val": "Suzune realized what she was seeing."
+  },
+  {
+    "key": "She understood instinctively.",
+    "trx": "Она инстинктивно поняла.",
+    "val": "She understood instinctively."
+  },
+  {
+    "key": "This heart...",
+    "trx": "Это сердце...",
+    "val": "This heart..."
+  },
+  {
+    "key": "it was Takuya’s.",
+    "trx": "он принадлежал Такуе.",
+    "val": "it was Takuya’s."
+  },
+  {
+    "key": "Achi returned with Dr. Saeki, who proceeded to check the various monitoring devices by the bed, nodding and smiling with satisfaction.",
+    "trx": "Ачи вернулся с доктором Саеки, который продолжил проверять различные контрольные устройства у кровати, удовлетворенно кивая и улыбаясь.",
+    "val": "Achi returned with Dr. Saeki, who proceeded to check the various monitoring devices by the bed, nodding and smiling with satisfaction."
+  },
+  {
+    "key": "“It’s good to see you awake again. ",
+    "trx": "“Приятно видеть, что ты снова проснулся. ",
+    "val": "“It’s good to see you awake again. "
+  },
+  {
+    "key": "For now, there don’t appear to be any signs of rejection. ",
+    "trx": "На данный момент, похоже, нет никаких признаков отказа. ",
+    "val": "For now, there don’t appear to be any signs of rejection. "
+  },
+  {
+    "key": "Of course, we’ll need to be vigilant, but this new heart seems to be a good match for you, Miss Endo.”",
+    "trx": "Конечно, нам нужно быть бдительными, но это новое сердце, похоже, хорошо подходит вам, мисс Эндо.”",
+    "val": "Of course, we’ll need to be vigilant, but this new heart seems to be a good match for you, Miss Endo.”"
+  },
+  {
+    "key": "“It’s Takuya’s, isn’t it? ",
+    "trx": "“Это Такуя, не так ли? ",
+    "val": "“It’s Takuya’s, isn’t it? "
+  },
+  {
+    "key": "Please, tell me it’s not. ",
+    "trx": "Пожалуйста, скажи мне, что это не так. ",
+    "val": "Please, tell me it’s not. "
+  },
+  {
+    "key": "I told you I wanted him to have my liver!”",
+    "trx": "Я же говорил тебе, что хотел, чтобы он съел мою печень!”",
+    "val": "I told you I wanted him to have my liver!”"
+  },
+  {
+    "key": "Takuya was dead.",
+    "trx": "Такуя был мертв.",
+    "val": "Takuya was dead."
+  },
+  {
+    "key": "If she had his heart now, there was no way he was still alive.",
+    "trx": "Если бы она завладела его сердцем сейчас, он ни за что не был бы еще жив.",
+    "val": "If she had his heart now, there was no way he was still alive."
+  },
+  {
+    "key": "Dr. Saeki looked away, and for a while he said nothing.",
+    "trx": "Доктор Саэки отвел взгляд и некоторое время ничего не говорил.",
+    "val": "Dr. Saeki looked away, and for a while he said nothing."
+  },
+  {
+    "key": "“When it comes to who your donor is, I’m not at liberty to say anything. ",
+    "trx": "“Когда дело доходит до того, кто ваш донор, я не вправе ничего говорить. ",
+    "val": "“When it comes to who your donor is, I’m not at liberty to say anything. "
+  },
+  {
+    "key": "You understand that, right? ",
+    "trx": "Ты ведь понимаешь это, верно? ",
+    "val": "You understand that, right? "
+  },
+  {
+    "key": "So instead, let me tell you how things went for Takuya in the end. ",
+    "trx": "Поэтому вместо этого позвольте мне рассказать вам, как все сложилось для Такуи в конце концов. ",
+    "val": "So instead, let me tell you how things went for Takuya in the end. "
+  },
+  {
+    "key": "You two were friends—",
+    "trx": "Вы двое были друзьями—",
+    "val": "You two were friends—"
+  },
+  {
+    "key": "boyfriend and girlfriend, maybe? ",
+    "trx": "может быть, парень и девушка? ",
+    "val": "boyfriend and girlfriend, maybe? "
+  },
+  {
+    "key": "Either way, you have a right to know about his passing.”",
+    "trx": "В любом случае, вы имеете право знать о его кончине.”",
+    "val": "Either way, you have a right to know about his passing.”"
+  },
+  {
+    "key": "Takuya’s passing—",
+    "trx": "Кончина Такуи—",
+    "val": "Takuya’s passing—"
+  },
+  {
+    "key": "Suzune had already imagined as much, but now, she couldn’t hold back the tears.",
+    "trx": "Сузуне уже представляла себе это, но теперь она не могла сдержать слез.",
+    "val": "Suzune had already imagined as much, but now, she couldn’t hold back the tears."
+  },
+  {
+    "key": "Takuya is dead.",
+    "trx": "Такуя мертв.",
+    "val": "Takuya is dead."
+  },
+  {
+    "key": "He’s dead.",
+    "trx": "Он мертв.",
+    "val": "He’s dead."
+  },
+  {
+    "key": "Dr. Saeki went on. ",
+    "trx": "Доктор Саэки продолжал: ",
+    "val": "Dr. Saeki went on. "
+  },
+  {
+    "key": "“Takuya begged me to help keep him alive just a little bit longer. ",
+    "trx": "“Такуя умолял меня помочь сохранить ему жизнь еще немного. ",
+    "val": "“Takuya begged me to help keep him alive just a little bit longer. "
+  },
+  {
+    "key": "His family agreed, and so we proceeded with an artificial liver system, a treatment that’s relatively untested here in Japan. ",
+    "trx": "Его семья согласилась, и поэтому мы приступили к системе искусственной печени - лечению, которое здесь, в Японии, относительно непроверено. ",
+    "val": "His family agreed, and so we proceeded with an artificial liver system, a treatment that’s relatively untested here in Japan. "
+  },
+  {
+    "key": "For a while, his symptoms abated, and he even regained consciousness.”",
+    "trx": "На некоторое время его симптомы ослабли, и он даже пришел в сознание.”",
+    "val": "For a while, his symptoms abated, and he even regained consciousness.”"
+  },
+  {
+    "key": "The doctor took a breath. ",
+    "trx": "Доктор перевел дыхание. ",
+    "val": "The doctor took a breath. "
+  },
+  {
+    "key": "“But it was already too late. ",
+    "trx": "“Но было уже слишком поздно. ",
+    "val": "“But it was already too late. "
+  },
+  {
+    "key": "He lapsed into a coma due to acute liver failure, and then developed complications—a condition known as DIC, which causes clotting in blood vessels throughout the body. ",
+    "trx": "Он впал в кому из—за острой печеночной недостаточности, а затем развились осложнения - состояние, известное как ДВС-синдром, которое вызывает свертывание крови в сосудах по всему телу. ",
+    "val": "He lapsed into a coma due to acute liver failure, and then developed complications—a condition known as DIC, which causes clotting in blood vessels throughout the body. "
+  },
+  {
+    "key": "Initially we thought he might have hepatic encephalopathy, but a CT scan of the head revealed cerebral edema. ",
+    "trx": "Сначала мы подумали, что у него может быть печеночная энцефалопатия, но компьютерная томография головы выявила отек головного мозга. ",
+    "val": "Initially we thought he might have hepatic encephalopathy, but a CT scan of the head revealed cerebral edema. "
+  },
+  {
+    "key": "He was declared brain-dead two days after his birthday. ",
+    "trx": "Он был объявлен мертвым через два дня после своего дня рождения. ",
+    "val": "He was declared brain-dead two days after his birthday. "
+  },
+  {
+    "key": "He was fifteen years old.”",
+    "trx": "Ему было пятнадцать лет.”",
+    "val": "He was fifteen years old.”"
+  },
+  {
+    "key": "Dr. Saeki gave her a significant look. Suzune wondered what that implied.",
+    "trx": "Доктор Саэки многозначительно посмотрела на нее. Сузуне задумалась, что это значит.",
+    "val": "Dr. Saeki gave her a significant look. Suzune wondered what that implied."
+  },
+  {
+    "key": "“He was insistent that he make it to fifteen,” Saeki continued. ",
+    "trx": "“Он настаивал на том, чтобы ему исполнилось пятнадцать”, - продолжил Саэки. ",
+    "val": "“He was insistent that he make it to fifteen,” Saeki continued. "
+  },
+  {
+    "key": "“He said there was something he absolutely needed to do. ",
+    "trx": "“Он сказал, что ему абсолютно необходимо кое-что сделать. ",
+    "val": "“He said there was something he absolutely needed to do. "
+  },
+  {
+    "key": "On his birthday, he called for his family, ",
+    "trx": "В свой день рождения он позвал свою семью, ",
+    "val": "On his birthday, he called for his family, "
+  },
+  {
+    "key": "and told them, ‘I want to register as an organ donor.’”",
+    "trx": "и сказал им: ”Я хочу зарегистрироваться в качестве донора органов\".\"",
+    "val": "and told them, ‘I want to register as an organ donor.’”"
+  },
+  {
+    "key": "“Huh?”",
+    "trx": "\"Хм?\"",
+    "val": "“Huh?”"
+  },
+  {
+    "key": "“Here in Japan, individuals under fifteen years of age aren’t allowed to give consent for organ donation. ",
+    "trx": "“Здесь, в Японии, лицам младше пятнадцати лет не разрешается давать согласие на донорство органов. ",
+    "val": "“Here in Japan, individuals under fifteen years of age aren’t allowed to give consent for organ donation. "
+  },
+  {
+    "key": "If Takuya had died before he turned fifteen, then his heart—",
+    "trx": "Если бы Такуя умер до того, как ему исполнилось пятнадцать, то его сердце—",
+    "val": "If Takuya had died before he turned fifteen, then his heart—"
+  },
+  {
+    "key": "all of his organs, rather—could not have been provided to a patient in need. ",
+    "trx": "вернее, все его органы не могли быть предоставлены нуждающемуся пациенту. ",
+    "val": "all of his organs, rather—could not have been provided to a patient in need. "
+  },
+  {
+    "key": "And that was something he wished for very much.”",
+    "trx": "И это было то, чего он очень хотел”.",
+    "val": "And that was something he wished for very much.”"
+  },
+  {
+    "key": "Takuya had been reading up and studying, ",
+    "trx": "Такуя читал и изучал, ",
+    "val": "Takuya had been reading up and studying, "
+  },
+  {
+    "key": "and he learned that he needed to survive until he turned fifteen.",
+    "trx": "и он понял, что ему нужно дожить до пятнадцати лет.",
+    "val": "and he learned that he needed to survive until he turned fifteen."
+  },
+  {
+    "key": "And he asked for life-prolonging measures to be taken, ",
+    "trx": "И он попросил принять меры по продлению жизни, ",
+    "val": "And he asked for life-prolonging measures to be taken, "
+  },
+  {
+    "key": "all so that he could register as a donor in order to give me his heart...",
+    "trx": "все для того, чтобы он мог зарегистрироваться в качестве донора, чтобы отдать мне свое сердце...",
+    "val": "all so that he could register as a donor in order to give me his heart..."
+  },
+  {
+    "key": "“And...I don’t know who it was, but apparently a surgeon was able to perform a transplant for a patient believed to be an ideal match for his heart. ",
+    "trx": "“И...Я не знаю, кто это был, но, по-видимому, хирург смог провести пересадку пациенту, который, как считалось, идеально подходил для его сердца. ",
+    "val": "“And...I don’t know who it was, but apparently a surgeon was able to perform a transplant for a patient believed to be an ideal match for his heart. "
+  },
+  {
+    "key": "Evidently this patient was also comatose and in an extremely dire state. ",
+    "trx": "Очевидно, этот пациент тоже был в коме и находился в крайне тяжелом состоянии. ",
+    "val": "Evidently this patient was also comatose and in an extremely dire state. "
+  },
+  {
+    "key": "But from what I hear, the surgery seems to have gone quite well. ",
+    "trx": "Но, судя по тому, что я слышал, операция, похоже, прошла довольно успешно. ",
+    "val": "But from what I hear, the surgery seems to have gone quite well. "
+  },
+  {
+    "key": "Of course, I do not know the identity of the patient, either.”",
+    "trx": "Конечно, я тоже не знаю личности пациента.”",
+    "val": "Of course, I do not know the identity of the patient, either.”"
+  },
+  {
+    "key": "Suzune strained to move her right hand, setting it atop her chest.",
+    "trx": "Сузуне напряглась, чтобы пошевелить правой рукой, положив ее на грудь.",
+    "val": "Suzune strained to move her right hand, setting it atop her chest."
+  },
+  {
+    "key": "Underneath the layers of the bandages, she could feel a heartbeat, steady and strong.",
+    "trx": "Под слоями бинтов она чувствовала сердцебиение, ровное и сильное.",
+    "val": "Underneath the layers of the bandages, she could feel a heartbeat, steady and strong."
+  },
+  {
+    "key": "Takuya’s heart is beating within me.",
+    "trx": "Сердце Такуи бьется внутри меня.",
+    "val": "Takuya’s heart is beating within me."
+  },
+  {
+    "key": "“He left a letter for you. ",
+    "trx": "“Он оставил тебе письмо. ",
+    "val": "“He left a letter for you. "
+  },
+  {
+    "key": "I haven’t looked at what’s inside, ",
+    "trx": "Я не смотрел на то, что внутри, ",
+    "val": "I haven’t looked at what’s inside, "
+  },
+  {
+    "key": "so I’m not sure what it says.”",
+    "trx": "так что я не совсем понимаю, что там написано.”",
+    "val": "so I’m not sure what it says.”"
+  },
+  {
+    "key": "Dr. Saeki set a white envelope down on the bedside table, then left the room.",
+    "trx": "Доктор Саэки положил белый конверт на прикроватный столик и вышел из комнаты.",
+    "val": "Dr. Saeki set a white envelope down on the bedside table, then left the room."
+  },
+  {
+    "key": "“Achi, ",
+    "trx": "“Ачи, ",
+    "val": "“Achi, "
+  },
+  {
+    "key": "read it to me.”",
+    "trx": "прочти мне это.”",
+    "val": "read it to me.”"
+  },
+  {
+    "key": "She didn’t feel strong enough to read it herself. ",
+    "trx": "Она не чувствовала в себе достаточно сил, чтобы прочитать это самой. ",
+    "val": "She didn’t feel strong enough to read it herself. "
+  },
+  {
+    "key": "But she didn’t want to wait.",
+    "trx": "Но она не хотела ждать.",
+    "val": "But she didn’t want to wait."
+  },
+  {
+    "key": "“You sure?” Achi asked. ",
+    "trx": "“Ты уверен?” - спросил Ачи. ",
+    "val": "“You sure?” Achi asked. "
+  },
+  {
+    "key": "“All right, then. ",
+    "trx": "“Тогда ладно. ",
+    "val": "“All right, then. "
+  },
+  {
+    "key": "Let’s see...” ",
+    "trx": "Давайте посмотрим...” ",
+    "val": "Let’s see...” "
+  },
+  {
+    "key": "Achi opened the envelope, slid the letter out, and began to read.",
+    "trx": "Ачи вскрыл конверт, вынул письмо и начал читать.",
+    "val": "Achi opened the envelope, slid the letter out, and began to read."
+  },
+  {
+    "key": "Suzune,",
+    "trx": "Сузуне,",
+    "val": "Suzune,"
+  },
+  {
+    "key": "If you’re reading this letter,",
+    "trx": "Если вы читаете это письмо,",
+    "val": "If you’re reading this letter,"
+  },
+  {
+    "key": "that means everything has gone well.",
+    "trx": "это значит, что все прошло хорошо.",
+    "val": "that means everything has gone well."
+  },
+  {
+    "key": "Congratulations.",
+    "trx": "Поздравления.",
+    "val": "Congratulations."
+  },
+  {
+    "key": "And also, thank you.",
+    "trx": "И еще, спасибо вам.",
+    "val": "And also, thank you."
+  },
+  {
+    "key": "Ever since I became sick—",
+    "trx": "С тех пор как я заболел—",
+    "val": "Ever since I became sick—"
+  },
+  {
+    "key": "no, even before then—",
+    "trx": "нет, даже до этого—",
+    "val": "no, even before then—"
+  },
+  {
+    "key": "I hadn’t known what it was like to be happy.",
+    "trx": "Я не знала, каково это - быть счастливой.",
+    "val": "I hadn’t known what it was like to be happy."
+  },
+  {
+    "key": "I hated the world.",
+    "trx": "Я ненавидел этот мир.",
+    "val": "I hated the world."
+  },
+  {
+    "key": "I went through my whole life",
+    "trx": "Я прошел через всю свою жизнь",
+    "val": "I went through my whole life"
+  },
+  {
+    "key": "just thinking about how pointless ",
+    "trx": "просто думаю о том, как бессмысленно ",
+    "val": "just thinking about how pointless "
+  },
+  {
+    "key": "my existence was.",
+    "trx": "мое существование было.",
+    "val": "my existence was."
+  },
+  {
+    "key": "An excuse for a human being, ",
+    "trx": "Оправдание для человеческого существа, ",
+    "val": "An excuse for a human being, "
+  },
+  {
+    "key": "with no reason to live.",
+    "trx": "без всякой причины жить.",
+    "val": "with no reason to live."
+  },
+  {
+    "key": "What did it matter if I was here or not?",
+    "trx": "Какая разница, был я здесь или нет?",
+    "val": "What did it matter if I was here or not?"
+  },
+  {
+    "key": "I hated that I was going to die so young.",
+    "trx": "Я ненавидел то, что мне предстояло умереть таким молодым.",
+    "val": "I hated that I was going to die so young."
+  },
+  {
+    "key": "But at the same time,",
+    "trx": "Но в то же время,",
+    "val": "But at the same time,"
+  },
+  {
+    "key": "it seemed pointless to ",
+    "trx": "это казалось бессмысленным для ",
+    "val": "it seemed pointless to "
+  },
+  {
+    "key": "try to live any longer.",
+    "trx": "попробуй прожить еще немного.",
+    "val": "try to live any longer."
+  },
+  {
+    "key": "And then I met you.",
+    "trx": "А потом я встретил тебя.",
+    "val": "And then I met you."
+  },
+  {
+    "key": "I fell in love.",
+    "trx": "Я влюбился.",
+    "val": "I fell in love."
+  },
+  {
+    "key": "With you.",
+    "trx": "С тобой.",
+    "val": "With you."
+  },
+  {
+    "key": "I love you, Suzune.",
+    "trx": "Я люблю тебя, Сузуне.",
+    "val": "I love you, Suzune."
+  },
+  {
+    "key": "With all of my heart.",
+    "trx": "От всего сердца.",
+    "val": "With all of my heart."
+  },
+  {
+    "key": "With you in this world,",
+    "trx": "С тобой в этом мире,",
+    "val": "With you in this world,"
+  },
+  {
+    "key": "I wanted to go on living a little longer,",
+    "trx": "Я хотел прожить еще немного,",
+    "val": "I wanted to go on living a little longer,"
+  },
+  {
+    "key": "because living would actually ",
+    "trx": "потому что жизнь на самом деле была бы ",
+    "val": "because living would actually "
+  },
+  {
+    "key": "have some meaning.",
+    "trx": "иметь какой-то смысл.",
+    "val": "have some meaning."
+  },
+  {
+    "key": "When I found out",
+    "trx": "Когда я узнал",
+    "val": "When I found out"
+  },
+  {
+    "key": "that we had the same blood,",
+    "trx": "что у нас одна кровь,",
+    "val": "that we had the same blood,"
+  },
+  {
+    "key": "I was shocked.",
+    "trx": "Я был потрясен.",
+    "val": "I was shocked."
+  },
+  {
+    "key": "It had to be fate.",
+    "trx": "Должно быть, это была судьба.",
+    "val": "It had to be fate."
+  },
+  {
+    "key": "Right?",
+    "trx": "Верно?",
+    "val": "Right?"
+  },
+  {
+    "key": "Neither of us was going to be ",
+    "trx": "Никто из нас не собирался быть ",
+    "val": "Neither of us was going to be "
+  },
+  {
+    "key": "able to survive on our own.",
+    "trx": "способные выжить самостоятельно.",
+    "val": "able to survive on our own."
+  },
+  {
+    "key": "But if one of us sacrificed ",
+    "trx": "Но если бы один из нас пожертвовал ",
+    "val": "But if one of us sacrificed "
+  },
+  {
+    "key": "ourself for the other,",
+    "trx": "мы сами для другого,",
+    "val": "ourself for the other,"
+  },
+  {
+    "key": "the other one could go on living.",
+    "trx": "другой мог бы продолжать жить.",
+    "val": "the other one could go on living."
+  },
+  {
+    "key": "And I wouldn’t be able to bear",
+    "trx": "И я бы не смог этого вынести",
+    "val": "And I wouldn’t be able to bear"
+  },
+  {
+    "key": "any world without you in it, Suzune.",
+    "trx": "любой мир без тебя в нем, Сузуне.",
+    "val": "any world without you in it, Suzune."
+  },
+  {
+    "key": "The answer was clear.",
+    "trx": "Ответ был ясен.",
+    "val": "The answer was clear."
+  },
+  {
+    "key": "I want you to have my heart, Suzune.",
+    "trx": "Я хочу, чтобы мое сердце принадлежало тебе, Сузуне.",
+    "val": "I want you to have my heart, Suzune."
+  },
+  {
+    "key": "That’s the best possible thing",
+    "trx": "Это самое лучшее, что только возможно",
+    "val": "That’s the best possible thing"
+  },
+  {
+    "key": "for the both of us.",
+    "trx": "для нас обоих.",
+    "val": "for the both of us."
+  },
+  {
+    "key": "You’re probably a little sad,",
+    "trx": "Тебе, наверное, немного грустно,",
+    "val": "You’re probably a little sad,"
+  },
+  {
+    "key": "knowing that I’m gone now.",
+    "trx": "зная, что теперь меня больше нет.",
+    "val": "knowing that I’m gone now."
+  },
+  {
+    "key": "I’ll be happy if that’s the case.",
+    "trx": "Я буду счастлив, если это так.",
+    "val": "Я бы порадовался, если бы было так."
+  },
+  {
+    "key": "But will you please be happy for me,",
+    "trx": "Но не могли бы вы, пожалуйста, порадоваться за меня,",
+    "val": "Но, пожалуйста, порадуйся вместо меня"
+  },
+  {
+    "key": "now that my heart is inside you?",
+    "trx": "теперь, когда мое сердце внутри тебя?",
+    "val": "теперь, когда мое сердце внутри тебя."
+  },
+  {
+    "key": "That would make me even happier.",
+    "trx": "Это сделало бы меня еще счастливее.",
+    "val": "That would make me even happier."
+  },
+  {
+    "key": "Happier than anything.",
+    "trx": "Счастливее всего на свете.",
+    "val": "Happier than anything."
+  },
+  {
+    "key": "Thank you so much for taking my heart.",
+    "trx": "Большое тебе спасибо за то, что забрал мое сердце.",
+    "val": "Thank you so much for taking my heart."
+  },
+  {
+    "key": "It’ll beat for you as hard as it can.",
+    "trx": "Он будет биться за тебя так сильно, как только сможет.",
+    "val": "It’ll beat for you as hard as it can."
+  },
+  {
+    "key": "I hope.",
+    "trx": "Я надеюсь.",
+    "val": "I hope."
+  },
+  {
+    "key": "I wish we could have talked more.",
+    "trx": "Жаль, что мы не могли больше поговорить.",
+    "val": "I wish we could have talked more."
+  },
+  {
+    "key": "If it had only been possible,",
+    "trx": "Если бы это только было возможно,",
+    "val": "If it had only been possible,"
+  },
+  {
+    "key": "I would have liked to have ",
+    "trx": "Я бы хотел иметь ",
+    "val": "I would have liked to have "
+  },
+  {
+    "key": "gone somewhere with you.",
+    "trx": "ушел куда-то с тобой.",
+    "val": "gone somewhere with you."
+  },
+  {
+    "key": "But it’s okay.",
+    "trx": "Но все в порядке.",
+    "val": "But it’s okay."
+  },
+  {
+    "key": "This way, I get to be with you forever.",
+    "trx": "Таким образом, я смогу быть с тобой вечно.",
+    "val": "This way, I get to be with you forever."
+  },
+  {
+    "key": "I won’t be lonely anymore.",
+    "trx": "Я больше не буду одинок.",
+    "val": "I won’t be lonely anymore."
+  },
+  {
+    "key": "Goodbye. ",
+    "trx": "До свидания. ",
+    "val": "Goodbye. "
+  },
+  {
+    "key": "I’m looking forward to our future together.",
+    "trx": "Я с нетерпением жду нашего совместного будущего.",
+    "val": "I’m looking forward to our future together."
+  },
+  {
+    "key": "Takuya Kazama",
+    "trx": "Такуя Казама",
+    "val": "Takuya Kazama"
+  },
+  {
+    "key": "Achi’s voice grew gradually more hoarse as he read; by the end, he was struggling not to weep. ",
+    "trx": "Голос Ачи постепенно становился все более хриплым по мере чтения; к концу он изо всех сил старался не заплакать. ",
+    "val": "Achi’s voice grew gradually more hoarse as he read; by the end, he was struggling not to weep. "
+  },
+  {
+    "key": "“Dammit...",
+    "trx": "“Черт возьми...",
+    "val": "“Dammit..."
+  },
+  {
+    "key": "did it really have to be like this?”",
+    "trx": "неужели это действительно должно было быть так?”",
+    "val": "did it really have to be like this?”"
+  },
+  {
+    "key": "Suzune was more astounded than she was sad.",
+    "trx": "Сузуне была скорее поражена, чем опечалена.",
+    "val": "Suzune was more astounded than she was sad."
+  },
+  {
+    "key": "Of course, she was upset that Takuya had died.",
+    "trx": "Конечно, она была расстроена тем, что Такуя умер.",
+    "val": "Of course, she was upset that Takuya had died."
+  },
+  {
+    "key": "And she was glad that she was going to live.",
+    "trx": "И она была рада, что будет жить.",
+    "val": "And she was glad that she was going to live."
+  },
+  {
+    "key": "But above all she was amazed by the fact that Takuya had cared for her as much as he had.",
+    "trx": "Но больше всего ее поразил тот факт, что Такуя заботился о ней так же сильно, как и он.",
+    "val": "But above all she was amazed by the fact that Takuya had cared for her as much as he had."
+  },
+  {
+    "key": "That he’d fought so hard to prolong his own life just to save hers.",
+    "trx": "Что он так упорно боролся, чтобы продлить свою собственную жизнь, только чтобы спасти ее.",
+    "val": "That he’d fought so hard to prolong his own life just to save hers."
+  },
+  {
+    "key": "That moved her more deeply than anything she’d ever known.",
+    "trx": "Это тронуло ее сильнее, чем все, что она когда-либо знала.",
+    "val": "That moved her more deeply than anything she’d ever known."
+  },
+  {
+    "key": "Maybe a young crush couldn’t be called real love, ",
+    "trx": "Может быть, юное увлечение нельзя назвать настоящей любовью, ",
+    "val": "Maybe a young crush couldn’t be called real love, "
+  },
+  {
+    "key": "but that didn’t make it any less pure.",
+    "trx": "но это не делало его менее чистым.",
+    "val": "but that didn’t make it any less pure."
+  },
+  {
+    "key": "“Thank you...” ",
+    "trx": "“Спасибо тебе...” ",
+    "val": "“Thank you...” "
+  },
+  {
+    "key": "“Goodbye.",
+    "trx": "“До свидания.",
+    "val": "“Goodbye."
+  },
+  {
+    "key": " And I’m looking forward to our ",
+    "trx": " И я с нетерпением жду нашего ",
+    "val": " And I’m looking forward to our "
+  },
+  {
+    "key": "future together.”",
+    "trx": "совместное будущее”.",
+    "val": "future together.”"
+  }
+]

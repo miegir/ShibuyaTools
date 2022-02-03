@@ -1,0 +1,1042 @@
+[
+  {
+    "key": "He’d agreed to take on a responsibility.",
+    "trx": "Он согласился взять на себя ответственность.",
+    "val": "He’d agreed to take on a responsibility."
+  },
+  {
+    "key": "He headed back for the theater.",
+    "trx": "Он направился обратно в театр.",
+    "val": "He headed back for the theater."
+  },
+  {
+    "key": "When he got there, he flagged down the first guy he saw to tell him about the dry ice machine.",
+    "trx": "Когда он добрался туда, он остановил первого парня, которого увидел, чтобы рассказать ему о машине для сухого льда.",
+    "val": "When he got there, he flagged down the first guy he saw to tell him about the dry ice machine."
+  },
+  {
+    "key": "“Hey, make sure you remember what I’m about to tell you, okay? ",
+    "trx": "“Эй, убедись, что ты помнишь, что я собираюсь тебе сказать, хорошо? ",
+    "val": "“Hey, make sure you remember what I’m about to tell you, okay? "
+  },
+  {
+    "key": "The dry ice machine is broken.”",
+    "trx": "Машина для сухого льда сломана.”",
+    "val": "The dry ice machine is broken.”"
+  },
+  {
+    "key": "The man stared back at him blankly, but Minorikawa just forged ahead.",
+    "trx": "Мужчина тупо уставился на него в ответ, но Минорикава просто двинулся вперед.",
+    "val": "The man stared back at him blankly, but Minorikawa just forged ahead."
+  },
+  {
+    "key": "“Got it? ",
+    "trx": "“Понял? ",
+    "val": "“Got it? "
+  },
+  {
+    "key": "The dry ice machine is broken.",
+    "trx": "Машина для сухого льда сломана.",
+    "val": "The dry ice machine is broken."
+  },
+  {
+    "key": " It needs to go back to the electronics store. ",
+    "trx": " Ему нужно вернуться в магазин электроники. ",
+    "val": " It needs to go back to the electronics store. "
+  },
+  {
+    "key": "Make sure you let the folks in charge here know!”",
+    "trx": "Убедитесь, что вы сообщили об этом ответственным здесь людям!”",
+    "val": "Make sure you let the folks in charge here know!”"
+  },
+  {
+    "key": "His obligation met, he hurried back to the café to get back to work on his copy.",
+    "trx": "Выполнив свои обязательства, он поспешил обратно в кафе, чтобы вернуться к работе над своей копией.",
+    "val": "His obligation met, he hurried back to the café to get back to work on his copy."
+  },
+  {
+    "key": "Along the way, he caught sight of a young couple running.",
+    "trx": "По пути он заметил бегущую молодую пару.",
+    "val": "Along the way, he caught sight of a young couple running."
+  },
+  {
+    "key": "They seemed like an odd pair; the girl looked prim and proper, while the boy struck him as a bit thuggish.",
+    "trx": "Они казались странной парой; девочка выглядела чопорной и благопристойной, в то время как мальчик показался ему немного бандитским.",
+    "val": "They seemed like an odd pair; the girl looked prim and proper, while the boy struck him as a bit thuggish."
+  },
+  {
+    "key": "In fact, the boy’s clothing was very much in the style worn by Shibuya street gangs.",
+    "trx": "На самом деле одежда мальчика была очень похожа на стиль уличных банд Сибуя.",
+    "val": "In fact, the boy’s clothing was very much in the style worn by Shibuya street gangs."
+  },
+  {
+    "key": "Maybe he’d know something about S.O.S.",
+    "trx": "Может быть, он знал бы что-нибудь о S.O.S.",
+    "val": "Maybe he’d know something about S.O.S."
+  },
+  {
+    "key": "Hurrying to cross their path, Minorikawa called out to the pair.",
+    "trx": "Поспешив пересечь им дорогу, Минорикава окликнул пару.",
+    "val": "Hurrying to cross their path, Minorikawa called out to the pair."
+  },
+  {
+    "key": "“Hey, mind if I ask you something? Have you heard of S.O.S.?”",
+    "trx": "“Эй, не возражаешь, если я спрошу тебя кое о чем? Вы слышали о S.O.S.?”",
+    "val": "“Hey, mind if I ask you something? Have you heard of S.O.S.?”"
+  },
+  {
+    "key": "The pair stopped, eyeing him warily.",
+    "trx": "Пара остановилась, настороженно глядя на него.",
+    "val": "The pair stopped, eyeing him warily."
+  },
+  {
+    "key": "The young man spoke. ",
+    "trx": "Молодой человек заговорил. ",
+    "val": "The young man spoke. "
+  },
+  {
+    "key": "“Yeah. Why do you ask?”",
+    "trx": "\"Да. Почему ты спрашиваешь?”",
+    "val": "“Yeah. Why do you ask?”"
+  },
+  {
+    "key": "“Do you happen to be a member yourself?”",
+    "trx": "“Вы случайно сами не являетесь членом клуба?”",
+    "val": "“Do you happen to be a member yourself?”"
+  },
+  {
+    "key": "“No. No, not anymore...” ",
+    "trx": "\"Нет. Нет, больше нет...” ",
+    "val": "“No. No, not anymore...” "
+  },
+  {
+    "key": "Well, if the kid had once been part of the group, he ought to be able to provide some background, anyhow.",
+    "trx": "Что ж, если ребенок когда-то был частью группы, он все равно должен быть в состоянии предоставить некоторую информацию.",
+    "val": "Well, if the kid had once been part of the group, he ought to be able to provide some background, anyhow."
+  },
+  {
+    "key": "Minorikawa took a step closer to the couple, formulating his next question.",
+    "trx": "Минорикава сделал шаг ближе к паре, формулируя свой следующий вопрос.",
+    "val": "Minorikawa took a step closer to the couple, formulating his next question."
+  },
+  {
+    "key": "But they didn’t stick around to hear it.",
+    "trx": "Но они не стали задерживаться, чтобы послушать это.",
+    "val": "But they didn’t stick around to hear it."
+  },
+  {
+    "key": " “Let’s go,” the young man said, and a moment later he and the girl were running away.",
+    "trx": " “Пойдем”, - сказал молодой человек, и мгновение спустя они с девушкой уже убегали.",
+    "val": " “Let’s go,” the young man said, and a moment later he and the girl were running away."
+  },
+  {
+    "key": "“Ah, hey!”",
+    "trx": "“А, привет!”",
+    "val": "“Ah, hey!”"
+  },
+  {
+    "key": "But the pair paid him no heed. In a moment they had vanished down an alley.",
+    "trx": "Но пара не обратила на него никакого внимания. Через мгновение они исчезли в переулке.",
+    "val": "But the pair paid him no heed. In a moment they had vanished down an alley."
+  },
+  {
+    "key": "The story about S.O.S. would have to wait till later, then.",
+    "trx": "Тогда рассказ о С.О.С. придется отложить на потом.",
+    "val": "The story about S.O.S. would have to wait till later, then."
+  },
+  {
+    "key": "Minorikawa hurried into the café. ",
+    "trx": "Минорикава поспешил в кафе. ",
+    "val": "Minorikawa hurried into the café. "
+  },
+  {
+    "key": "Wasting no time, he sat right down and plugged his laptop into the nearest power outlet.",
+    "trx": "Не теряя времени, он сел прямо и подключил свой ноутбук к ближайшей розетке.",
+    "val": "Wasting no time, he sat right down and plugged his laptop into the nearest power outlet."
+  },
+  {
+    "key": "He plunked himself down on the floor and hit the computer’s power switch.",
+    "trx": "Он плюхнулся на пол и нажал на выключатель питания компьютера.",
+    "val": "He plunked himself down on the floor and hit the computer’s power switch."
+  },
+  {
+    "key": "The waitress gave him a disapproving look. ",
+    "trx": "Официантка неодобрительно посмотрела на него. ",
+    "val": "The waitress gave him a disapproving look. "
+  },
+  {
+    "key": "“Sir, I’m afraid you can’t sit there.”",
+    "trx": "“Сэр, я боюсь, что вы не можете там сидеть”.",
+    "val": "“Sir, I’m afraid you can’t sit there.”"
+  },
+  {
+    "key": "“Well, it looks like your tables are full. ",
+    "trx": "“Ну, похоже, ваши столики заняты. ",
+    "val": "“Well, it looks like your tables are full. "
+  },
+  {
+    "key": "I’ll make do here.”",
+    "trx": "Я обойдусь здесь.”",
+    "val": "I’ll make do here.”"
+  },
+  {
+    "key": "“Um, well, ",
+    "trx": "“Эм, хорошо, ",
+    "val": "“Um, well, "
+  },
+  {
+    "key": "being able to make do isn’t really the issue...” ",
+    "trx": "возможность обойтись на самом деле не проблема...” ",
+    "val": "being able to make do isn’t really the issue...” "
+  },
+  {
+    "key": "“I’ll have a coffee, please.”",
+    "trx": "“Мне кофе, пожалуйста”.",
+    "val": "“I’ll have a coffee, please.”"
+  },
+  {
+    "key": "“Ugh. ",
+    "trx": "“Тьфу. ",
+    "val": "“Ugh. "
+  },
+  {
+    "key": "Just do whatever you want.”",
+    "trx": "Просто делай все, что хочешь.”",
+    "val": "Just do whatever you want.”"
+  },
+  {
+    "key": "The waitress turned away and stared vacantly up at the ceiling.",
+    "trx": "Официантка отвернулась и рассеянно уставилась в потолок.",
+    "val": "The waitress turned away and stared vacantly up at the ceiling."
+  },
+  {
+    "key": "Minorikawa shoved Yanagishita toward the shopkeeper.",
+    "trx": "Минорикава подтолкнул Янагишиту к лавочнику.",
+    "val": "Minorikawa shoved Yanagishita toward the shopkeeper."
+  },
+  {
+    "key": "“Hand this guy over to the police,” he said.",
+    "trx": "“Передайте этого парня полиции\", ” сказал он.",
+    "val": "“Hand this guy over to the police,” he said."
+  },
+  {
+    "key": "“Eep! No, not the police!” Yanagishita pleaded.",
+    "trx": "“Иип! Нет, только не полиция!” - взмолился Янагишита.",
+    "val": "“Eep! No, not the police!” Yanagishita pleaded."
+  },
+  {
+    "key": "“Can it, you thief! ",
+    "trx": "“Сделай это, ты, вор! ",
+    "val": "“Can it, you thief! "
+  },
+  {
+    "key": "You tried to rip me off, and you have no idea how much is riding on my work! ",
+    "trx": "Ты пытался обокрасть меня, и ты понятия не имеешь, как много зависит от моей работы! ",
+    "val": "You tried to rip me off, and you have no idea how much is riding on my work! "
+  },
+  {
+    "key": "You ",
+    "trx": "Вы ",
+    "val": "You "
+  },
+  {
+    "key": "deserve ten thousand deaths",
+    "trx": "заслуживаю десяти тысяч смертей",
+    "val": "deserve ten thousand deaths"
+  },
+  {
+    "key": ".”",
+    "trx": ".”",
+    "val": ".”"
+  },
+  {
+    "key": "“Ten thousand? ",
+    "trx": "“Десять тысяч? ",
+    "val": "“Ten thousand? "
+  },
+  {
+    "key": "Isn’t that taking things just a little too far? ",
+    "trx": "Не слишком ли далеко это заходит? ",
+    "val": "Isn’t that taking things just a little too far? "
+  },
+  {
+    "key": "I’m sorry, already! I give up!”",
+    "trx": "Я уже извиняюсь! Я сдаюсь!”",
+    "val": "I’m sorry, already! I give up!”"
+  },
+  {
+    "key": "Finally, the guy was ready to surrender.",
+    "trx": "Наконец, парень был готов сдаться.",
+    "val": "Finally, the guy was ready to surrender."
+  },
+  {
+    "key": "Minorikawa let his guard down for just a moment.",
+    "trx": "Минорикава на мгновение ослабил бдительность.",
+    "val": "Minorikawa let his guard down for just a moment."
+  },
+  {
+    "key": "“Like hell I am!”",
+    "trx": "“Черт возьми, я такой и есть!”",
+    "val": "“Like hell I am!”"
+  },
+  {
+    "key": "Switching gears in an instant, Yanagishita took off running at full speed.",
+    "trx": "Мгновенно переключив передачу, Янагишита помчался на полной скорости.",
+    "val": "Switching gears in an instant, Yanagishita took off running at full speed."
+  },
+  {
+    "key": "This again.",
+    "trx": "Это снова.",
+    "val": "This again."
+  },
+  {
+    "key": "“Get back here, you bastard!” ",
+    "trx": "“Вернись сюда, ублюдок!” ",
+    "val": "“Get back here, you bastard!” "
+  },
+  {
+    "key": "Minorikawa was already in pursuit.",
+    "trx": "Минорикава уже бросился в погоню.",
+    "val": "Minorikawa was already in pursuit."
+  },
+  {
+    "key": "He stuck with Yanagishita as far as Koen-Dori before losing track of him.",
+    "trx": "Он пробыл с Янагишитой до самого Коэн-Дори, прежде чем потерял его след.",
+    "val": "He stuck with Yanagishita as far as Koen-Dori before losing track of him."
+  },
+  {
+    "key": "The guy sure knew how to make a getaway.",
+    "trx": "Этот парень точно знал, как сбежать.",
+    "val": "The guy sure knew how to make a getaway."
+  },
+  {
+    "key": "Breathing hard, Minorikawa stopped and took a look around the area.",
+    "trx": "Тяжело дыша, Минорикава остановился и оглядел окрестности.",
+    "val": "Breathing hard, Minorikawa stopped and took a look around the area."
+  },
+  {
+    "key": "As he did, he heard a cell phone ringtone from somewhere nearby.",
+    "trx": "Как только он это сделал, он услышал мелодию звонка сотового телефона где-то поблизости.",
+    "val": "As he did, he heard a cell phone ringtone from somewhere nearby."
+  },
+  {
+    "key": "It was the new single from the pop singer Aya Kamiki.",
+    "trx": "Это был новый сингл поп-певицы Айи Камики.",
+    "val": "It was the new single from the pop singer Aya Kamiki."
+  },
+  {
+    "key": "Could that be Yanagishita’s phone?",
+    "trx": "Может быть, это телефон Янагишиты?",
+    "val": "Could that be Yanagishita’s phone?"
+  },
+  {
+    "key": "Huh.",
+    "trx": "Хм.",
+    "val": "Huh."
+  },
+  {
+    "key": "Could be. Somehow he struck Minorikawa as the type of guy who’d have a ringtone like that.",
+    "trx": "Может быть. Каким-то образом он показался Минорикаве парнем того типа, у которого был бы такой рингтон.",
+    "val": "Could be. Somehow he struck Minorikawa as the type of guy who’d have a ringtone like that."
+  },
+  {
+    "key": "It seemed worth looking into, anyhow; he had nothing else to go on.",
+    "trx": "В любом случае, это казалось достойным внимания; ему больше не на что было опереться.",
+    "val": "It seemed worth looking into, anyhow; he had nothing else to go on."
+  },
+  {
+    "key": "Minorikawa shifted his gaze around, trying to locate the source of the sound.",
+    "trx": "Минорикава огляделся вокруг, пытаясь определить источник звука.",
+    "val": "Minorikawa shifted his gaze around, trying to locate the source of the sound."
+  },
+  {
+    "key": "Suddenly a massive fiery blast knocked him from his feet.",
+    "trx": "Внезапно мощный огненный взрыв сбил его с ног.",
+    "val": "Suddenly a massive fiery blast knocked him from his feet."
+  },
+  {
+    "key": "By the time he realized it was an explosion, his senses were already shattered.",
+    "trx": "К тому времени, когда он понял, что это был взрыв, его чувства уже были разрушены.",
+    "val": "By the time he realized it was an explosion, his senses were already shattered."
+  },
+  {
+    "key": "What just happened?",
+    "trx": "Что только что произошло?",
+    "val": "What just happened?"
+  },
+  {
+    "key": "He couldn’t see.",
+    "trx": "Он не мог видеть.",
+    "val": "He couldn’t see."
+  },
+  {
+    "key": "He couldn’t hear.",
+    "trx": "Он не мог слышать.",
+    "val": "He couldn’t hear."
+  },
+  {
+    "key": "He couldn’t move his body.",
+    "trx": "Он не мог пошевелить своим телом.",
+    "val": "He couldn’t move his body."
+  },
+  {
+    "key": "Where am I?",
+    "trx": "Где я нахожусь?",
+    "val": "Where am I?"
+  },
+  {
+    "key": "For a while, all he could feel was an intense pain, ",
+    "trx": "Какое-то время все, что он мог чувствовать, была сильная боль, ",
+    "val": "For a while, all he could feel was an intense pain, "
+  },
+  {
+    "key": "but soon even that faded away.",
+    "trx": "но вскоре даже это исчезло.",
+    "val": "but soon even that faded away."
+  },
+  {
+    "key": "And then ",
+    "trx": "И затем ",
+    "val": "And then "
+  },
+  {
+    "key": "there was only darkness.",
+    "trx": "там была только темнота.",
+    "val": "there was only darkness."
+  },
+  {
+    "key": "No. 48\u3000",
+    "trx": "№ 48\u3000",
+    "val": "No. 48\u3000"
+  },
+  {
+    "key": "An Unexpected Explosion",
+    "trx": "Неожиданный Взрыв",
+    "val": "An Unexpected Explosion"
+  },
+  {
+    "key": "Hint",
+    "trx": "Подсказка",
+    "val": "Hint"
+  },
+  {
+    "key": "Chasing Yanagishita led Minorikawa to the wrong place at exactly the wrong time. This wouldn’t have happened if Yanagishita hadn’t run when he did. If the MMA fighter Miku Morita comes into to the knickknack shop, she’ll interrupt their argument, and things might turn out differently.",
+    "trx": "Погоня за Янагишитой привела Минорикаву не в то место и не в то время. Этого бы не случилось, если бы Янагишита не убежал, когда он это сделал. Если боец ММА Мику Морита зайдет в магазин безделушек, она прервет их спор, и все может обернуться по-другому.",
+    "val": "Chasing Yanagishita led Minorikawa to the wrong place at exactly the wrong time. This wouldn’t have happened if Yanagishita hadn’t run when he did. If the MMA fighter Miku Morita comes into to the knickknack shop, she’ll interrupt their argument, and things might turn out differently."
+  },
+  {
+    "key": "“I can’t let him get away. ",
+    "trx": "“Я не могу позволить ему уйти. ",
+    "val": "“I can’t let him get away. "
+  },
+  {
+    "key": "I’m gonna catch him and hand him over to the police!”",
+    "trx": "Я собираюсь поймать его и передать полиции!”",
+    "val": "I’m gonna catch him and hand him over to the police!”"
+  },
+  {
+    "key": "Obviously, he’s broken the law, and that’s not okay.",
+    "trx": "Очевидно, он нарушил закон, и это не нормально.",
+    "val": "Obviously, he’s broken the law, and that’s not okay."
+  },
+  {
+    "key": "But going against",
+    "trx": "Но идти против",
+    "val": "But going against"
+  },
+  {
+    "key": " my",
+    "trx": " мой",
+    "val": " my"
+  },
+  {
+    "key": " rules—that’s really crossing the line.",
+    "trx": " правила — это действительно переход границы дозволенного.",
+    "val": " rules—that’s really crossing the line."
+  },
+  {
+    "key": "Minorikawa snatched a heavy kettle from a table as he raced out of the shop.",
+    "trx": "Минорикава схватил со стола тяжелый чайник и выбежал из магазина.",
+    "val": "Minorikawa snatched a heavy kettle from a table as he raced out of the shop."
+  },
+  {
+    "key": "“Nobody runs away from me without my say-so!”",
+    "trx": "“Никто не убегает от меня без моего разрешения!”",
+    "val": "“Nobody runs away from me without my say-so!”"
+  },
+  {
+    "key": "As he sprinted after Yanagishita, he hurled his makeshift weapon.",
+    "trx": "Бросившись вслед за Янагишитой, он метнул свое самодельное оружие.",
+    "val": "As he sprinted after Yanagishita, he hurled his makeshift weapon."
+  },
+  {
+    "key": "The kettle flew straight and true, striking Yanagishita in the face.",
+    "trx": "Чайник полетел прямо и верно, ударив Янагишиту в лицо.",
+    "val": "The kettle flew straight and true, striking Yanagishita in the face."
+  },
+  {
+    "key": "“Urk!”",
+    "trx": "“Урк!”",
+    "val": "“Urk!”"
+  },
+  {
+    "key": "With a dull croak, he dropped to the ground unconscious.",
+    "trx": "С глухим карканьем он упал на землю без сознания.",
+    "val": "With a dull croak, he dropped to the ground unconscious."
+  },
+  {
+    "key": "Smiling with grim satisfaction, Minorikawa tied up Yanagishita with some rope the shopkeeper provided, then put him in the back of the shop for the police to collect.",
+    "trx": "Улыбаясь с мрачным удовлетворением, Минорикава связал Янагишиту веревкой, которую предоставил владелец магазина, а затем отвел его в заднюю часть магазина, чтобы забрать полиция.",
+    "val": "Smiling with grim satisfaction, Minorikawa tied up Yanagishita with some rope the shopkeeper provided, then put him in the back of the shop for the police to collect."
+  },
+  {
+    "key": "Running along Koen-Dori in pursuit of Miku, Minorikawa heard a cell phone ringtone coming from somewhere nearby.",
+    "trx": "Пробегая по Коэн-Дори в погоне за Мику, Минорикава услышал мелодию звонка сотового телефона, доносящуюся откуда-то поблизости.",
+    "val": "Running along Koen-Dori in pursuit of Miku, Minorikawa heard a cell phone ringtone coming from somewhere nearby."
+  },
+  {
+    "key": "Suddenly a massive fiery blast knocked him from his feet.",
+    "trx": "Внезапно мощный огненный взрыв сбил его с ног.",
+    "val": "Suddenly a massive fiery blast knocked him from his feet."
+  },
+  {
+    "key": "A deafening roar set his head throbbing.",
+    "trx": "От оглушительного рева у него заколотилась голова.",
+    "val": "A deafening roar set his head throbbing."
+  },
+  {
+    "key": "What was that?",
+    "trx": "Что это было?",
+    "val": "What was that?"
+  },
+  {
+    "key": "What’s going on?",
+    "trx": "Что происходит?",
+    "val": "What’s going on?"
+  },
+  {
+    "key": "He lay in a daze on the ground, trying to wrap his mind around what had just happened.",
+    "trx": "Он в оцепенении лежал на земле, пытаясь осмыслить то, что только что произошло.",
+    "val": "He lay in a daze on the ground, trying to wrap his mind around what had just happened."
+  },
+  {
+    "key": "He smelled the foul scent of burning rubber.",
+    "trx": "Он почувствовал отвратительный запах горящей резины.",
+    "val": "He smelled the foul scent of burning rubber."
+  },
+  {
+    "key": "Then came a sound of quick footsteps rushing up to him.",
+    "trx": "Затем послышался звук быстрых шагов, приближающихся к нему.",
+    "val": "Then came a sound of quick footsteps rushing up to him."
+  },
+  {
+    "key": "“Mr. Minorikawa!”",
+    "trx": "“Мистер Минорикава!”",
+    "val": "“Mr. Minorikawa!”"
+  },
+  {
+    "key": "A voice called out to him, as if across an impossible distance.",
+    "trx": "Голос окликнул его, как будто через невозможное расстояние.",
+    "val": "A voice called out to him, as if across an impossible distance."
+  },
+  {
+    "key": "“Mr. Minorikawa!”",
+    "trx": "“Мистер Минорикава!”",
+    "val": "“Mr. Minorikawa!”"
+  },
+  {
+    "key": "Was that...Miku?",
+    "trx": "Это была... Мику?",
+    "val": "Was that...Miku?"
+  },
+  {
+    "key": "He forced his eyes open and saw Miku looking anxiously down at him.",
+    "trx": "Он заставил себя открыть глаза и увидел Мику, с тревогой смотрящую на него сверху вниз.",
+    "val": "He forced his eyes open and saw Miku looking anxiously down at him."
+  },
+  {
+    "key": "“Mr. Minorikawa!”",
+    "trx": "“Мистер Минорикава!”",
+    "val": "“Mr. Minorikawa!”"
+  },
+  {
+    "key": "“Miku...",
+    "trx": "“Мику...",
+    "val": "“Miku..."
+  },
+  {
+    "key": "those things I said earlier...I’m sorry. ",
+    "trx": "те вещи, которые я сказал ранее...Мне жаль. ",
+    "val": "those things I said earlier...I’m sorry. "
+  },
+  {
+    "key": "I went too far.”",
+    "trx": "Я зашел слишком далеко.”",
+    "val": "I went too far.”"
+  },
+  {
+    "key": "“What are you talking about? That’s not important right now!”",
+    "trx": "“О чем ты говоришь? Сейчас это не важно!”",
+    "val": "“What are you talking about? That’s not important right now!”"
+  },
+  {
+    "key": "Miku choked back a gasp, and Minorikawa realized he had blood leaking from his mouth.",
+    "trx": "Мику подавил вздох, и Минорикава понял, что у него изо рта течет кровь.",
+    "val": "Miku choked back a gasp, and Minorikawa realized he had blood leaking from his mouth."
+  },
+  {
+    "key": "His body wouldn’t move, and his mind was reeling.",
+    "trx": "Его тело не двигалось, а разум был в смятении.",
+    "val": "His body wouldn’t move, and his mind was reeling."
+  },
+  {
+    "key": "“What...",
+    "trx": "“Что...",
+    "val": "“What..."
+  },
+  {
+    "key": "what happened? ",
+    "trx": "что случилось? ",
+    "val": "what happened? "
+  },
+  {
+    "key": "Tell me.”",
+    "trx": "Скажи мне.”",
+    "val": "Tell me.”"
+  },
+  {
+    "key": "Miku’s voice was dry and hoarse. ",
+    "trx": "Голос Мику был сухим и хриплым. ",
+    "val": "Miku’s voice was dry and hoarse. "
+  },
+  {
+    "key": "“There was a minivan. It...",
+    "trx": "“Там был микроавтобус. Это...",
+    "val": "“There was a minivan. It..."
+  },
+  {
+    "key": "it exploded.”",
+    "trx": "он взорвался.”",
+    "val": "it exploded.”"
+  },
+  {
+    "key": "Exploded?",
+    "trx": "Взорвался?",
+    "val": "Exploded?"
+  },
+  {
+    "key": "A minivan exploded on a city street?",
+    "trx": "Микроавтобус взорвался на городской улице?",
+    "val": "A minivan exploded on a city street?"
+  },
+  {
+    "key": "That sounded like a terrorist act.",
+    "trx": "Это звучало как террористический акт.",
+    "val": "That sounded like a terrorist act."
+  },
+  {
+    "key": "His reeling mind drifted back to the attempted bioterrorist attack on Kasumigaseki two years earlier.",
+    "trx": "Его шатающийся разум вернулся к попытке биотеррористического нападения на Касумигасеки двумя годами ранее.",
+    "val": "His reeling mind drifted back to the attempted bioterrorist attack on Kasumigaseki two years earlier."
+  },
+  {
+    "key": "An unoccupied minivan had exploded outside an MPD station, ",
+    "trx": "Незанятый микроавтобус взорвался возле станции полиции, ",
+    "val": "An unoccupied minivan had exploded outside an MPD station, "
+  },
+  {
+    "key": "and afterward, a device meant to scatter a dangerous biological agent had been discovered near the subway.",
+    "trx": "а потом возле метро было обнаружено устройство, предназначенное для рассеивания опасного биологического агента.",
+    "val": "and afterward, a device meant to scatter a dangerous biological agent had been discovered near the subway."
+  },
+  {
+    "key": "With sudden clarity Minorikawa recalled what Osawa had said earlier.",
+    "trx": "С внезапной ясностью Минорикава вспомнил, что Осава сказал ранее.",
+    "val": "With sudden clarity Minorikawa recalled what Osawa had said earlier."
+  },
+  {
+    "key": "“The power balance of the entire world might be at stake, here.”",
+    "trx": "“Здесь может быть поставлен на карту баланс сил во всем мире”.",
+    "val": "“The power balance of the entire world might be at stake, here.”"
+  },
+  {
+    "key": "Could there be some sort of connection ",
+    "trx": "Может ли быть какая-то связь ",
+    "val": "Could there be some sort of connection "
+  },
+  {
+    "key": "between Osawa’s warning and this explosion?",
+    "trx": "между предупреждением Осавы и этим взрывом?",
+    "val": "between Osawa’s warning and this explosion?"
+  },
+  {
+    "key": "There was.",
+    "trx": "Там был.",
+    "val": "There was."
+  },
+  {
+    "key": "There had to be.",
+    "trx": "Так и должно было быть.",
+    "val": "There had to be."
+  },
+  {
+    "key": "Minorikawa’s journalistic intuition told him it must be true.",
+    "trx": "Журналистская интуиция Минорикавы подсказывала ему, что это должно быть правдой.",
+    "val": "Minorikawa’s journalistic intuition told him it must be true."
+  },
+  {
+    "key": "Something terrible was underway here in Shibuya.",
+    "trx": "Здесь, в Сибуе, творилось что-то ужасное.",
+    "val": "Something terrible was underway here in Shibuya."
+  },
+  {
+    "key": "“Police!” a man in a suit announced.",
+    "trx": "“Полиция!” - объявил мужчина в костюме.",
+    "val": "“Police!” a man in a suit announced."
+  },
+  {
+    "key": "He crouched beside Minorikawa and gently lifted his head and torso.",
+    "trx": "Он присел на корточки рядом с Минорикавой и осторожно приподнял его голову и туловище.",
+    "val": "He crouched beside Minorikawa and gently lifted his head and torso."
+  },
+  {
+    "key": "“Hang in there, buddy! Stay with us!”",
+    "trx": "“Держись там, приятель! Оставайся с нами!”",
+    "val": "“Hang in there, buddy! Stay with us!”"
+  },
+  {
+    "key": "The change of position allowed Minorikawa to clear his airway, and he sucked in a deep breath.",
+    "trx": "Смена положения позволила Минорикаве прочистить дыхательные пути, и он сделал глубокий вдох.",
+    "val": "The change of position allowed Minorikawa to clear his airway, and he sucked in a deep breath."
+  },
+  {
+    "key": "But as he did, an intense pain shot through his lungs.",
+    "trx": "Но как только он это сделал, сильная боль пронзила его легкие.",
+    "val": "But as he did, an intense pain shot through his lungs."
+  },
+  {
+    "key": "I...think I might be done for.",
+    "trx": "Я... думаю, мне, возможно, конец.",
+    "val": "I...think I might be done for."
+  },
+  {
+    "key": "Whatever his intuition might be telling him, it didn’t look like he’d ever be able to write about it.",
+    "trx": "Что бы ни подсказывала ему интуиция, не похоже было, что он когда-нибудь сможет написать об этом.",
+    "val": "Whatever his intuition might be telling him, it didn’t look like he’d ever be able to write about it."
+  },
+  {
+    "key": "But if he couldn’t get his words onto the page, the least he could do was tell someone else.",
+    "trx": "Но если он не мог выразить свои слова на странице, самое меньшее, что он мог сделать, это рассказать кому-то другому.",
+    "val": "But if he couldn’t get his words onto the page, the least he could do was tell someone else."
+  },
+  {
+    "key": "With his last act, maybe he could still accomplish something.",
+    "trx": "Своим последним поступком, возможно, он все еще мог бы чего-то добиться.",
+    "val": "With his last act, maybe he could still accomplish something."
+  },
+  {
+    "key": "He strained to get a few words out.",
+    "trx": "Он напрягся, чтобы выдавить из себя несколько слов.",
+    "val": "He strained to get a few words out."
+  },
+  {
+    "key": "“Osawa...",
+    "trx": "“Осава...",
+    "val": "“Osawa..."
+  },
+  {
+    "key": "Kenji Osawa...",
+    "trx": "Кэндзи Осава...",
+    "val": "Kenji Osawa..."
+  },
+  {
+    "key": "the power balance...",
+    "trx": "баланс сил...",
+    "val": "the power balance..."
+  },
+  {
+    "key": "of the entire world...” ",
+    "trx": "всего мира...” ",
+    "val": "of the entire world...” "
+  },
+  {
+    "key": "As his voice failed he heard the sound of ambulance sirens approaching.",
+    "trx": "Когда его голос сорвался, он услышал приближающийся звук сирен скорой помощи.",
+    "val": "As his voice failed he heard the sound of ambulance sirens approaching."
+  },
+  {
+    "key": "Paramedics began frantically unloading stretchers.",
+    "trx": "Парамедики начали лихорадочно разгружать носилки.",
+    "val": "Paramedics began frantically unloading stretchers."
+  },
+  {
+    "key": "Turning his head, he saw a number of other people who’d been injured in the explosion laid out on the roadside.",
+    "trx": "Повернув голову, он увидел несколько других людей, пострадавших в результате взрыва, лежащих на обочине дороги.",
+    "val": "Turning his head, he saw a number of other people who’d been injured in the explosion laid out on the roadside."
+  },
+  {
+    "key": "Amongst them were a woman and a child.",
+    "trx": "Среди них были женщина и ребенок.",
+    "val": "Amongst them were a woman and a child."
+  },
+  {
+    "key": "Emergency workers bearing a stretcher came over to Minorikawa.",
+    "trx": "Работники скорой помощи с носилками подошли к Минорикаве.",
+    "val": "Emergency workers bearing a stretcher came over to Minorikawa."
+  },
+  {
+    "key": "Forget about me!",
+    "trx": "Забудь обо мне!",
+    "val": "Forget about me!"
+  },
+  {
+    "key": "I’m beyond helping!",
+    "trx": "Я больше не могу помочь!",
+    "val": "I’m beyond helping!"
+  },
+  {
+    "key": "See to the others instead!",
+    "trx": "Займись вместо этого остальными!",
+    "val": "See to the others instead!"
+  },
+  {
+    "key": "Minorikawa shouted inwardly; ",
+    "trx": "Минорикава мысленно закричал; ",
+    "val": "Minorikawa shouted inwardly; "
+  },
+  {
+    "key": "but no one heard.",
+    "trx": "но никто не слышал.",
+    "val": "but no one heard."
+  },
+  {
+    "key": "No. 49\u3000",
+    "trx": "№ 49\u3000",
+    "val": "No. 49\u3000"
+  },
+  {
+    "key": "Premonition of Disaster",
+    "trx": "Предчувствие катастрофы",
+    "val": "Premonition of Disaster"
+  },
+  {
+    "key": "Hint",
+    "trx": "Подсказка",
+    "val": "Hint"
+  },
+  {
+    "key": "Minorikawa chased Miku as far as Koen-Dori, only to be caught in the blast when a minivan suddenly exploded. A few simple words can change his fate. Someone who shouts something at 15:30 needs to change what it is they shout. If Minorikawa hears something that grabs his attention, he may not get too close to the explosion.",
+    "trx": "Минорикава преследовал Мику до самого Коэн-Дори, но был пойман взрывом, когда внезапно взорвался микроавтобус. Несколько простых слов могут изменить его судьбу. Тот, кто кричит что-то в 15:30, должен изменить то, что он кричит. Если Минорикава услышит что-то, что привлечет его внимание, он может не подходить слишком близко к взрыву.",
+    "val": "Minorikawa chased Miku as far as Koen-Dori, only to be caught in the blast when a minivan suddenly exploded. A few simple words can change his fate. Someone who shouts something at 15:30 needs to change what it is they shout. If Minorikawa hears something that grabs his attention, he may not get too close to the explosion."
+  },
+  {
+    "key": "Probably he was headed to the sales demo venue.",
+    "trx": "Вероятно, он направлялся в демонстрационное место продаж.",
+    "val": "Probably he was headed to the sales demo venue."
+  },
+  {
+    "key": "Maybe he was planning to find some more customers and auction the laptop off to them.",
+    "trx": "Может быть, он планировал найти еще несколько клиентов и продать ноутбук им с аукциона.",
+    "val": "Maybe he was planning to find some more customers and auction the laptop off to them."
+  },
+  {
+    "key": "Damn.",
+    "trx": "Черт.",
+    "val": "Damn."
+  },
+  {
+    "key": "The guy had led him on a wild goose chase.",
+    "trx": "Этот парень втянул его в погоню за дикими гусями.",
+    "val": "The guy had led him on a wild goose chase."
+  },
+  {
+    "key": "Minorikawa ran along Center Gai toward the Nokane Building, where the sales demo had been held.",
+    "trx": "Минорикава побежал по Центральному Гаю к зданию Ноканэ, где проходила демонстрация продаж.",
+    "val": "Minorikawa ran along Center Gai toward the Nokane Building, where the sales demo had been held."
+  },
+  {
+    "key": "Before he got there, however, a glance to one side stopped him in his tracks.",
+    "trx": "Однако, прежде чем он добрался туда, взгляд в сторону остановил его на полпути.",
+    "val": "Before he got there, however, a glance to one side stopped him in his tracks."
+  },
+  {
+    "key": "“Aha!” he chirped.",
+    "trx": "“Ага!” - прощебетал он.",
+    "val": "“Aha!” he chirped."
+  },
+  {
+    "key": "He had spotted the knick-knack shop where he’d run into Miku about two hours earlier.",
+    "trx": "Он заметил магазин безделушек, где столкнулся с Мику примерно два часа назад.",
+    "val": "He had spotted the knick-knack shop where he’d run into Miku about two hours earlier."
+  },
+  {
+    "key": "Out in front of it was a poster that read ‘We Buy Computers at Top Prices!’",
+    "trx": "Перед ним висел плакат с надписью \"Мы покупаем компьютеры по самым выгодным ценам!\"",
+    "val": "Out in front of it was a poster that read ‘We Buy Computers at Top Prices!’"
+  },
+  {
+    "key": "Now",
+    "trx": "Сейчас",
+    "val": "Now"
+  },
+  {
+    "key": " he was certain: ",
+    "trx": " он был уверен: ",
+    "val": " he was certain: "
+  },
+  {
+    "key": "Yanagishita must be in there.",
+    "trx": "Янагишита должен быть там.",
+    "val": "Yanagishita must be in there."
+  },
+  {
+    "key": "Probably he was headed to Endo Electronics.",
+    "trx": "Вероятно, он направлялся в \"Эндо Электроникс\".",
+    "val": "Probably he was headed to Endo Electronics."
+  },
+  {
+    "key": "It was the only local place he could think of that might buy a second-hand computer.",
+    "trx": "Это было единственное местное место, которое он мог придумать, где можно было купить подержанный компьютер.",
+    "val": "It was the only local place he could think of that might buy a second-hand computer."
+  },
+  {
+    "key": "Damn.",
+    "trx": "Черт.",
+    "val": "Damn."
+  },
+  {
+    "key": "The guy had led him on a wild goose chase.",
+    "trx": "Этот парень втянул его в погоню за дикими гусями.",
+    "val": "The guy had led him on a wild goose chase."
+  },
+  {
+    "key": "Minorikawa started running toward Dogenzaka.",
+    "trx": "Минорикава побежал к Догензаке.",
+    "val": "Minorikawa started running toward Dogenzaka."
+  },
+  {
+    "key": "“Hmm?”",
+    "trx": "“Хмм?”",
+    "val": "“Hmm?”"
+  },
+  {
+    "key": "As he approached the scramble outside the station, he caught sight of a skinny figure disappearing into the throng along Center Gai.",
+    "trx": "Когда он приблизился к схватке за пределами станции, он заметил тощую фигуру, исчезающую в толпе вдоль Центрального Гаи.",
+    "val": "As he approached the scramble outside the station, he caught sight of a skinny figure disappearing into the throng along Center Gai."
+  },
+  {
+    "key": "A suit with deep bluish stripes...",
+    "trx": "Костюм в темно-голубую полоску...",
+    "val": "A suit with deep bluish stripes..."
+  },
+  {
+    "key": "there was only one man he knew who dressed like that.",
+    "trx": "он знал только одного мужчину, который так одевался.",
+    "val": "there was only one man he knew who dressed like that."
+  },
+  {
+    "key": "But why was he heading down Center Gai and not toward Dogenzaka?",
+    "trx": "Но почему он направлялся по Центральной Гаи, а не в сторону Догензаки?",
+    "val": "But why was he heading down Center Gai and not toward Dogenzaka?"
+  },
+  {
+    "key": "“Oh...” ",
+    "trx": "“О...” ",
+    "val": "“Oh...” "
+  },
+  {
+    "key": "Now he remembered.",
+    "trx": "Теперь он вспомнил.",
+    "val": "Now he remembered."
+  },
+  {
+    "key": "There was a second hand knickknack shop near where the Burning Hammer demo had been held.",
+    "trx": "Рядом с тем местом, где проходила демонстрация Burning Hammer, был магазин подержанных безделушек.",
+    "val": "There was a second hand knickknack shop near where the Burning Hammer demo had been held."
+  },
+  {
+    "key": "He recalled seeing a poster out front that read ‘We Buy Computers at Top Prices!’",
+    "trx": "Он вспомнил, что видел плакат у входа с надписью \"Мы покупаем компьютеры по самым высоким ценам!\"",
+    "val": "He recalled seeing a poster out front that read ‘We Buy Computers at Top Prices!’"
+  },
+  {
+    "key": "That had to be it.",
+    "trx": "Должно быть, так оно и было.",
+    "val": "That had to be it."
+  },
+  {
+    "key": "That’s",
+    "trx": "Это",
+    "val": "That’s"
+  },
+  {
+    "key": " where Yanagishita was planning on selling his laptop.",
+    "trx": " где Янагишита планировал продать свой ноутбук.",
+    "val": " where Yanagishita was planning on selling his laptop."
+  },
+  {
+    "key": "Changing directions, Minorikawa darted down Center Gai.",
+    "trx": "Сменив направление, Минорикава помчался по Центральному Гаю.",
+    "val": "Changing directions, Minorikawa darted down Center Gai."
+  },
+  {
+    "key": "“Sorry. You’ll just have to persevere until you’re able to win again. ",
+    "trx": "“прости. Вам просто придется упорствовать до тех пор, пока вы снова не сможете победить. ",
+    "val": "“Sorry. You’ll just have to persevere until you’re able to win again. "
+  },
+  {
+    "key": "It’s something you need to do yourself.”",
+    "trx": "Это то, что тебе нужно сделать самому\".",
+    "val": "It’s something you need to do yourself.”"
+  },
+  {
+    "key": "“But...” ",
+    "trx": "\"Но...” ",
+    "val": "“But...” "
+  },
+  {
+    "key": "“You were the champion at that one pub, right? ",
+    "trx": "“Ты был чемпионом в том пабе, верно? ",
+    "val": "“You were the champion at that one pub, right? "
+  },
+  {
+    "key": "Maybe your mistake was thinking that you’d be able to win in an actual for-real fight.”",
+    "trx": "Может быть, твоя ошибка заключалась в том, что ты думал, что сможешь победить в настоящем бою\".",
+    "val": "Maybe your mistake was thinking that you’d be able to win in an actual for-real fight.”"
+  },
+  {
+    "key": "Miku began to tremble.",
+    "trx": "Мику начала дрожать.",
+    "val": "Miku began to tremble."
+  },
+  {
+    "key": "“This is a good opportunity for you. ",
+    "trx": "“Это хорошая возможность для тебя. ",
+    "val": "“This is a good opportunity for you. "
+  },
+  {
+    "key": "You can find something to do with yourself that isn’t martial arts.”",
+    "trx": "Ты можешь найти себе занятие по душе, не связанное с боевыми искусствами\".",
+    "val": "You can find something to do with yourself that isn’t martial arts.”"
+  },
+  {
+    "key": "“What?”",
+    "trx": "«что?»",
+    "val": "“What?”"
+  },
+  {
+    "key": "“You were the champion at that one pub, right? ",
+    "trx": "“Ты был чемпионом в том пабе, верно? ",
+    "val": "“You were the champion at that one pub, right? "
+  },
+  {
+    "key": "Maybe now that you’re done with that you should find a more girlish line of work instead.”",
+    "trx": "Может быть, теперь, когда ты с этим покончила, тебе стоит вместо этого найти более девичью работу”.",
+    "val": "Maybe now that you’re done with that you should find a more girlish line of work instead.”"
+  },
+  {
+    "key": "Miku began to tremble.",
+    "trx": "Мику начала дрожать.",
+    "val": "Miku began to tremble."
+  }
+]
