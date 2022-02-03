@@ -10,7 +10,7 @@
     <LanguageName>ru-RU</LanguageName>
     <LanguageName>en-US</LanguageName>
   </SelectedLanguages>
-  <InheritIgnoredClassifications>True</InheritIgnoredClassifications>
+  <InheritIgnoredClassifications>False</InheritIgnoredClassifications>
   <IgnoredClassifications />
   <InheritIgnoredWords>False</InheritIgnoredWords>
   <IgnoredWordsFile></IgnoredWordsFile>
@@ -42,14 +42,5 @@
     <TreatCasingExceptionsAsIgnoredWords>False</TreatCasingExceptionsAsIgnoredWords>
     <RecognizedWordHandling>IgnoreAllWords</RecognizedWordHandling>
   </CadOptions>
-  <CSharpOptions>
-    <IgnoreXmlDocComments>False</IgnoreXmlDocComments>
-    <IgnoreDelimitedComments>False</IgnoreDelimitedComments>
-    <IgnoreStandardSingleLineComments>False</IgnoreStandardSingleLineComments>
-    <IgnoreQuadrupleSlashComments>False</IgnoreQuadrupleSlashComments>
-    <IgnoreNormalStrings>False</IgnoreNormalStrings>
-    <IgnoreVerbatimStrings>False</IgnoreVerbatimStrings>
-    <IgnoreInterpolatedStrings>False</IgnoreInterpolatedStrings>
-    <ApplyToAllCStyleLanguages>False</ApplyToAllCStyleLanguages>
-  </CSharpOptions>
+  <CSharpOptions />
 </SpellCheckerConfiguration>
