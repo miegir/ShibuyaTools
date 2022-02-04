@@ -24,7 +24,7 @@
   <IncludeInProjectSpellCheck>True</IncludeInProjectSpellCheck>
   <DetectDoubledWords>False</DetectDoubledWords>
   <IgnoreWordsWithDigits>True</IgnoreWordsWithDigits>
-  <IgnoreWordsInAllUppercase>False</IgnoreWordsInAllUppercase>
+  <IgnoreWordsInAllUppercase>True</IgnoreWordsInAllUppercase>
   <IgnoreWordsInMixedCase>True</IgnoreWordsInMixedCase>
   <IgnoreFormatSpecifiers>True</IgnoreFormatSpecifiers>
   <IgnoreFilenamesAndEMailAddresses>True</IgnoreFilenamesAndEMailAddresses>

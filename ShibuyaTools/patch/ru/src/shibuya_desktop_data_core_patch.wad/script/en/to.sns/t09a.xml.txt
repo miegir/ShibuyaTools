@@ -397,12 +397,12 @@
   {
     "key": "“Never lose sight of what you’re supposed to protect. ",
     "trx": "“Никогда не упускай из виду то, что ты должен защищать. ",
-    "val": "“Never lose sight of what you’re supposed to protect. "
+    "val": "“Никогда не упускай из виду то, что ты должен защищать. "
   },
   {
     "key": "Ever.” ",
     "trx": "Никогда\". ",
-    "val": "Ever.” "
+    "val": "Никогда.” "
   },
   {
     "key": "He could at least try to be the detective Kano had so admired until the very end.",

@@ -2622,17 +2622,17 @@
   {
     "key": "“Dick Dictum No. 1: ",
     "trx": "“Дикое изречение № 1: ",
-    "val": "“Dick Dictum No. 1: "
+    "val": "“Изречение №1: "
   },
   {
     "key": "Never lose sight of what you’re supposed to protect. ",
     "trx": "Никогда не упускай из виду то, что ты должен защищать. ",
-    "val": "Never lose sight of what you’re supposed to protect. "
+    "val": "Никогда не упускай из виду то, что ты должен защищать. "
   },
   {
     "key": "Ever.”",
     "trx": "Никогда\".",
-    "val": "Ever.”"
+    "val": "Никогда.”"
   },
   {
     "key": "“What’s that?”",
@@ -2977,7 +2977,7 @@
   {
     "key": "“Never lose sight of what you’re supposed to protect, huh? ",
     "trx": "“Никогда не упускай из виду то, что ты должен защищать, да? ",
-    "val": "“Never lose sight of what you’re supposed to protect, huh? "
+    "val": "“Никогда не упускай из виду то, что ты должен защищать, да? "
   },
   {
     "key": "I like that. ",

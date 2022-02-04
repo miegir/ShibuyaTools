@@ -692,12 +692,12 @@
   {
     "key": "“Never lose sight of what you’re supposed to protect. ",
     "trx": "“Никогда не упускай из виду то, что ты должен защищать. ",
-    "val": "“Never lose sight of what you’re supposed to protect. "
+    "val": "“Никогда не упускай из виду то, что ты должен защищать. "
   },
   {
     "key": "Ever.”",
     "trx": "Никогда\".",
-    "val": "Ever.”"
+    "val": "Никогда.”"
   },
   {
     "key": "Kano snapped back to attention at Tateno’s words.",
@@ -707,7 +707,7 @@
   {
     "key": "That was Dick Dictum #1, the advice that had kicked off the whole Dick Diary.",
     "trx": "Это было Изречение Дика №1, совет, с которого начался весь Дневник Дика.",
-    "val": "Это было Изречение №1, совет, из которого появился весь Дневник изречений."
+    "val": "Это было Изречение №1, совет, с которого началась история Дневника изречений."
   },
   {
     "key": "“I’m not the one you should be worrying about right now,” Tateno continued. ",
@@ -3192,12 +3192,12 @@
   {
     "key": "Never lose sight of what you’re ",
     "trx": "Никогда не упускай из виду, что ты ",
-    "val": "Never lose sight of what you’re "
+    "val": "Никогда не упускай из виду то, "
   },
   {
     "key": "supposed to protect. Ever.”",
     "trx": "должен был защищать. Никогда\".",
-    "val": "supposed to protect. Ever.”"
+    "val": "что ты должен защищать. Никогда.”"
   },
   {
     "key": "Palmer glared in defiance.",

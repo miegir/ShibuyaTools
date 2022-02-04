@@ -142,7 +142,7 @@
   {
     "key": "The Studs of Shibuya.",
     "trx": "Шпильки Сибуи.",
-    "val": "Сокращение от английского “The Studs of Shibuya” (шпильки Сибуи)."
+    "val": "Сокращение от английского “The Studs of Shibuya”."
   },
   {
     "key": "A youth gang operating out of Shibuya, founded by Achi Endo.",
@@ -222,7 +222,7 @@
   {
     "key": "The abbreviation for “Studs of Shibuya,” the name given to the group by Achi when he founded it. Originally just a bunch of like-minded young people hanging out together, it has since become known as a gang that picks fights around Shibuya.",
     "trx": "Аббревиатура от “Шпильки Сибуи”, название, данное группе Ачи, когда он ее основал. Первоначально это была просто группа молодых людей-единомышленников, тусующихся вместе, с тех пор она стала известна как банда, которая затевает драки вокруг Сибуи.",
-    "val": "The abbreviation for “Studs of Shibuya,” the name given to the group by Achi when he founded it. Originally just a bunch of like-minded young people hanging out together, it has since become known as a gang that picks fights around Shibuya."
+    "val": "Сокращение от английского “The Studs of Shibuya”. Это название дал группе Ачи, когда основал ее. Первоначально это была просто группа молодых людей-единомышленников, тусующихся вместе, но впоследствии она стала известна как банда, которая затевает драки вокруг Сибуи."
   },
   {
     "key": "Building",
@@ -3242,112 +3242,112 @@
   {
     "key": "Preconceptions",
     "trx": "Предубеждения",
-    "val": "Preconceptions"
+    "val": "Предубеждения"
   },
   {
     "key": "Fixed notions one has about something before the facts are known. Can be a hindrance to thinking freely. If you think about it too hard, you might fall victim to the preconception that preconceptions themselves are always bad.",
     "trx": "Фиксированные представления, которые человек имеет о чем-то до того, как станут известны факты. Может быть препятствием для свободного мышления. Если вы будете думать об этом слишком усердно, вы можете стать жертвой предубеждения, что предубеждения сами по себе всегда плохи.",
-    "val": "Fixed notions one has about something before the facts are known. Can be a hindrance to thinking freely. If you think about it too hard, you might fall victim to the preconception that preconceptions themselves are always bad."
+    "val": "Взгляды или мнения, основанные на неточном или недостоверном знании, чаще всего принимаемые на веру со слов других людей. Могут быть препятствием для свободного мышления. Если вы задумаетесь об этом серьезно, вы можете стать жертвой предубеждения о том, что предубеждения сами по себе всегда плохи."
   },
   {
     "key": "Police box duty",
     "trx": "Дежурство в полицейской будке",
-    "val": "Police box duty"
+    "val": "Дежурство в полицейской будке"
   },
   {
     "key": "Nobody is assigned to a detective post right after graduating from the police academy. Detective positions can be quite hard to come by; candidates are selected for detective training only after accumulating enough experience working at the local police box, a very small type of neighborhood station manned by only a handful of officers.",
     "trx": "Никого не назначают на должность детектива сразу после окончания полицейской академии. Должности детективов может быть довольно трудно найти; кандидаты отбираются для обучения детективов только после накопления достаточного опыта работы в местном полицейском участке, очень небольшом участке по соседству, укомплектованном всего несколькими офицерами.",
-    "val": "Nobody is assigned to a detective post right after graduating from the police academy. Detective positions can be quite hard to come by; candidates are selected for detective training only after accumulating enough experience working at the local police box, a very small type of neighborhood station manned by only a handful of officers."
+    "val": "Никого не назначают на должность детектива сразу после окончания полицейской академии. Свободную вакансию детектива обычно трудно найти; кандидатов в детективы-стажеры отбирают среди тех, кто накопил достаточный опыт работы в полицейской будке, очень небольшой станции, укомплектованной всего несколькими офицерами."
   },
   {
     "key": "Juvenile Affairs",
     "trx": "Дела несовершеннолетних",
-    "val": "Juvenile Affairs"
+    "val": "Отдел по делам несовершеннолетних"
   },
   {
     "key": "Part of the Communal Safety Section, which handles crimes pertaining to public decency, finances, pollution, and so on; Juvenile Affairs deals with misconduct and criminal activity involving minors. Since many S.O.S. members are underage, the Shibuya Precinct’s Juvenile Affairs division has been ramping up its efforts to deal with the gang—although one detective in particular has been using this as an excuse to go ‘on patrol’ at arcades, ignoring his duties in order to fuel his video game addiction.",
     "trx": "Часть Секции общественной безопасности, которая занимается преступлениями, связанными с общественной порядочностью, финансами, загрязнением окружающей среды и т. Д.; Дела несовершеннолетних касаются проступков и преступной деятельности с участием несовершеннолетних. Поскольку многие члены S.O.S. являются несовершеннолетними, отдел по делам несовершеннолетних округа Сибуя наращивает свои усилия по борьбе с бандой, хотя один детектив, в частности, использовал это в качестве предлога для \"патрулирования\" в аркадах, игнорируя свои обязанности, чтобы подпитывать свою зависимость от видеоигр.",
-    "val": "Part of the Communal Safety Section, which handles crimes pertaining to public decency, finances, pollution, and so on; Juvenile Affairs deals with misconduct and criminal activity involving minors. Since many S.O.S. members are underage, the Shibuya Precinct’s Juvenile Affairs division has been ramping up its efforts to deal with the gang—although one detective in particular has been using this as an excuse to go ‘on patrol’ at arcades, ignoring his duties in order to fuel his video game addiction."
+    "val": "Часть секции общественной безопасности, которая занимается преступлениями, связанными с нарушением общественного порядка, финансами, загрязнением окружающей среды и т.д.; Отдел по делам несовершеннолетних имеет дело с ненадлежащим поведением и преступной деятельностью с участием несовершеннолетних. Поскольку многие члены S.O.S. являются несовершеннолетними, отдел по делам несовершеннолетних округа Сибуя увеличивает свои усилия по борьбе с бандой. Однако, один конкретный детектив использовал это в качестве предлога, чтобы заняться ‘патрулированием’ в аркадах, игнорируя свои обязанности в угоду своей зависимости от видеоигр."
   },
   {
     "key": "BAMFs",
     "trx": "БАМФы",
-    "val": "BAMFs"
+    "val": "BAMF"
   },
   {
     "key": "Shibuya’s number two gang. Its leader, Sohei Ikari, has gathered up some big, mean dudes in an attempt to make Shibuya his turf. The gang’s leadership is inferior to that of S.O.S., but on an individual level, its members tend to be stronger in a fight. Word is that the rise of the BAMFs is one of the reasons S.O.S. has been growing more combative recently.",
     "trx": "Банда Сибуи номер два. Его лидер, Сохэй Икари, собрал несколько больших, злых парней в попытке сделать Сибую своей территорией. Руководство банды уступает руководству S.O.S., но на индивидуальном уровне ее члены, как правило, сильнее в бою. Поговаривают, что рост BAMFs - одна из причин, по которой S.O.S. в последнее время становится все более воинственным.",
-    "val": "Shibuya’s number two gang. Its leader, Sohei Ikari, has gathered up some big, mean dudes in an attempt to make Shibuya his turf. The gang’s leadership is inferior to that of S.O.S., but on an individual level, its members tend to be stronger in a fight. Word is that the rise of the BAMFs is one of the reasons S.O.S. has been growing more combative recently."
+    "val": "Банда Сибуи номер два. Ее лидер, Сохэй Икари, собрал несколько больших и злых парней в попытке сделать Сибую своей территорией. Руководство банды уступает руководству S.O.S., но на персональном уровне ее члены, как правило, сильнее в бою. Поговаривают, что разрастание BAMF — одна из причин, по которой S.O.S. в последнее время становится все более воинственной."
   },
   {
     "key": "Original leader",
     "trx": "Первоначальный лидер",
-    "val": "Original leader"
+    "val": "Первоначальный лидер"
   },
   {
     "key": "That would be Achi Endo. Initially, S.O.S. was nothing more than a small group of like-minded young people who hung out together, but as its membership grew, the general public began referring to the group as a “gang.” Word has it that back when Achi was in charge, gang members never started any conflicts themselves, but simply responded in kind when others brought fights their way.",
     "trx": "Это было бы Ачи Эндо. Первоначально S.O.S. была не чем иным, как небольшой группой молодых людей-единомышленников, которые тусовались вместе, но по мере роста ее состава широкая публика стала называть группу “бандой”. Говорят, что в те времена, когда Ачи был главным, члены банды никогда сами не начинали никаких конфликтов, а просто отвечали тем же, когда другие устраивали драки на своем пути.",
-    "val": "That would be Achi Endo. Initially, S.O.S. was nothing more than a small group of like-minded young people who hung out together, but as its membership grew, the general public began referring to the group as a “gang.” Word has it that back when Achi was in charge, gang members never started any conflicts themselves, but simply responded in kind when others brought fights their way."
+    "val": "Это был Ачи Эндо. Первоначально S.O.S. была не чем иным, как небольшой группой молодых людей-единомышленников, которые тусовались вместе, но по мере увеличения ее состава люди стали называть эту группу “бандой”. Говорят, что в те времена, когда Ачи был главным, члены банды никогда сами не разжигали конфликты, а лишь давали отпор, когда другие применяли против них силу."
   },
   {
     "key": "Disobeying a direct order",
     "trx": "Неподчинение прямому приказу",
-    "val": "Disobeying a direct order"
+    "val": "Неподчинение прямому приказу"
   },
   {
     "key": "A detective’s behavior is governed by the Local Public Service Act.",
     "trx": "Поведение детектива регулируется Законом о местной государственной службе.",
-    "val": "A detective’s behavior is governed by the Local Public Service Act."
+    "val": "Поведение детектива регулируется законом о местной государственной службе."
   },
   {
     "key": "Article 32 states that a detective is to faithfully follow the orders of his superior in the course of his duties. Violating this is punishable by a warning, reduction in pay, suspension from duty, or dismissal. In the event of a warning, not only is the individual expected to submit a formal letter of apology, but pay raises may be delayed, or performance bonuses cut.",
     "trx": "Статья 32 гласит, что детектив должен добросовестно выполнять приказы своего начальника при исполнении своих обязанностей. Нарушение этого правила карается предупреждением, снижением заработной платы, отстранением от службы или увольнением. В случае предупреждения ожидается, что физическое лицо не только представит официальное письмо с извинениями, но и может быть задержано повышение заработной платы или сокращение премий за производительность.",
-    "val": "Article 32 states that a detective is to faithfully follow the orders of his superior in the course of his duties. Violating this is punishable by a warning, reduction in pay, suspension from duty, or dismissal. In the event of a warning, not only is the individual expected to submit a formal letter of apology, but pay raises may be delayed, or performance bonuses cut."
+    "val": "В статье 32 сказано о том, что детектив должен добросовестно выполнять приказы своего начальника при исполнении своих обязанностей. Нарушение этого правила карается предупреждением, снижением заработной платы, отстранением от службы или увольнением. В случае предупреждения ожидается, что провинившийся не только предоставит официальное письмо с извинениями, но ему также может быть задержано повышение заработной платы или сокращена премия за производительность."
   },
   {
     "key": "Handcuffs",
     "trx": "Наручники",
-    "val": "Handcuffs"
+    "val": "Наручники"
   },
   {
     "key": "Equipment used by police offers to shackle suspects. In Japan, the belt that makes up part of the officer’s duty uniform has a storage pouch for a pair of handcuffs.",
     "trx": "Оборудование, используемое полицией, позволяет заковывать подозреваемых в кандалы. В Японии на поясе, составляющем часть униформы офицера, имеется сумка для хранения пары наручников.",
-    "val": "Equipment used by police offers to shackle suspects. In Japan, the belt that makes up part of the officer’s duty uniform has a storage pouch for a pair of handcuffs."
+    "val": "Приспособление, используемое полицией, чтобы заковать подозреваемого. В Японии на поясе, являющемся частью униформы офицера, имеется сумка для хранения пары наручников."
   },
   {
     "key": "Fluent Japanese",
     "trx": "Свободно владеет японским языком",
-    "val": "Fluent Japanese"
+    "val": "Свободно говорил на японском"
   },
   {
     "key": "Imagine that you are a Japanese person who has never been in a situation where you suddenly had to speak to a foreigner. You haven’t used English in ages. Your tension grows. You think back to English class in school, but nothing you remember is helpful. You muster up the courage to choke out a stammered, “Do...do you...?” The foreigner responds fluently, in your own language, “",
     "trx": "Представьте, что вы японец, который никогда не был в ситуации, когда вам внезапно приходилось разговаривать с иностранцем. Ты сто лет не говорил по-английски. Ваше напряжение растет. Вы вспоминаете уроки английского языка в школе, но ничего из того, что вы помните, не помогает. Ты набираешься храбрости, чтобы выдавить запинающееся: “Do...do ты...?” Иностранец бегло отвечает на вашем родном языке: “",
-    "val": "Imagine that you are a Japanese person who has never been in a situation where you suddenly had to speak to a foreigner. You haven’t used English in ages. Your tension grows. You think back to English class in school, but nothing you remember is helpful. You muster up the courage to choke out a stammered, “Do...do you...?” The foreigner responds fluently, in your own language, “"
+    "val": "Представьте, что вы японец, который никогда не был в ситуации, когда ему внезапно пришлось разговаривать с иностранцем. Вы несколько лет не говорили по-английски. Ваше напряжение растет. Вы вспоминаете школьные уроки английского, но все, что вы можете вспомнить, не помогает. Вы набираетесь храбрости, чтобы выдавить запинающееся: “Ду...ду ю спик...?” Иностранец бегло отвечает на вашем родном языке, “"
   },
   {
     "key": "Nihongo de daijoubu desu",
     "trx": "Нихонго де дайжубу десу",
-    "val": "Nihongo de daijoubu desu"
+    "val": "Нихон-го дэ дайджобу дэс"
   },
   {
     "key": " (It’s all right; I speak Japanese).”",
     "trx": " (Все в порядке, я говорю по-японски).”",
-    "val": " (It’s all right; I speak Japanese).”"
+    "val": " (Все в порядке, я говорю по-японски).”"
   },
   {
     "key": "U.S. Embassy",
     "trx": "Посольство США",
-    "val": "U.S. Embassy"
+    "val": "Посольство США"
   },
   {
     "key": "An embassy is where ambassadors from a foreign country lodge, and conduct much of their official diplomatic business. Under international law, ambassadors are guaranteed diplomatic immunity, and the embassy grounds are considered territory of the home nation.",
     "trx": "Посольство - это место, где проживают послы из другой страны и выполняют большую часть своих официальных дипломатических дел. Согласно международному праву, послам гарантируется дипломатический иммунитет, а территория посольства считается территорией страны происхождения.",
-    "val": "An embassy is where ambassadors from a foreign country lodge, and conduct much of their official diplomatic business. Under international law, ambassadors are guaranteed diplomatic immunity, and the embassy grounds are considered territory of the home nation."
+    "val": "Посольство — это место, где проживают послы из другой страны и выполняют большую часть своих официальных дипломатических дел. Согласно международному праву, послам гарантируется дипломатический иммунитет, а территория посольства считается территорией их страны происхождения."
   },
   {
     "key": "The U.S. Embassy’s Regional Security Office is responsible for the security of American diplomatic facilities and personnel, and provides American citizens in Japan with information on public order. It is located in Akasaka, in the Minato ward of the Tokyo Metropolis.",
     "trx": "Региональное управление безопасности посольства США отвечает за безопасность американских дипломатических объектов и персонала и предоставляет американским гражданам в Японии информацию об общественном порядке. Он расположен в Акасаке, в районе Минато Токийского мегаполиса.",
-    "val": "The U.S. Embassy’s Regional Security Office is responsible for the security of American diplomatic facilities and personnel, and provides American citizens in Japan with information on public order. It is located in Akasaka, in the Minato ward of the Tokyo Metropolis."
+    "val": "Региональное управление безопасности посольства США отвечает за безопасность американских дипломатических объектов и персонала и предоставляет американским гражданам в Японии информацию об общественном порядке. Он расположен в Акасаке, в районе Минато Токийского мегаполиса."
   },
   {
     "key": "Pressure on his carotid artery",
