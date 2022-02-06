@@ -452,7 +452,7 @@
   {
     "key": "That shirt, man.” ",
     "trx": "Эта рубашка, чувак.” ",
-    "val": "Это та рубашка, чувак.” "
+    "val": "Это та футболка, чувак.” "
   },
   {
     "key": "The guy’s voice was starting to break.",
@@ -467,7 +467,7 @@
   {
     "key": "“A guy with a Mean Clean shirt, ",
     "trx": "“Парень в грязной чистой рубашке, ",
-    "val": "“Парень в рубашке с Чистюлей, "
+    "val": "“Парень в футболке с Чистюлей, "
   },
   {
     "key": "carrying around a trash bag? ",

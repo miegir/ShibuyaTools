@@ -222,202 +222,202 @@
   {
     "key": "The abbreviation for “Studs of Shibuya,” the name given to the group by Achi when he founded it. Originally just a bunch of like-minded young people hanging out together, it has since become known as a gang that picks fights around Shibuya.",
     "trx": "Аббревиатура от “Шпильки Сибуи”, название, данное группе Ачи, когда он ее основал. Первоначально это была просто группа молодых людей-единомышленников, тусующихся вместе, с тех пор она стала известна как банда, которая затевает драки вокруг Сибуи.",
-    "val": "Сокращение от английского “The Studs of Shibuya”. Это название дал группе Ачи, когда основал ее. Первоначально это была просто группа молодых людей-единомышленников, тусующихся вместе, но впоследствии она стала известна как банда, которая затевает драки вокруг Сибуи."
+    "val": "Сокращение от английского “The Studs of Shibuya”. Это название дал группе Ачи, когда основал ее. Первоначально это была просто группа молодых людей-единомышленников, тусующихся вместе, но впоследствии она стала известна как банда, которая затевает драки по всей Сибуе."
   },
   {
     "key": "Building",
     "trx": "Здание",
-    "val": "Building"
+    "val": "Здание"
   },
   {
     "key": "The Nokane Building. This multi-tenant building has seven floors, but a decade-old urban legend tells of a mysterious thirteenth floor.",
     "trx": "Здание Ноканэ. Это многоквартирное здание имеет семь этажей, но городская легенда десятилетней давности повествует о таинственном тринадцатом этаже.",
-    "val": "The Nokane Building. This многофункциональное здание has seven floors, but a decade-old urban legend tells of a mysterious thirteenth floor."
+    "val": "Здание Ноканэ. Это многофункциональное офисное здание имеет семь этажей, но городская легенда десятилетней давности повествует о таинственном тринадцатом этаже."
   },
   {
     "key": "A diet aid sales demo is being held on one of the upper floors today.",
     "trx": "Сегодня на одном из верхних этажей проводится демонстрация продаж диетической помощи.",
-    "val": "A diet aid sales demo is being held on one of the upper floors today."
+    "val": "Сегодня на одном из верхних этажей проводится демонстрация диетического напитка."
   },
   {
     "key": "Hella Fine",
     "trx": "Чертовски хорошо",
-    "val": "Hella Fine"
+    "val": "Чертовски хороша"
   },
   {
     "key": "Extremely attractive.",
     "trx": "Чрезвычайно привлекательная.",
-    "val": "Extremely attractive."
+    "val": "Чрезвычайно привлекательна."
   },
   {
     "key": "The etymology of ‘hella’ is somewhat unclear, but its meaning is undisputed: “very,” “a lot of,” “totally,” and the like.",
     "trx": "Этимология слова \"хелла’ несколько неясна, но его значение бесспорно: “очень”, “много”, “полностью” и тому подобное.",
-    "val": "The etymology of ‘hella’ is somewhat unclear, but its meaning is undisputed: “very,” “a lot of,” “totally,” and the like."
+    "val": "Этимология слова ‘чертовски’ (или ‘hella’ в английском) не совсем ясна, но его значение бесспорно: “очень,” “сильно,” “полностью” и тому подобное."
   },
   {
     "key": "Potential synonyms for “hella fine” include “mighty fine,” “fine as hell,” and “bangin’.”",
     "trx": "Потенциальные синонимы \"чертовски хорошо” включают “очень хорошо”, “чертовски хорошо” и “потрясающе”.",
-    "val": "Potential synonyms for “hella fine” include “mighty fine,” “fine as hell,” and “bangin’.”"
+    "val": "Потенциальными синонимами для выражения “чертовски хороша” будут “весьма изящная,” “адски привлекательная” и “потрясная”."
   },
   {
     "key": "Ahh, ahh, Ahh-chi!",
     "trx": "Ааа, ааа, Ааа-чи!",
-    "val": "Ahh, ahh, Ahh-chi!"
+    "val": "Ааа, ааа, ааа-чи!"
   },
   {
     "key": "Take a stereotypical way to poke fun at a would-be amorous couple.",
     "trx": "Воспользуйтесь стереотипным способом подшутить над потенциальной влюбленной парой.",
-    "val": "Take a stereotypical way to poke fun at a would-be amorous couple."
+    "val": "Используйте стереотипный способ подшутить над потенциальной влюбленной парой."
   },
   {
     "key": "Now take Achi’s name.",
     "trx": "Теперь возьми имя Ачи.",
-    "val": "Now take Achi’s name."
+    "val": "А теперь добавьте имя Ачи."
   },
   {
     "key": "There you go.",
     "trx": "Вот и ты.",
-    "val": "There you go."
+    "val": "Ну, вы поняли."
   },
   {
     "key": "Yoji Kiryu",
     "trx": "Йоджи Кирю",
-    "val": "Yoji Kiryu"
+    "val": "Йодзи Кирью"
   },
   {
     "key": "Used to roll with a gang from Ikebukuro until a few months ago. Known as “The Killer Whale of ‘Bukuro,” he answered any and all resistance with his fists. His crazy antics led to him being kicked out of the gang, however, and lately he’s been hanging around Shibuya.",
     "trx": "Раньше крутился с бандой из Икебукуро, пока несколько месяцев назад. Известный как “Косатка Букуро”, он отвечал на любое сопротивление кулаками. Однако его безумные выходки привели к тому, что его выгнали из банды, и в последнее время он околачивается в Сибуе.",
-    "val": "Used to roll with a gang from Ikebukuro until a few months ago. Known as “The Killer Whale of ‘Bukuro,” he answered any and all resistance with his fists. His crazy antics led to him being kicked out of the gang, however, and lately he’s been hanging around Shibuya."
+    "val": "Несколько месяцев назад состоял в банде Икебукуро. Известный как “Кит-убийца ‘Букуро,” он отвечал на любое сопротивление кулаками. Однако его безумные выходки привели к тому, что его выгнали из банды, и в последнее время он околачивается в Сибуе."
   },
   {
     "key": "Bondage",
     "trx": "Бондаж",
-    "val": "Bondage"
+    "val": "Оковы"
   },
   {
     "key": "Here, “bondage” is used strictly in the sense of “captivity.”",
     "trx": "Здесь “рабство” употребляется строго в смысле “плена”.",
-    "val": "Here, “bondage” is used strictly in the sense of “captivity.”"
+    "val": "Здесь “оковы” употребляются исключительно в смысле “плен.”"
   },
   {
     "key": "Any other types of “Yakuza bondage” will not be featured in this game.",
     "trx": "Любые другие виды “рабства якудзы” не будут представлены в этой игре.",
-    "val": "Any other types of “Yakuza bondage” will not be featured in this game."
+    "val": "Другие типы “оков якудзы” в этой игре не освящаются."
   },
   {
     "key": "Sorry if the Tip link here got your hopes up.",
     "trx": "Извините, если ссылка на подсказку здесь вселила в вас надежду.",
-    "val": "Sorry if the Tip link here got your hopes up."
+    "val": "Авторы английской версии намеренно использовали здесь слово “bondage”, чтобы получить повод извиниться, что эта подсказка не содержит того, о чем вы могли бы подумать. Но вот в русском языке мы, насколько я знаю, не используем термин “bondage”, когда говорим, что кого-то взяли в плен. В любом случае, эта игра не о том."
   },
   {
     "key": "Guillotine",
     "trx": "Гильотина",
-    "val": "Guillotine"
+    "val": "Гильотина"
   },
   {
     "key": "A capital punishment device invented in 18th Century France. The condemned is executed by decapitation, by means of a heavy blade that descends from above. Named for physician Joseph-Ignace Guillotin, who advocated its use to the National Assembly. Both King Louis XVI and Marie Antoinette were executed by guillotine.",
     "trx": "Устройство для смертной казни, изобретенное во Франции в 18 веке. Приговоренный казнен путем обезглавливания с помощью тяжелого лезвия, которое опускается сверху. Назван в честь врача Жозефа-Игнаса Гильотена, который выступал за его использование в Национальном собрании. И король Людовик XVI, и Мария-Антуанетта были казнены на гильотине.",
-    "val": "A capital punishment device invented in 18th Century France. The condemned is executed by decapitation, by means of a heavy blade that descends from above. Named for physician Joseph-Ignace Guillotin, who advocated its use to the National Assembly. Both King Louis XVI and Marie Antoinette were executed by guillotine."
+    "val": "Устройство для смертной казни, изобретенное во Франции в 18 веке. Приговоренного казнят путем обезглавливания с помощью тяжелого лезвия, которое падает сверху. Названа в честь врача Жозефа Игнаса Гильотена, который выступал за ее использование в Учредительном собрании. И король Людовик XVI, и Мария-Антуанетта были казнены на гильотине."
   },
   {
     "key": "Maruyamacho",
     "trx": "Маруямачо",
-    "val": "Maruyamacho"
+    "val": "Маруяматё"
   },
   {
     "key": "There are many hotels in Maruyamacho. These are not ordinary establishments, but rather the sort of hotel where two people who are so inclined might [redacted]. A couple heading to this kind of place in the early afternoon would, without a doubt, be assumed to be bent on [redacted]. You might be wondering whether an option for these two to get up to mischief will appear as a selection prompt. Well, don’t get your hopes up. This isn’t that kind of game.",
     "trx": "В Маруямачо много отелей. Это не обычные заведения, а скорее отель такого рода, где два человека, которые так склонны, могли бы [отредактировано]. Пара, направляющаяся в такое место в начале дня, без сомнения, была бы склонна к [отредактировано]. Возможно, вам будет интересно, появится ли в качестве подсказки для выбора возможность для этих двоих заняться озорством. Что ж, не надейся слишком сильно. Это не такая игра.",
-    "val": "There are many hotels in Maruyamacho. These are not ordinary establishments, but rather the sort of hotel where two people who are so inclined might [redacted]. A couple heading to this kind of place in the early afternoon would, without a doubt, be assumed to be bent on [redacted]. You might be wondering whether an option for these two to get up to mischief will appear as a selection prompt. Well, don’t get your hopes up. This isn’t that kind of game."
+    "val": "В Маруяматё много отелей. Не простых отелей, а скорее отелей такого рода, где два человека могли бы заняться [отредактировано]. Увидев пару, направляющуюся утром в такое место, можно было бы сделать вывод, что они наверняка хотят [отредактировано]. Вы могли бы подумать, что сейчас для этих двоих появится выбор заняться чем-то подобным. Что ж, слишком сильно не надейтесь. Это игра другого типа."
   },
   {
     "key": "Ecology",
     "trx": "Экология",
-    "val": "Ecology"
+    "val": "Экология"
   },
   {
     "key": "A subset of biology that deals with the reciprocal relationship between organisms and their environment. Nowadays, the term can also refer to cultural and social effects on the global environment. The latter usage can be broad and imprecise, making the exact meaning somewhat difficult to define.",
     "trx": "Подмножество биологии, которое занимается взаимоотношениями между организмами и окружающей средой. В настоящее время этот термин может также относиться к культурному и социальному воздействию на глобальную окружающую среду. Последнее употребление может быть широким и неточным, что несколько затрудняет определение точного значения.",
-    "val": "A subset of biology that deals with the reciprocal relationship between organisms and their environment. Nowadays, the term can also refer to cultural and social effects on the global environment. The latter usage can be broad and imprecise, making the exact meaning somewhat difficult to define."
+    "val": "Область биологии, которая занимается взаимодействием между организмами и окружающей средой. В настоящее время этот термин может также относиться к культурному и социальному воздействию на глобальную окружающую среду. В последнем смысле этот термин может быть широким и размытым, что несколько затрудняет определение точного значения."
   },
   {
     "key": "Science Strikes Back",
     "trx": "Наука Наносит Ответный удар",
-    "val": "Science Strikes Back"
+    "val": "Наука наносит ответный удар"
   },
   {
     "key": "A popular monthly magazine, abbreviated “SSB.” The series has been running for twenty-nine years now, but the “Strikeback Appendix” is still immensely popular with children. The woman who handles the home deliveries is known as “the SSB lady,” and children wait excitedly on the twenty-fifth of each month for her to make her rounds.",
     "trx": "Популярный ежемесячный журнал, сокращенно “SSB”. Серия выходит уже двадцать девять лет, но “Приложение для зачеркивания” по-прежнему пользуется огромной популярностью у детей. Женщина, которая занимается доставкой на дом, известна как “леди SSB”, и дети с волнением ждут двадцать пятого числа каждого месяца, когда она совершит обход.",
-    "val": "A popular monthly magazine, abbreviated “SSB.” The series has been running for twenty-nine years now, but the “Strikeback Appendix” is still immensely popular with children. The woman who handles the home deliveries is known as “the SSB lady,” and children wait excitedly on the twenty-fifth of each month for her to make her rounds."
+    "val": "Популярный ежемесячный журнал, сокращенно “ННОУ.” Серия выходит уже двадцать девять лет, но “Приложение: Ответный удар” по-прежнему пользуется огромной популярностью у детей. Женщина, которая занимается доставкой на дом, известна как “леди ННОУ,” и дети с волнением ждут двадцать пятого числа каждого месяца — дня очередной доставки."
   },
   {
     "key": "The river that got turned into a song",
     "trx": "Река, которая превратилась в песню",
-    "val": "The river that got turned into a song"
+    "val": "Река, про которую написали песню"
   },
   {
     "key": "The famous 1912 song ",
     "trx": "Знаменитая песня 1912 года ",
-    "val": "The famous 1912 song "
+    "val": "Знаменитая песня 1912 года "
   },
   {
     "key": "Haru no Ogawa (‘The Spring Brook’)",
     "trx": "Хару но Огава (‘Весенний ручей’)",
-    "val": "Haru no Ogawa (‘The Spring Brook’)"
+    "val": "Хару но Огава (‘Весенний ручей’)"
   },
   {
     "key": ", with lyrics by Tatsuyuki Takano and music by Teiichi Okano. It is said that the song was inspired by the view of the upper course of the Shibuya River during Takano’s childhood. In the modern day, there is a stone monument bearing the song’s lyrics along the Odakyu Line between Yoyogi-Hachiman and Sangubashi.",
     "trx": ", с текстами Тацуюки Такано и музыкой Тейичи Окано. Говорят, что песня была вдохновлена видом верхнего течения реки Сибуя во времена детства Такано. В наши дни вдоль линии Одакю между Йойоги-Хатиманом и Сангубаши стоит каменный памятник с текстом песни.",
-    "val": ", with lyrics by Tatsuyuki Takano and music by Teiichi Okano. It is said that the song was inspired by the view of the upper course of the Shibuya River during Takano’s childhood. In the modern day, there is a stone monument bearing the song’s lyrics along the Odakyu Line between Yoyogi-Hachiman and Sangubashi."
+    "val": " со словами Тацуюки Такано и музыкой Тейичи Окано. Говорят, что Такано вдохновлялся видом верховий реки Сибуя во времена своего детства. В наши дни на линии Одакю между станциями Йоёги-Хатиман и Сангубаси стоит каменный памятник с текстом песни."
   },
   {
     "key": "Tracking Device",
     "trx": "Устройство слежения",
-    "val": "Tracking Device"
+    "val": "Устройство слежения"
   },
   {
     "key": "Okay, so “backwards” isn’t the right way to describe this, but Achi doesn’t realize that. He does seem to know what a tracking device is, at least: a radio transmitter that can be located by the signal it emits. The Japanese police sometimes refer to this as a “beeper” (not to be confused with the English slang term “beeper,” meaning a pager).",
     "trx": "Хорошо, так что “назад” - неправильный способ описать это, но Ачи этого не понимает. Похоже, он, по крайней мере, знает, что такое устройство слежения: радиопередатчик, который можно обнаружить по сигналу, который он излучает. Японская полиция иногда называет это “пейджером” (не путать с английским жаргонным термином “пейджер”, означающим пейджер).",
-    "val": "Okay, so “backwards” isn’t the right way to describe this, but Achi doesn’t realize that. He does seem to know what a tracking device is, at least: a radio transmitter that can be located by the signal it emits. The Japanese police sometimes refer to this as a “beeper” (not to be confused with the English slang term “beeper,” meaning a pager)."
+    "val": "Вообще-то, “наоборот” — неправильный способ сказать это, но Ачи этого не понимает. Тем не менее, он, по крайней мере, понимает, что такое устройство слежения: радиопередатчик, который можно обнаружить по сигналу, который он испускает. Японская полиция иногда называет его “бипер” (не путать с английским жаргонным термином “beeper,” означающим пейджер)."
   },
   {
     "key": "Ground his teeth",
     "trx": "Стиснул зубы",
-    "val": "Ground his teeth"
+    "val": "Стиснул зубы"
   },
   {
     "key": "There are two main types of teeth-grinding: ",
     "trx": "Существует два основных типа шлифования зубов: ",
-    "val": "There are two main types of teeth-grinding: "
+    "val": "Существует два случая, когда человек может стиснуть зубы: "
   },
   {
     "key": "① The subconscious act of gritting one’s teeth together while asleep. ",
     "trx": "① Подсознательный акт стискивания зубов во время сна. ",
-    "val": "① The subconscious act of gritting one’s teeth together while asleep. "
+    "val": "① Подсознательный акт стискивания зубов во время сна. "
   },
   {
     "key": "② Gritting one’s teeth together as a response to anger or frustration. ",
     "trx": "② Стискивание зубов в ответ на гнев или разочарование. ",
-    "val": "② Gritting one’s teeth together as a response to anger or frustration. "
+    "val": "② Стискивание зубов как реакция на гнев или разочарование. "
   },
   {
     "key": "Here we have an example of ②: ",
     "trx": "Здесь у нас есть пример ②: ",
-    "val": "Here we have an example of ②: "
+    "val": "Здесь у нас пример ②: "
   },
   {
     "key": "At roughly this same time, ",
     "trx": "Примерно в это же время, ",
-    "val": "At roughly this same time, "
+    "val": "Примерно в это же время "
   },
   {
     "key": "Minoru Minorikawa",
     "trx": "Минору Минорикава",
-    "val": "Minoru Minorikawa"
+    "val": "Минору Минорикава"
   },
   {
     "key": " is grinding his teeth while trying to keep to his schedule.",
     "trx": " скрежещет зубами, пытаясь придерживаться своего графика.",
-    "val": " is grinding his teeth while trying to keep to his schedule."
+    "val": " стиснул зубы, пытаясь уложиться в расписание."
   },
   {
     "key": "Street Fight",
@@ -1622,7 +1622,7 @@
   {
     "key": "Many owners are big enthusiasts, sometimes even swapping out parts such as the handlebars or mufflers and giving the body a repaint, resulting in fashionable bikes that don’t even look like Super Cubs at first glance.",
     "trx": "Многие владельцы являются большими энтузиастами, иногда даже меняют местами такие детали, как руль или глушители, и перекрашивают кузов, в результате чего получаются модные велосипеды, которые на первый взгляд даже не похожи на Super Cubs.",
-    "val": "Многие владельцы являются большими энтузиастами, иногда даже заменяют такие детали, как руль или глушитель, и перекрашивают кузов, в результате чего получаются модные мотоциклы, которые на первый взгляд даже не похожи на Super Cubs."
+    "val": "Многие владельцы являются большими энтузиастами, иногда даже заменяют такие детали, как руль или глушитель, и перекрашивают кузов, в результате чего получаются модные мотоциклы, которые на первый взгляд даже не похожи на Super Cub."
   },
   {
     "key": "Heaven Publishing",
@@ -4137,7 +4137,7 @@
   {
     "key": "A multi-tenant office building in Udagawacho, located in Center Gai, Shibuya’s downtown district. In addition to hosting the weight loss drink sales demo, the building is also home to the foreign capital protection firm Japan SellCom, the IT mainstay Shibuya On-Net (SON), video game developer Shindai-Tradco, and Strikeback Labs, publisher of the monthly magazine ",
     "trx": "Офисное здание с несколькими арендаторами в Удагавачо, расположенное в центре Гая, в деловом районе Сибуи. В дополнение к демонстрации продаж напитков для похудения, в здании также находится фирма по защите иностранного капитала Japan SellCom, ИТ-оплот Shibuya On-Net (SON), разработчик видеоигр Shindai-Tradco и Strikeback Labs, издатель ежемесячного журнала ",
-    "val": "Многофункциональное офисное здание в Удагавачо, расположенное на улице Центр Гай в деловом районе Сибуи. Кроме того, что там проходит демонстрации напитков для похудения, в здании находится фирма по защите иностранного капитала Japan SellCom, ИТ-компания Shibuya On-Net (SON), разработчик видеоигр Shindai-Tradco, а также Strikeback Labs, издатель ежемесячного журнала "
+    "val": "Многофункциональное офисное здание в Удагавачо, расположенное на улице Центр Гай в деловом районе Сибуи. Кроме того, что там проходит демонстрация напитка для похудения, в здании находится фирма по защите иностранного капитала Japan SellCom, ИТ-компания Shibuya On-Net (SON), разработчик видеоигр Shindai-Tradco, а также Strikeback Labs, издатель ежемесячного журнала "
   },
   {
     "key": "Science Strikes Back",

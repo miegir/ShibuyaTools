@@ -2,207 +2,207 @@
   {
     "key": "Hitomi flashed him a little smile.",
     "trx": "Хитоми одарила его легкой улыбкой.",
-    "val": "Hitomi flashed him a little smile."
+    "val": "Хитоми одарила его легкой улыбкой."
   },
   {
     "key": "Man, she’s so cute,",
     "trx": "Чувак, она такая милая,",
-    "val": "Man, she’s so cute,"
+    "val": "Боже, она такая милая,"
   },
   {
     "key": " Achi thought.",
     "trx": " Ачи задумался.",
-    "val": " Achi thought."
+    "val": " подумал Ачи."
   },
   {
     "key": "Then something else caught his eye. “Huh? ",
     "trx": "Затем его внимание привлекло кое-что еще. \"Хм? ",
-    "val": "Then something else caught his eye. “Huh? "
+    "val": "Затем его внимание привлекло кое-что еще. “Что? "
   },
   {
     "key": "What’s that there?”",
     "trx": "Что это там?”",
-    "val": "What’s that there?”"
+    "val": "Что там такое?”"
   },
   {
     "key": "It looked like something black was stuck to the top of her head.",
     "trx": "Это выглядело так, как будто что-то черное прилипло к ее макушке.",
-    "val": "It looked like something black was stuck to the top of her head."
+    "val": "Казалось, что-то черное прилипло к ее макушке."
   },
   {
     "key": "“Achi, what are you staring at?”",
     "trx": "“Ачи, на что ты уставился?”",
-    "val": "“Achi, what are you staring at?”"
+    "val": "“Ачи, на что ты уставился?”"
   },
   {
     "key": "“Uh, you’ve got something stuck there.”",
     "trx": "“Э-э, у тебя там что-то застряло\".",
-    "val": "“Uh, you’ve got something stuck there.”"
+    "val": "“Э-э, у тебя там что-то застряло.”"
   },
   {
     "key": "“What, on my head?”",
     "trx": "“Что, на моей голове?”",
-    "val": "“What, on my head?”"
+    "val": "“Что, на моей голове?”"
   },
   {
     "key": "Without thinking, Hitomi reached up and plucked it off.",
     "trx": "Недолго думая, Хитоми протянула руку и сорвала его.",
-    "val": "Without thinking, Hitomi reached up and plucked it off."
+    "val": "Недолго думая, Хитоми протянула руку и сорвала это."
   },
   {
     "key": "It was about ten centimeters long, its body a glistening black, sporting feelers and several pairs of legs.",
     "trx": "Он был около десяти сантиметров длиной, его тело было блестящим черным, с щупальцами и несколькими парами ног.",
-    "val": "It was about ten centimeters long, its body a glistening black, sporting feelers and several pairs of legs."
+    "val": "Это было существо около десяти сантиметров длиной, его тело было блестяще-черным, с щупальцами и несколькими парами ног."
   },
   {
     "key": "It began to writhe and wriggle between Hitomi’s slender fingers.",
     "trx": "Он начал извиваться и извиваться между тонкими пальцами Хитоми.",
-    "val": "It began to writhe and wriggle between Hitomi’s slender fingers."
+    "val": "Оно начало извиваться между тонкими пальцами Хитоми."
   },
   {
     "key": "“Gah!” Achi yelped. ",
     "trx": "“Боже!” Ачи взвизгнул. ",
-    "val": "“Gah!” Achi yelped. "
+    "val": "“Боже!” взвизгнул Ачи. "
   },
   {
     "key": "“It’s a cockroach!”",
     "trx": "“Это таракан!”",
-    "val": "“It’s a cockroach!”"
+    "val": "“Это таракан!”"
   },
   {
     "key": "He jumped backward, but Hitomi didn’t so much as flinch.",
     "trx": "Он отскочил назад, но Хитоми даже не вздрогнула.",
-    "val": "He jumped backward, but Hitomi didn’t so much as flinch."
+    "val": "Он отскочил назад, но Хитоми даже не вздрогнула."
   },
   {
     "key": "“Whew—sorry. That gave me a bit of a start,” he continued. ",
     "trx": "\"Фу — извини. Это дало мне некоторое начало, - продолжил он. ",
-    "val": "“Whew—sorry. That gave me a bit of a start,” he continued. "
+    "val": "“Ух, извини. Это немного меня ошарашило,” продолжал он. "
   },
   {
     "key": "“Guess it must’ve fallen from one of the windows up there?”",
     "trx": "“Полагаю, он, должно быть, выпал из одного из окон там, наверху?”",
-    "val": "“Guess it must’ve fallen from one of the windows up there?”"
+    "val": "“Он, должно быть, выпал из одного из окон наверху?”"
   },
   {
     "key": "Still, Hitomi did not move.",
     "trx": "Хитоми по-прежнему не двигалась.",
-    "val": "Still, Hitomi did not move."
+    "val": "Хитоми по-прежнему не двигалась."
   },
   {
     "key": "“Hitomi?”",
     "trx": "“Хитоми?”",
-    "val": "“Hitomi?”"
+    "val": "“Хитоми?”"
   },
   {
     "key": "She didn’t appear to hear him.",
     "trx": "Казалось, она его не слышала.",
-    "val": "She didn’t appear to hear him."
+    "val": "Казалось, она его не слышала."
   },
   {
     "key": "“Uh, hello? ",
     "trx": "“Э-э, привет? ",
-    "val": "“Uh, hello? "
+    "val": "“Э-э, привет? "
   },
   {
     "key": "Hitomi?”",
     "trx": "Хитоми?”",
-    "val": "Hitomi?”"
+    "val": "Хитоми?”"
   },
   {
     "key": "“Oogh...” ",
     "trx": "“Ух ты...” ",
-    "val": "“Oogh...” "
+    "val": "“Уухх...” "
   },
   {
     "key": "With muffled gurgle, Hitomi passed out on the spot, her body as stiff as a mannequin.",
     "trx": "С приглушенным бульканьем Хитоми потеряла сознание на месте, ее тело было неподвижным, как у манекена.",
-    "val": "With muffled gurgle, Hitomi passed out on the spot, her body as stiff as a mannequin."
+    "val": "С приглушенным бульканьем Хитоми потеряла сознание на месте, ее тело стало неподвижным, как у манекена."
   },
   {
     "key": "“Wha—?!  ",
     "trx": "“Что—?!  ",
-    "val": "“Wha—?!  "
+    "val": "“Что—?! "
   },
   {
     "key": "Hitomi, are you okay? ",
     "trx": "Хитоми, ты в порядке? ",
-    "val": "Hitomi, are you okay? "
+    "val": "Хитоми, ты в порядке? "
   },
   {
     "key": "Hitomi! ",
     "trx": "Хитоми! ",
-    "val": "Hitomi! "
+    "val": "Хитоми! "
   },
   {
     "key": "Hitomi! ",
     "trx": "Хитоми! ",
-    "val": "Hitomi! "
+    "val": "Хитоми! "
   },
   {
     "key": "Hitomiiiiii!”",
     "trx": "Хитомиииии!”",
-    "val": "Hitomiiiiii!”"
+    "val": "Хитомиииии!”"
   },
   {
     "key": "But no matter how loudly Achi called her name, Hitomi would not come to.",
     "trx": "Но как бы громко Ачи ни звал ее по имени, Хитоми не приходила в себя.",
-    "val": "But no matter how loudly Achi called her name, Hitomi would not come to."
+    "val": "Но как бы громко Ачи ни звал ее по имени, Хитоми не приходила в себя."
   },
   {
     "key": "From that day onward, ",
     "trx": "С этого дня и далее, ",
-    "val": "From that day onward, "
+    "val": "С этого дня и далее, "
   },
   {
     "key": "Achi devoted even more of his time and energy to collecting trash.",
     "trx": "Ачи посвятил еще больше своего времени и энергии сбору мусора.",
-    "val": "Achi devoted even more of his time and energy to collecting trash."
+    "val": "Ачи посвятил еще больше времени и энергии сбору мусора."
   },
   {
     "key": "It became his personal passion to see that his city was a clean one, devoid of cockroaches.",
     "trx": "Его личной страстью стало следить за тем, чтобы его город был чистым, без тараканов.",
-    "val": "It became his personal passion to see that his city was a clean one, devoid of cockroaches."
+    "val": "Он с еще большим пристрастием стал следить за тем, чтобы его город был чистым, без тараканов."
   },
   {
     "key": "That was the mandate he had been handed—",
     "trx": "Таков был мандат, который ему был вручен—",
-    "val": "That was the mandate he had been handed—"
+    "val": "Таков был мандат, который был ему вручен — "
   },
   {
     "key": "or, if nothing else, his atonement.",
     "trx": "или, если не что иное, его искупление.",
-    "val": "or, if nothing else, his atonement."
+    "val": "ну, или это было ни что иное, как искупление."
   },
   {
     "key": "No. 19\u3000",
     "trx": "№ 19\u3000",
-    "val": "No. 19\u3000"
+    "val": "№ 19\u3000"
   },
   {
     "key": "The Cockroach",
     "trx": "Таракан",
-    "val": "The Cockroach"
+    "val": "Таракан"
   },
   {
     "key": "Hint",
     "trx": "Подсказка",
-    "val": "Hint"
+    "val": "Подсказка"
   },
   {
     "key": "Hitomi passed out after a cockroach fell onto her head from out of nowhere—well, not out of nowhere, exactly. Hitomi and Achi were right underneath the Nokane Building, where they’re selling Burning Hammer. A cat and a cockroach had been fighting it out on one of the upper floors. The cat was victorious, but if it had run away instead, things would have turned out differently down below.",
     "trx": "Хитоми потеряла сознание после того, как таракан упал ей на голову из ниоткуда — ну, не совсем из ниоткуда. Хитоми и Ачи были прямо под зданием Nokane, где они продают Горящий молот. Кошка и таракан дрались на одном из верхних этажей. Кошка одержала победу, но если бы она вместо этого убежала, внизу все сложилось бы по-другому.",
-    "val": "Hitomi passed out after a cockroach fell onto her head from out of nowhere—well, not out of nowhere, exactly. Hitomi and Achi were right underneath the Nokane Building, where they’re selling Burning Hammer. A cat and a cockroach had been fighting it out on one of the upper floors. The cat was victorious, but if it had run away instead, things would have turned out differently down below."
+    "val": "Хитоми потеряла сознание после того, как таракан упал ей на голову из ниоткуда — хотя, не совсем из ниоткуда. Хитоми и Ачи были прямо под зданием Ноканэ, где готовится демонстрация Жгучего молота. На одном из верхних этажей случилась драка между кошкой и тараканом. Кошка одержала победу, но если бы она вместо этого убежала, внизу все сложилось бы по-другому."
   },
   {
     "key": "“This ends ",
     "trx": "“Это заканчивается ",
-    "val": "“This ends "
+    "val": "“Это закончится "
   },
   {
     "key": "now",
     "trx": "сейчас",
-    "val": "now"
+    "val": "здесь"
   },
   {
     "key": "!”",
@@ -212,142 +212,142 @@
   {
     "key": "Achi leapt into the forklift and hit the ignition; the engine roared to life.",
     "trx": "Ачи запрыгнул в погрузчик и включил зажигание; двигатель с ревом ожил.",
-    "val": "Achi leapt into the forklift and hit the ignition; the engine roared to life."
+    "val": "Ачи запрыгнул в погрузчик и включил зажигание; двигатель с ревом ожил."
   },
   {
     "key": "He lowered the forks and stepped on the accelerator, picking up the pallet of cardboard boxes as he charged toward the man with the cane.",
     "trx": "Он опустил вилки и нажал на акселератор, подхватил поддон с картонными коробками и бросился к мужчине с тростью.",
-    "val": "He lowered the forks and stepped on the accelerator, picking up the pallet of cardboard boxes as he charged toward the man with the cane."
+    "val": "Он опустил вилы, нажал на акселератор, подхватил поддон с картонными коробками и рванулся на человека с тростью."
   },
   {
     "key": "The tower of boxes struck the man with a thud.",
     "trx": "Башня из ящиков с глухим стуком обрушилась на мужчину.",
-    "val": "The tower of boxes struck the man with a thud."
+    "val": "Башня из ящиков с глухим стуком обрушилась на мужчину."
   },
   {
     "key": "Achi kept accelerating, driving him back a good ten meters or so.",
     "trx": "Ачи продолжал ускоряться, отбрасывая его назад на добрых десять метров или около того.",
-    "val": "Achi kept accelerating, driving him back a good ten meters or so."
+    "val": "Ачи продолжал ускоряться, отбросив его назад метров на десять или около того."
   },
   {
     "key": "The gunman let out a low grunt at the impact.",
     "trx": "Стрелок издал низкое ворчание от удара.",
-    "val": "The gunman let out a low grunt at the impact."
+    "val": "Стрелок от удара низко закряхтел."
   },
   {
     "key": "Achi then hit the brake, shifted back into reverse, and hit the gas again, backing up as fast as he could.",
     "trx": "Затем Ачи нажал на тормоз, переключился на задний ход и снова нажал на газ, давая задний ход так быстро, как только мог.",
-    "val": "Achi then hit the brake, shifted back into reverse, and hit the gas again, backing up as fast as he could."
+    "val": "Затем Ачи нажал на тормоз, переключился на задний ход и снова нажал на газ, давая задний ход настолько быстро, как только мог."
   },
   {
     "key": "The boxes crashed down in a heap, burying the assassin underneath.",
     "trx": "Коробки грохнулись кучей, погребая под собой убийцу.",
-    "val": "The boxes crashed down in a heap, burying the assassin underneath."
+    "val": "Коробки грохнулись кучей, погребая под собой убийцу."
   },
   {
     "key": "Several small bottles spilled from the broken cardboard and shattered on the pavement.",
     "trx": "Несколько маленьких бутылочек выпали из разорванного картона и разбились о тротуар.",
-    "val": "Several small bottles spilled from the broken cardboard and shattered on the pavement."
+    "val": "Несколько маленьких бутылочек выпали из разорванной коробки и разбились о тротуар."
   },
   {
     "key": "“Hey! What the hell are you doing?”",
     "trx": "- эй! Какого черта ты делаешь?”",
-    "val": "“Hey! What the hell are you doing?”"
+    "val": "“Эй! Какого черта ты делаешь?”"
   },
   {
     "key": "A middle-aged man in a sanitation uniform had come running at the sound of the forklift.",
     "trx": "Мужчина средних лет в санитарной униформе прибежал на звук погрузчика.",
-    "val": "A middle-aged man in a sanitation uniform had come running at the sound of the forklift."
+    "val": "Мужчина средних лет в санитарной униформе прибежал, услышав звук погрузчика."
   },
   {
     "key": "“Sorry, man—gotta run!” Achi exclaimed as he jumped from the vehicle. “And don’t forget to recycle that glass!”",
     "trx": "\"Извини, чувак, мне нужно бежать!” - воскликнул Ачи, выпрыгивая из машины. “И не забудь утилизировать этот стакан!”",
-    "val": "“Sorry, man—gotta run!” Achi exclaimed as he jumped from the vehicle. “And don’t forget to recycle that glass!”"
+    "val": "“Извини, чувак, мне нужно бежать!” воскликнул Ачи, выпрыгивая из машины. “И не забудь утилизировать это стекло!”"
   },
   {
     "key": "He took Hitomi’s hand and sprinted away down the alleyway.",
     "trx": "Он взял Хитоми за руку и побежал прочь по переулку.",
-    "val": "He took Hitomi’s hand and sprinted away down the alleyway."
+    "val": "Он взял Хитоми за руку и побежал прочь по переулку."
   },
   {
     "key": "The sanitation worker glowered after him, then turned and gazed despondently at the jumbled pile of boxes and broken glass.",
     "trx": "Санитар сердито посмотрел ему вслед, затем повернулся и уныло уставился на беспорядочную груду коробок и битого стекла.",
-    "val": "The sanitation worker glowered after him, then turned and gazed despondently at the jumbled pile of boxes and broken glass."
+    "val": "Санитар сердито посмотрел ему вслед, затем повернулся и уныло уставился на беспорядочную груду коробок и битого стекла."
   },
   {
     "key": "Still, Achi was determined to help her anyway. He refused to back down.",
     "trx": "Тем не менее, Ачи был полон решимости помочь ей в любом случае. Он отказался отступать.",
-    "val": "Still, Achi was determined to help her anyway. He refused to back down."
+    "val": "Но Ачи все равно был полон решимости помочь ей. Он отказывался отступать."
   },
   {
     "key": "“Look. I ",
     "trx": "“Смотри. Я ",
-    "val": "“Look. I "
+    "val": "“Послушай. Я "
   },
   {
     "key": "want",
     "trx": "хотеть",
-    "val": "want"
+    "val": "хочу"
   },
   {
     "key": " to help people who are in trouble. What’s so wrong about that?”",
     "trx": " помогать людям, попавшим в беду. Что в этом такого плохого?”",
-    "val": " to help people who are in trouble. What’s so wrong about that?”"
+    "val": " помогать людям, попавшим в беду. Что в этом плохого?”"
   },
   {
     "key": "“Huh?”",
     "trx": "\"Хм?\"",
-    "val": "“Huh?”"
+    "val": "“Хм?”"
   },
   {
     "key": "He locked eyes with Hitomi, willing her to understand.",
     "trx": "Он встретился взглядом с Хитоми, желая, чтобы она поняла.",
-    "val": "He locked eyes with Hitomi, willing her to understand."
+    "val": "Он встретился взглядом с Хитоми, желая, чтобы она поняла."
   },
   {
     "key": "“I’m not the most dependable guy. I know that. ",
     "trx": "“Я не самый надежный парень. Я знаю это. ",
-    "val": "“I’m not the most dependable guy. I know that. "
+    "val": "“Я не самый надежный парень. Я это знаю. "
   },
   {
     "key": "But still, I just...” ",
     "trx": "Но все же, я просто...” ",
-    "val": "But still, I just...” "
+    "val": "Но все же, я просто...” "
   },
   {
     "key": "Hitomi dropped her gaze, and Achi trailed off, feeling like an idiot.",
     "trx": "Хитоми опустила взгляд, и Ачи замолчал, чувствуя себя идиотом.",
-    "val": "Hitomi dropped her gaze, and Achi trailed off, feeling like an idiot."
+    "val": "Хитоми опустила взгляд, и Ачи замолчал, чувствуя себя идиотом."
   },
   {
     "key": "“Oh, it’s no use. ",
     "trx": "“О, это бесполезно. ",
-    "val": "“Oh, it’s no use. "
+    "val": "“О, это бесполезно. "
   },
   {
     "key": "I’m",
     "trx": "Я есть",
-    "val": "I’m"
+    "val": "Я"
   },
   {
     "key": " no use.”",
     "trx": " бесполезно.”",
-    "val": " no use.”"
+    "val": " бесполезен.”"
   },
   {
     "key": "He hung his head with a sigh.",
     "trx": "Он со вздохом опустил голову.",
-    "val": "He hung his head with a sigh."
+    "val": "Он со вздохом опустил голову."
   },
   {
     "key": "These guys were in sore need of a major asskicking.",
     "trx": "Эти парни остро нуждались в серьезной взбучке.",
-    "val": "These guys were in sore need of a major asskicking."
+    "val": "Эти парни остро нуждались в серьезной взбучке."
   },
   {
     "key": "Achi stepped up to the ringleader.",
     "trx": "Ачи подошел к главарю.",
-    "val": "Achi stepped up to the ringleader."
+    "val": "Ачи подошел к главарю."
   },
   {
     "key": "2",
@@ -357,16 +357,16 @@
   {
     "key": "The tough dropped to the ground with a dull thud.",
     "trx": "Пистолет с глухим стуком упал на землю.",
-    "val": "The tough dropped to the ground with a dull thud."
+    "val": "Парень упал на землю с глухим стуком."
   },
   {
     "key": "“Oh—sorry. That was terribly rude of me.” ",
     "trx": "“О, извините. Это было ужасно грубо с моей стороны.” ",
-    "val": "“Oh—sorry. That was terribly rude of me.” "
+    "val": "“Ой, извините. Это было так грубо с моей стороны.” "
   },
   {
     "key": "Achi kept his tone light and jovial, but he eyed the others like a hawk eyeing its prey.",
     "trx": "Ачи сохранял свой легкий и веселый тон, но он смотрел на остальных, как ястреб, наблюдающий за своей добычей.",
-    "val": "Achi kept his tone light and jovial, but he eyed the others like a hawk eyeing its prey."
+    "val": "Ачи продолжал говорить легко и непринужденно, но смотрел при этом на остальных головорезов, как ястреб, наблюдающий за своей добычей."
   }
 ]
