@@ -1027,7 +1027,7 @@
   {
     "key": "it’s almost gas heater season, after all.”",
     "trx": "в конце концов, сейчас почти сезон газовых обогревателей.”",
-    "val": "скоро начинается что отопительный сезон.”"
+    "val": "скоро начинается отопительный сезон.”"
   },
   {
     "key": "“The hell it is!”",
@@ -1337,7 +1337,7 @@
   {
     "key": "“Show me the layout and the draft proposal for next month’s issue.”",
     "trx": "“Покажите мне макет и проект предложения для выпуска в следующем месяце”.",
-    "val": "“Покажите мне макет и технические задания для следующего выпуска.”"
+    "val": "“Покажите мне макет и проектное предложение для следующего выпуска.”"
   },
   {
     "key": "Toyama blinked a few times in disbelief.",
@@ -1367,7 +1367,7 @@
   {
     "key": "Now show me the layout and the proposal before I change my mind!”",
     "trx": "А теперь покажи мне макет и предложение, пока я не передумал!”",
-    "val": "А теперь покажите макет и задания, пока я не передумал!”"
+    "val": "А теперь покажите макет и предложение, пока я не передумал!”"
   },
   {
     "key": "After a brief, incredulous pause, Toyama hurried off to grab the paperwork.",
@@ -1527,7 +1527,7 @@
   {
     "key": "Minorikawa picked up the draft proposal for the pages that needed filling.",
     "trx": "Минорикава взял проект предложения для страниц, которые требовали заполнения.",
-    "val": "Минорикава взял технические задания на страницы, которые предстояло заполнить."
+    "val": "Минорикава взял проектное предложение на страницы, которые предстояло заполнить."
   },
   {
     "key": "The words ",
@@ -1587,7 +1587,7 @@
   {
     "key": "According to the proposal write-up, a product demo was scheduled for 1 pm. that day.",
     "trx": "Согласно описанию предложения, демонстрация продукта была запланирована на 1 час дня в тот же день.",
-    "val": "Судя по тексту задания, демонстрация продукта была запланирована сегодня на 13:00."
+    "val": "Судя по тексту предложения, демонстрация продукта была запланирована сегодня на 13:00."
   },
   {
     "key": "The location printed on the map was blurry and hard to make out, but Minorikawa had a rough idea where it was.",
@@ -1602,7 +1602,7 @@
   {
     "key": "He scanned further along into the proposal.",
     "trx": "Он еще раз просмотрел предложение.",
-    "val": "Он продолжил читать задание."
+    "val": "Он продолжил читать предложение."
   },
   {
     "key": "Society of Surveillance! Hidden Cameras Installed Throughout Shibuya",
@@ -1727,7 +1727,7 @@
   {
     "key": "He thought about it long and hard as he stared at the draft proposal.",
     "trx": "Он долго и упорно думал об этом, глядя на проект предложения.",
-    "val": "Он долго и упорно думал об этом, глядя на техническое задание."
+    "val": "Он долго и упорно думал об этом, глядя на проектное предложение."
   },
   {
     "key": "There was a good chance he’d really screw himself over if he picked the wrong one.",
@@ -1992,7 +1992,7 @@
   {
     "key": "He decided to email all his contacts from back in his staff reporter days.",
     "trx": "Он решил отправить по электронной почте все свои контакты еще со времен работы штатным репортером.",
-    "val": "Он решил отправить письма всем своим контактам с того времени, когда он работал работы штатным репортером."
+    "val": "Он решил отправить письма всем своим контактам с того времени, когда он работал штатным репортером."
   },
   {
     "key": "This was no time for beggars to be choosers.",
@@ -2102,7 +2102,7 @@
   {
     "key": " have anything to eat.",
     "trx": " есть что-нибудь поесть.",
-    "val": " было есть."
+    "val": " есть."
   },
   {
     "key": "“Well, I’ve got work for you. I’m over at ",
@@ -2737,7 +2737,7 @@
   {
     "key": "Minorikawa pulled out the proposal and looked it over again.",
     "trx": "Минорикава вытащил предложение и еще раз просмотрел его.",
-    "val": "Минорикава вытащил задание и еще раз просмотрел его."
+    "val": "Минорикава вытащил предложение и еще раз просмотрел его."
   },
   {
     "key": "The idea for the surveillance story revolved around the claim that hidden cameras had been installed throughout Shibuya’s shopping districts—upwards of 500 of them.",
@@ -3087,7 +3087,7 @@
   {
     "key": "The Wandering Angels? That was Shinnosuke Oarai’s theater troupe. Minorikawa had an interview with him booked for 2:30.",
     "trx": "Блуждающие Ангелы? Это была театральная труппа Синносуке Оараи. У Минорикавы было назначено собеседование с ним на 2:30.",
-    "val": "Бродячие Ангелы? Это была театральная труппа Синносуке Оараи. У Минорикавы было назначено с ним собеседование на 14:30."
+    "val": "Бродячие Ангелы? Это была театральная труппа Синносуке Оараи. У Минорикавы было назначено с ним интервью на 14:30."
   },
   {
     "key": "“Anyhow—what can I do for you?”",

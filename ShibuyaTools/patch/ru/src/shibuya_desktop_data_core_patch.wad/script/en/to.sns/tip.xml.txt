@@ -1832,197 +1832,197 @@
   {
     "key": "Man",
     "trx": "Человек",
-    "val": "Man"
+    "val": "Мужчина"
   },
   {
     "key": "Taisei Yasuda. Proprietor of a knickknack shop in Udagawacho.",
     "trx": "Тайсей Ясуда. Владелец магазина безделушек в Удагавачо.",
-    "val": "Taisei Yasuda. Proprietor of a knickknack shop in Udagawacho."
+    "val": "Тайсей Ясуда. Владелец магазина безделушек в Удагавачо."
   },
   {
     "key": "Roughly thirty minutes earlier, while he was wandering along the JR tracks picking up lost and abandoned items, Achi foisted off his trash onto him, and so he’s in a bit of a foul mood. Since then he’s been going along on his bicycle, still picking up things from the roadside. There’s a trunk on the back of his bike where he stores his finds.",
     "trx": "Примерно за тридцать минут до этого, когда он бродил по железнодорожным путям, собирая потерянные и брошенные вещи, Ачи навязал ему свой мусор, и поэтому он немного в плохом настроении. С тех пор он ездит на велосипеде, все еще собирая вещи с обочины. На задней части его велосипеда есть багажник, где он хранит свои находки.",
-    "val": "Roughly thirty minutes earlier, while he was wandering along the JR tracks picking up lost and abandoned items, Achi foisted off his trash onto him, and so he’s in a bit of a foul mood. Since then he’s been going along on his bicycle, still picking up things from the roadside. There’s a trunk on the back of his bike where he stores his finds."
+    "val": "Примерно за тридцать минут до этого, когда он бродил около железнодорожных путей, собирая потерянные и брошенные вещи, Ачи сунул ему свой мусор, из-за чего он находится сейчас в довольно плохом настроении. С тех пор он ездит на велосипеде, продолжая подбирать вещи с обочины. В задней части его велосипеда есть багажник, в котором он хранит свои находки."
   },
   {
     "key": "Blimp",
     "trx": "Дирижабль",
-    "val": "Blimp"
+    "val": "Аэростат"
   },
   {
     "key": "A type of aircraft that floats using the lift provided by an enormous envelope filled with lighter-than-air gas. This envelope—the balloon—is often used for corporate advertising. This particular blimp has been puttering about the skies above Shibuya since last night.",
     "trx": "Тип летательного аппарата, который плавает, используя подъемную силу, обеспечиваемую огромной оболочкой, заполненной газом легче воздуха. Этот конверт— воздушный шар — часто используется для корпоративной рекламы. Этот конкретный дирижабль кружит в небе над Сибуей со вчерашнего вечера.",
-    "val": "A type of aircraft that floats using the lift provided by an enormous envelope filled with lighter-than-air gas. This envelope—the balloon—is often used for corporate advertising. This particular blimp has been puttering about the skies above Shibuya since last night."
+    "val": "Летательный аппарат, подъемная сила которого обеспечивается газом легче воздуха, заполняющим огромную оболочку. Эта оболочка — воздушный шар — часто используется для корпоративной рекламы. Этот конкретный аэростат кружит в небе над Сибуей со вчерашнего вечера."
   },
   {
     "key": "Writing mode",
     "trx": "Режим записи",
-    "val": "Writing mode"
+    "val": "Режим записи"
   },
   {
     "key": "The state of being in a mood to write some text.",
     "trx": "Состояние, когда у тебя есть настроение написать какой-нибудь текст.",
-    "val": "The state of being in a mood to write some text."
+    "val": "Состояние, когда вы в настроении писать некоторый текст."
   },
   {
     "key": "As Minorikawa goes about his job, he switches between writing mode, interview mode, food mode, and sleep mode. When busy, he’ll sometimes go into writing mode and food mode at the same time, sometimes even straying into sleep mode in the midst of food mode. When he’s even busier, he’ll eat and write mid-interview while nodding off; this is known as ultimate mode.",
     "trx": "Когда Минорикава занимается своей работой, он переключается между режимом письма, режимом интервью, режимом еды и режимом сна. Когда он занят, он иногда переходит в режим письма и режим еды одновременно, иногда даже переходит в спящий режим в разгар режима еды. Когда он еще более занят, он ест и пишет в середине интервью, засыпая; это известно как режим ultimate.",
-    "val": "As Minorikawa goes about his job, he switches between writing mode, interview mode, food mode, and sleep mode. When busy, he’ll sometimes go into writing mode and food mode at the same time, sometimes even straying into sleep mode in the midst of food mode. When he’s even busier, he’ll eat and write mid-interview while nodding off; this is known as ultimate mode."
+    "val": "Когда Минорикава занимается своей работой, он переключается между режимом записи, режимом интервью, режимом приема пищи и режимом сна. Когда он занят, он иногда переходит в режимы записи и приема пищи одновременно, иногда даже переключаясь в режим сна из режима приема пищи. Когда он занят еще больше, он ест и пишет в процессе интервью, периодически засыпая; это известно как универсальный режим."
   },
   {
     "key": "Waitress",
     "trx": "Официантка",
-    "val": "Waitress"
+    "val": "Официантка"
   },
   {
     "key": "Ikumi Omiya.",
     "trx": "Икуми Омия.",
-    "val": "Ikumi Omiya."
+    "val": "Икуми Омия."
   },
   {
     "key": "Employee at Co-Labo Café.",
     "trx": "Сотрудник кафе \"Ко-Лабо\".",
-    "val": "Employee at Co-Labo Café."
+    "val": "Сотрудница кафе Co-Labo."
   },
   {
     "key": "While appearing cute and demure at first glance, she’s quite strong-willed, and frightening when angry.",
     "trx": "Хотя на первый взгляд она кажется милой и скромной, она довольно волевая и пугающая, когда злится.",
-    "val": "While appearing cute and demure at first glance, she’s quite strong-willed, and frightening when angry."
+    "val": "Хотя на первый взгляд она кажется милой и скромной, она довольно волевая и пугающая, когда злится."
   },
   {
     "key": "She works nights at a place called “The Scolding Pub,” where customers rent private rooms in which they are scolded at length by attractive girls. One middle-aged businessman once told her: “Your face looks simply marvelous when you’re angry.”",
     "trx": "Она работает по ночам в заведении под названием “Ругающий паб”, где клиенты снимают отдельные комнаты, в которых их долго ругают привлекательные девушки. Один бизнесмен средних лет однажды сказал ей: “Твое лицо выглядит просто изумительно, когда ты злишься”.",
-    "val": "She works nights at a place called “The Scolding Pub,” where customers rent private rooms in which they are scolded at length by attractive girls. One middle-aged businessman once told her: “Your face looks simply marvelous when you’re angry.”"
+    "val": "Она работает по ночам в заведении под названием “Бар нагоняев”, где клиенты снимают отдельные комнаты, в которых их долго ругают привлекательные девушки. Один бизнесмен средних лет однажды сказал ей: “Твое лицо выглядит просто изумительно, когда ты злишься.”"
   },
   {
     "key": "Place that allowed smoking",
     "trx": "Место, где разрешено курить",
-    "val": "Place that allowed smoking"
+    "val": "Место, где разрешено курить"
   },
   {
     "key": "In recent years, many cafés and restaurants have phased out the concept of the ‘smoking section’ in favor of prohibiting smoking across the board. This makes a place like Lautrec especially important to smokers. There are large air vents in the ceiling to help keep the interior more agreeable for those who do not smoke.",
     "trx": "В последние годы многие кафе и рестораны отказались от концепции \"секции для курящих\" в пользу повсеместного запрета курения. Это делает такое место, как Лотрек, особенно важным для курильщиков. В потолке есть большие вентиляционные отверстия, которые помогают сделать интерьер более приятным для тех, кто не курит.",
-    "val": "In recent years, many cafés and restaurants have phased out the concept of the ‘smoking section’ in favor of prohibiting smoking across the board. This makes a place like Lautrec especially important to smokers. There are large air vents in the ceiling to help keep the interior more agreeable for those who do not smoke."
+    "val": "В последние годы многие кафе и рестораны отказались от концепции ‘секции для курящих’ в пользу повсеместного запрета курения. Это делает такое место, как Лотрек, особенно важным для курильщиков. В потолке есть большие вентиляционные отверстия, которые помогают сделать атмосферу приятнее для тех, кто не курит."
   },
   {
     "key": "Waitress",
     "trx": "Официантка",
-    "val": "Waitress"
+    "val": "Официантка"
   },
   {
     "key": "Ryoko Kakinuma, a second-year student at Midoriyama Academy’s law school.",
     "trx": "Реко Какинума, студентка второго курса юридического факультета Академии Мидорияма.",
-    "val": "Ryoko Kakinuma, a second-year student at Midoriyama Academy’s law school."
+    "val": "Рёко Какинума, студентка второго курса юридического факультета академии Мидорияма."
   },
   {
     "key": "She was hassled by a pair of hustlers on her way to work and showed up five minutes late for her shift. The manager told her that those five minutes were coming out of her pay, so she’s a bit irritated right now.",
     "trx": "По дороге на работу к ней пристала пара мошенников, и она опоздала на смену на пять минут. Менеджер сказал ей, что эти пять минут были вычтены из ее зарплаты, так что сейчас она немного раздражена.",
-    "val": "She was hassled by a pair of hustlers on her way to work and showed up five minutes late for her shift. The manager told her that those five minutes were coming out of her pay, so she’s a bit irritated right now."
+    "val": "По дороге на работу к ней пристала пара вербовщиков, и она опоздала на смену на пять минут. Менеджер сказал ей, что эти пять минут будут удержаны из ее зарплаты, так что сейчас она немного раздражена."
   },
   {
     "key": "30,000 calories",
     "trx": "30 000 калорий",
-    "val": "30,000 calories"
+    "val": "30 000 калорий"
   },
   {
     "key": "This is the equivalent of 100 pieces of shortcake,",
     "trx": "Это эквивалентно 100 кусочкам песочного печенья,",
-    "val": "This is the equivalent of 100 pieces of shortcake,"
+    "val": "Эквивалент 100 кусочков песочного печенья,"
   },
   {
     "key": "300 glasses of milk, or enough steak and rice to feed about 30 people.",
     "trx": "300 стаканов молока или достаточно стейка и риса, чтобы накормить около 30 человек.",
-    "val": "300 glasses of milk, or enough steak and rice to feed about 30 people."
+    "val": "300 стаканов молока или такого количества стейка с рисом, которого достаточно, чтобы накормить около 30 человек."
   },
   {
     "key": "Shoto",
     "trx": "Шото",
-    "val": "Shoto"
+    "val": "Шото"
   },
   {
     "key": "An upscale residential district. Despite being smack-dab in the middle of the city, it’s a quiet neighborhood, rife with greenery. The residence of the former Governor of Tokyo is here, built on a massive 2,200-square-meter plot of land. There’s a shady hotel district a short walk to the south, making for quite the juxtaposition.",
     "trx": "Высококлассный жилой район. Несмотря на то, что он находится прямо в центре города, это тихий район, утопающий в зелени. Здесь находится резиденция бывшего губернатора Токио, построенная на огромном участке земли площадью 2200 квадратных метров. В нескольких минутах ходьбы к югу есть тенистый гостиничный район, что создает неплохое сочетание.",
-    "val": "An upscale residential district. Despite being smack-dab in the middle of the city, it’s a quiet neighborhood, rife with greenery. The residence of the former Governor of Tokyo is here, built on a massive 2,200-square-meter plot of land. There’s a shady hotel district a short walk to the south, making for quite the juxtaposition."
+    "val": "Престижный жилой район. Несмотря на то, что он находится прямо в центре города, это тихий район, утопающий в зелени. Здесь расположена резиденция бывшего губернатора Токио, построенная на огромном участке земли площадью 2200 квадратных метров. В нескольких минутах ходьбы к югу есть тенистый гостиничный район, что создает неплохое сочетание."
   },
   {
     "key": "Wristwatch",
     "trx": "Наручные Часы",
-    "val": "Wristwatch"
+    "val": "Наручные часы"
   },
   {
     "key": "By the way, what sort of impression do you have of this wristwatch?",
     "trx": "Кстати, какое впечатление у вас сложилось об этих наручных часах?",
-    "val": "By the way, what sort of impression do you have of this wristwatch?"
+    "val": "Кстати, какое впечатление у вас сложилось об этих наручных часах?"
   },
   {
     "key": "Just respond with whatever happens to come to mind.",
     "trx": "Просто отвечайте тем, что приходит на ум.",
-    "val": "Just respond with whatever happens to come to mind."
+    "val": "Отвечайте первое, что приходит на ум."
   },
   {
     "key": "Kindergartners",
     "trx": "Воспитанники детских садов",
-    "val": "Kindergartners"
+    "val": "Девочки из детского сада"
   },
   {
     "key": "A pair of girls from Midoriyama Academy’s kindergarten.",
     "trx": "Пара девочек из детского сада Академии Мидорияма.",
-    "val": "A pair of girls from Midoriyama Academy’s kindergarten."
+    "val": "Пара девочек из детского сада академии Мидорияма."
   },
   {
     "key": "They always hang out around the train station after school.",
     "trx": "Они всегда тусуются на вокзале после школы.",
-    "val": "They always hang out around the train station after school."
+    "val": "После школы они всегда тусуются на станции."
   },
   {
     "key": "They’re quite fond of killing time inside of the Tokyu 5000 series display car, the new landmark by the Hachiko entrance.",
     "trx": "Они очень любят убивать время внутри демонстрационного вагона серии Tokyu 5000, новой достопримечательности у входа в Хатико.",
-    "val": "They’re quite fond of killing time inside of the Tokyu 5000 series display car, the new landmark by the Hachiko entrance."
+    "val": "Они очень любят проводить время внутри демонстрационного вагона серии Tokyu 5000, новой достопримечательности, расположенной рядом со статуей Хатико."
   },
   {
     "key": "The beat cop at the station’s police box has nicknamed them “the Kinderpartners.”",
     "trx": "Избитый полицейский в полицейской будке участка прозвал их “Киндерпартнерами”.",
-    "val": "The beat cop at the station’s police box has nicknamed them “the Kinderpartners.”"
+    "val": "Патрульный из полицейской будки, расположенной у станции, прозвал их “Компашка.”"
   },
   {
     "key": "Wristwatch",
     "trx": "Наручные Часы",
-    "val": "Wristwatch"
+    "val": "Наручные часы"
   },
   {
     "key": "Think about this wristwatch.",
     "trx": "Подумайте об этих наручных часах.",
-    "val": "Think about this wristwatch."
+    "val": "Подумайте об этих наручных часах."
   },
   {
     "key": "That will tell you how you think about the opposite sex and whatnot.",
     "trx": "Это подскажет вам, как вы относитесь к противоположному полу и тому подобному.",
-    "val": "That will tell you how you think about the opposite sex and whatnot."
+    "val": "Это подскажет вам, как вы относитесь к противоположному полу и все такое."
   },
   {
     "key": "Bug detector",
     "trx": "Детектор ошибок",
-    "val": "Bug detector"
+    "val": "Детектор жучков"
   },
   {
     "key": "An instrument for finding listening devices. Since wireless listening devices emit radio signals, bug detectors are designed to use wide-area receivers to reveal their presence. Using a detector to find something in this fashion is known as ‘fox-hunting.’",
     "trx": "Прибор для поиска подслушивающих устройств. Поскольку беспроводные подслушивающие устройства излучают радиосигналы, детекторы ошибок предназначены для использования широкополосных приемников для выявления их присутствия. Использование детектора для поиска чего-либо таким способом известно как \"охота на лис\".",
-    "val": "An instrument for finding listening devices. Since wireless listening devices emit radio signals, bug detectors are designed to use wide-area receivers to reveal their presence. Using a detector to find something in this fashion is known as ‘fox-hunting.’"
+    "val": "Прибор для поиска прослушивающих устройств. Поскольку беспроводные прослушивающие устройства излучают радиосигналы, детекторы жучков используют широкополосные приемники для их обнаружения. Использование детектора для поиска чего-либо таким способом называется ‘охота на лис.’"
   },
   {
     "key": "TV dramas",
     "trx": "Телевизионные драмы",
-    "val": "TV dramas"
+    "val": "Телевизионные драмы"
   },
   {
     "key": "Minorikawa is probably thinking of a series starring Masami Nagahama, possibly ",
     "trx": "Минорикава, вероятно, думает о сериале с Масами Нагахамой в главной роли, возможно ",
-    "val": "Minorikawa is probably thinking of a series starring Masami Nagahama, possibly "
+    "val": "Вероятно, Минорикава имеет в виду какой-то сериал с Масами Нагахамой в главной роли, возможно, "
   },
   {
     "key": "Operation: Kolkhoz",
     "trx": "Деятельность: Колхоз",
-    "val": "Operation: Kolkhoz"
+    "val": "Операция: Колхоз"
   },
   {
     "key": ", ",
@@ -2032,7 +2032,7 @@
   {
     "key": "The Last Frenchman",
     "trx": "Последний француз",
-    "val": "The Last Frenchman"
+    "val": "Последний француз"
   },
   {
     "key": ", ",
@@ -2042,37 +2042,37 @@
   {
     "key": "Touched by a Tuna",
     "trx": "Тронутый тунцом",
-    "val": "Touched by a Tuna"
+    "val": "Тронутый тунцом"
   },
   {
     "key": ", or ",
     "trx": ", или ",
-    "val": ", or "
+    "val": " или "
   },
   {
     "key": "Sailor Moon Pies,",
     "trx": "Пироги Сейлор Мун,",
-    "val": "Sailor Moon Pies,"
+    "val": "Пироги Сейлор Мун;"
   },
   {
     "key": " all of which received high viewer ratings and are fondly remembered in the public consciousness.",
     "trx": " все они получили высокие зрительские рейтинги и с теплотой вспоминаются в общественном сознании.",
-    "val": " all of which received high viewer ratings and are fondly remembered in the public consciousness."
+    "val": " все они имеют высокий зрительский рейтинг и с теплотой воспринимаются публикой."
   },
   {
     "key": "Sumo Queen 2",
     "trx": "Королева сумо 2",
-    "val": "Sumo Queen 2"
+    "val": "Королева сумо 2"
   },
   {
     "key": "A suspense drama about a string of murders that crop up while a group of female sumo wrestlers tour the country. The ",
     "trx": "Напряженная драма о череде убийств, которые происходят во время турне группы женщин-борцов сумо по стране. То ",
-    "val": "A suspense drama about a string of murders that crop up while a group of female sumo wrestlers tour the country. The "
+    "val": "Триллер о череде убийств, которые происходят во время турне группы женщин-борцов сумо по стране. "
   },
   {
     "key": "maegashira",
     "trx": "маэгашира",
-    "val": "maegashira"
+    "val": "Маэгасира"
   },
   {
     "key": ", ",
@@ -2082,7 +2082,7 @@
   {
     "key": "komusubi",
     "trx": "комусуби",
-    "val": "komusubi"
+    "val": "комусуби"
   },
   {
     "key": ", ",
@@ -2092,42 +2092,42 @@
   {
     "key": "sekiwake",
     "trx": "секиваке",
-    "val": "sekiwake"
+    "val": "сэкивакэ"
   },
   {
     "key": ", and ",
     "trx": ", и ",
-    "val": ", and "
+    "val": " и "
   },
   {
     "key": "ozeki",
     "trx": "озеки",
-    "val": "ozeki"
+    "val": "одзэки"
   },
   {
     "key": "—the fifth through second-place wrestlers—from both East and West are all killed in sequence, leaving only to the two top-ranked ",
     "trx": "—борцы, занявшие с пятого по второе места - как с Востока, так и с Запада, все убиты последовательно, оставив только двух сильнейших ",
-    "val": "—the fifth through second-place wrestlers—from both East and West are all killed in sequence, leaving only to the two top-ranked "
+    "val": " — борцы, занявшие с пятого по второе места, как Востока, так и Запада, убиты по очереди, в живых остались только два сильнейших "
   },
   {
     "key": "yokozuna",
     "trx": "екодзуна",
-    "val": "yokozuna"
+    "val": "ёкодзуна"
   },
   {
     "key": ". With the real killer still unknown, things come to a heated climax in the ring during the final match, when the loser tearfully confesses to her crimes. It concludes with the victorious wrestler, who’d also been playing the part of detective, sorrowfully looking the culprit in the eye and stating, “It’s off to the ",
     "trx": " Поскольку настоящий убийца все еще неизвестен, ситуация достигает кульминации на ринге во время финального матча, когда проигравшая со слезами признается в своих преступлениях. Она заканчивается тем, что победивший борец, который также играл роль детектива, печально смотрит преступнику в глаза и заявляет: “Все идет к ",
-    "val": ". With the real killer still unknown, things come to a heated climax in the ring during the final match, when the loser tearfully confesses to her crimes. It concludes with the victorious wrestler, who’d also been playing the part of detective, sorrowfully looking the culprit in the eye and stating, “It’s off to the "
+    "val": ". Поскольку настоящий убийца все еще неизвестен, ситуация достигает кульминации на ринге во время финального матча, когда проигравшая со слезами признается в своих преступлениях. Заканчивается все тем, что победившая, игравшая также роль детектива, печально смотрит преступнице в глаза и заявляет, “Это отправится с тобой в "
   },
   {
     "key": "big",
     "trx": "большой",
-    "val": "big"
+    "val": "федеральную"
   },
   {
     "key": " house with you.”",
     "trx": " дом с тобой.”",
-    "val": " house with you.”"
+    "val": " тюрьму.”"
   },
   {
     "key": "Boss",

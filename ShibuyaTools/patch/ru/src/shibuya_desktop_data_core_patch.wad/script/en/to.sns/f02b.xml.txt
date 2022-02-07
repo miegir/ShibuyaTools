@@ -327,7 +327,7 @@
   {
     "key": "Minorikawa tossed the draft proposal into his bag and hurried out of Heaven Publishing.",
     "trx": "Минорикава бросил проект предложения в свою сумку и поспешил покинуть издательство Heaven Publishing.",
-    "val": "Минорикава бросил техническое задание в свою сумку и поспешил покинуть издательство \"Небеса\"."
+    "val": "Минорикава бросил проектное предложение в свою сумку и поспешил покинуть издательство \"Небеса\"."
   },
   {
     "key": "Preparations for the Burning Hammer diet drink sales demo seemed to be well underway when he arrived at the Nokane Building.",
@@ -822,7 +822,7 @@
   {
     "key": "He decided to email all his contacts from back in his staff reporter days.",
     "trx": "Он решил отправить по электронной почте все свои контакты еще со времен работы штатным репортером.",
-    "val": "Он решил отправить письма всем своим контактам с того времени, когда он работал работы штатным репортером."
+    "val": "Он решил отправить письма всем своим контактам с того времени, когда он работал штатным репортером."
   },
   {
     "key": "\u3000Emergency Alert",

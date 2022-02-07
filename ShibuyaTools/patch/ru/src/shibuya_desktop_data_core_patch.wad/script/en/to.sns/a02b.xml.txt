@@ -177,7 +177,7 @@
   {
     "key": "“Run!”",
     "trx": "“Беги!”",
-    "val": "“Беги!”"
+    "val": "“Бежим!”"
   },
   {
     "key": "Still holding Hitomi’s hand, Achi rushed out of the club.",
@@ -282,7 +282,7 @@
   {
     "key": "Achi waited as Hitomi started walking, then followed her at a distance, so it wouldn’t look like they were together.",
     "trx": "Ачи подождал, пока Хитоми пойдет, затем последовал за ней на некотором расстоянии, чтобы не выглядело так, будто они были вместе.",
-    "val": "Ачи подождал, пока Хитоми отойдет, затем последовал за ней на некотором отдалении, чтобы казалось, будто они были вместе."
+    "val": "Ачи подождал, пока Хитоми отойдет, затем последовал за ней на некотором отдалении, чтобы не казалось, будто они были вместе."
   },
   {
     "key": "She headed straight for the van.",
