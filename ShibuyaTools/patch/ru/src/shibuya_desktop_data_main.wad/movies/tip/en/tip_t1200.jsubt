@@ -1,0 +1,73 @@
+[
+	{
+		"TimeStart" : 0.1,
+		"TimeEnd" : 4,
+		"PositionX": 0.33,
+		"PositionY": 0.25,
+		"Text" : "<i>Червяк
+Кальмар</i>"
+	},
+	{
+		"TimeStart" : 0.1,
+		"TimeEnd" : 1,
+		"PositionX": 0.31,
+		"PositionY": 0.2,
+		"Text" : "<i>Пища
+></i>"
+	},
+	{
+		"TimeStart" : 1,
+		"TimeEnd" : 1.5,
+		"PositionX": 0.31,
+		"PositionY": 0.2,
+		"Text" : "<i>Пища
+
+></i>"
+	},
+	{
+		"TimeStart" : 1.5,
+		"TimeEnd" : 2,
+		"PositionX": 0.31,
+		"PositionY": 0.2,
+		"Text" : "<i>Пища
+></i>"
+	},
+	{
+		"TimeStart" : 2,
+		"TimeEnd" : 2.5,
+		"PositionX": 0.31,
+		"PositionY": 0.2,
+		"Text" : "<i>Пища
+
+></i>"
+	},
+	{
+		"TimeStart" : 2.5,
+		"TimeEnd" : 4,
+		"PositionX": 0.31,
+		"PositionY": 0.2,
+		"Text" : "<i>Пища
+></i>"
+	},
+	{
+		"TimeStart" : 9.9,
+		"TimeEnd" : 12.1,
+		"PositionX": 0.09,
+		"PositionY": 0.215,
+		"Text" : "<i>></i>"
+	},
+	{
+		"TimeStart" : 9.9,
+		"TimeEnd" : 12.1,
+		"PositionX": 0.113,
+		"PositionY": 0.215,
+		"Text" : "<i>Готовить</i>"
+	},
+	{
+		"TimeStart" : 19.3,
+		"TimeEnd" : 21,
+		"PositionX": 0.18,
+		"PositionY": 0.644,
+		"Text" : "<i>Обычный угорь</i>"
+	}
+]

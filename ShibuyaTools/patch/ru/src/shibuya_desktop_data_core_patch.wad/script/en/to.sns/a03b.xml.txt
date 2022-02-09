@@ -257,7 +257,7 @@
   {
     "key": "A middle-aged man in a sanitation uniform had come running at the sound of the forklift.",
     "trx": "Мужчина средних лет в санитарной униформе прибежал на звук погрузчика.",
-    "val": "Мужчина средних лет в санитарной униформе прибежал, услышав звук погрузчика."
+    "val": "Мужчина средних лет в униформе мусорщика прибежал на звук погрузчика."
   },
   {
     "key": "“Sorry, man—gotta run!” Achi exclaimed as he jumped from the vehicle. “And don’t forget to recycle that glass!”",
@@ -272,7 +272,7 @@
   {
     "key": "The sanitation worker glowered after him, then turned and gazed despondently at the jumbled pile of boxes and broken glass.",
     "trx": "Санитар сердито посмотрел ему вслед, затем повернулся и уныло уставился на беспорядочную груду коробок и битого стекла.",
-    "val": "Санитар сердито посмотрел ему вслед, затем повернулся и уныло уставился на беспорядочную груду коробок и битого стекла."
+    "val": "Мусорщик сердито посмотрел ему вслед, затем повернулся и уныло уставился на беспорядочную груду коробок и битого стекла."
   },
   {
     "key": "Still, Achi was determined to help her anyway. He refused to back down.",
