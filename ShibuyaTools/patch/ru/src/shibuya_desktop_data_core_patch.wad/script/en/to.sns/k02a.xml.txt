@@ -1312,7 +1312,7 @@
   {
     "key": "What were Tateno’s instincts about the case right now?",
     "trx": "Каковы были инстинкты Татено по поводу этого дела прямо сейчас?",
-    "val": "Чтобы сказал Татено о данной ситуации?"
+    "val": "Что бы сказал Татено о данной ситуации?"
   },
   {
     "key": "If the senior detective had any advice, Kano would love to hear it.",

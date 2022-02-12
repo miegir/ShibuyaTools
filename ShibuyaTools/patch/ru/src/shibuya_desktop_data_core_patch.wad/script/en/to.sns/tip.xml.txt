@@ -1767,7 +1767,7 @@
   {
     "key": "Cameras designed to send video information to a computer via the Internet. Look carefully and you can often spot them outside private residences and even on public streets, where they are installed for use in surveillance. Given the risks of transmitted data being intercepted, the images recorded by such cameras are generally encrypted to prevent playback by unauthorized third parties. Many landmarks and attractions make their camera footage publicly available online.",
     "trx": "Камеры, предназначенные для передачи видеоинформации на компьютер через Интернет. Посмотрите внимательно, и вы часто сможете заметить их за пределами частных домов и даже на общественных улицах, где они установлены для использования в системах видеонаблюдения. Учитывая риск перехвата передаваемых данных, изображения, записанные такими камерами, обычно шифруются для предотвращения воспроизведения неавторизованными третьими лицами. Многие достопримечательности и достопримечательности размещают отснятый материал с камер в открытом доступе в Интернете.",
-    "val": "Камера, предназначенная для передачи видеоинформации на компьютер через Интернет. Присмотритесь повнимательнее, и вы заметите их у частных домов и даже на улицах, где они являются компонентом систем видеонаблюдения. Учитывая риск перехвата передаваемых данных, изображения, записанные такими камерами, обычно шифруются для предотвращения возможности перехвата неавторизованными третьими лицами. На сайтах многих достопримечательностей отснятый материал с веб-камер размещается в открытом доступе."
+    "val": "Камера, предназначенная для передачи видео на компьютер через Интернет. Присмотритесь повнимательнее, и вы заметите их у частных домов и даже на улицах как компонент систем видеонаблюдения. Учитывая риск перехвата передаваемых данных, записанные такими камерами изображения, обычно шифруются для предотвращения возможности перехвата третьими лицами. На сайтах многих достопримечательностей отснятый материал с веб-камер размещается в открытом доступе."
   },
   {
     "key": "S.O.S.",
@@ -5277,12 +5277,12 @@
   {
     "key": "Marital discourse",
     "trx": "Супружеский дискурс",
-    "val": "Marital discourse"
+    "val": "Супружеская беседа"
   },
   {
     "key": "According to one survey, in roughly 6% of households, discourse between spouses is largely nonexistent. Various reasons for this were offered by the couples in question; many claimed that they were “too tired to have the energy to talk” or stated “we wind up fighting when we talk” or “we have nothing to talk about.”",
     "trx": "Согласно одному опросу, примерно в 6% домашних хозяйств общение между супругами в основном отсутствует. Рассматриваемые пары приводили различные причины этого; многие утверждали, что они “слишком устали, чтобы иметь силы для разговора”, или заявляли, что “мы заканчиваем ссорой, когда разговариваем” или “нам не о чем говорить”.",
-    "val": "Согласно одному опросу, примерно в 6% домашних хозяйств общение между супругами в основном отсутствует. Опрашиваемые пары приводили различные причины этого; многие утверждали, что они “слишком устали, чтобы иметь силы для разговора”, или заявляли, что “наш разговор всегда перерастает в ссору” или “нам не о чем говорить”."
+    "val": "Согласно одному опросу, примерно в 6% домашних хозяйств общение между супругами в основном отсутствует. Опрашиваемые пары приводили различные причины для этого; многие утверждали, что они “слишком устали, чтобы иметь силы для разговора”, или заявляли, что “наш разговор всегда перерастает в ссору” или “нам не о чем говорить”."
   },
   {
     "key": "Policy",
@@ -5292,7 +5292,7 @@
   {
     "key": "It is quite common for Kenji Osawa to make it through an entire day without having a single conversation. On many days he opens his mouth only to eat or brush his teeth. His current record is a streak of fourteen consecutive days during which he didn’t talk to anyone.",
     "trx": "Для Кэндзи Осавы довольно часто бывает так, что он проходит целый день без единого разговора. Во многие дни он открывает рот только для того, чтобы поесть или почистить зубы. Его нынешний рекорд - это серия из четырнадцати дней подряд, в течение которых он ни с кем не разговаривал.",
-    "val": "Для Кэндзи Осавы вполне нормально провести день без единого разговора. Большую часть своих дней он открывает рот только для того, чтобы поесть или почистить зубы. Его нынешний рекорд — это серия из четырнадцати дней подряд, в течение которых он ни с кем не разговаривал."
+    "val": "Для Кэндзи Осавы вполне нормально провести день без единого разговора. Большую часть своих дней он открывает рот только для того, чтобы поесть или почистить зубы. Его нынешний рекорд — это серия из четырнадцати дней подряд, в течение которых он ни с кем не общался."
   },
   {
     "key": "Fingerprint authentication",
@@ -5302,32 +5302,32 @@
   {
     "key": "Technology that allows an individual’s identity to be verified by scanning the fingerprints. It is one element of biometrics, the measurement of physical characteristics to identify individuals. There are even devices that can identify people by checking the veins in the palms of their hands or the irises of their eyes.",
     "trx": "Технология, которая позволяет проверить личность человека путем сканирования отпечатков пальцев. Это один из элементов биометрии, измерения физических характеристик для идентификации личности. Существуют даже устройства, которые могут идентифицировать людей, проверяя вены на ладонях или радужную оболочку глаз.",
-    "val": "Technology that allows an individual’s identity to be verified by scanning the fingerprints. It is one element of biometrics, the measurement of physical characteristics to identify individuals. There are even devices that can identify people by checking the veins in the palms of their hands or the irises of their eyes."
+    "val": "Технология, позволяющая установить личность человека путем сканирования отпечатков пальцев. Это один из элементов биометрии, то есть измерения физических характеристик для идентификации личности. Существуют даже устройства, которые могут идентифицировать людей, проверяя вены на ладонях или радужную оболочку глаз."
   },
   {
     "key": "Storage facility",
     "trx": "Складское помещение",
-    "val": "Storage facility"
+    "val": "Складское помещение"
   },
   {
     "key": "Because a dangerous virus is also stored there, the lab where the antiviral is kept is protected by an I.D. checkpoint, as well as a sophisticated three-tiered lock system that requires fingerprint authentication. Multiple security guards are also posted outside the laboratory entrance 24 hours a day, making it all but impossible for an unauthorized person to get into the secured storage area.",
     "trx": "Поскольку там также хранится опасный вирус, лаборатория, в которой хранится антивирус, защищена контрольной точкой идентификации, а также сложной трехуровневой системой блокировки, требующей аутентификации по отпечаткам пальцев. Многочисленные охранники также дежурят у входа в лабораторию 24 часа в сутки, что делает практически невозможным проникновение посторонних лиц в охраняемую зону хранения.",
-    "val": "Because a dangerous virus is also stored there, the lab where the antiviral is kept is protected by an I.D. checkpoint, as well as a sophisticated three-tiered lock system that requires fingerprint authentication. Multiple security guards are also posted outside the laboratory entrance 24 hours a day, making it all but impossible for an unauthorized person to get into the secured storage area."
+    "val": "Поскольку там хранится также опасный вирус, лаборатория, в которой находится противовирусное средство, имеет идентификационный контрольный пункт, а также оснащена сложной трехуровневой системой блокировки, требующей идентификации по отпечаткам пальцев. Также у входа в лабораторию 24 часа в сутки дежурят многочисленные охранники, что делает проникновение посторонних лиц в охраняемую зону практически невозможным."
   },
   {
     "key": "Plunger",
     "trx": "Поршень",
-    "val": "Plunger"
+    "val": "Вантуз"
   },
   {
     "key": "A cleaning/utility implement consisting of a soft, hemispherical rubber suction cup attached to the end of a dowel. By pressing the cup over the opening of a drain that has been clogged, one can apply suction pressure to jostle the blockage free. Makes a variety of sounds when used, such as ",
     "trx": "Приспособление для уборки/хозяйственных нужд, состоящее из мягкой полусферической резиновой присоски, прикрепленной к концу дюбеля. Прижимая чашку к отверстию засоренного слива, можно приложить давление всасывания, чтобы устранить засорение. При использовании издает различные звуки, такие как ",
-    "val": "A cleaning/utility implement consisting of a soft, hemispherical rubber suction cup attached to the end of a dowel. By pressing the cup over the opening of a drain that has been clogged, one can apply suction pressure to jostle the blockage free. Makes a variety of sounds when used, such as "
+    "val": "Сантехническое приспособление, состоящее из мягкой полусферической резиновой присоски, прикрепленной к черенку. Нажимая на чашку, прижатую к засоренному сливному отверстию, и оттягивая ее, можно создать давление всасывания, чтобы устранить засор. При использовании издает различные звуки, такие как "
   },
   {
     "key": "glub",
     "trx": "глуб",
-    "val": "glub"
+    "val": "квак"
   },
   {
     "key": ", ",
@@ -5337,7 +5337,7 @@
   {
     "key": "glork",
     "trx": "глорк",
-    "val": "glork"
+    "val": "глорк"
   },
   {
     "key": ", ",
@@ -5347,7 +5347,7 @@
   {
     "key": "schluck",
     "trx": "шлюк",
-    "val": "schluck"
+    "val": "шлюк"
   },
   {
     "key": ", ",
@@ -5357,7 +5357,7 @@
   {
     "key": "schlorp",
     "trx": "шлорп",
-    "val": "schlorp"
+    "val": "шлок"
   },
   {
     "key": ", ",
@@ -5367,17 +5367,17 @@
   {
     "key": "schloop",
     "trx": "шлюп",
-    "val": "schloop"
+    "val": "шлюп"
   },
   {
     "key": ", and ",
     "trx": ", и ",
-    "val": ", and "
+    "val": " и "
   },
   {
     "key": "pop",
     "trx": "хлопок",
-    "val": "pop"
+    "val": "хлюп"
   },
   {
     "key": ".",
@@ -5387,87 +5387,87 @@
   {
     "key": "Age difference",
     "trx": "Разница в возрасте",
-    "val": "Age difference"
+    "val": "Разница в возрасте"
   },
   {
     "key": "Mamoru Tanaka is 40 years old; Hitomi is 19. This makes him just over twice her age. This does not necessarily mean, however, that they could not date or fall for each other; many couples with such an age difference between them wind up in a happy committed relationship.",
     "trx": "Мамору Танака 40 лет; Хитоми 19. Это делает его чуть более чем вдвое старше ее. Однако это не обязательно означает, что они не могли встречаться или влюбляться друг в друга; многие пары с такой разницей в возрасте заканчивают счастливыми преданными отношениями.",
-    "val": "Mamoru Tanaka is 40 years old; Hitomi is 19. This makes him just over twice her age. This does not necessarily mean, however, that they could not date or fall for each other; many couples with such an age difference between them wind up in a happy committed relationship."
+    "val": "Мамору Танаке 40 лет, Хитоми — 19. Он чуть более чем вдвое старше ее. Однако это совсем не означает, что они не могут встречаться или влюбляться друг в друга; многие пары с такой разницей в возрасте живут вполне счастливо."
   },
   {
     "key": "Clog in the toilet",
     "trx": "Засор в туалете",
-    "val": "Clog in the toilet"
+    "val": "Засор в туалете"
   },
   {
     "key": "Most toilet clogs are caused by a buildup of flushable paper products, or by solid objects inadvertently dropped into the toilet bowl; but shockingly enough, on very rare occasions, they can be caused by someone taking a dump that happens to be ",
     "trx": "Большинство засоров в туалетах вызваны скоплением смываемых бумажных изделий или твердыми предметами, случайно упавшими в унитаз; но, как ни странно, в очень редких случаях они могут быть вызваны тем, что кто-то сваливает, что случается ",
-    "val": "Most toilet clogs are caused by a buildup of flushable paper products, or by solid objects inadvertently dropped into the toilet bowl; but shockingly enough, on very rare occasions, they can be caused by someone taking a dump that happens to be "
+    "val": "Большинство засоров в туалетах вызваны скоплением смытой бумаги или твердыми предметами, случайно упавшими в унитаз; но, как ни странно, в очень редких случаях они могут быть вызваны тем, что кто-то делает "
   },
   {
     "key": "that",
     "trx": "тот",
-    "val": "that"
+    "val": "настолько"
   },
   {
     "key": " big that it gets stuck in the pipe.",
     "trx": " такой большой, что он застревает в трубе.",
-    "val": " big that it gets stuck in the pipe."
+    "val": " большую кучу, что она застревает в трубе."
   },
   {
     "key": "(Apologies to anyone who might be eating right now.)",
     "trx": "(Приношу извинения всем, кто, возможно, сейчас ест.)",
-    "val": "(Apologies to anyone who might be eating right now.)"
+    "val": "(Извинения всем тем, кто, возможно, сейчас ест.)"
   },
   {
     "key": "Social media service",
     "trx": "Служба социальных сетей",
-    "val": "Social media service"
+    "val": "Служба социальных сетей"
   },
   {
     "key": "An online platform whose primary feature is allowing people to connect with one another.",
     "trx": "Онлайн-платформа, основная функция которой позволяет людям общаться друг с другом.",
-    "val": "An online platform whose primary feature is allowing people to connect with one another."
+    "val": "Онлайн-платформа, основная функция которой позволяет людям общаться друг с другом."
   },
   {
     "key": "The police-exclusive social media network that Kajiwara belongs to, “poxi,” is very strictly regulated, with any abusive language, slander, sexual content, or lame jokes deleted almost immediately.",
     "trx": "Эксклюзивная для полиции социальная сеть, к которой принадлежит Кадзивара, “poxi\", очень строго регулируется, и любые оскорбительные выражения, клевета, сексуальный контент или дурацкие шутки удаляются почти немедленно.",
-    "val": "The police-exclusive social media network that Kajiwara belongs to, “poxi,” is very strictly regulated, with any abusive language, slander, sexual content, or lame jokes deleted almost immediately."
+    "val": "Эксклюзивная для полиции социальная сеть, к которой принадлежит Кадзивара, “покси,” очень строго регулируется, и любые оскорбительные выражения, клевета, сексуальный контент или дурацкие шутки удаляются почти немедленно."
   },
   {
     "key": "Detective manga",
     "trx": "Детективная манга",
-    "val": "Detective manga"
+    "val": "Детективная манга"
   },
   {
     "key": "Planned for serialization in the MPD’s monthly PR magazine. The chapter titles have already been decided. Chapter 1: “The Fabled Detective Kaji.” Chapter 2: “Kaji Howls at the Sun.” Chapter 3: “Kaji Rides the Rails.” Chapter 4: “Kaji at Daybreak.” Chapter 5: “Detective Ka-jack.” Chapter 6: “Kaji, Queen of the Street.” Chapter 7: “Look Out, Kaji!” Chapter 8: “Kaji on the Edge.” Chapter 9: “Dance, Kaji, Dance.” Chapter 10: “Space Detective Kaji.” And so forth and so on...",
     "trx": "Планируется к публикации в ежемесячном PR-журнале MPD. Названия глав уже определены. Глава 1: “Легендарный детектив Кадзи”. Глава 2: “Кадзи воет на Солнце\". Глава 3: “Кадзи едет по рельсам”. Глава 4: “Кадзи на рассвете”. Глава 5: “Детектив Ка-Джек”. Глава 6: “Кадзи, королева улицы”. Глава 7: “Берегись, Кадзи!” Глава 8: “Кадзи на грани”. Глава 9: “Танцуй, Кадзи, танцуй”. Глава 10: “Космический детектив Кадзи\". И так далее, и так далее...",
-    "val": "Planned for serialization in the MPD’s monthly PR magazine. The chapter titles have already been decided. Chapter 1: “The Fabled Detective Kaji.” Chapter 2: “Kaji Howls at the Sun.” Chapter 3: “Kaji Rides the Rails.” Chapter 4: “Kaji at Daybreak.” Chapter 5: “Detective Ka-jack.” Chapter 6: “Kaji, Queen of the Street.” Chapter 7: “Look Out, Kaji!” Chapter 8: “Kaji on the Edge.” Chapter 9: “Dance, Kaji, Dance.” Chapter 10: “Space Detective Kaji.” And so forth and so on..."
+    "val": "Планируется к публикации в ежемесячном PR-журнале СПУ. Названия глав уже определены. Глава 1: “Легендарный детектив Кадзи.” Глава 2: “Кадзи воет на Солнце.” Глава 3: “Кадзи едет по рельсам.” Глава 4: “Кадзи на рассвете.” Глава 5: “Детектив Ка-Джек.” Глава 6: “Кадзи и Королева улицы.” Глава 7: “Берегись, Кадзи!” Глава 8: “Кадзи на грани.” Глава 9: “Танцуй, Кадзи, танцуй.” Глава 10: “Космический детектив Кадзи.” И так далее и тому подобное..."
   },
   {
     "key": "A guy and his daughter",
     "trx": "Парень и его дочь",
-    "val": "A guy and his daughter"
+    "val": "Парень с дочерью"
   },
   {
     "key": "Teruo Toyama and his daughter Hana.",
     "trx": "Теруо Тояма и его дочь Хана.",
-    "val": "Teruo Toyama and his daughter Hana."
+    "val": "Теруо Тояма и его дочь Хана."
   },
   {
     "key": "They’ve come to Shoto while running from loan sharks.",
     "trx": "Они приехали в Шото, спасаясь от ростовщиков.",
-    "val": "They’ve come to Shoto while running from loan sharks."
+    "val": "Они убежали в Шото, спасаясь от ростовщиков."
   },
   {
     "key": "Just moments ago, Toyama was talking on the phone with ",
     "trx": "Всего несколько минут назад Тояма разговаривал по телефону с ",
-    "val": "Just moments ago, Toyama was talking on the phone with "
+    "val": "Всего несколько минут назад Тояма разговаривал по телефону с "
   },
   {
     "key": "Minorikawa",
     "trx": "Минорикава",
-    "val": "Minorikawa"
+    "val": "Минорикавой"
   },
   {
     "key": ".",
@@ -5477,17 +5477,17 @@
   {
     "key": "Sacrifice",
     "trx": "Жертва",
-    "val": "Sacrifice"
+    "val": "Пожертвовал"
   },
   {
     "key": "Allowing someone else to come to harm for one’s personal gain.",
     "trx": "Позволять кому-то другому причинять вред ради личной выгоды.",
-    "val": "Allowing someone else to come to harm for one’s personal gain."
+    "val": "Позволил кому-то другому причинить вред ради личной выгоды."
   },
   {
     "key": "In this case, the term is used figuratively, not literally.",
     "trx": "В данном случае термин употребляется в переносном смысле, а не буквально.",
-    "val": "In this case, the term is used figuratively, not literally."
+    "val": "В данном случае термин употребляется в переносном смысле, а не буквально."
   },
   {
     "key": "Booby trap",

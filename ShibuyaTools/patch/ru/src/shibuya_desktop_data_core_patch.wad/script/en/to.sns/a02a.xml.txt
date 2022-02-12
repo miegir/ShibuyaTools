@@ -2107,7 +2107,7 @@
   {
     "key": "He nimbly shifted his feet, evading their initial attack.",
     "trx": "Он проворно переставил ноги, уклоняясь от их первоначальной атаки.",
-    "val": "Он проворно переставил ноги, уклоняясь от первой атаки."
+    "val": "Он проворно переставлял ноги, уклоняясь от первой атаки."
   },
   {
     "key": "Having to take these guys on three-to-one wasn’t going to be pretty.",
@@ -2252,7 +2252,7 @@
   {
     "key": "I...I didn’t see whether your sister was in there or not.”",
     "trx": "Я... я не видел, была там твоя сестра или нет.”",
-    "val": "Я... Я не видел, была там твоя сестра или нет.”"
+    "val": "Я... я не видел, была там твоя сестра или нет.”"
   },
   {
     "key": "“I see.”",
@@ -2332,7 +2332,7 @@
   {
     "key": "The assassin followed, staying on his side of the road.",
     "trx": "Убийца последовал за ним, оставаясь на своей стороне дороги.",
-    "val": "Убийца последовал за ним, оставаясь на своей стороне дороги."
+    "val": "Убийца последовал за ним, оставаясь на своей стороне улицы."
   },
   {
     "key": "Achi wasn’t sure what to do.",
@@ -2362,12 +2362,12 @@
   {
     "key": "The man wouldn’t be able to gun them down if they managed to lose themselves in the crowd along Center Gai first.",
     "trx": "Этот человек не смог бы пристрелить их, если бы им сначала удалось затеряться в толпе на Центральной Гаи.",
-    "val": "Этот человек не смог бы пристрелить их, если бы им удалось затеряться в толпе на Центр Гай."
+    "val": "Этот человек не смог бы застрелить их, если бы им удалось затеряться в толпе на Центр Гай."
   },
   {
     "key": "Besides, the guy had to use a cane.",
     "trx": "Кроме того, парню пришлось воспользоваться тростью.",
-    "val": "Кроме того, парню приходится использовать трость."
+    "val": "Кроме того, ему приходится использовать трость."
   },
   {
     "key": "Achi and Hitomi could outrun him.",
@@ -2417,7 +2417,7 @@
   {
     "key": "“That guy. He’s not following us.”",
     "trx": "“Этот парень. Он не преследует нас.”",
-    "val": "“Этот парень. Он не преследует нас.”"
+    "val": "“Этот тип. Он не преследует нас.”"
   },
   {
     "key": "The slope leading down to the ",
@@ -2432,7 +2432,7 @@
   {
     "key": " wasn’t all that steep.",
     "trx": " было не так уж и круто.",
-    "val": " был не так уж и крут."
+    "val": ", был не так уж и крут."
   },
   {
     "key": "It was strange that the gunman hadn’t bothered to pursue.",

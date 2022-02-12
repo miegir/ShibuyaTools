@@ -3507,7 +3507,7 @@
   {
     "key": "Maybe following up on this wouldn’t be as tough as he’d originally thought.",
     "trx": "Может быть, продолжить это будет не так сложно, как он думал вначале.",
-    "val": "Может быть, эта написать эту статью будет не так сложно, как казалось вначале."
+    "val": "Может быть, написать эту статью будет не так сложно, как казалось вначале."
   },
   {
     "key": "Minorikawa started revising the issue layout in his head.",
@@ -3532,7 +3532,7 @@
   {
     "key": "He mentally filed the name for future reference.",
     "trx": "Он мысленно записал имя для дальнейшего использования.",
-    "val": "Он мысленно зафиксировал имя на будущее."
+    "val": "Он мысленно зафиксировал это название на будущее."
   },
   {
     "key": "“All right, so back to the matter at hand.” ",
