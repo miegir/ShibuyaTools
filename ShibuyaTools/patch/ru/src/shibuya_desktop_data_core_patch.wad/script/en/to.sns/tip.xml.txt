@@ -422,37 +422,37 @@
   {
     "key": "Street Fight",
     "trx": "Уличная драка",
-    "val": "Street Fight"
+    "val": "Уличная драка"
   },
   {
     "key": "A fight, as the name implies, that takes place out on the street, typically using bare hands and no weapons. Even a barehanded fight can result in serious injuries, though, which is why they’re pretty illegal.",
     "trx": "Драка, как следует из названия, которая происходит на улице, обычно с использованием голых рук и без оружия. Однако даже драка голыми руками может привести к серьезным травмам, поэтому они довольно незаконны.",
-    "val": "A fight, as the name implies, that takes place out on the street, typically using bare hands and no weapons. Even a barehanded fight can result in serious injuries, though, which is why they’re pretty illegal."
+    "val": "Драка, которая, как следует из названия, происходит на улице, обычно при помощи голых рук и без оружия. Однако даже драка голыми руками может привести к серьезным травмам, поэтому они не совсем законны."
   },
   {
     "key": "Total Chaos",
     "trx": "Полный Хаос",
-    "val": "Total Chaos"
+    "val": "Полный хаос"
   },
   {
     "key": "As a result of this chaos, traffic in the nearby area will be at a standstill for a while. While on their way to the syndicate hideout, ",
     "trx": "В результате этого хаоса движение в близлежащем районе на некоторое время остановится. Находясь на пути к убежищу синдиката, ",
-    "val": "As a result of this chaos, traffic in the nearby area will be at a standstill for a while. While on their way to the syndicate hideout, "
+    "val": "В результате этого хаоса движение в близлежащем районе на некоторое время застопорилось. "
   },
   {
     "key": "Shinya Kano",
     "trx": "Шинья Кано",
-    "val": "Shinya Kano"
+    "val": "Шинья Кано"
   },
   {
     "key": " and Jack Stanley have gotten caught in this traffic jam.",
     "trx": " и Джек Стэнли попали в эту пробку.",
-    "val": " and Jack Stanley have gotten caught in this traffic jam."
+    "val": " и Джек Стэнли попали в эту пробку на пути в убежище синдиката."
   },
   {
     "key": "Flyers ",
     "trx": "Листовки ",
-    "val": "Флайеры "
+    "val": "Флайеры"
   },
   {
     "key": "Flyers for ",
@@ -472,32 +472,32 @@
   {
     "key": "Wild Delusions",
     "trx": "Дикие Заблуждения",
-    "val": "Wild Delusions"
+    "val": "Дикие заблуждения"
   },
   {
     "key": "Ideas or fantasies conjured up in one’s mind with no logical or factual basis. People can become deluded for varying reasons, about a whole host of different subjects; thankfully, Achi’s delusions here are of an ultimately harmless sort.",
     "trx": "Идеи или фантазии, возникающие в чьем-либо сознании без какой-либо логической или фактической основы. Люди могут заблуждаться по разным причинам по целому ряду различных тем; к счастью, заблуждения Ачи здесь в конечном счете безвредны.",
-    "val": "Ideas or fantasies conjured up in one’s mind with no logical or factual basis. People can become deluded for varying reasons, about a whole host of different subjects; thankfully, Achi’s delusions here are of an ultimately harmless sort."
+    "val": "Идеи или фантазии, возникающие в чьем-либо сознании без какой-либо логической или фактической основы. Люди могут заблуждаться по разным причинам по целому ряду различных тем; к счастью, заблуждения Ачи в данном случае безвредны."
   },
   {
     "key": "Pool Hall",
     "trx": "Бильярдный зал",
-    "val": "Pool Hall"
+    "val": "Бильярдный зал"
   },
   {
     "key": "An establishment for playing pool, more formally known as pocket billiards. This particular place is a pool bar, serving alcohol. The standard pool table is rectangular in shape, sports six pockets (four in the corners and one in the middle of each long side), and supports multiple games, including nine-ball, eight-ball, and rotation. There are also tables without pockets; this style is known as ‘carom billiards.’",
     "trx": "Заведение для игры в бильярд, более официально известное как карманный бильярд. Это конкретное место - бар у бассейна, где подают алкоголь. Стандартный бильярдный стол имеет прямоугольную форму, имеет шесть карманов (четыре по углам и по одному в середине каждой длинной стороны) и поддерживает несколько игр, включая девять мячей, восемь мячей и вращение. Есть также столы без карманов; этот стиль известен как \"карамбольный бильярд\".",
-    "val": "An establishment for playing pool, more formally known as pocket billiards. This particular place is a pool bar, serving alcohol. The standard pool table is rectangular in shape, sports six pockets (four in the corners and one in the middle of each long side), and supports multiple games, including nine-ball, eight-ball, and rotation. There are also tables without pockets; this style is known as ‘carom billiards.’"
+    "val": "Заведение для игры в пул, официально более известный в Японии как ‘лузный бильярд.’ Это конкретное место — пул-бар, в котором подают алкоголь. Стандартный стол для пула имеет прямоугольную форму, шесть луз (четыре по углам и по одной в середине каждой длинной стороны) и позволяет играть в несколько игр, включая девятку, восьмерку и ротацию. Есть также столы без луз; эта разновидность известна как ‘карамболь.’"
   },
   {
     "key": "Pathetic",
     "trx": "Жалкий",
-    "val": "Pathetic"
+    "val": "Патетичный"
   },
   {
     "key": "Ultimately stems from the Greek ",
     "trx": "В конечном счете происходит от греческого ",
-    "val": "Ultimately stems from the Greek "
+    "val": "Происходит от греческого слова "
   },
   {
     "key": "pathetikos",
@@ -507,67 +507,67 @@
   {
     "key": ", meaning “subject to feeling” or “capable of emotion.” Over time, the meaning changed to signify “exciting the passions,” and later on to the more modern sense of “arousing one’s pity.”",
     "trx": ", что означает “подверженный чувствам” или “способный к эмоциям”. Со временем значение изменилось и стало означать “возбуждение страстей”, а затем и более современное значение “возбуждение жалости”.",
-    "val": ", meaning “subject to feeling” or “capable of emotion.” Over time, the meaning changed to signify “exciting the passions,” and later on to the more modern sense of “arousing one’s pity.”"
+    "val": ", которое можно перевести как “подверженный чувствам” или “способный к эмоциям.” Со временем значение изменилось и стало означать “возбуждающий страсть”, а затем и более современное значение “возбуждающий жалость.” На русский также можно перевести просто “жалкий.”"
   },
   {
     "key": "Heart Transplants",
     "trx": "Пересадка сердца",
-    "val": "Heart Transplants"
+    "val": "Пересадка сердца"
   },
   {
     "key": "The act of surgically implanting one person’s heart into another’s body. Such an operation is typically only performed on a patient with severe heart disease who cannot survive without a new heart. There are strict requirements that must be met before a heart can be transplanted, however—chief among them, that the donor must first be brain dead.",
     "trx": "Акт хирургической имплантации сердца одного человека в тело другого. Такая операция обычно проводится только пациенту с тяжелым заболеванием сердца, который не может выжить без нового сердца. Однако существуют строгие требования, которые необходимо выполнить, прежде чем можно будет пересадить сердце, и главное из них — у донора сначала должен быть мертв мозг.",
-    "val": "The act of surgically implanting one person’s heart into another’s body. Such an operation is typically only performed on a patient with severe heart disease who cannot survive without a new heart. There are strict requirements that must be met before a heart can be transplanted, however—chief among them, that the donor must first be brain dead."
+    "val": "Акт хирургической имплантации сердца одного человека в тело другого. Такая операция обычно проводится только пациенту с тяжелым заболеванием сердца, который не может выжить без нового сердца. Однако существуют строгие требования, которые необходимо выполнить, прежде чем можно будет пересадить сердце, и главное из них — у донора должна быть констатирована смерть мозга."
   },
   {
     "key": "Within four hours",
     "trx": "В течение четырех часов",
-    "val": "Within four hours"
+    "val": "В течение четырех часов"
   },
   {
     "key": "Because lack of oxygen causes damage (referred to as “warm ischemia damage”) in any organ removed from a human body, a transplant must be carried out and blood circulation restored within a certain time window (known as the “total ischemic time”). In the case of a heart transplant, total ischemic time is only four hours; helicopters and charter jets are frequently used to rapidly transport hearts for such operations.",
     "trx": "Поскольку недостаток кислорода вызывает повреждение (называемое “повреждением при теплой ишемии”) любого органа, удаленного из человеческого тела, необходимо провести трансплантацию и восстановить кровообращение в течение определенного периода времени (известного как “общее ишемическое время”). В случае пересадки сердца общее время ишемии составляет всего четыре часа; для быстрой транспортировки сердец для таких операций часто используются вертолеты и чартерные самолеты.",
-    "val": "Because lack of oxygen causes damage (referred to as “warm ischemia damage”) in any organ removed from a human body, a transplant must be carried out and blood circulation restored within a certain time window (known as the “total ischemic time”). In the case of a heart transplant, total ischemic time is only four hours; helicopters and charter jets are frequently used to rapidly transport hearts for such operations."
+    "val": "Поскольку недостаток кислорода вызывает повреждение (называемое “повреждением при теплой ишемии”) любого органа, удаленного из человеческого тела, необходимо провести трансплантацию и восстановить кровообращение в течение определенного периода времени (известного как “общее ишемическое время”). В случае пересадки сердца общее ишемическое время составляет всего четыре часа; для быстрой транспортировки сердец для таких операций часто используются вертолеты и чартерные самолеты."
   },
   {
     "key": "Bombay Blood",
     "trx": "Бомбейская кровь",
-    "val": "Bombay Blood"
+    "val": "Бомбейская кровь"
   },
   {
     "key": "A type of blood that does not correspond to the more common types of A, B, O, or AB. In some instances, a standard blood typing yields a result of O in such individuals. First discovered in the city of Bombay (now Mumbai) on India’s west coast, the blood type takes it name from that city due to its relatively high incidence rate amongst the inhabitants.",
     "trx": "Тип крови, который не соответствует более распространенным типам A, B, O или AB. В некоторых случаях стандартный анализ крови дает результат O у таких людей. Впервые обнаруженная в городе Бомбей (ныне Мумбаи) на западном побережье Индии, группа крови получила свое название от этого города из-за относительно высокого уровня заболеваемости среди жителей.",
-    "val": "A type of blood that does not correspond to the more common types of A, B, O, or AB. In some instances, a standard blood typing yields a result of O in such individuals. First discovered in the city of Bombay (now Mumbai) on India’s west coast, the blood type takes it name from that city due to its relatively high incidence rate amongst the inhabitants."
+    "val": "Тип крови, который не соответствует более распространенным типам A, B, O или AB. В некоторых случаях стандартный анализ крови у таких людей дает группу крови O. Впервые обнаруженная в городе Бомбей (ныне Мумбаи) на западном побережье Индии, группа крови получила свое название от этого города из-за того, что среди его жителей она встречается чаще всего."
   },
   {
     "key": "Rarest blood types",
     "trx": "Самые редкие группы крови",
-    "val": "Rarest blood types"
+    "val": "Самые редкие группы крови"
   },
   {
     "key": "Rare blood types such as Bombay are scarce enough that even nationwide blood centers seldom have them in sufficient supply. For this reason, when such blood types are discovered in everyday testing, samples are quickly taken to be frozen and stored at temperatures lower than 80 degrees below centigrade.",
     "trx": "Редкие группы крови, такие как Бомбей, настолько редки, что даже общенациональные центры крови редко располагают ими в достаточном количестве. По этой причине, когда такие группы крови обнаруживаются при ежедневном тестировании, образцы быстро отбираются для замораживания и хранения при температуре ниже 80 градусов по Цельсию.",
-    "val": "Rare blood types such as Bombay are scarce enough that even nationwide blood centers seldom have them in sufficient supply. For this reason, when such blood types are discovered in everyday testing, samples are quickly taken to be frozen and stored at temperatures lower than 80 degrees below centigrade."
+    "val": "Группы крови, такие как бомбейская, встречаются настолько редко, что даже общенациональные банки крови редко располагают ими в достаточном количестве. По этой причине, если образец такой крови обнаруживается при осмотре, он быстро отбирается для замораживания и хранения при температурах ниже -80°C."
   },
   {
     "key": "Mr. Tanaka?",
     "trx": "Мистер Танака?",
-    "val": "Mr. Tanaka?"
+    "val": "Мистер Танака?"
   },
   {
     "key": "Unfortunately for these two, it’s not Mr. Tanaka. Right now, Tanaka is at the Osawa residence on his way to speak with ",
     "trx": "К несчастью для этих двоих, это не мистер Танака. Прямо сейчас Танака находится в резиденции Осава, направляясь поговорить с ",
-    "val": "Unfortunately for these two, it’s not Mr. Tanaka. Right now, Tanaka is at the Osawa residence on his way to speak with "
+    "val": "К несчастью для этих двоих, это не мистер Танака. Прямо сейчас Танака находится в резиденции семьи Осава, направляясь на разговор с "
   },
   {
     "key": "Kenji Osawa",
     "trx": "Кэндзи Осава",
-    "val": "Kenji Osawa"
+    "val": "Кэндзи Осавой"
   },
   {
     "key": ", who’s washing dishes after lunch.",
     "trx": ", которая моет посуду после обеда.",
-    "val": ", who’s washing dishes after lunch."
+    "val": ", который моет посуду после обеда."
   },
   {
     "key": "The men",
@@ -592,7 +592,7 @@
   {
     "key": ", the troupe’s 22nd piece. Last night, he slept completely naked and caught a cold, leading to the sore throat he has now. Toga is the stage director, handling things behind the scenes. He’s very irritated that Shin’ichi Bando, in charge of the props, seems to have gone AWOL.",
     "trx": ", 22-я пьеса труппы. Прошлой ночью он спал совершенно голым и простудился, что привело к боли в горле, которая у него сейчас. Тога - режиссер-постановщик, управляющий делами за кулисами. Он очень раздражен тем, что Шиничи Бандо, отвечающий за реквизит, похоже, ушел в самоволку.",
-    "val": ". Прошлой ночью он спал совершенно голым и простудился, что теперь привело к боли в горле. Тога — режиссер-постановщик, управляющий делами за кулисами. Он раздражен тем, что Шиничи Бандо, ответственный за реквизит, похоже, ушел в самоволку."
+    "val": ". Прошлой ночью он спал совершенно голым и простудился, и из-за этого у него теперь болит горло. Тога — режиссер-постановщик, управляющий делами за кулисами. Он раздражен тем, что Шиничи Бандо, ответственный за реквизит, похоже, ушел в самоволку."
   },
   {
     "key": "Theater guys",
