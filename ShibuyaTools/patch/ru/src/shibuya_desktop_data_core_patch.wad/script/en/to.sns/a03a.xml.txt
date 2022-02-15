@@ -407,7 +407,7 @@
   {
     "key": "“Okay...?”",
     "trx": "\"Хорошо...?”",
-    "val": "“Ладно...?”"
+    "val": "“Ладно?..”"
   },
   {
     "key": "“If you’re really that sure about it, ",

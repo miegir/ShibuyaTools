@@ -1912,17 +1912,17 @@
   {
     "key": "Just drink and drink and ",
     "trx": "Просто пей, и пей, и ",
-    "val": "Just drink and drink and "
+    "val": "Просто пейте, пейте, и "
   },
   {
     "key": "burn",
     "trx": "жечь",
-    "val": "burn"
+    "val": "жгите"
   },
   {
     "key": " that excess weight away!”",
     "trx": " этот лишний вес прочь!”",
-    "val": " that excess weight away!”"
+    "val": " этот лишний вес!”"
   },
   {
     "key": "Astonished gasps rise up from the crowd.",

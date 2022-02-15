@@ -452,12 +452,12 @@
   {
     "key": "Flyers ",
     "trx": "Листовки ",
-    "val": "Флайеры"
+    "val": "Флаеры"
   },
   {
     "key": "Flyers for ",
     "trx": "Листовки для ",
-    "val": "Флайеры на 22-й спектакль театральной труппы Бродячие Ангелы, "
+    "val": "Флаеры на 22-й спектакль театральной труппы Бродячие Ангелы, "
   },
   {
     "key": "Au Revoir",
@@ -2132,97 +2132,97 @@
   {
     "key": "Boss",
     "trx": "Босс",
-    "val": "Boss"
+    "val": "Босс"
   },
   {
     "key": "At the time, Toyama was the copy editor for local news. Known as “The Red Pen Gatekeeper,” he would go around checking young reporters’ copy like mad. Due to his vigorous efforts, a great many articles never made it to the page.",
     "trx": "В то время Тояма был редактором местных новостей. Известный как “Привратник с красной ручкой”, он ходил вокруг и проверял копии молодых репортеров как сумасшедший. Благодаря его энергичным усилиям огромное количество статей так и не попало на страницу.",
-    "val": "At the time, Toyama was the copy editor for local news. Known as “The Red Pen Gatekeeper,” he would go around checking young reporters’ copy like mad. Due to his vigorous efforts, a great many articles never made it to the page."
+    "val": "В то время Тояма был редактором местных новостей. Известный как “Привратник с красной ручкой”, он ходил вокруг и проверял статьи молодых репортеров как сумасшедший. Благодаря его энергичным усилиям огромное количество статей так и не попало на страницы газеты."
   },
   {
     "key": "Neutral",
     "trx": "Нейтральный",
-    "val": "Neutral"
+    "val": "Нейтральность"
   },
   {
     "key": "Taking neither of two opposing sides. The media typically seeks to adopt a neutral stance in reporting the news. Frequently, however, biased reporting still results in one-sided thinking taking hold amongst the general public. In the end, it is up to the individual to make an objective assessment of any news event.",
     "trx": "Не принимая ни одну из двух противоположных сторон. Средства массовой информации обычно стремятся занять нейтральную позицию при освещении новостей. Однако часто предвзятые репортажи по-прежнему приводят к тому, что широкая общественность придерживается одностороннего мышления. В конце концов, объективную оценку любого новостного события должен давать сам человек.",
-    "val": "Taking neither of two opposing sides. The media typically seeks to adopt a neutral stance in reporting the news. Frequently, however, biased reporting still results in one-sided thinking taking hold amongst the general public. In the end, it is up to the individual to make an objective assessment of any news event."
+    "val": "Не принимать ни одну из двух противоборствующих сторон. Средства массовой информации обычно стремятся занять нейтральную позицию при освещении новостей. Тем не менее, часто предвзятые репортажи приводят к тому, что широкая общественность придерживается одностороннего мнения. В конце концов, объективную оценку любого события должен давать сам человек."
   },
   {
     "key": "Stubborn old man",
     "trx": "Упрямый старик",
-    "val": "Stubborn old man"
+    "val": "Упрямый старик"
   },
   {
     "key": "Now a dying breed in Japan. The sort who’d be inclined to use knuckles before words to remedy a child’s bad behavior. Inflexible, but still emotionally brittle.",
     "trx": "Сейчас это вымирающая порода в Японии. Из тех, кто был бы склонен использовать кулаки перед словами, чтобы исправить плохое поведение ребенка. Негибкий, но все еще эмоционально хрупкий.",
-    "val": "Now a dying breed in Japan. The sort who’d be inclined to use knuckles before words to remedy a child’s bad behavior. Inflexible, but still emotionally brittle."
+    "val": "Сейчас в Японии это вымирающая порода. Из тех, кто, чтобы исправить плохое поведение ребенка, скорее воспользуется кулаками, а не словами. Негибкий, но все еще эмоционально хрупкий."
   },
   {
     "key": "Their signature move is to drive a wayward kid out of the house with the exclamation “You fool! You’re no son of mine! I disown you!” only to wait a while, go find the son, who’s crying down by the dry river bed, and calmly murmur, “Come on, your supper is getting cold.”",
     "trx": "Их фирменный прием - выгнать своенравного ребенка из дома с восклицанием “Ты дурак! Ты мне не сын! Я отрекаюсь от тебя!” только для того, чтобы подождать немного, пойти и найти сына, который плачет у высохшего русла реки, и спокойно пробормотать: “Давай, твой ужин стынет\".",
-    "val": "Their signature move is to drive a wayward kid out of the house with the exclamation “You fool! You’re no son of mine! I disown you!” only to wait a while, go find the son, who’s crying down by the dry river bed, and calmly murmur, “Come on, your supper is getting cold.”"
+    "val": "Его фирменный прием — выгнать своенравного ребенка из дома с восклицанием “Ты дурак! Ты мне не сын! Я отрекаюсь от тебя!” только затем, чтобы, подождав немного, найти сына, плачущего у высохшего русла реки, и спокойно пробормотать: “Пошли, твой ужин остывает.”"
   },
   {
     "key": "Knickknack shop",
     "trx": "Магазин безделушек",
-    "val": "Knickknack shop"
+    "val": "Магазин безделушек"
   },
   {
     "key": "A newly opened general variety store. The place is primarily a second-hand shop, with posters inside proclaiming things like “We’ll Take What You Don’t Need” and “We Buy Computers at Top Prices!”",
     "trx": "Недавно открывшийся универсальный магазин. Это заведение в основном представляет собой магазин подержанных вещей, внутри которого висят плакаты с надписями типа “Мы возьмем то, что Вам не нужно” и “Мы покупаем компьютеры по самым выгодным ценам!”",
-    "val": "A newly opened general variety store. The place is primarily a second-hand shop, with posters inside proclaiming things like “We’ll Take What You Don’t Need” and “We Buy Computers at Top Prices!”"
+    "val": "Недавно открывшийся универсальный магазин. Это заведение продает в основном подержанные вещи, внутри висят плакаты с надписями типа “Заберем то, что вам не нужно” и “Купим компьютеры по самым выгодным ценам!”"
   },
   {
     "key": "Bonsai",
     "trx": "Бонсай",
-    "val": "Bonsai"
+    "val": "Бонсай"
   },
   {
     "key": "The mention of ‘bonsai’ likely calls to mind elderly hobbyists, but recently, the art is attracting more young people, as are other aspects of Japanese-style interior design. Varieties of cherry and maple, smaller than normal bonsai, are becoming popular with practitioners, as are fruit-bearing trees such as plumleaf apple. There are even spherical balls of soil covered in moss, shaped to look like cute little miniature planets with plants growing over their surface.",
     "trx": "Упоминание о \"бонсай\", вероятно, напоминает пожилых любителей, но в последнее время это искусство привлекает все больше молодежи, как и другие аспекты дизайна интерьера в японском стиле. Разновидности вишни и клена, меньшие, чем обычные бонсаи, становятся популярными среди практиков, как и плодоносящие деревья, такие как яблоня с перистым листом. Есть даже сферические шарики почвы, покрытые мхом, по форме напоминающие милые маленькие миниатюрные планеты с растениями, растущими на их поверхности.",
-    "val": "The mention of ‘bonsai’ likely calls to mind elderly hobbyists, but recently, the art is attracting more young people, as are other aspects of Japanese-style interior design. Varieties of cherry and maple, smaller than normal bonsai, are becoming popular with practitioners, as are fruit-bearing trees such as plumleaf apple. There are even spherical balls of soil covered in moss, shaped to look like cute little miniature planets with plants growing over their surface."
+    "val": "Упоминание о ‘бонсае’, вероятно, вызывает в памяти пожилых любителей, но в последнее время это искусство привлекает все больше молодежи, как и другие направления дизайна интерьера в японском стиле. Как и плодоносящие деревья, такие как яблоня сливолистная, становятся популярными также разновидности вишни и клена, меньшие, чем обычный бонсай. Есть даже сферические шарики почвы, покрытые мхом, по форме напоминающие милые маленькие миниатюрные планеты с растениями на поверхности."
   },
   {
     "key": "Bride",
     "trx": "Невеста",
-    "val": "Bride"
+    "val": "Невеста"
   },
   {
     "key": "A ‘show pub’ that began as a side-venture for a group of female mixed martial arts fighters who were facing financial difficulties. There is an octagonal ring inside the pub, and the rules state that ‘anything goes’ between the young women who fight inside. Customers are able to take in the fights while enjoying their drinks.",
     "trx": "‘Шоу-паб\", который начинался как побочное предприятие для группы женщин-бойцов смешанных единоборств, столкнувшихся с финансовыми трудностями. Внутри паба есть восьмиугольное кольцо, и правила гласят, что \"все идет своим чередом\" между молодыми женщинами, которые дерутся внутри. Клиенты могут участвовать в боях, наслаждаясь своими напитками.",
-    "val": "A ‘show pub’ that began as a side-venture for a group of female mixed martial arts fighters who were facing financial difficulties. There is an octagonal ring inside the pub, and the rules state that ‘anything goes’ between the young women who fight inside. Customers are able to take in the fights while enjoying their drinks."
+    "val": "‘Шоу-паб’, который поначалу был побочным предприятием для группы женщин-бойцов смешанных единоборств, столкнувшихся с финансовыми трудностями. Внутри паба есть восьмиугольный ринг, и правила гласят, что между молодыми женщинами, дерущимися внутри, ‘разрешено всё’. Клиенты могут участвовать в боях, наслаждаясь своими напитками."
   },
   {
     "key": "100% Weight Loss Guaranteed",
     "trx": "Гарантированная 100% Потеря Веса",
-    "val": "100% Weight Loss Guaranteed"
+    "val": "100%-ная гарантия потери веса"
   },
   {
     "key": "This is blatantly false advertising.",
     "trx": "Это откровенно лживая реклама.",
-    "val": "This is blatantly false advertising."
+    "val": "Это откровенно лживая реклама."
   },
   {
     "key": "Digital camera",
     "trx": "Цифровая камера",
-    "val": "Digital camera"
+    "val": "Цифровая камера"
   },
   {
     "key": "Some modern digital cameras come with the remarkable ability to automatically trigger the shutter when the subject smiles. This function also works if the camera is presented with a TV or photo image of people smiling. There are even cases of cameras recognizing faces in the wood grain of ceilings. After all, if ",
     "trx": "Некоторые современные цифровые камеры обладают замечательной способностью автоматически запускать затвор, когда объект съемки улыбается. Эта функция также работает, если на камере представлено телевизионное или фотографическое изображение улыбающихся людей. Есть даже случаи, когда камеры распознают лица в древесине потолков. В конце концов, если ",
-    "val": "Some modern digital cameras come with the remarkable ability to automatically trigger the shutter when the subject smiles. This function also works if the camera is presented with a TV or photo image of people smiling. There are even cases of cameras recognizing faces in the wood grain of ceilings. After all, if "
+    "val": "Некоторые современные цифровые камеры обладают замечательной способностью автоматически делать снимок, когда объект съемки улыбается. Эта функция также работает, если направить камеру на телевизионное изображение или фотографию улыбающихся людей. Случается даже, что камеры распознают лица в сучках на потолке. В конце концов, если даже "
   },
   {
     "key": "we",
     "trx": "мы",
-    "val": "we"
+    "val": "мы"
   },
   {
     "key": " can make out faces in the wood when we’re gazing lazily up at the ceiling, we can’t fault a camera for doing the same.",
     "trx": " мы можем разглядеть лица в дереве, когда лениво смотрим в потолок, и не можем винить камеру в том, что она делает то же самое.",
-    "val": " can make out faces in the wood when we’re gazing lazily up at the ceiling, we can’t fault a camera for doing the same."
+    "val": " видим лица в сучках, лениво глядя в потолок, мы не можем винить камеру в том, что и она делает то же самое."
   },
   {
     "key": "DTP",
@@ -2232,27 +2232,27 @@
   {
     "key": "Abbreviation for “desktop publishing.”",
     "trx": "Аббревиатура от “настольная публикация”.",
-    "val": "Abbreviation for “desktop publishing.”"
+    "val": "Аббревиатура для “desktop publishing.”"
   },
   {
     "key": "Refers to the process of editing a manuscript’s layout on a computer preparatory to sending it to the printer. Also used to refer to the software used for creating such layouts.",
     "trx": "Относится к процессу редактирования макета рукописи на компьютере перед отправкой ее на принтер. Также используется для обозначения программного обеспечения, используемого для создания таких макетов.",
-    "val": "Refers to the process of editing a manuscript’s layout on a computer preparatory to sending it to the printer. Also used to refer to the software used for creating such layouts."
+    "val": "Означает процесс редактирования макета рукописи на компьютере перед отправкой ее на принтер. Также используется для обозначения программного обеспечения, предназначенного для создания таких макетов."
   },
   {
     "key": "Creating layout data that is ready for printing but has not actually been printed yet is also sometimes called DTP.",
     "trx": "Создание данных макета, готовых к печати, но фактически еще не напечатанных, также иногда называют DTP.",
-    "val": "Creating layout data that is ready for printing but has not actually been printed yet is also sometimes called DTP."
+    "val": "Создание данных для макетов, готовых к печати, но фактически еще не напечатанных, также иногда называют DTP."
   },
   {
     "key": "Pulitzer Prize",
     "trx": "Пулитцеровская премия",
-    "val": "Pulitzer Prize"
+    "val": "Пулитцеровская премия"
   },
   {
     "key": "A prize awarded for excellence in journalism, literature, and music composition. Named for American journalist Joseph Pulitzer, active during the late 19th and early 20th Centuries, and administered by Columbia University, to whom he willed all of his money in order to establish a journalism school. Three Japanese photographers have been awarded the prize in the past: Yasushi Nagao, Kyoichi Sawada, and Toshio Sakai.",
     "trx": "Премия, присуждаемая за выдающиеся достижения в области журналистики, литературы и музыкальной композиции. Назван в честь американского журналиста Джозефа Пулитцера, действовавшего в конце 19-го и начале 20-го веков и управляемого Колумбийским университетом, которому он завещал все свои деньги на создание школы журналистики. В прошлом этой премии были удостоены три японских фотографа: Ясуси Нагао, Кеичи Савада и Тошио Сакаи.",
-    "val": "A prize awarded for excellence in journalism, literature, and music composition. Named for American journalist Joseph Pulitzer, active during the late 19th and early 20th Centuries, and administered by Columbia University, to whom he willed all of his money in order to establish a journalism school. Three Japanese photographers have been awarded the prize in the past: Yasushi Nagao, Kyoichi Sawada, and Toshio Sakai."
+    "val": "Премия, присуждаемая за выдающиеся достижения в области журналистики, литературы и музыки. Названа в честь американского журналиста Джозефа Пулитцера, работавшего в конце 19-го и начале 20-го века и завещавшего все свои деньги Колумбийскому университету на создание школы журналистики. В прошлом этой премии были удостоены три японских фотографа: Ясуси Нагао, Кёити Савада и Тошио Сакаи."
   },
   {
     "key": "Touch-typing",
@@ -4332,7 +4332,7 @@
   {
     "key": "These stones are nothing more than simple glass beads that were purchased at 5000 yen apiece. The seller claimed, “Normally these sell for 10,000 a pop, but if you buy 100 of them, I’ll give you half off,” at which the buyer declared, “It really ",
     "trx": "Эти камни - не что иное, как простые стеклянные бусины, купленные по 5000 иен за штуку. Продавец заявил: “Обычно они продаются по 10 000 долларов за штуку, но если вы купите 100 из них, я дам вам половину скидки”, на что покупатель заявил: “Это действительно ",
-    "val": "Эти камни — не что иное, как простые стеклянные бусины, продаваемые по 5000 иен за штуку. Продавец заявляет: “Их обычная цена 10 000 долларов за штуку, но 100 штук я продам за полцены”, на что покупатель отвечает: “Это и "
+    "val": "Эти камни — не что иное, как простые стеклянные бусины, продаваемые по 5000 иен за штуку. Продавец заявляет: “Их обычная цена 10 000 иен за штуку, но 100 штук я продам за полцены”, на что покупатель отвечает: “Это и "
   },
   {
     "key": "is",
