@@ -5492,107 +5492,107 @@
   {
     "key": "Booby trap",
     "trx": "Мина-ловушка",
-    "val": "Booby trap"
+    "val": "Мина-ловушка"
   },
   {
     "key": "Originally, a type of lethal trap used during wartime to catch clumsy or unwary soldiers (‘boobies’). In modern parlance, however, the term frequently signifies a harmless prank, such as setting a blackboard eraser atop a classroom door so that it falls onto the head of whoever opens the door.",
     "trx": "Первоначально это был тип смертельной ловушки, используемой во время войны для поимки неуклюжих или неосторожных солдат (‘олухов’). На современном языке, однако, этот термин часто означает безобидную шутку, такую как установка ластика для доски на двери классной комнаты так, чтобы он упал на голову того, кто откроет дверь.",
-    "val": "Originally, a type of lethal trap used during wartime to catch clumsy or unwary soldiers (‘boobies’). In modern parlance, however, the term frequently signifies a harmless prank, such as setting a blackboard eraser atop a classroom door so that it falls onto the head of whoever opens the door."
+    "val": "Первоначально это был тип смертельной ловушки, используемой во время войны для поимки неуклюжих или неосторожных солдат (‘олухов’). На современном языке, однако, этот термин часто означает безобидную шутку, такую как установка ластика для доски на двери классной комнаты таким образом, чтобы он упал на голову открывшему дверь."
   },
   {
     "key": "How much money",
     "trx": "Сколько денег",
-    "val": "How much money"
+    "val": "Сколько денег"
   },
   {
     "key": "Osawa’s lab has incurred expenses of roughly 30 billion yen in developing the antiviral medication. Okoshi Pharmaceutical spends approximately 200 billion yen per year on research and development; Osawa’s work is the single most costly element of that budget.",
     "trx": "Лаборатория Осавы потратила примерно 30 миллиардов иен на разработку противовирусного препарата. Okoshi Pharmaceutical тратит около 200 миллиардов иен в год на исследования и разработки; работа Осавы является единственным наиболее дорогостоящим элементом этого бюджета.",
-    "val": "Osawa’s lab has incurred expenses of roughly 30 billion yen in developing the antiviral medication. Окоши Фармасьютикал spends approximately 200 billion yen per year on research and development; Osawa’s work is the single most costly element of that budget."
+    "val": "Лаборатория Осавы потратила на разработку противовирусного средства примерно 30 миллиардов иен. Окоши Фармасьютикал тратит около 200 миллиардов иен в год на исследования и разработки; работа Осавы является самой дорогой статьей их бюджета."
   },
   {
     "key": "Kidnapping cases",
     "trx": "Случаи похищения людей",
-    "val": "Kidnapping cases"
+    "val": "Дела о похищениях людей"
   },
   {
     "key": "A specialized victim support team belonging to the Special Criminal Investigation Unit has been deployed at Osawa’s house. The members of this team are all specialists who have received training in such skills as negotiation, high-speed motorcycle and automobile driving, running phone traces, special communications, and phone records acquisition.",
     "trx": "В доме Осавы была развернута специализированная группа поддержки жертв, принадлежащая Специальному отделу уголовных расследований. Все члены этой команды являются специалистами, прошедшими обучение таким навыкам, как ведение переговоров, скоростное вождение мотоциклов и автомобилей, отслеживание телефонных разговоров, специальная связь и сбор телефонных записей.",
-    "val": "A specialized victim support team belonging to the Special Criminal Investigation Unit has been deployed at Osawa’s house. The members of this team are all specialists who have received training in such skills as negotiation, high-speed motorcycle and automobile driving, running phone traces, special communications, and phone records acquisition."
+    "val": "В доме Осавы была развернута специализированная группа поддержки пострадавших, принадлежащая Специальному отделу уголовных расследований. Все члены этой группы являются специалистами, прошедшими обучение таким навыкам, как ведение переговоров, скоростное вождение мотоциклов и автомобилей, отслеживание телефонных разговоров, специальная связь и сбор телефонных записей."
   },
   {
     "key": "Naked apron",
     "trx": "Голый фартук",
-    "val": "Naked apron"
+    "val": "Голый фартук"
   },
   {
     "key": "The state of being entirely naked save for an apron. A form of cosplay. The views from the front, rear, and sides all offer a certain appeal, but caution must be advised, as it may be difficult to stop arguing about which presents the loveliest sight once the topic is raised. There are similar, more sexualized “naked” styles as well, such as the naked sock, the naked shoe, naked necktie, naked ribbon, naked scarf, naked collar, and so forth.",
     "trx": "Состояние, когда ты совершенно голый, если не считать фартука. Форма косплея. Виды спереди, сзади и по бокам - все они обладают определенной привлекательностью, но следует соблюдать осторожность, так как может быть трудно перестать спорить о том, что представляет собой самое красивое зрелище, как только будет поднята эта тема. Существуют также похожие, более сексуализированные “голые” стили, такие как голый носок, голая обувь, голый галстук, голая лента, голый шарф, голый воротник и так далее.",
-    "val": "The state of being entirely naked save for an apron. A form of cosplay. The views from the front, rear, and sides all offer a certain appeal, but caution must be advised, as it may be difficult to stop arguing about which presents the loveliest sight once the topic is raised. There are similar, more sexualized “naked” styles as well, such as the naked sock, the naked shoe, naked necktie, naked ribbon, naked scarf, naked collar, and so forth."
+    "val": "Состояние, когда ты совершенно голый, если не считать фартука. Форма косплея. Виды спереди, сзади и по бокам — все они обладают определенной привлекательностью, но надо соблюдать осторожность, так как бывает трудно остановить спор относительно того, какой из них самый лучший. Существуют также похожие, более сексуализированные “голые” стили, такие как голые носки, голые туфли, голый галстук, голая лента, голый шарф, голый воротник и так далее."
   },
   {
     "key": "Dinger",
     "trx": "Дингер",
-    "val": "Dinger"
+    "val": "Дингер"
   },
   {
     "key": "Named for the sound a microwave oven makes when it has finished heating your food.",
     "trx": "Назван в честь звука, который издает микроволновая печь, когда она заканчивает разогревать вашу еду.",
-    "val": "Named for the sound a microwave oven makes when it has finished heating your food."
+    "val": "Микроволновая печь, называемая так из-за звука, который она издает, завершая разогрев еды."
   },
   {
     "key": "The microwave at my house doesn’t really go “ding” when the timer reaches zero, though. It’s more just a “beep.” But it doesn’t make sense to call a microwave a “beeper” when that’s already a word that refers to something else.",
     "trx": "Однако микроволновая печь в моем доме на самом деле не “звенит”, когда таймер достигает нуля. Это скорее просто “звуковой сигнал”. Но не имеет смысла называть микроволновую печь “звуковым сигналом”, когда это слово уже относится к чему-то другому.",
-    "val": "The microwave at my house doesn’t really go “ding” when the timer reaches zero, though. It’s more just a “beep.” But it doesn’t make sense to call a microwave a “beeper” when that’s already a word that refers to something else."
+    "val": "Однако микроволновая печь в моем доме на самом деле не “звенит”, когда таймер достигает нуля. Это скорее просто писк. Но не имеет смысла называть микроволновую печь “пищалкой” (“beeper”), так как это слово уже относится к чему-то другому."
   },
   {
     "key": "Fried egg on rice",
     "trx": "Жареное яйцо с рисом",
-    "val": "Fried egg on rice"
+    "val": "Жареное яйцо с рисом"
   },
   {
     "key": "One of Kajiwara’s simple recipes. Others include his “white spaghetti,” which is simply spaghetti that’s been flavored with butter, salt, and pepper after it’s been boiled. Both are a bit too basic to be properly called “cuisine,” but it does take a certain skill to bring the best flavor out of the ingredients with such simple seasonings.",
     "trx": "Один из простых рецептов Кадзивары. Другие включают его “белые спагетти”, которые представляют собой просто спагетти, приправленные маслом, солью и перцем после того, как они были сварены. И то, и другое слишком просто, чтобы правильно называться “кухней”, но требуется определенное мастерство, чтобы извлечь наилучший вкус из ингредиентов с помощью таких простых приправ.",
-    "val": "One of Kajiwara’s simple recipes. Others include his “white spaghetti,” which is simply spaghetti that’s been flavored with butter, salt, and pepper after it’s been boiled. Both are a bit too basic to be properly called “cuisine,” but it does take a certain skill to bring the best flavor out of the ingredients with such simple seasonings."
+    "val": "Один из простых рецептов Кадзивары. Существуют другие рецепты, такие, как “белые спагетти”, представляющие собой простые спагетти, приправленные маслом, солью и перцем после того, как они были сварены. И то, и другое слишком просто, чтобы именоваться “приготовлением пищи”, но все же требует определенного мастерства, чтобы извлечь наилучший вкус из ингредиентов с помощью таких простых приправ."
   },
   {
     "key": "Bubble wrap",
     "trx": "Пузырчатая пленка",
-    "val": "Bubble wrap"
+    "val": "Пузырчатая пленка"
   },
   {
     "key": "Bubble wrap first showed up on the planet Earth in the 1960s. It was originally developed not as a packing material, but as a form of wallpaper and a type of cover to prevent leaves from falling into swimming pools. These products did not sell well, however, and the manufacturer instead began to market the wrap as a packing material, after which it became a hugely successful product.",
     "trx": "Пузырчатая пленка впервые появилась на планете Земля в 1960-х годах. Первоначально он был разработан не как упаковочный материал, а как форма обоев и тип покрытия для предотвращения попадания листьев в плавательные бассейны. Однако эти продукты продавались плохо, и вместо этого производитель начал продавать пленку в качестве упаковочного материала, после чего она стала чрезвычайно успешным продуктом.",
-    "val": "Bubble wrap first showed up on the planet Earth in the 1960s. It was originally developed not as a packing material, but as a form of wallpaper and a type of cover to prevent leaves from falling into swimming pools. These products did not sell well, however, and the manufacturer instead began to market the wrap as a packing material, after which it became a hugely successful product."
+    "val": "Пузырчатая пленка впервые появилась на планете Земля в 1960-х годах. Первоначально она была разработана не как упаковочный материал, а как вид обоев и тип навеса для предотвращения попадания листьев в плавательные бассейны. Однако эти продукты продавались плохо, и вместо этого производитель начал продавать пленку в качестве упаковочного материала, после чего она стала чрезвычайно успешным продуктом."
   },
   {
     "key": "Tonkatsu bento boxes",
     "trx": "Коробки для бенто тонкацу",
-    "val": "Tonkatsu bento boxes"
+    "val": "Коробки с тонкацу"
   },
   {
     "key": "A popular menu item from the Your-Lunch-in-a-Box bento chain. Company president Chiyozo Osugi spent many years working at a famous French restaurant in Kyoto. Valuing flavor over sheer volume, he insists that each side dish in the bento box be prepared with considerable care and effort. Chiyozo is in distress after falling out with his daughter, but he simply can't forgive her eating habits, which favor volume over flavor.",
     "trx": "Популярный пункт меню сети бенто \"Ваш обед в коробке\". Президент компании Чиодзо Осуги много лет проработал в знаменитом французском ресторане в Киото. Ценя вкус больше, чем объем, он настаивает на том, чтобы каждый гарнир в коробке для бенто готовился с особой тщательностью и старанием. Чийозо находится в бедственном положении после ссоры со своей дочерью, но он просто не может простить ее привычки в еде, которые отдают предпочтение объему, а не вкусу.",
-    "val": "A popular menu item from the Your-Lunch-in-a-Box bento chain. Company president Chiyozo Osugi spent many years working at a famous French restaurant in Kyoto. Valuing flavor over sheer volume, he insists that each side dish in the bento box be prepared with considerable care and effort. Chiyozo is in distress after falling out with his daughter, but he simply can't forgive her eating habits, which favor volume over flavor."
+    "val": "Популярный пункт меню сети “Ваш обед в коробке”. Президент компании Тиёдзо Осуги много лет проработал в знаменитом французском ресторане в Киото. Ценя вкус больше, чем объем, он настаивает на том, чтобы каждый гарнир в коробке готовился с особой тщательностью и старанием. Тиёдзо находится в бедственном положении после ссоры со своей дочерью, но он не может простить ей ее привычки в еде, которые отдают предпочтение объему, а не вкусу."
   },
   {
     "key": "Not even hungry",
     "trx": "Даже не голоден",
-    "val": "Not even hungry"
+    "val": "Даже не голодна"
   },
   {
     "key": "Roughly one hour earlier, Ai Osawa slipped out of the house and went to the café Lautrec down near the train station, where she ordered a sandwich and some black tea.",
     "trx": "Примерно часом ранее Ай Осава выскользнула из дома и отправилась в кафе \"Лотрек\" недалеко от железнодорожного вокзала, где заказала сэндвич и немного черного чая.",
-    "val": "Roughly one hour earlier, Ai Osawa slipped out of the house and went to the café Lautrec down near the train station, where she ordered a sandwich and some black tea."
+    "val": "Примерно часом ранее Ай Осава сбежала из дома и отправилась в кафе Лотрек недалеко от железнодорожного вокзала, где заказала сэндвич и немного черного чая."
   },
   {
     "key": "Apron",
     "trx": "Фартук",
-    "val": "Apron"
+    "val": "Фартук"
   },
   {
     "key": "The cartoon character printed on the apron Kajiwara is wearing is one of his own design. It is modeled after the MPD’s mascot. His name is Pinpo-kun.",
     "trx": "Мультяшный персонаж, напечатанный на фартуке, который носит Кадзивара, - его собственный дизайн. Он создан по образцу талисмана MPD. Его зовут Пинпо-кун.",
-    "val": "The cartoon character printed on the apron Kajiwara is wearing is one of his own design. It is modeled after the MPD’s mascot. His name is Pinpo-kun."
+    "val": "На фартуке, который носит Кадзивара, изображен мультяшный персонаж его собственного дизайна. Он создан по образу талисмана СПУ. Его зовут Пинпо-кун."
   },
   {
     "key": "Tie clip",

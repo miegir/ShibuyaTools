@@ -2,287 +2,287 @@
   {
     "key": "“Mr. Osawa, please calm down.”",
     "trx": "“Мистер Осава, пожалуйста, успокойтесь”.",
-    "val": "“Mr. Osawa, please calm down.”"
+    "val": "“Мистер Осава, пожалуйста, успокойтесь.”"
   },
   {
     "key": "As if that were even possible right now.",
     "trx": "Как будто это вообще возможно прямо сейчас.",
-    "val": "As if that were even possible right now."
+    "val": "Как будто это вообще сейчас возможно."
   },
   {
     "key": "“It feels like there must be ten—",
     "trx": "“Такое чувство, что их должно быть десять—",
-    "val": "“It feels like there must be ten—"
+    "val": "“Такое чувство, что их может быть десять — "
   },
   {
     "key": "no, maybe a hundred listening devices in here!”",
     "trx": "нет, здесь, может быть, сотня подслушивающих устройств!”",
-    "val": "no, maybe a hundred listening devices in here!”"
+    "val": "нет, здесь, наверное, сотня прослушивающих устройств!”"
   },
   {
     "key": "Kajiwara didn’t miss a beat. ",
     "trx": "Кадзивара не пропустил ни одного удара. ",
-    "val": "Kajiwara didn’t miss a beat. "
+    "val": "Кадзивара и бровью не повел. "
   },
   {
     "key": "“Let me be honest with you. ",
     "trx": "“Позвольте мне быть честным с вами. ",
-    "val": "“Let me be honest with you. "
+    "val": "“Позвольте мне быть честным с вами. "
   },
   {
     "key": "That bug tracker is...” ",
     "trx": "Этот жучок-трекер...” ",
-    "val": "That bug tracker is...” "
+    "val": "Этот детектор жучков...” "
   },
   {
     "key": "All of a sudden, a different noise cut in over the bug tracker.",
     "trx": "Внезапно в трекере ошибок послышался другой шум.",
-    "val": "All of a sudden, a different noise cut in over the bug tracker."
+    "val": "Внезапно другой звук заглушил детектор жучков."
   },
   {
     "key": "“Kajiwara here. ",
     "trx": "“Кадзивара слушает. ",
-    "val": "“Kajiwara here. "
+    "val": "“Кадзивара слушает. "
   },
   {
     "key": "Hmm? Kano?”",
     "trx": "Хмм? Кано?”",
-    "val": "Hmm? Kano?”"
+    "val": "Хмм? Кано?”"
   },
   {
     "key": "Kajiwara’s customary nonchalant expression vanished into a sudden seriousness.",
     "trx": "Обычное беззаботное выражение лица Кадзивары сменилось внезапной серьезностью.",
-    "val": "Kajiwara’s customary nonchalant expression vanished into a sudden seriousness."
+    "val": "Обычное беззаботное выражение лица Кадзивары сменилось внезапной серьезностью."
   },
   {
     "key": "“Sorry, hold on,” he continued. ",
     "trx": "”Извините, подождите\", - продолжил он. ",
-    "val": "“Sorry, hold on,” he continued. "
+    "val": "“Извини, подожди.” продолжил он. "
   },
   {
     "key": "“I can’t really hear you.”",
     "trx": "“Я действительно тебя не слышу”.",
-    "val": "“I can’t really hear you.”"
+    "val": "“Я тебя не слышу.”"
   },
   {
     "key": "He headed out of the room, the phone clutched to his ear.",
     "trx": "Он направился к выходу из комнаты, прижимая телефон к уху.",
-    "val": "He headed out of the room, the phone clutched to his ear."
+    "val": "Он направился к выходу из комнаты, прижимая телефон к уху."
   },
   {
     "key": "Osawa was left to wonder what the detective had been about to tell him.",
     "trx": "Осаве оставалось только гадать, что же детектив собирался ему сказать.",
-    "val": "Osawa was left to wonder what the detective had been about to tell him."
+    "val": "Осаве оставалось только гадать, что же детектив собирался ему сказать."
   },
   {
     "key": "The bug tracker was...",
     "trx": "Жучок-трекер был...",
-    "val": "The bug tracker was..."
+    "val": "Этот детектор жучков был... "
   },
   {
     "key": "was what? What the heck was going on?",
     "trx": "было что? Что, черт возьми, происходит?",
-    "val": "was what? What the heck was going on?"
+    "val": "был — что? Что, черт возьми, происходит?"
   },
   {
     "key": "The sound wasn’t stopping.",
     "trx": "Звук не прекращался.",
-    "val": "The sound wasn’t stopping."
+    "val": "Звук не прекращался."
   },
   {
     "key": "Deciding that he better do something, Osawa took the bug tracker and checked behind his bookcase.",
     "trx": "Решив, что ему лучше что-нибудь предпринять, Осава взял жучок-трекер и заглянул за свой книжный шкаф.",
-    "val": "Deciding that he better do something, Osawa took the bug tracker and checked behind his bookcase."
+    "val": "Решив, что ему лучше что-нибудь предпринять, Осава взял детектор жучков и заглянул за свой книжный шкаф."
   },
   {
     "key": "It didn’t seem like the signal was coming from back there.",
     "trx": "Не похоже было, что сигнал шел оттуда.",
-    "val": "It didn’t seem like the signal was coming from back there."
+    "val": "Не похоже было, что сигнал шел оттуда."
   },
   {
     "key": "He proceeded to pull each and every one of the books off of the shelf.",
     "trx": "Он принялся снимать все книги до единой с полки.",
-    "val": "He proceeded to pull each and every one of the books off of the shelf."
+    "val": "Он принялся снимать все книги с полки до единой."
   },
   {
     "key": "Nothing.",
     "trx": "Ничего.",
-    "val": "Nothing."
+    "val": "Ничего."
   },
   {
     "key": "He checked the area around his computer.",
     "trx": "Он проверил область вокруг своего компьютера.",
-    "val": "He checked the area around his computer."
+    "val": "Он проверил область вокруг своего компьютера."
   },
   {
     "key": "He scanned the monitor, ",
     "trx": "Он осмотрел монитор, ",
-    "val": "He scanned the monitor, "
+    "val": "Он осмотрел монитор, "
   },
   {
     "key": "the case, ",
     "trx": "случай, ",
-    "val": "the case, "
+    "val": "дипломат, "
   },
   {
     "key": "the power outlet.",
     "trx": "электрическая розетка.",
-    "val": "the power outlet."
+    "val": "электрическую розетку."
   },
   {
     "key": "But he found nothing that could be a listening device anywhere.",
     "trx": "Но он нигде не нашел ничего, что могло бы быть подслушивающим устройством.",
-    "val": "But he found nothing that could be a listening device anywhere."
+    "val": "Но он нигде не нашел ничего, что могло бы быть прослушивающим устройством."
   },
   {
     "key": "He found a small screwdriver and dismantled the mouse.",
     "trx": "Он нашел маленькую отвертку и разобрал мышь.",
-    "val": "He found a small screwdriver and dismantled the mouse."
+    "val": "Он нашел маленькую отвертку и разобрал мышь."
   },
   {
     "key": "The brown circuit board was lined with chips, but nothing appeared out of the ordinary.",
     "trx": "Коричневая печатная плата была усеяна микросхемами, но ничего необычного не было.",
-    "val": "The brown circuit board was lined with chips, but nothing appeared out of the ordinary."
+    "val": "Коричневая печатная плата была усеяна микросхемами, но ничего необычного не было."
   },
   {
     "key": "And still the mechanical sound continued, mocking him.",
     "trx": "И все же механический звук продолжался, насмехаясь над ним.",
-    "val": "And still the mechanical sound continued, mocking him."
+    "val": "И все же механический звук продолжался, насмехаясь над ним."
   },
   {
     "key": "Just TRY to find it.",
     "trx": "Просто ПОПЫТАЙСЯ найти его.",
-    "val": "Just TRY to find it."
+    "val": "Просто ПОПЫТАЙСЯ найти его."
   },
   {
     "key": "Go ahead—look everywhere!",
     "trx": "Идите вперед — ищите везде!",
-    "val": "Go ahead—look everywhere!"
+    "val": "Продолжай — ищи везде!"
   },
   {
     "key": "bee-bee-bee-bee-bee-bee-bee-bee-bee-beep",
     "trx": "пчела-пчела-пчела-пчела-пчела-пчела-пчела-пчела-пчела",
-    "val": "bee-bee-bee-bee-bee-bee-bee-bee-bee-beep"
+    "val": "пи-пи-пи-пи-пи-пи-пи-пи-пи"
   },
   {
     "key": "He ",
     "trx": "Он ",
-    "val": "He "
+    "val": "Он над ним "
   },
   {
     "key": "was",
     "trx": "был",
-    "val": "was"
+    "val": "смеялся"
   },
   {
     "key": " being ridiculed.",
     "trx": " быть осмеянным.",
-    "val": " being ridiculed."
+    "val": "."
   },
   {
     "key": "The sound just wouldn’t stop.",
     "trx": "Звук просто не прекращался.",
-    "val": "The sound just wouldn’t stop."
+    "val": "Звук никак не прекращался."
   },
   {
     "key": "And still the time ticked past.",
     "trx": "А время все шло и шло.",
-    "val": "And still the time ticked past."
+    "val": "А время все шло и шло."
   },
   {
     "key": "Had it been five minutes? ",
     "trx": "Неужели прошло пять минут? ",
-    "val": "Had it been five minutes? "
+    "val": "Прошло уже пять минут? "
   },
   {
     "key": "Ten? ",
     "trx": "Десять? ",
-    "val": "Ten? "
+    "val": "Десять? "
   },
   {
     "key": "Maybe more? ",
     "trx": "Может быть, больше? ",
-    "val": "Maybe more? "
+    "val": "Может быть, больше? "
   },
   {
     "key": "He began to lose hope that he could find the listening devices—and even to stop caring.",
     "trx": "Он начал терять надежду на то, что сможет найти подслушивающие устройства — и даже перестал заботиться об этом.",
-    "val": "He began to lose hope that he could find the listening devices—and even to stop caring."
+    "val": "Он начал терять надежду на то, что сможет найти прослушивающие устройства — и даже перестал волноваться об этом."
   },
   {
     "key": "Instead, he was overcome with the feeling that this room, which for years had been his sanctuary, had ceased to be his own.",
     "trx": "Вместо этого его охватило чувство, что эта комната, которая в течение многих лет была его убежищем, перестала быть его собственной.",
-    "val": "Instead, he was overcome with the feeling that this room, which for years had been his sanctuary, had ceased to be his own."
+    "val": "Вместо этого его охватило чувство, что эта комната, которая в течение многих лет была его убежищем, перестала быть его собственной."
   },
   {
     "key": "It was as if something ",
     "trx": "Это было так, как будто что-то ",
-    "val": "It was as if something "
+    "val": "Как будто кто-то "
   },
   {
     "key": "other",
     "trx": "другой",
-    "val": "other"
+    "val": "другой"
   },
   {
     "key": " had intruded and laid claim to his personal space.",
     "trx": " вторглась и предъявила права на его личное пространство.",
-    "val": " had intruded and laid claim to his personal space."
+    "val": " вторгся и предъявил свои права на его личное пространство."
   },
   {
     "key": "In his fevered mind, ",
     "trx": "В его воспаленном сознании, ",
-    "val": "In his fevered mind, "
+    "val": "В его воспаленном сознании "
   },
   {
     "key": "he began to hear the tracker’s sound as a high-pitched laugh—",
     "trx": "он начал слышать звук следопыта как пронзительный смех—",
-    "val": "he began to hear the tracker’s sound as a high-pitched laugh—"
+    "val": "он начал слышать звук детектора как пронзительный смех — "
   },
   {
     "key": "an accursed, relentless noise, ",
     "trx": "проклятый, безжалостный шум, ",
-    "val": "an accursed, relentless noise, "
+    "val": "проклятый, безжалостный звук, "
   },
   {
     "key": "cruel and taunting, ",
     "trx": "жестокий и насмешливый, ",
-    "val": "cruel and taunting, "
+    "val": "жестокий и насмешливый, "
   },
   {
     "key": "the mockery of the Devil himself.",
     "trx": "насмешка самого дьявола.",
-    "val": "the mockery of the Devil himself."
+    "val": "смех самого Дьявола."
   },
   {
     "key": "Osawa hurled the bug tracker against the wall.",
     "trx": "Осава швырнул жучок-трекер об стену.",
-    "val": "Osawa hurled the bug tracker against the wall."
+    "val": "Осава швырнул детектор жучков об стену."
   },
   {
     "key": "Then he picked it up, ",
     "trx": "Затем он поднял его, ",
-    "val": "Then he picked it up, "
+    "val": "Затем он поднял его "
   },
   {
     "key": "only to smash it back onto the floor.",
     "trx": "только для того, чтобы разбить его обратно об пол.",
-    "val": "only to smash it back onto the floor."
+    "val": "только затем, чтобы разбить его об пол."
   },
   {
     "key": "Then he stomped on it ferociously.",
     "trx": "Затем он яростно наступил на нее.",
-    "val": "Then he stomped on it ferociously."
+    "val": "Затем он яростно наступил на него."
   },
   {
     "key": "There was a satisfying ",
     "trx": "Там было удовлетворительное ",
-    "val": "There was a satisfying "
+    "val": "Раздался приятный "
   },
   {
     "key": "snap",
     "trx": "щелкать",
-    "val": "snap"
+    "val": "щелчок"
   },
   {
     "key": ", ",
@@ -292,532 +292,532 @@
   {
     "key": "accompanied by the sensation of the thing being crushed underfoot.",
     "trx": "сопровождаемый ощущением того, что что-то раздавливается под ногами.",
-    "val": "accompanied by the sensation of the thing being crushed underfoot."
+    "val": "сопровождаемый ощущением того, как что-то ломается под ногами."
   },
   {
     "key": "The noise stopped.",
     "trx": "Шум прекратился.",
-    "val": "The noise stopped."
+    "val": "Шум прекратился."
   },
   {
     "key": "..or, well, it ought to have, ",
     "trx": "..или, ну, это должно было быть, ",
-    "val": "..or, well, it ought to have, "
+    "val": ".. или, ну, он должен был, "
   },
   {
     "key": "and yet for some reason, the horrid noise kept sounding in Osawa’s ears.",
     "trx": "и все же по какой-то причине ужасный шум продолжал звучать в ушах Осавы.",
-    "val": "and yet for some reason, the horrid noise kept sounding in Osawa’s ears."
+    "val": "но все же по какой-то причине ужасный звук продолжал звучать в ушах Осавы."
   },
   {
     "key": "It wasn’t coming from the bug tracker after all.",
     "trx": "В конце концов, это исходило не от баг-трекера.",
-    "val": "It wasn’t coming from the bug tracker after all."
+    "val": "И он исходил уже не от детектора жучков."
   },
   {
     "key": "It was inside his own head, ",
     "trx": "Это было в его собственной голове, ",
-    "val": "It was inside his own head, "
+    "val": "Он был в его собственной голове, "
   },
   {
     "key": "somewhere, inescapable, ",
     "trx": "где-то, неотвратимо, ",
-    "val": "somewhere, inescapable, "
+    "val": "и где-то там, неотвратимо, "
   },
   {
     "key": "echoing within his skull.",
     "trx": "эхом отдаваясь в его черепе.",
-    "val": "echoing within his skull."
+    "val": "эхом отдавался в его черепе."
   },
   {
     "key": "No, the noise didn’t stop; it only grew louder.",
     "trx": "Нет, шум не прекратился, он только усилился.",
-    "val": "No, the noise didn’t stop; it only grew louder."
+    "val": "Нет, шум не прекратился, он только усилился."
   },
   {
     "key": "Why?",
     "trx": "Почему?",
-    "val": "Why?"
+    "val": "Почему?"
   },
   {
     "key": "Why?",
     "trx": "Почему?",
-    "val": "Why?"
+    "val": "Почему?"
   },
   {
     "key": "Whyyyyyyy?!",
     "trx": "Почему Ыыыыыыыы?!",
-    "val": "Whyyyyyyy?!"
+    "val": "Почему-у-у-у-у-у?!"
   },
   {
     "key": "Osawa screamed.",
     "trx": "Осава закричал.",
-    "val": "Osawa screamed."
+    "val": "Осава закричал."
   },
   {
     "key": "Why...?",
     "trx": "Почему? ..",
-    "val": "Why...?"
+    "val": "Почему?.."
   },
   {
     "key": "Why was he being tormented like this?",
     "trx": "Почему его так мучили?",
-    "val": "Why was he being tormented like this?"
+    "val": "Почему его так мучили?"
   },
   {
     "key": "He couldn’t take it anymore.",
     "trx": "Он больше не мог этого выносить.",
-    "val": "He couldn’t take it anymore."
+    "val": "Он больше не мог этого выносить."
   },
   {
     "key": "He couldn’t even ",
     "trx": "Он даже не мог ",
-    "val": "He couldn’t even "
+    "val": "Он не мог больше "
   },
   {
     "key": "think",
     "trx": "думать",
-    "val": "think"
+    "val": "думать"
   },
   {
     "key": " straight anymore.",
     "trx": " больше не натурал.",
-    "val": " straight anymore."
+    "val": " ясно."
   },
   {
     "key": "He felt his mind beginning to dissolve...",
     "trx": "Он почувствовал, что его разум начинает растворяться...",
-    "val": "He felt his mind beginning to dissolve..."
+    "val": "Он почувствовал, что его разум начинает растворяться..."
   },
   {
     "key": "No. 34\u3000",
     "trx": "№ 34\u3000",
-    "val": "No. 34\u3000"
+    "val": "№ 34\u3000"
   },
   {
     "key": "Brainfreeze",
     "trx": "Замораживание мозга",
-    "val": "Brainfreeze"
+    "val": "Помешательство"
   },
   {
     "key": "Hint",
     "trx": "Подсказка",
-    "val": "Hint"
+    "val": "Подсказка"
   },
   {
     "key": "The incessant beeping from the bug tracker wound up driving Osawa out of his mind. What Kajiwara was about to say, just before he got that phone call, was pretty crucial for Osawa to hear. ",
     "trx": "Непрекращающийся писк жучка-трекера вывел Осаву из себя. То, что Кадзивара собирался сказать, как раз перед тем, как ему позвонили, было очень важно для Осавы услышать. ",
-    "val": "The incessant beeping from the bug tracker wound up driving Osawa out of his mind. What Kajiwara was about to say, just before he got that phone call, was pretty crucial for Osawa to hear. "
+    "val": "Непрекращающийся писк детектора жучков вывел Осаву из себя. То, что Кадзивара собирался сказать как раз перед тем, как ему позвонили, Осава обязательно должен был услышать. "
   },
   {
     "key": "Unfortunately, the call distracted him, and he left the room before he could finish his thought. Things could’ve gone differently, if only someone hadn’t called Detective Kajiwara right then.",
     "trx": "К сожалению, звонок отвлек его, и он вышел из комнаты, не успев закончить свою мысль. Все могло бы пойти по-другому, если бы только кто-то не позвонил детективу Кадзиваре прямо тогда.",
-    "val": "Unfortunately, the call distracted him, and he left the room before he could finish his thought. Things could’ve gone differently, if only someone hadn’t called Detective Kajiwara right then."
+    "val": "К сожалению, звонок отвлек его, и он вышел из комнаты, не успев закончить свою мысль. Все могло бы пойти по-другому, если бы кто-то не позвонил детективу Кадзиваре в это самое время."
   },
   {
     "key": "Maybe it was better to ask Tanaka to make him lunch instead.",
     "trx": "Может быть, лучше было попросить Танаку вместо этого приготовить ему обед.",
-    "val": "Maybe it was better to ask Tanaka to make him lunch instead."
+    "val": "Может быть, лучше было вместо этого попросить Танаку приготовить обед."
   },
   {
     "key": "Osawa gave him a hurried phone call, and his Assistant Director was quick to agree.",
     "trx": "Осава поспешно позвонил ему по телефону, и его помощник директора быстро согласился.",
-    "val": "Osawa gave him a hurried phone call, and his Assistant Director was quick to agree."
+    "val": "Осава поспешно позвонил своему помощнику по телефону, и он быстро согласился."
   },
   {
     "key": "“I’m having Mr. Tanaka help me here,” he told Kajiwara. ",
     "trx": "“Я попрошу мистера Танаку помочь мне здесь”, - сказал он Кадзиваре. ",
-    "val": "“I’m having Mr. Tanaka help me here,” he told Kajiwara. "
+    "val": "“Я попрошу мистера Танаку помочь мне,” сказал он Кадзиваре. "
   },
   {
     "key": "“By all means, go back to your investigation.”",
     "trx": "“Во что бы то ни стало, возвращайтесь к своему расследованию”.",
-    "val": "“By all means, go back to your investigation.”"
+    "val": "“Любой ценой возвращайтесь к своему расследованию.”"
   },
   {
     "key": "“Hm?” Kajiwara said. ",
     "trx": "“Хм?” Сказал Кадзивара. ",
-    "val": "“Hm?” Kajiwara said. "
+    "val": "“Хм?” Сказал Кадзивара. "
   },
   {
     "key": "“I hope you don’t think I’m not inclined to help you out.”",
     "trx": "“Надеюсь, ты не думаешь, что я не склонен тебе помогать”.",
-    "val": "“I hope you don’t think I’m not inclined to help you out.”"
+    "val": "“Надеюсь, вы не думаете, что я не склонен помогать вам.”"
   },
   {
     "key": "Since when had helping out been Kajiwara’s strong suit?",
     "trx": "С каких это пор помощь стала сильной стороной Кадзивары?",
-    "val": "Since when had helping out been Kajiwara’s strong suit?"
+    "val": "С каких это пор помощь стала сильной стороной Кадзивары?"
   },
   {
     "key": "“That’s not the issue,” Osawa said.",
     "trx": "“Проблема не в этом”, - сказал Осава.",
-    "val": "“That’s not the issue,” Osawa said."
+    "val": "“Проблема не в этом,” сказал Осава."
   },
   {
     "key": "“My, it’s such a shame, a friend being treated like a stranger.”",
     "trx": "“Боже, это такой позор, что с другом обращаются как с незнакомцем”.",
-    "val": "“My, it’s such a shame, a friend being treated like a stranger.”"
+    "val": "“Боже, это такой позор, когда с другом обращаются как с незнакомцем.”"
   },
   {
     "key": "Oh, how I would ",
     "trx": "О, как бы я хотел ",
-    "val": "Oh, how I would "
+    "val": "О, как мне "
   },
   {
     "key": "love",
     "trx": "любовь",
-    "val": "love"
+    "val": "хотелось"
   },
   {
     "key": " it if you were an actual stranger to me.",
     "trx": " это если бы ты был для меня настоящим незнакомцем.",
-    "val": " it if you were an actual stranger to me."
+    "val": ", чтобы ты на самом деле был для меня незнакомцем."
   },
   {
     "key": "While Osawa was still struggling to turn down Kajiwara’s assistance, Tanaka arrived, his sleeves rolled up.",
     "trx": "Пока Осава все еще пытался отказаться от помощи Кадзивары, прибыл Танака с закатанными рукавами.",
-    "val": "While Osawa was still struggling to turn down Kajiwara’s assistance, Tanaka arrived, his sleeves rolled up."
+    "val": "Пока Осава пытался отказаться от помощи Кадзивары, прибыл Танака с закатанными рукавами."
   },
   {
     "key": "He’d already removed his jacket and his necktie.",
     "trx": "Он уже снял пиджак и галстук.",
-    "val": "He’d already removed his jacket and his necktie."
+    "val": "Он уже снял пиджак и галстук."
   },
   {
     "key": "“All right,” he said, ",
     "trx": "“Хорошо\", ” сказал он, ",
-    "val": "“All right,” he said, "
+    "val": "“Хорошо,” сказал он, "
   },
   {
     "key": "“what are we making?”",
     "trx": "“что мы делаем?”",
-    "val": "“what are we making?”"
+    "val": "“что будем готовить?”"
   },
   {
     "key": "He sounded happy enough; apparently he didn’t mind cooking.",
     "trx": "Он казался достаточно счастливым; очевидно, он не возражал против приготовления пищи.",
-    "val": "He sounded happy enough; apparently he didn’t mind cooking."
+    "val": "Он казался достаточно счастливым; очевидно, он не возражал против приготовления пищи."
   },
   {
     "key": "This was a side of Tanaka that Osawa had never seen before.",
     "trx": "Это была та сторона Танаки, которую Осава никогда раньше не видел.",
-    "val": "This was a side of Tanaka that Osawa had never seen before."
+    "val": "Это была та сторона Танаки, которую Осава никогда раньше не видел."
   },
   {
     "key": "“Oh? ",
     "trx": "\"ой? ",
-    "val": "“Oh? "
+    "val": "“Ой. "
   },
   {
     "key": "Will you be helping out as well, Detective?” ",
     "trx": "Вы тоже будете помогать, детектив?” ",
-    "val": "Will you be helping out as well, Detective?” "
+    "val": "Вы тоже будете помогать, детектив?” "
   },
   {
     "key": "Tanaka regarded Kajiwara in his apron.",
     "trx": "Танака посмотрел на Кадзивару в фартуке.",
-    "val": "Tanaka regarded Kajiwara in his apron."
+    "val": "Танака посмотрел на Кадзивару в фартуке."
   },
   {
     "key": "“Of course. ",
     "trx": "\"конечно. ",
-    "val": "“Of course. "
+    "val": "“Конечно. "
   },
   {
     "key": "It’s all part of my duties while I’m stationed here.”",
     "trx": "Все это входит в мои обязанности, пока я здесь нахожусь.”",
-    "val": "It’s all part of my duties while I’m stationed here.”"
+    "val": "Все это входит в мои обязанности, пока я нахожусь здесь.”"
   },
   {
     "key": "“Understood. ",
     "trx": "“Понятно. ",
-    "val": "“Understood. "
+    "val": "“Понятно. "
   },
   {
     "key": "Let’s get started then, shall we?”",
     "trx": "Тогда давайте начнем, не так ли?”",
-    "val": "Let’s get started then, shall we?”"
+    "val": "Тогда давайте начнем, хорошо?”"
   },
   {
     "key": "The pair began rummaging about the kitchen, forming an immediate bond of camaraderie.",
     "trx": "Пара начала рыться на кухне, сразу же образовав узы товарищества.",
-    "val": "The pair began rummaging about the kitchen, forming an immediate bond of camaraderie."
+    "val": "Они вдвоем начали рыться на кухне, сразу же образовав товарищеские узы."
   },
   {
     "key": "Kajiwara peered into the refrigerator. ",
     "trx": "Кадзивара заглянул в холодильник. ",
-    "val": "Kajiwara peered into the refrigerator. "
+    "val": "Кадзивара заглянул в холодильник. "
   },
   {
     "key": "“Goodness. You are remarkably understocked,” he said. ",
     "trx": "“Боже мой. У вас удивительно мало персонала, - сказал он. ",
-    "val": "“Goodness. You are remarkably understocked,” he said. "
+    "val": "“Боже мой. Да у вас здесь почти ничего нет,” сказал он. "
   },
   {
     "key": "“Let’s see—could you please put these in the dinger, Mr. Osawa?”",
     "trx": "\"Давайте посмотрим — не могли бы вы, пожалуйста, положить это в мусорное ведро, мистер Осава?”",
-    "val": "“Let’s see—could you please put these in the dinger, Mr. Osawa?”"
+    "val": "“Посмотрим — не могли бы вы, пожалуйста, положить это в дингер, мистер Осава?”"
   },
   {
     "key": "The detective handed Osawa some frozen lumps of rice.",
     "trx": "Детектив протянул Осаве несколько замороженных кусочков риса.",
-    "val": "The detective handed Osawa some frozen lumps of rice."
+    "val": "Детектив протянул Осаве несколько замороженных комков риса."
   },
   {
     "key": "“You want me to help out?”",
     "trx": "“Ты хочешь, чтобы я тебе помог?”",
-    "val": "“You want me to help out?”"
+    "val": "“Вы хотите, чтобы я вам помог?”"
   },
   {
     "key": "“Of course. ",
     "trx": "\"конечно. ",
-    "val": "“Of course. "
+    "val": "“Конечно. "
   },
   {
     "key": "It is your rice, after all.”",
     "trx": "В конце концов, это твой рис.”",
-    "val": "It is your rice, after all.”"
+    "val": "В конце концов, это ваш рис.”"
   },
   {
     "key": "Osawa wasn’t sure how to respond to that.",
     "trx": "Осава не знал, как на это ответить.",
-    "val": "Osawa wasn’t sure how to respond to that."
+    "val": "Осава не знал, как на это ответить."
   },
   {
     "key": "“Please go ahead and ding those.”",
     "trx": "“Пожалуйста” продолжайте и позвоните им\".",
-    "val": "“Please go ahead and ding those.”"
+    "val": "“Пожалуйста, положите это в дингер.”"
   },
   {
     "key": "“Ding? ",
     "trx": "“Динь? ",
-    "val": "“Ding? "
+    "val": "“Дингер? "
   },
   {
     "key": "I’m afraid I’m not familiar with ‘dinging.’”",
     "trx": "Боюсь, я не знаком с ”звоном\".\"",
-    "val": "I’m afraid I’m not familiar with ‘dinging.’”"
+    "val": "Боюсь, я не знаю, что такое ‘дингер.’”"
   },
   {
     "key": "“I mean heat them in the microwave oven, sir.”",
     "trx": "“Я имею в виду разогреть их в микроволновой печи, сэр”.",
-    "val": "“I mean heat them in the microwave oven, sir.”"
+    "val": "“Я имею в виду, разогрейте это в микроволновой печи, сэр.”"
   },
   {
     "key": "Osawa stepped over to the microwave.",
     "trx": "Осава подошел к микроволновой печи.",
-    "val": "Osawa stepped over to the microwave."
+    "val": "Осава подошел к микроволновой печи."
   },
   {
     "key": "Unfortunately, he had no idea how to work the controls.",
     "trx": "К сожалению, он понятия не имел, как управлять приборами управления.",
-    "val": "Unfortunately, he had no idea how to work the controls."
+    "val": "К сожалению, он понятия не имел, как ей управлять."
   },
   {
     "key": "“You should thaw that rice out as soon as possible,” Kajiwara told him.",
     "trx": "“Ты должен разморозить этот рис как можно скорее”, - сказал ему Кадзивара.",
-    "val": "“You should thaw that rice out as soon as possible,” Kajiwara told him."
+    "val": "“Нужно разморозить этот рис как можно скорее,” сказал ему Кадзивара."
   },
   {
     "key": "“I’m actually not sure how to operate this thing.”",
     "trx": "“Я на самом деле не знаю, как управлять этой штукой”.",
-    "val": "“I’m actually not sure how to operate this thing.”"
+    "val": "“На самом деле, я не знаю, как управлять этой штукой.”"
   },
   {
     "key": "“What?” the detective gasped. ",
     "trx": "”Что?\" - выдохнул детектив. ",
-    "val": "“What?” the detective gasped. "
+    "val": "“Что?” выдохнул детектив. "
   },
   {
     "key": "“You don’t know how to use a microwave?” ",
     "trx": "“Ты не знаешь, как пользоваться микроволновой печью?” ",
-    "val": "“You don’t know how to use a microwave?” "
+    "val": "“Вы не знаете, как пользоваться микроволновой печью?” "
   },
   {
     "key": "Kajiwara gave him a look of disbelief.",
     "trx": "Кадзивара недоверчиво посмотрел на него.",
-    "val": "Kajiwara gave him a look of disbelief."
+    "val": "Кадзивара недоверчиво посмотрел на него."
   },
   {
     "key": "“It should be just as simple as turning the dial.” ",
     "trx": "“Это должно быть так же просто, как повернуть диск”. ",
-    "val": "“It should be just as simple as turning the dial.” "
+    "val": "“Это просто, надо всего лишь повернуть диск.” "
   },
   {
     "key": "Osawa turned the dial labeled ‘Thaw,’ then crossed his arms with a satisfied grin.",
     "trx": "Осава повернул диск с надписью \"Оттепель\", затем скрестил руки на груди с довольной ухмылкой.",
-    "val": "Osawa turned the dial labeled ‘Thaw,’ then crossed his arms with a satisfied grin."
+    "val": "Осава повернул диск с надписью ‘Разморозка,’ затем скрестил руки на груди с довольной ухмылкой."
   },
   {
     "key": "“Mr. Osawa? ",
     "trx": "“Мистер Осава? ",
-    "val": "“Mr. Osawa? "
+    "val": "“Мистер Осава? "
   },
   {
     "key": "I’m sure you already know this, but you need to put the rice inside first, and ",
     "trx": "Я уверен, что вы уже знаете это, но сначала вам нужно положить рис внутрь, и ",
-    "val": "I’m sure you already know this, but you need to put the rice inside first, and "
+    "val": "Я уверен, что вы уже знаете это, но сначала нужно положить в нее рис, и только "
   },
   {
     "key": "then",
     "trx": "затем",
-    "val": "then"
+    "val": "затем"
   },
   {
     "key": " turn the dial.”",
     "trx": " поверни диск.”",
-    "val": " turn the dial.”"
+    "val": " повернуть диск.”"
   },
   {
     "key": "Osawa swallowed quietly.",
     "trx": "Осава тихо сглотнул.",
-    "val": "Osawa swallowed quietly."
+    "val": "Осава тихо сглотнул."
   },
   {
     "key": "He put the frozen rice into the microwave, then turned the dial once more.",
     "trx": "Он положил замороженный рис в микроволновую печь, затем еще раз повернул ручку.",
-    "val": "He put the frozen rice into the microwave, then turned the dial once more."
+    "val": "Он положил замороженный рис в микроволновую печь, затем еще раз повернул диск."
   },
   {
     "key": "“I don’t know what everyone expects,” he muttered sullenly. ",
     "trx": "“Я не знаю, чего все ожидают”, - угрюмо пробормотал он. ",
-    "val": "“I don’t know what everyone expects,” he muttered sullenly. "
+    "val": "“Я не знаю, чего все ожидают,” угрюмо пробормотал он. "
   },
   {
     "key": "“It’s not like I’ve ever used one of these things before.”",
     "trx": "“Не похоже, чтобы я когда-либо использовал одну из этих вещей раньше”.",
-    "val": "“It’s not like I’ve ever used one of these things before.”"
+    "val": "“Я никогда раньше не делал этого.”"
   },
   {
     "key": "“Mr. Osawa, why don’t you take this and go wait somewhere?”",
     "trx": "“Мистер Осава, почему бы вам не взять это и не пойти подождать где-нибудь?”",
-    "val": "“Mr. Osawa, why don’t you take this and go wait somewhere?”"
+    "val": "“Мистер Осава, почему бы вам не взять это и не пойти подождать где-нибудь?”"
   },
   {
     "key": "Kajiwara pulled out a sheet of ",
     "trx": "Кадзивара вытащил лист бумаги ",
-    "val": "Kajiwara pulled out a sheet of "
+    "val": "Кадзивара вытащил из кармана лист "
   },
   {
     "key": "bubble wrap",
     "trx": "пузырчатая пленка",
-    "val": "bubble wrap"
+    "val": "пузырчатой пленки"
   },
   {
     "key": " from his pocket.",
     "trx": " из его кармана.",
-    "val": " from his pocket."
+    "val": "."
   },
   {
     "key": "“What ",
     "trx": "“Что ",
-    "val": "“What "
+    "val": "“Для чего "
   },
   {
     "key": "is this for?”",
     "trx": "это для чего?”",
-    "val": "is this for?”"
+    "val": "это?”"
   },
   {
     "key": "“Use your fingers to pop the bubbles. ",
     "trx": "“Используй свои пальцы, чтобы лопать пузыри. ",
-    "val": "“Use your fingers to pop the bubbles. "
+    "val": "“Лопайте пузыри пальцами. "
   },
   {
     "key": "That should help you calm down.”",
     "trx": "Это должно помочь тебе успокоиться.”",
-    "val": "That should help you calm down.”"
+    "val": "Это поможет вам успокоиться.”"
   },
   {
     "key": "Too drained to argue, Osawa did as prompted, starting to pop his way along the sheet.",
     "trx": "Слишком опустошенный, чтобы спорить, Осава сделал, как ему было предложено, начав прокладывать себе путь по простыне.",
-    "val": "Too drained to argue, Osawa did as prompted, starting to pop his way along the sheet."
+    "val": "Слишком опустошенный, чтобы спорить, Осава сделал, как ему было предложено, начав лопать пузыри один за другим."
   },
   {
     "key": "“Well, Mr. Tanaka,” Kajiwara said after they’d spent a little time working at the stove, “you probably don’t need to stay any longer. ",
     "trx": "“Что ж, мистер Танака, - сказал Кадзивара после того, как они немного поработали у плиты, - вам, вероятно, больше не нужно оставаться. ",
-    "val": "“Well, Mr. Tanaka,” Kajiwara said after they’d spent a little time working at the stove, “you probably don’t need to stay any longer. "
+    "val": "“Что ж, мистер Танака,” сказал Кадзивара после того, как они немного поработали у плиты, “вам, вероятно, больше не нужно здесь задерживаться. "
   },
   {
     "key": "Sorry for the trouble.”",
     "trx": "Извините за беспокойство.”",
-    "val": "Sorry for the trouble.”"
+    "val": "Извините за беспокойство.”"
   },
   {
     "key": "“It’s quite all right,” Tanaka replied. ",
     "trx": "“Все в порядке”, - ответил Танака. ",
-    "val": "“It’s quite all right,” Tanaka replied. "
+    "val": "“Все в порядке,” ответил Танака. "
   },
   {
     "key": "“With so little in the way of ingredients, I guess there wasn’t much I could really do.” ",
     "trx": "“С таким небольшим количеством ингредиентов, я думаю, я мало что мог сделать”. ",
-    "val": "“With so little in the way of ingredients, I guess there wasn’t much I could really do.” "
+    "val": "“Думаю, с таким небольшим количеством ингредиентов я мало что мог сделать.” "
   },
   {
     "key": "Shoulders slumped, he glanced over at Osawa.",
     "trx": "Опустив плечи, он взглянул на Осаву.",
-    "val": "Shoulders slumped, he glanced over at Osawa."
+    "val": "Опустив плечи, он взглянул на Осаву."
   },
   {
     "key": "“I’ll leave this in your hands, then, Detective.”",
     "trx": "“Тогда я оставляю это в ваших руках, детектив”.",
-    "val": "“I’ll leave this in your hands, then, Detective.”"
+    "val": "“Тогда я оставляю это в ваших руках, детектив.”"
   },
   {
     "key": "“Are you sure you don’t mind? ",
     "trx": "“Ты уверен, что не возражаешь? ",
-    "val": "“Are you sure you don’t mind? "
+    "val": "“Вы уверены, что не возражаете? "
   },
   {
     "key": "Should I go out and purchase some more ingredients?”",
     "trx": "Может, мне пойти и купить еще каких-нибудь ингредиентов?”",
-    "val": "Should I go out and purchase some more ingredients?”"
+    "val": "Может, мне пойти и купить еще каких-нибудь ингредиентов?”"
   },
   {
     "key": "“No, that’s fine. ",
     "trx": "“Нет, все в порядке. ",
-    "val": "“No, that’s fine. "
+    "val": "“Нет, все в порядке. "
   },
   {
     "key": "Thank you for all the trouble.”",
     "trx": "Спасибо вам за все хлопоты.”",
-    "val": "Thank you for all the trouble.”"
+    "val": "Спасибо вам за ваши хлопоты.”"
   },
   {
     "key": "“No, I apologize for not being more helpful.”",
     "trx": "“Нет, я прошу прощения за то, что не был более полезен”.",
-    "val": "“No, I apologize for not being more helpful.”"
+    "val": "“Нет, это я прошу прощения за то, что не смог помочь вам больше.”"
   },
   {
     "key": "Tanaka washed his hands and left the kitchen.",
     "trx": "Танака вымыл руки и вышел из кухни.",
-    "val": "Tanaka washed his hands and left the kitchen."
+    "val": "Танака вымыл руки и вышел из кухни."
   },
   {
     "key": "Since Ai’s lunch was gone as well, he should probably have her make something.",
     "trx": "Поскольку обед Ай тоже пропал, ему, вероятно, следует попросить ее что-нибудь приготовить.",
-    "val": "Since Ai’s lunch was gone as well, he should probably have her make something."
+    "val": "Поскольку обед Ай тоже пропал, ему, вероятно, следует попросить ее что-нибудь приготовить."
   },
   {
     "key": "Osawa called his wife on the intercom to make the suggestion.",
     "trx": "Осава позвонил своей жене по внутренней связи, чтобы высказать это предложение.",
-    "val": "Osawa called his wife on the intercom to make the suggestion."
+    "val": "Осава позвонил своей жене по внутренней связи, чтобы высказать это предложение."
   },
   {
     "key": "“Absolutely not,” she scoffed. ",
     "trx": "“Абсолютно нет\", ” усмехнулась она. ",
-    "val": "“Absolutely not,” she scoffed. "
+    "val": "“Никоим образом,” усмехнулась она. "
   },
   {
     "key": "“Besides, I’m ",
     "trx": "“Кроме того, я ",
-    "val": "“Besides, I’m "
+    "val": "“Кроме того, я "
   },
   {
     "key": "not even hungry",
     "trx": "даже не голоден",
-    "val": "not even hungry"
+    "val": "даже не голодна"
   },
   {
     "key": ".”",
@@ -827,456 +827,456 @@
   {
     "key": "Hanging up the receiver, Osawa turned back to Kajiwara. ",
     "trx": "Повесив трубку, Осава повернулся к Кадзиваре. ",
-    "val": "Hanging up the receiver, Osawa turned back to Kajiwara. "
+    "val": "Повесив трубку, Осава повернулся к Кадзиваре. "
   },
   {
     "key": "“Very well, Detective. If you’d be so kind.”",
     "trx": "“Очень хорошо, детектив. Если вы будете так добры.”",
-    "val": "“Very well, Detective. If you’d be so kind.”"
+    "val": "“Очень хорошо, детектив. Если вы будете так добры.”"
   },
   {
     "key": "He needed to keep this a secret.",
     "trx": "Ему нужно было сохранить это в секрете.",
-    "val": "He needed to keep this a secret."
+    "val": "Ему нужно было сохранить это в секрете."
   },
   {
     "key": "“It doesn’t concern you.”",
     "trx": "“Тебя это не касается”.",
-    "val": "“It doesn’t concern you.”"
+    "val": "“Это вас не касается.”"
   },
   {
     "key": "“All right,” the detective said. “In that case I have just one condition. ",
     "trx": "“Хорошо\", ” сказал детектив. “В таком случае у меня есть только одно условие. ",
-    "val": "“All right,” the detective said. “In that case I have just one condition. "
+    "val": "“Хорошо,” сказал детектив. “В таком случае у меня есть только одно условие. "
   },
   {
     "key": "Please take this with you.”",
     "trx": "Пожалуйста, возьми это с собой\".",
-    "val": "Please take this with you.”"
+    "val": "Пожалуйста, возьмите это с собой.”"
   },
   {
     "key": "He produced something that looked like a small transceiver from inside his coat.",
     "trx": "Он достал из-под пальто что-то похожее на маленький приемопередатчик.",
-    "val": "He produced something that looked like a small transceiver from inside his coat."
+    "val": "Он достал из-под пальто что-то похожее на маленький радиопередатчик."
   },
   {
     "key": "“What’s this?”",
     "trx": "“Что это?”",
-    "val": "“What’s this?”"
+    "val": "“Что это?”"
   },
   {
     "key": "“It’s a bug tracker, sir. ",
     "trx": "“Это устройство для отслеживания ошибок, сэр. ",
-    "val": "“It’s a bug tracker, sir. "
+    "val": "“Это детектор жучков, сэр. "
   },
   {
     "key": "It’ll beep in response to a nearby listening device.”",
     "trx": "Он подаст звуковой сигнал в ответ на близлежащее подслушивающее устройство.”",
-    "val": "It’ll beep in response to a nearby listening device.”"
+    "val": "Он подаст звуковой сигнал, если обнаружит поблизости прослушивающее устройство.”"
   },
   {
     "key": "“I don’t need this.”",
     "trx": "“Мне это не нужно”.",
-    "val": "“I don’t need this.”"
+    "val": "“Мне это не нужно.”"
   },
   {
     "key": "“I’m just going to buy some cigarettes,” he lied.",
     "trx": "“Я просто собираюсь купить сигарет\", ” солгал он.",
-    "val": "“I’m just going to buy some cigarettes,” he lied."
+    "val": "“Я просто собираюсь купить сигарет,” солгал он."
   },
   {
     "key": "Kajiwara flashed an awkward smile. ",
     "trx": "Кадзивара неловко улыбнулся. ",
-    "val": "Kajiwara flashed an awkward smile. "
+    "val": "Кадзивара неловко улыбнулся. "
   },
   {
     "key": "“Now that’s odd. ",
     "trx": "“Вот это странно. ",
-    "val": "“Now that’s odd. "
+    "val": "“Вот это странно. "
   },
   {
     "key": "I didn’t think you smoked, Mr. Osawa.”",
     "trx": "Я не думал, что вы курите, мистер Осава.”",
-    "val": "I didn’t think you smoked, Mr. Osawa.”"
+    "val": "Я не думал, что вы курите, мистер Осава.”"
   },
   {
     "key": "“I’m getting them for Ai.”",
     "trx": "“Я получаю их для Ии”.",
-    "val": "“I’m getting them for Ai.”"
+    "val": "“Я покупаю их для Ай.”"
   },
   {
     "key": "“I’ve never seen your wife smoke either, sir. ",
     "trx": "“Я тоже никогда не видел, чтобы ваша жена курила, сэр. ",
-    "val": "“I’ve never seen your wife smoke either, sir. "
+    "val": "“Я также никогда не видел, чтобы курила ваша жена, сэр. "
   },
   {
     "key": "And besides...” ",
     "trx": "И кроме того...” ",
-    "val": "And besides...” "
+    "val": "И кроме того...” "
   },
   {
     "key": "Kajiwara leaned in closer to him. ",
     "trx": "Кадзивара наклонился к нему ближе. ",
-    "val": "Kajiwara leaned in closer to him. "
+    "val": "Кадзивара наклонился еще ближе. "
   },
   {
     "key": "“...your wife isn’t even home right now, is she?”",
     "trx": "“...твоей жены сейчас даже нет дома, не так ли?”",
-    "val": "“...your wife isn’t even home right now, is she?”"
+    "val": "“...вашей жены сейчас даже нет дома, не так ли?”"
   },
   {
     "key": "This wasn’t going as Osawa had hoped; evidently he wasn’t a very good liar.",
     "trx": "Все шло не так, как надеялся Осава; очевидно, он был не очень хорошим лжецом.",
-    "val": "This wasn’t going as Osawa had hoped; evidently he wasn’t a very good liar."
+    "val": "Все шло не так, как надеялся Осава; очевидно, он не очень хорошо умел лгать."
   },
   {
     "key": "Even so, he decided to double down. ",
     "trx": "Тем не менее, он решил удвоить ставку. ",
-    "val": "Even so, he decided to double down. "
+    "val": "Тем не менее, он решил удвоить ставку. "
   },
   {
     "key": "“All right, fine. ",
     "trx": "“Хорошо, хорошо. ",
-    "val": "“All right, fine. "
+    "val": "“Хорошо, хорошо. "
   },
   {
     "key": "It was actually Mr. Tanaka who asked me to get them.”",
     "trx": "На самом деле это был мистер Танака, который попросил меня достать их.”",
-    "val": "It was actually Mr. Tanaka who asked me to get them.”"
+    "val": "На самом деле меня просил их достать мистер Танака.”"
   },
   {
     "key": "“Oho. Now that’s surprising. ",
     "trx": "“Ого. Вот это удивительно. ",
-    "val": "“Oho. Now that’s surprising. "
+    "val": "“Ого. Вот это удивительно. "
   },
   {
     "key": "Is that the sort of thing he’d ask of you, Mr. Osawa?”",
     "trx": "Это то, о чем он попросил бы вас, мистер Осава?”",
-    "val": "Is that the sort of thing he’d ask of you, Mr. Osawa?”"
+    "val": "Он мог бы попросить вас о таком, мистер Осава?”"
   },
   {
     "key": "Kajiwara was genuinely gifted at getting on one’s nerves.",
     "trx": "Кадзивара был по-настоящему одарен умением действовать на нервы.",
-    "val": "Kajiwara was genuinely gifted at getting on one’s nerves."
+    "val": "Кадзивара был по-настоящему одарен умением действовать на нервы."
   },
   {
     "key": "Osawa barely contained an urge to punch the detective right in the face.",
     "trx": "Осава едва сдержал желание ударить детектива прямо в лицо.",
-    "val": "Osawa barely contained an urge to punch the detective right in the face."
+    "val": "Осава едва сдержал желание ударить детектива прямо в лицо."
   },
   {
     "key": "“Well, no matter, I suppose,” Kajiwara went on at last. ",
     "trx": "“Ну, я полагаю, это не имеет значения”, - наконец продолжил Кадзивара. ",
-    "val": "“Well, no matter, I suppose,” Kajiwara went on at last. "
+    "val": "“Ну, я полагаю, это не имеет значения,” наконец продолжил Кадзивара. "
   },
   {
     "key": "“Just try not to wander too far. ",
     "trx": "“Просто постарайся не уходить слишком далеко. ",
-    "val": "“Just try not to wander too far. "
+    "val": "“Просто постарайтесь не уходить слишком далеко. "
   },
   {
     "key": "Oh, and also...” ",
     "trx": "О, и еще...” ",
-    "val": "Oh, and also...” "
+    "val": "О, и еще...” "
   },
   {
     "key": "He produced something that looked like a small transceiver from inside his coat. ",
     "trx": "Он достал из-под пальто что-то похожее на маленький приемопередатчик. ",
-    "val": "He produced something that looked like a small transceiver from inside his coat. "
+    "val": "Он достал из-под пальто что-то похожее на маленький радиопередатчик. "
   },
   {
     "key": "“Please take this with you.”",
     "trx": "“Пожалуйста” возьми это с собой\".",
-    "val": "“Please take this with you.”"
+    "val": "“Пожалуйста, возьмите это с собой.”"
   },
   {
     "key": "“What the heck is it?”",
     "trx": "“Что это, черт возьми, такое?”",
-    "val": "“What the heck is it?”"
+    "val": "“Что это, черт возьми, такое?”"
   },
   {
     "key": "“It’s a bug tracker, sir. ",
     "trx": "“Это устройство для отслеживания ошибок, сэр. ",
-    "val": "“It’s a bug tracker, sir. "
+    "val": "“Это детектор жучков, сэр. "
   },
   {
     "key": "It’ll beep in response to a nearby listening device.”",
     "trx": "Он подаст звуковой сигнал в ответ на близлежащее подслушивающее устройство.”",
-    "val": "It’ll beep in response to a nearby listening device.”"
+    "val": "Он подаст звуковой сигнал, если обнаружит поблизости прослушивающее устройство.”"
   },
   {
     "key": "“I don’t need this.”",
     "trx": "“Мне это не нужно”.",
-    "val": "“I don’t need this.”"
+    "val": "“Мне это не нужно.”"
   },
   {
     "key": "“Couldn’t this wait just a little bit, sir?” Osawa asked.",
     "trx": "“Не может ли это немного подождать, сэр?” - спросил Осава.",
-    "val": "“Couldn’t this wait just a little bit, sir?” Osawa asked."
+    "val": "“Не может ли это немного подождать, сэр?” спросил Осава."
   },
   {
     "key": "Maybe he could still find a way out.",
     "trx": "Может быть, он все еще мог бы найти выход.",
-    "val": "Maybe he could still find a way out."
+    "val": "Может быть, он все еще мог найти выход."
   },
   {
     "key": "“You already know what my decision is,” Makino said. ",
     "trx": "“Вы уже знаете, каково мое решение\", - сказал Макино. ",
-    "val": "“You already know what my decision is,” Makino said. "
+    "val": "“Ты уже знаешь мое решение,” сказал Макино. "
   },
   {
     "key": "His tone carried an edge of intimidation.",
     "trx": "В его тоне слышалась нотка запугивания.",
-    "val": "His tone carried an edge of intimidation."
+    "val": "В его тоне слышалась нотка запугивания."
   },
   {
     "key": "Osawa didn’t reply; he simply stared at the telephone.",
     "trx": "Осава не ответил; он просто уставился на телефон.",
-    "val": "Osawa didn’t reply; he simply stared at the telephone."
+    "val": "Осава не ответил; он просто уставился на телефон."
   },
   {
     "key": "He felt like an insect who’d had all its legs plucked off.",
     "trx": "Он чувствовал себя насекомым, которому оторвали все ноги.",
-    "val": "He felt like an insect who’d had all its legs plucked off."
+    "val": "Он чувствовал себя насекомым, которому оторвали все лапы."
   },
   {
     "key": "“You need to think about your wife, too.” ",
     "trx": "“Тебе тоже нужно подумать о своей жене”. ",
-    "val": "“You need to think about your wife, too.” "
+    "val": "“Тебе нужно также подумать о своей жене.” "
   },
   {
     "key": "Makino’s words were barely above a murmur.",
     "trx": "Слова Макино были едва слышнее шепота.",
-    "val": "Makino’s words were barely above a murmur."
+    "val": "Слова Макино были едва громче шепота."
   },
   {
     "key": "Realizing that his boss was speaking as Ai’s father, Osawa couldn’t bring himself to resist further.",
     "trx": "Поняв, что его босс говорит как отец Аи, Осава не мог заставить себя сопротивляться дальше.",
-    "val": "Realizing that his boss was speaking as Ai’s father, Osawa couldn’t bring himself to resist further."
+    "val": "Поняв, что его босс говорит сейчас как отец Ай, Осава не мог заставить себя сопротивляться дальше."
   },
   {
     "key": "He reached out for the phone.",
     "trx": "Он потянулся к телефону.",
-    "val": "He reached out for the phone."
+    "val": "Он потянулся к телефону."
   },
   {
     "key": "It would be around 10 p.m. local time for the American firm.",
     "trx": "Для американской фирмы это будет около 10 часов вечера по местному времени.",
-    "val": "It would be around 10 p.m. local time for the American firm."
+    "val": "В американской фирме сейчас около 10 часов вечера по местному времени."
   },
   {
     "key": "He decided to call his contact’s personal phone.",
     "trx": "Он решил позвонить на личный телефон своего контактного лица.",
-    "val": "He decided to call his contact’s personal phone."
+    "val": "Он решил позвонить на личный телефон своего контактного лица."
   },
   {
     "key": "There was no way it could be ",
     "trx": "Этого никак не могло быть ",
-    "val": "There was no way it could be "
+    "val": "Это не может быть "
   },
   {
     "key": "that",
     "trx": "тот",
-    "val": "that"
+    "val": "настолько"
   },
   {
     "key": " important.",
     "trx": " важный.",
-    "val": " important."
+    "val": " важным."
   },
   {
     "key": "Osawa didn’t need to listen to this clown.",
     "trx": "Осаве не нужно было слушать этого клоуна.",
-    "val": "Osawa didn’t need to listen to this clown."
+    "val": "Осава не хотел больше слушать этого клоуна."
   },
   {
     "key": "“Sorry, but I think we’re done, here. ",
     "trx": "“Извините, но я думаю, что мы закончили, здесь. ",
-    "val": "“Sorry, but I think we’re done, here. "
+    "val": "“Извините, но я думаю, что мы на этом закончили. "
   },
   {
     "key": "Now would you please leave?”",
     "trx": "А теперь не могли бы вы, пожалуйста, уйти?”",
-    "val": "Now would you please leave?”"
+    "val": "А теперь не могли бы вы, пожалуйста, уйти?”"
   },
   {
     "key": "Kajiwara’s steely expression hardened even further. ",
     "trx": "Стальное выражение лица Кадзивары посуровело еще больше. ",
-    "val": "Kajiwara’s steely expression hardened even further. "
+    "val": "Стальное выражение лица Кадзивары посуровело еще больше. "
   },
   {
     "key": "“But Mr. Osawa...” ",
     "trx": "“Но мистер Осава...” ",
-    "val": "“But Mr. Osawa...” "
+    "val": "“Но мистер Осава...” "
   },
   {
     "key": "“...your life is on the line, here.”",
     "trx": "\"...твоя жизнь здесь на кону”.",
-    "val": "“...your life is on the line, here.”"
+    "val": "“...ваша жизнь здесь на кону.”"
   },
   {
     "key": "“What?”",
     "trx": "«что?»",
-    "val": "“What?”"
+    "val": "“Что?”"
   },
   {
     "key": "Just then, a pathetic gurgle arose from Osawa’s stomach.",
     "trx": "В этот момент из желудка Осавы вырвалось жалобное бульканье.",
-    "val": "Just then, a pathetic gurgle arose from Osawa’s stomach."
+    "val": "В этот момент из желудка Осавы вырвалось жалобное бульканье."
   },
   {
     "key": "“Ah, see,” Kajiwara said. ",
     "trx": "“А, вот видишь”, - сказал Кадзивара. ",
-    "val": "“Ah, see,” Kajiwara said. "
+    "val": "“Ага, видите,” сказал Кадзивара. "
   },
   {
     "key": "“You ",
     "trx": "“Ты ",
-    "val": "“You "
+    "val": "“Вы "
   },
   {
     "key": "are",
     "trx": "являются",
-    "val": "are"
+    "val": "проголодались"
   },
   {
     "key": " hungry.”",
     "trx": " голодный.”",
-    "val": " hungry.”"
+    "val": ".”"
   },
   {
     "key": "At the talk of food, Osawa realized abruptly that he hadn’t eaten anything since the night before.",
     "trx": "При разговоре о еде Осава внезапно осознал, что ничего не ел со вчерашнего вечера.",
-    "val": "At the talk of food, Osawa realized abruptly that he hadn’t eaten anything since the night before."
+    "val": "При разговоре о еде Осава внезапно осознал, что ничего не ел со вчерашнего вечера."
   },
   {
     "key": "“Shall I make something for you?” the detective asked. “This is all my fault, after all.”",
     "trx": "“Приготовить вам что-нибудь?” - спросил детектив. “В конце концов, это все моя вина”.",
-    "val": "“Shall I make something for you?” the detective asked. “This is all my fault, after all.”"
+    "val": "“Приготовить вам что-нибудь?” спросил детектив. “В конце концов, это все моя вина.”"
   },
   {
     "key": "Osawa raised a curious eyebrow. “Your fault?”",
     "trx": "Осава с любопытством приподнял бровь. “Твоя вина?”",
-    "val": "Osawa raised a curious eyebrow. “Your fault?”"
+    "val": "Осава с любопытством приподнял бровь. “Ваша вина?”"
   },
   {
     "key": "“Well, you see...",
     "trx": "“Ну, вот видишь...",
-    "val": "“Well, you see..."
+    "val": "“Ну, видите ли... "
   },
   {
     "key": "we ordered lunches for everyone, and it looked like there were two still left over, so I wound up eating them.”",
     "trx": "мы заказали обеды для всех, и, похоже, там еще оставалось два, так что я закончил тем, что съел их”.",
-    "val": "we ordered lunches for everyone, and it looked like there were two still left over, so I wound up eating them.”"
+    "val": "мы заказали обеды для всех, и, похоже, там еще оставалось два, так что в итоге я их съел.”"
   },
   {
     "key": "There was an awkward pause.",
     "trx": "Последовала неловкая пауза.",
-    "val": "There was an awkward pause."
+    "val": "Последовала неловкая пауза."
   },
   {
     "key": "Osawa didn’t have the foggiest idea of how to respond.",
     "trx": "Осава не имел ни малейшего представления о том, как реагировать.",
-    "val": "Osawa didn’t have the foggiest idea of how to respond."
+    "val": "Осава не имел ни малейшего представления о том, как реагировать."
   },
   {
     "key": "“My deepest apologies, sir. ",
     "trx": "“Мои глубочайшие извинения, сэр. ",
-    "val": "“My deepest apologies, sir. "
+    "val": "“Мои глубочайшие извинения, сэр. "
   },
   {
     "key": "I ate the lunches intended for you and your wife.”",
     "trx": "Я съел обеды, предназначенные для вас и вашей жены.”",
-    "val": "I ate the lunches intended for you and your wife.”"
+    "val": "Я съел обеды, предназначенные для вас и вашей жены.”"
   },
   {
     "key": "Kajiwara bowed profusely. ",
     "trx": "Кадзивара низко поклонился. ",
-    "val": "Kajiwara bowed profusely. "
+    "val": "Кадзивара низко поклонился. "
   },
   {
     "key": "“And I really do need to apologize. They were ",
     "trx": "“И мне действительно нужно извиниться. Они были ",
-    "val": "“And I really do need to apologize. They were "
+    "val": "“И мне действительно нужно извиниться. Это были "
   },
   {
     "key": "tonkatsu bento boxes",
     "trx": "коробки для бенто тонкацу",
-    "val": "tonkatsu bento boxes"
+    "val": "коробки с тонкацу"
   },
   {
     "key": ", and they were delicious. ",
     "trx": ", и они были восхитительны. ",
-    "val": ", and they were delicious. "
+    "val": ", и они были восхитительны. "
   },
   {
     "key": "The meat was so tender, ",
     "trx": "Мясо было таким нежным, ",
-    "val": "The meat was so tender, "
+    "val": "Мясо было таким нежным, "
   },
   {
     "key": "and the batter, ",
     "trx": "и тесто, ",
-    "val": "and the batter, "
+    "val": "а тесто "
   },
   {
     "key": "so crisp. ",
     "trx": "такой четкий. ",
-    "val": "so crisp. "
+    "val": "таким хрустящим. "
   },
   {
     "key": "With each and every bite, the rich flavor just filled my mouth more and more...” ",
     "trx": "С каждым укусом насыщенный вкус наполнял мой рот все больше и больше...” ",
-    "val": "With each and every bite, the rich flavor just filled my mouth more and more...” "
+    "val": "С каждым укусом насыщенный вкус наполнял мой рот все больше и больше...” "
   },
   {
     "key": "Osawa felt a blood vessel burst in his skull.",
     "trx": "Осава почувствовал, как у него в черепе лопнул кровеносный сосуд.",
-    "val": "Osawa felt a blood vessel burst in his skull."
+    "val": "Осава почувствовал, как у него в черепе лопнул кровеносный сосуд."
   },
   {
     "key": "“So then ",
     "trx": "“Итак, тогда ",
-    "val": "“So then "
+    "val": "“Значит, вы имели "
   },
   {
     "key": "this ",
     "trx": "этот ",
-    "val": "this "
+    "val": "это "
   },
   {
     "key": "is what you meant when you said my life was on the line?”",
     "trx": "это то, что ты имел в виду, когда сказал, что моя жизнь была на кону?”",
-    "val": "is what you meant when you said my life was on the line?”"
+    "val": "в виду, когда сказали, что моя жизнь здесь на кону?”"
   },
   {
     "key": "“Yes, sir. ",
     "trx": "“Да, сэр. ",
-    "val": "“Yes, sir. "
+    "val": "“Да, сэр. "
   },
   {
     "key": "Hunger is the enemy of the mind. ",
     "trx": "Голод - враг разума. ",
-    "val": "Hunger is the enemy of the mind. "
+    "val": "Голод — враг разума. "
   },
   {
     "key": "It interferes with your ability to make proper decisions. So you really ought to get something in your stomach.”",
     "trx": "Это мешает вашей способности принимать правильные решения. Так что тебе действительно нужно что-нибудь выпить в желудке.”",
-    "val": "It interferes with your ability to make proper decisions. So you really ought to get something in your stomach.”"
+    "val": "Он мешает вашей способности принимать правильные решения. Так что вам действительно нужно чем-нибудь наполнить желудок.”"
   },
   {
     "key": "Osawa was too flabbergasted to reply.",
     "trx": "Осава был слишком ошеломлен, чтобы ответить.",
-    "val": "Osawa was too flabbergasted to reply."
+    "val": "Осава был слишком ошеломлен, чтобы ответить."
   },
   {
     "key": "“Right, then, Mr. Osawa. ",
     "trx": "“Тогда хорошо, мистер Осава. ",
-    "val": "“Right, then, Mr. Osawa. "
+    "val": "“Тогда хорошо, мистер Осава. "
   },
   {
     "key": "Please follow me to the kitchen.”",
     "trx": "Пожалуйста, следуйте за мной на кухню.”",
-    "val": "Please follow me to the kitchen.”"
+    "val": "Пожалуйста, следуйте за мной на кухню.”"
   }
 ]
