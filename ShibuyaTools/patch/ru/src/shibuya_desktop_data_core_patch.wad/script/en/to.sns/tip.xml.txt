@@ -3702,7 +3702,7 @@
   {
     "key": " for not introducing her to an aiki-jujutsu dojo, she happened across the aftermath of the minivan explosion. Unable to stand idly by when faced with such a horrific scene, she pitched in as best she could to help the wounded.",
     "trx": " за то, что я не познакомил ее с додзе айки-джиу-джитсу, она случайно столкнулась с последствиями взрыва микроавтобуса. Не в силах стоять сложа руки, столкнувшись с такой ужасной сценой, она, как могла, помогала раненым.",
-    "val": " for not introducing her to an aiki-jujutsu dojo, she happened across the aftermath of the minivan explosion. Unable to stand idly by when faced with such a horrific scene, she pitched in as best she could to help the wounded."
+    "val": " for not introducing her to an айки-дзю-дзюцу dojo, she happened across the aftermath of the minivan explosion. Unable to stand idly by when faced with such a horrific scene, she pitched in as best she could to help the wounded."
   },
   {
     "key": "Airborne transmission",
@@ -4407,207 +4407,207 @@
   {
     "key": "Ray",
     "trx": "Рэй",
-    "val": "Ray"
+    "val": "Проблеск"
   },
   {
     "key": "A glimmer. A sliver. The ever-dwindling light in the distance. Point is, there’s not much.",
     "trx": "Проблеск. Щепка. Постоянно угасающий свет вдалеке. Дело в том, что их не так уж много.",
-    "val": "A glimmer. A sliver. The ever-dwindling light in the distance. Point is, there’s not much."
+    "val": "Луч. Небольшая вспышка. Постоянно угасающий свет вдалеке. Все дело в том, что их не так уж и много."
   },
   {
     "key": "Membership cap",
     "trx": "Ограничение на членство",
-    "val": "Membership cap"
+    "val": "Ограничение на число участников"
   },
   {
     "key": "At present, the exclusive Bride has already exceeded its allotted number of members, and is not accepting new ones. Given the buzz about how both the costumes and the fights are really something to see, memberships that are auctioned off online command quite high prices.",
     "trx": "В настоящее время эксклюзивная Невеста уже превысила отведенное ей количество участников и не принимает новых. Учитывая шумиху вокруг того, что и костюмы, и бои действительно достойны внимания, членство, которое выставляется на аукцион онлайн, стоит довольно дорого.",
-    "val": "At present, the exclusive Bride has already exceeded its allotted number of members, and is not accepting new ones. Given the buzz about how both the costumes and the fights are really something to see, memberships that are auctioned off online command quite high prices."
+    "val": "В настоящее время эксклюзивный бар Невеста уже превысил разрешенное количество участников и не принимает новых. Учитывая шумиху вокруг того, что и костюмы, и бои действительно достойны внимания, членство, продаваемое на онлайн-аукционах, стоит довольно дорого."
   },
   {
     "key": "Shadow-boxing.",
     "trx": "Бой с тенью.",
-    "val": "Shadow-boxing."
+    "val": "Бой с тенью."
   },
   {
     "key": "A training technique for boxing.",
     "trx": "Тренировочная техника для бокса.",
-    "val": "A training technique for boxing."
+    "val": "Тренировочная техника в боксе."
   },
   {
     "key": "Involves practicing strikes, guards and evasions against an opponent who isn’t actually there.",
     "trx": "Включает в себя отработку ударов, защит и уклонений против противника, которого на самом деле там нет.",
-    "val": "Involves practicing strikes, guards and evasions against an opponent who isn’t actually there."
+    "val": "Включает в себя отработку ударов, защит и уклонений против воображаемого противника."
   },
   {
     "key": "Couple",
     "trx": "Пара",
-    "val": "Couple"
+    "val": "Пара"
   },
   {
     "key": "Achi Endo",
     "trx": "Ачи Эндо",
-    "val": "Achi Endo"
+    "val": "Ачи Эндо"
   },
   {
     "key": " and Hitomi Osawa. They passed by while running away from some mysterious foreigners.",
     "trx": " и Хитоми Осава. Они прошли мимо, убегая от каких-то таинственных иностранцев.",
-    "val": " and Hitomi Osawa. They passed by while running away from some mysterious foreigners."
+    "val": " и Хитоми Осава. Они появились здесь, убегая от каких-то таинственных иностранцев."
   },
   {
     "key": "Gruff-looking fellows",
     "trx": "Грубоватые на вид парни",
-    "val": "Gruff-looking fellows"
+    "val": "Грубоватые на вид парни"
   },
   {
     "key": "Asao Ozu and his underling, Yutaro Segawa. Members of the Tenryu-gumi yakuza syndicate. The Tenryu-gumi operates a lending firm called Takarada Financing, and these two have been tasked with collecting outstanding debts. They’ve already collected from one client today; next they plan on grabbing lunch before heading off to find their next target.",
     "trx": "Асао Одзу и его подчиненный Ютаро Сегава. Члены синдиката якудза Тенрю-гуми. Тенрю-гуми управляет кредитной фирмой под названием Takarada Financing, и этим двоим было поручено собрать непогашенные долги. Сегодня они уже получили деньги от одного клиента; затем они планируют пообедать, прежде чем отправиться на поиски своей следующей цели.",
-    "val": "Asao Ozu and his underling, Yutaro Segawa. Members of the Tenryu-gumi yakuza syndicate. The Tenryu-gumi operates a lending firm called Takarada Financing, and these two have been tasked with collecting outstanding debts. They’ve already collected from one client today; next they plan on grabbing lunch before heading off to find their next target."
+    "val": "Асао Одзу и его подчиненный Ютаро Сегава. Члены синдиката якудза Тэнрю-гуми. Тэнрю-гуми управляет кредитной фирмой под названием Takarada Financing, и этим двоим было поручено собрать неоплаченные долги. Сегодня они уже получили деньги от одного клиента; затем они планируют пообедать, прежде чем отправиться на поиски своей следующей цели."
   },
   {
     "key": "Hook",
     "trx": "Крюк",
-    "val": "Hook"
+    "val": "Хук"
   },
   {
     "key": "A type of punch. Involves swinging the arm in a wide arc to strike the opponent from the side. In mixed martial arts bouts, it is common to see a fighter continue the momentum from a hook to catch the opponent by the arm, transitioning immediately into a takedown and pin.",
     "trx": "Разновидность удара. Включает в себя взмах руки по широкой дуге, чтобы нанести удар противнику сбоку. В боях смешанных единоборств часто можно увидеть, как боец продолжает движение от крюка, чтобы поймать противника за руку, немедленно переходя к тейкдауну и булавке.",
-    "val": "A type of punch. Involves swinging the arm in a wide arc to strike the opponent from the side. In mixed martial arts bouts, it is common to see a fighter continue the momentum from a hook to catch the opponent by the arm, transitioning immediately into a takedown and pin."
+    "val": "Вид удара. Состоит из взмаха рукой по широкой дуге, что позволяет нанести удар противнику сбоку. В боях смешанных единоборств часто можно увидеть, как боец после хука продолжает движение по инерции, ловя противника за руку и немедленно переходя к сваливанию в положение туше."
   },
   {
     "key": "Aiki-jujutsu",
     "trx": "Айки-дзюдзюцу",
-    "val": "Aiki-jujutsu"
+    "val": "Айки-дзю-дзюцу"
   },
   {
     "key": "A traditional Japanese martial art that emphasizes learning to anticipate an opponent’s first move and instantaneously counterattack. Skilled practitioners can toss and throw opponents with a simple touch. The art predates the development of the more pacifistic aikido, and so some dangerous techniques still remain.",
     "trx": "Традиционное японское боевое искусство, в котором особое внимание уделяется умению предугадывать первый ход противника и мгновенно контратаковать. Опытные практики могут бросать и бросать противников простым касанием. Это искусство предшествовало развитию более пацифистского айкидо, и поэтому некоторые опасные техники все еще остаются.",
-    "val": "A traditional Japanese martial art that emphasizes learning to anticipate an opponent’s first move and instantaneously counterattack. Skilled practitioners can toss and throw opponents with a simple touch. The art predates the development of the more pacifistic aikido, and so some dangerous techniques still remain."
+    "val": "Традиционное японское боевое искусство, в котором особое внимание уделяется умению предугадывать первый ход противника и мгновенно контратаковать. Опытные мастера могут толкать и швырять противников простым касанием. Это искусство предшествовало появлению более пацифистского айкидо, поэтому некоторые опасные техники все еще сохраняются."
   },
   {
     "key": "Martial arts fanatic",
     "trx": "Фанатик боевых искусств",
-    "val": "Martial arts fanatic"
+    "val": "Фанат боевых искусств"
   },
   {
     "key": "Knickknack shop owner Taisei Yasuda watches roughly 350 martial arts fights a year. He is particularly fond of Brazilian jiu-jitsu, and is thinking about studying it himself. There’s a dojo he’s been eyeing, but he’s rather timid, and has thus far only waffled noncommittally outside the entrance to the place.",
     "trx": "Владелец магазина безделушек Тайсэй Ясуда наблюдает примерно за 350 боями по боевым искусствам в год. Он особенно любит бразильское джиу-джитсу и подумывает о том, чтобы самому его изучить. Там есть додзе, на которое он присматривается, но он довольно робок и до сих пор только уклончиво болтался у входа в заведение.",
-    "val": "Knickknack shop owner Taisei Yasuda watches roughly 350 martial arts fights a year. He is particularly fond of Brazilian jiu-jitsu, and is thinking about studying it himself. There’s a dojo he’s been eyeing, but he’s rather timid, and has thus far only waffled noncommittally outside the entrance to the place."
+    "val": "Владелец магазина безделушек Тайсей Ясуда наблюдает примерно за 350 боями в год. Больше всего ему нравится бразильское джиу-джитсу, и он подумывает о том, чтобы самому его изучить. Есть додзё, к которому он присматривается, но он довольно робок и пока что лишь в нерешительности болтался у входа в заведение."
   },
   {
     "key": "Service rep from the rental shop",
     "trx": "Представитель службы проката автомобилей",
-    "val": "Service rep from the rental shop"
+    "val": "Представитель службы проката"
   },
   {
     "key": "Masamichi Fukuma, employee of Far East Costume Rentals. The only son of company president Shigemichi Fukuma, he is one of the few people who know what Shigemichi looks like, as his father is usually clad in a rabbit costume. Masamichi has harbored a strong dislike for both his father and mascot costumes ever since the old man showed up at school on Parents’ Day one year dressed in his inevitable rabbit suit. Nonetheless, the son has acquiesced to his father’s wishes, and some day he’ll inherit the family business.",
     "trx": "Масамичи Фукума, сотрудник компании по прокату костюмов на Дальнем Востоке. Единственный сын президента компании Сигемичи Фукумы, он один из немногих людей, которые знают, как выглядит Сигемичи, так как его отец обычно одет в костюм кролика. Масамичи питал сильную неприязнь как к своему отцу, так и к костюмам талисманов с тех пор, как однажды старик появился в школе в День родителей, одетый в свой неизбежный костюм кролика. Тем не менее, сын подчинился желаниям своего отца, и когда-нибудь он унаследует семейный бизнес.",
-    "val": "Masamichi Fukuma, employee of Far East Costume Rentals. The only son of company president Shigemichi Fukuma, he is one of the few people who know what Shigemichi looks like, as his father is usually clad in a rabbit costume. Masamichi has harbored a strong dislike for both his father and mascot costumes ever since the old man showed up at school on Parents’ Day one year dressed in his inevitable rabbit suit. Nonetheless, the son has acquiesced to his father’s wishes, and some day he’ll inherit the family business."
+    "val": "Масамичи Фукума, сотрудник компании по прокату костюмов Far East Costume Rentals. Являясь единственным сыном президента компании Сигемичи Фукумы, он один из тех немногих людей, которые знают, как выглядит Сигемичи, так как его отец обычно одет в костюм кролика. Масамичи питал сильную неприязнь как к своему отцу, так и к рекламным костюмам с тех пор, как однажды старик появился в школе в День родителей, одетый в свой обычный костюм кролика. Тем не менее, сын подчинился желаниям своего отца, и когда-нибудь он унаследует семейный бизнес."
   },
   {
     "key": "Impressions",
     "trx": "Впечатления",
-    "val": "Impressions"
+    "val": "Пародии"
   },
   {
     "key": "[Chiriko’s Repertoire of Impressions]",
     "trx": "[Репертуар впечатлений Чирико]",
-    "val": "[Chiriko’s Repertoire of Impressions]"
+    "val": "[Репертуар пародий Чирико]"
   },
   {
     "key": "1. a sea lion yawning",
     "trx": "1. морской лев, зевающий",
-    "val": "1. a sea lion yawning"
+    "val": "1. зевающий морской лев"
   },
   {
     "key": "2. a harbor seal hailing a cab",
     "trx": "2. морской котик, ловящий такси",
-    "val": "2. a harbor seal hailing a cab"
+    "val": "2. ловящий такси морской котик"
   },
   {
     "key": "3. a walrus reading sutras",
     "trx": "3. морж, читающий сутры",
-    "val": "3. a walrus reading sutras"
+    "val": "3. читающий сутры морж"
   },
   {
     "key": "4. a fur seal who can’t reach the itchy spot on its back",
     "trx": "4. морской котик, который не может дотянуться до зудящего места на спине",
-    "val": "4. a fur seal who can’t reach the itchy spot on its back"
+    "val": "4. морской котик, который не может дотянуться до зудящего места на спине"
   },
   {
     "key": "5. a Steller’s sea lion taking a nap",
     "trx": "5. морской лев Стеллера дремлет",
-    "val": "5. a Steller’s sea lion taking a nap"
+    "val": "5. дремлющий сивуч"
   },
   {
     "key": "Capsaicin",
     "trx": "Капсаицин",
-    "val": "Capsaicin"
+    "val": "Капсаицин"
   },
   {
     "key": "The primary spice component of chili peppers. Said to be effective for improving blood flow and stimulating the burning of fat. Because it is a severe skin and eye irritant, it is also an ingredient in some forms of pepper spray for personal defense.",
     "trx": "Основной пряный компонент перца чили. Говорят, что он эффективен для улучшения кровотока и стимулирования сжигания жира. Поскольку он сильно раздражает кожу и глаза, он также входит в состав некоторых видов перцового аэрозоля для личной защиты.",
-    "val": "The primary spice component of chili peppers. Said to be effective for improving blood flow and stimulating the burning of fat. Because it is a severe skin and eye irritant, it is also an ingredient in some forms of pepper spray for personal defense."
+    "val": "Основной пряный компонент перца чили. Говорят, что он эффективен для улучшения кровотока и стимулирования сжигания жира. Поскольку он сильно раздражает кожу и глаза, он также входит в состав некоторых видов перцового аэрозоля для персональной защиты."
   },
   {
     "key": "Obesity",
     "trx": "Ожирение",
-    "val": "Obesity"
+    "val": "Ожирение"
   },
   {
     "key": "Though the term is frequently used in recent years to simply refer to the state of being overweight, obesity in the clinical sense is a medical condition involving interrelated health issues including excess body fat, hyperlipidemia, and hyperglycemia. Individuals suffering from obesity are at high risk of complications such as coronary heart disease, diabetes, and sleep apnea.",
     "trx": "Хотя в последние годы этот термин часто используется просто для обозначения состояния избыточного веса, ожирение в клиническом смысле представляет собой заболевание, включающее взаимосвязанные проблемы со здоровьем, включая избыток жира в организме, гиперлипидемию и гипергликемию. Люди, страдающие ожирением, подвержены высокому риску таких осложнений, как ишемическая болезнь сердца, диабет и апноэ во сне.",
-    "val": "Though the term is frequently used in recent years to simply refer to the state of being overweight, obesity in the clinical sense is a medical condition involving interrelated health issues including excess body fat, hyperlipidemia, and hyperglycemia. Individuals suffering from obesity are at high risk of complications such as coronary heart disease, diabetes, and sleep apnea."
+    "val": "Хотя в последние годы этот термин часто используется для обозначения простого состояния избыточного веса, ожирение в клиническом смысле представляет собой заболевание, включающее взаимосвязанные проблемы со здоровьем, такие как избыток жира в организме, гиперлипидемию и гипергликемию. Люди, страдающие ожирением, подвержены высокому риску таких осложнений, как ишемическая болезнь сердца, диабет и апноэ во сне."
   },
   {
     "key": "My boss",
     "trx": "Мой босс",
-    "val": "My boss"
+    "val": "Мой босс"
   },
   {
     "key": "Shigemichi Fukuma, president and owner of Far East Costume Rentals. Notable for the fact that he’s usually wearing his favorite rabbit costume. To Shigemichi, his costumes are like his children. If he were to hear that one of his suits had been ruined, he would probably never forgive Yanagishita, adding to the man’s already considerable list of enemies.",
     "trx": "Сигемичи Фукума, президент и владелец компании \"Прокат костюмов на Дальнем Востоке\". Примечателен тем фактом, что обычно он одет в свой любимый костюм кролика. Для Сигэмичи его костюмы похожи на его детей. Если бы он услышал, что один из его костюмов был испорчен, он, вероятно, никогда бы не простил Янагишиту, пополнив и без того немалый список врагов этого человека.",
-    "val": "Shigemichi Fukuma, president and owner of Far East Costume Rentals. Notable for the fact that he’s usually wearing his favorite rabbit costume. To Shigemichi, his costumes are like his children. If he were to hear that one of his suits had been ruined, he would probably never forgive Yanagishita, adding to the man’s already considerable list of enemies."
+    "val": "Сигемичи Фукума, президент и владелец компании по прокату костюмов Far East Costume Rentals. Известен тем, что обычно носит свой любимый костюм кролика. Сигемичи относится к своим костюмам как к детям. Если бы он услышал, что один из его костюмов был испорчен, он, вероятно, никогда бы не простил Янагиситу, пополнив и без того немалый список врагов этого человека."
   },
   {
     "key": "Can’t remember anything",
     "trx": "Ничего не могу вспомнить",
-    "val": "Can’t remember anything"
+    "val": "Не могу вспомнить ничего"
   },
   {
     "key": "In short, amnesia.",
     "trx": "Короче говоря, амнезия.",
-    "val": "In short, amnesia."
+    "val": "Другими словами, амнезия."
   },
   {
     "key": "Amnesia can have a variety of causes. Psychogenic amnesia is caused by stress or psychological trauma, whereas in endogenous amnesia, a powerful blow to the head causes physical trauma to the brain. In the latter case, memories and other normal functions frequently return once the cranial nerves recover.",
     "trx": "Амнезия может иметь множество причин. Психогенная амнезия вызвана стрессом или психологической травмой, тогда как при эндогенной амнезии мощный удар по голове вызывает физическую травму мозга. В последнем случае воспоминания и другие нормальные функции часто возвращаются после восстановления черепно-мозговых нервов.",
-    "val": "Amnesia can have a variety of causes. Psychogenic amnesia is caused by stress or psychological trauma, whereas in endogenous amnesia, a powerful blow to the head causes physical trauma to the brain. In the latter case, memories and other normal functions frequently return once the cranial nerves recover."
+    "val": "Существует несколько причин амнезии. Психогенная амнезия вызывается стрессом или психологической травмой, тогда как при эндогенной амнезии мощный удар по голове вызывает физическую травму мозга. В последнем случае воспоминания и другие нормальные функции часто возвращаются после восстановления черепно-мозговых нервов."
   },
   {
     "key": "Guess this cat’s staying in the bag",
     "trx": "Думаю, этот кот останется в мешке",
-    "val": "Guess this cat’s staying in the bag"
+    "val": "Думаю, кот пока останется в мешке"
   },
   {
     "key": "A popular folk etymology asserts that the expression “let the cat out of the bag” comes from the unscrupulous practices of certain farmers, who would sell a pig at market, only to deceive the buyer by surreptitiously swapping out the purchased porker for a cat.",
     "trx": "Популярная народная этимология утверждает, что выражение “выпустить кошку из мешка” происходит от недобросовестной практики некоторых фермеров, которые продавали свинью на рынке только для того, чтобы обмануть покупателя, тайно обменяв купленную свинью на кошку.",
-    "val": "A popular folk etymology asserts that the expression “let the cat out of the bag” comes from the unscrupulous practices of certain farmers, who would sell a pig at market, only to deceive the buyer by surreptitiously swapping out the purchased porker for a cat."
+    "val": "Популярная народная этимология утверждает, что выражение “выпустить кота из мешка” происходит от недобросовестной практики некоторых фермеров, которые делали вид, что продавали свиней, а на самом деле подменяли их на котов."
   },
   {
     "key": "The likelihood of anyone mistaking a cat, even one inside a bag, for a pig, is, however, extremely low—let alone the likelihood that enough people would fall for such a scheme to warrant a phrase referring to it entering the language.",
     "trx": "Вероятность того, что кто—то примет кошку, даже находящуюся в сумке, за свинью, однако, крайне мала - не говоря уже о вероятности того, что достаточное количество людей попадется на такую схему, чтобы гарантировать, что фраза, относящаяся к ней, войдет в язык.",
-    "val": "The likelihood of anyone mistaking a cat, even one inside a bag, for a pig, is, however, extremely low—let alone the likelihood that enough people would fall for such a scheme to warrant a phrase referring to it entering the language."
+    "val": "Однако, вероятность того, что кто-то примет кота, даже находящегося в мешке, за свинью, крайне мала, не говоря уже о вероятности того, что на эту схему попадется такое количество людей, которого будет достаточно для того, чтобы описывающая ее фраза укрепилась в языке."
   },
   {
     "key": "Skinned this cat",
     "trx": "Освежевал этого кота",
-    "val": "Skinned this cat"
+    "val": "Освежевать этого кота"
   },
   {
     "key": "The exact origin of the phrase “there’s more than one way to skin a cat” is uncertain and a matter of some dispute, though it appears to have arisen in the latter portion of the 19th Century. It’s hard to imagine why anyone would want to conjure up such a gruesome mental image.",
     "trx": "Точное происхождение фразы “существует более одного способа снять шкуру с кошки” неясно и вызывает некоторые споры, хотя, похоже, она возникла во второй половине 19 века. Трудно представить, зачем кому-то понадобилось вызывать в воображении такой ужасный мысленный образ.",
-    "val": "The exact origin of the phrase “there’s more than one way to skin a cat” is uncertain and a matter of some dispute, though it appears to have arisen in the latter portion of the 19th Century. It’s hard to imagine why anyone would want to conjure up such a gruesome mental image."
+    "val": "Точное происхождение фразы “существует несколько способов освежевать кота” неясно и вызывает некоторые споры, хотя, похоже, возникла она во второй половине 19 века. Трудно представить, зачем кому-то понадобилось вызывать в воображении такой ужасный мысленный образ."
   },
   {
     "key": "Time’s up",
@@ -4617,22 +4617,22 @@
   {
     "key": "Right around now, there’s someone else who’s been told that his time is up, and he’s in quite a predicament.",
     "trx": "Прямо сейчас есть еще кто-то, кому сказали, что его время истекло, и он находится в довольно затруднительном положении.",
-    "val": "Right around now, there’s someone else who’s been told that his time is up, and he’s in quite a predicament."
+    "val": "Прямо сейчас еще кому-то сказали, что его время вышло, и он находится в довольно затруднительном положении."
   },
   {
     "key": "Yes, it’s Jun’ichi Yanagishita.",
     "trx": "Да, это Дзюнъити Янагишита.",
-    "val": "Yes, it’s Jun’ichi Yanagishita."
+    "val": "Да, это Дзюнъити Янагисита."
   },
   {
     "key": "The ruthless ultimatum was issued by none other than ",
     "trx": "Безжалостный ультиматум был выдвинут не кем иным, как ",
-    "val": "The ruthless ultimatum was issued by none other than "
+    "val": "Безжалостный ультиматум был выдвинут не кем иным, как "
   },
   {
     "key": "Minoru Minorikawa",
     "trx": "Минору Минорикава",
-    "val": "Minoru Minorikawa"
+    "val": "Минору Минорикавой"
   },
   {
     "key": ".",

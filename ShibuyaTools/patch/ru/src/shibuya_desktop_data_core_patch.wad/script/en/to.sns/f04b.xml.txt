@@ -1092,7 +1092,7 @@
   {
     "key": "“but only if you beat me in a challenge, fair and square.”",
     "trx": "“но только если ты победишь меня в соревновании, честно и честно”.",
-    "val": "“но только если ты победишь меня в соревновании, честном и справедливом.”"
+    "val": "“но только если ты победишь меня в состязании, честном и справедливом.”"
   },
   {
     "key": "Minorikawa had never been one to give up easily; even now, he refused to go down without a fight.",
@@ -1107,7 +1107,7 @@
   {
     "key": "a challenge, you say?” asked Death.",
     "trx": "вызов, говоришь? - спросила Смерть.",
-    "val": "“Соревнование, говоришь?” спросила Смерть."
+    "val": "“Состязание, говоришь?” спросила Смерть."
   },
   {
     "key": "Still the bright grin on his face remained.",
@@ -1147,7 +1147,7 @@
   {
     "key": "Nonetheless, it counted as a challenge.",
     "trx": "Тем не менее, это считалось вызовом.",
-    "val": "Тем не менее, это считалось соревнованием."
+    "val": "Тем не менее, это засчитывалось как вызов."
   },
   {
     "key": "“If you beat me,” he went on, ",

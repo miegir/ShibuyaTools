@@ -232,7 +232,7 @@
   {
     "key": "The gunman let out a low grunt at the impact.",
     "trx": "Стрелок издал низкое ворчание от удара.",
-    "val": "Стрелок от удара низко закряхтел."
+    "val": "Стрелок от удара закряхтел низким голосом."
   },
   {
     "key": "Achi then hit the brake, shifted back into reverse, and hit the gas again, backing up as fast as he could.",

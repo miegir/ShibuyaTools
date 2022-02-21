@@ -1157,7 +1157,7 @@
   {
     "key": "Sorry to keep you waiting!” a girlish voice exclaimed.",
     "trx": "Извините, что заставил вас ждать! - воскликнул девичий голос.",
-    "val": "Извините, что заставили вас ждать!”  воскликнул девичий голос."
+    "val": "Извините, что заставила вас ждать!”  воскликнул девичий голос."
   },
   {
     "key": "A moment later, a furry figure came charging into the demo room.",
