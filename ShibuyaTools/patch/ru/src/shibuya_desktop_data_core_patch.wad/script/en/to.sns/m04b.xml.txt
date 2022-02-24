@@ -257,7 +257,7 @@
   {
     "key": "Pretty soon after that, I’m on a plane bound for South America.",
     "trx": "Довольно скоро после этого я сажусь в самолет, направляющийся в Южную Америку.",
-    "val": "Вскоре после этого я я сажусь в самолет, направляющийся в Южную Америку."
+    "val": "Спустя некоторое время я сажусь в самолет, направляющийся в Южную Америку."
   },
   {
     "key": "I’m on a business trip to purchase our next product: ",
@@ -907,7 +907,7 @@
   {
     "key": "I had thought I was alone, but then I spot someone lying in the corner.",
     "trx": "Я думал, что я один, но потом замечаю, что кто-то лежит в углу.",
-    "val": "Поначалу мне кажется, что я здесь одна, но потом я замечаю, что кого-то лежит в углу."
+    "val": "Поначалу мне кажется, что я здесь одна, но потом я замечаю, что кто-то лежит в углу."
   },
   {
     "key": "It’s some guy I don’t recognize.",
@@ -1477,7 +1477,7 @@
   {
     "key": "Ahahahahah!”",
     "trx": "Ахахахахах!”",
-    "val": "Ахахахахах!”"
+    "val": "Ахахахаха!”"
   },
   {
     "key": "Sweat is streaming down my brow.",

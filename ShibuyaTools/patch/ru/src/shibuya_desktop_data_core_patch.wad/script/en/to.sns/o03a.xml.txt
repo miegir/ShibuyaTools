@@ -302,7 +302,7 @@
   {
     "key": "....” ",
     "trx": "....” ",
-    "val": "....” "
+    "val": "...” "
   },
   {
     "key": "“Mind your own business,” Osawa snapped.",
@@ -1997,7 +1997,7 @@
   {
     "key": "“....get the hell out of my room!”",
     "trx": "\"....убирайся к черту из моей комнаты!”",
-    "val": "“....убраться к черту из моей комнаты!”"
+    "val": "“...убраться к черту из моей комнаты!”"
   },
   {
     "key": "He tried to usher Kajiwara back out the door.",

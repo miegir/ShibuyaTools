@@ -632,147 +632,147 @@
   {
     "key": "Hadn’t eaten since the morning",
     "trx": "Не ел с утра",
-    "val": "Hadn’t eaten since the morning"
+    "val": "Ничего не ел с самого утра"
   },
   {
     "key": "People on a diet need to be careful about skipping meals. Going too long without proper nourishment can cause the body to store up its energy reserves, leading to weight gain instead of loss. Proper eating habits and proper exercise are key.",
     "trx": "Люди, сидящие на диете, должны быть осторожны с пропуском приема пищи. Слишком долгое пребывание без надлежащего питания может привести к тому, что организм накопит свои энергетические запасы, что приведет к увеличению веса вместо потери. Правильные привычки в еде и правильные физические упражнения являются ключевыми.",
-    "val": "People on a diet need to be careful about skipping meals. Going too long without proper nourishment can cause the body to store up its energy reserves, leading to weight gain instead of loss. Proper eating habits and proper exercise are key."
+    "val": "Люди, сидящие на диете, должны быть осторожны с пропуском приема пищи. Слишком долгое пребывание без надлежащего питания может привести к тому, что организм будет накапливать энергетические запасы, что в результате даст увеличение веса вместо его потери. Нужно придерживаться правильных привычек в еде и выполнять правильные физические упражнения."
   },
   {
     "key": "Spaghetti with meat sauce",
     "trx": "Спагетти с мясным соусом",
-    "val": "Spaghetti with meat sauce"
+    "val": "Спагетти с мясным соусом"
   },
   {
     "key": "Spaghetti with a sauce made from tomatoes and ground meat. Also known as Spaghetti Bolognese, if you want to sound more Italian. Like Napolitan Spaghetti, flavored with ketchup, it is a perennial favorite of Japanese children. Frozen packages at the supermarket for around 200 yen a pop make for a simple and decently tasty microwavable meal that’s also easy on the wallet.",
     "trx": "Спагетти с соусом из помидоров и мясного фарша. Также известный как Спагетти Болоньезе, если вы хотите звучать более по-итальянски. Как и спагетти по-неаполитански, приправленные кетчупом, они являются неизменным фаворитом японских детей. Замороженные пакеты в супермаркете примерно по 200 иен за штуку - это простая и прилично вкусная еда, которую можно приготовить в микроволновой печи, а также легко для кошелька.",
-    "val": "Spaghetti with a sauce made from tomatoes and ground meat. Also known as Spaghetti Bolognese, if you want to sound more Italian. Like Napolitan Spaghetti, flavored with ketchup, it is a perennial favorite of Japanese children. Frozen packages at the supermarket for around 200 yen a pop make for a simple and decently tasty microwavable meal that’s also easy on the wallet."
+    "val": "Спагетти с соусом из помидоров и мясного фарша. Также известно как Спагетти Болоньезе, если быть ближе к итальянскому. Как и спагетти Напоритан, приправленные кетчупом, они являются любимым блюдом японских детей. Замороженные пакеты в супермаркете примерно по 200 иен за штуку — это простая и довольно вкусная еда, которую можно приготовить в микроволновой печи, и не бющая по бумажнику."
   },
   {
     "key": "Strawberry Parfait",
     "trx": "Клубничное парфе",
-    "val": "Strawberry Parfait"
+    "val": "Клубничное парфе"
   },
   {
     "key": "A dessert of strawberries topped with ice cream and whipped cream.",
     "trx": "Десерт из клубники с мороженым и взбитыми сливками.",
-    "val": "A dessert of strawberries topped with ice cream and whipped cream."
+    "val": "Десерт из клубники с мороженым и взбитыми сливками."
   },
   {
     "key": "Hitomi has been so worried about her sister that she hasn’t eaten anything since last night, but being with Achi has calmed her nerves a little, and her appetite has returned. Perhaps her reflexive order of a strawberry parfait is a sign that she’s not only hungry, but also still a little girl with a sweet tooth at heart?",
     "trx": "Хитоми так беспокоилась о своей сестре, что ничего не ела со вчерашнего вечера, но пребывание с Ачи немного успокоило ее нервы, и аппетит вернулся. Возможно, ее рефлексивный заказ клубничного парфе - признак того, что она не только голодна, но и все еще маленькая девочка с пристрастием к сладкому в душе?",
-    "val": "Hitomi has been so worried about her sister that she hasn’t eaten anything since last night, but being with Achi has calmed her nerves a little, and her appetite has returned. Perhaps her reflexive order of a strawberry parfait is a sign that she’s not only hungry, but also still a little girl with a sweet tooth at heart?"
+    "val": "Хитоми так беспокоилась о своей сестре, что ничего не ела со вчерашнего вечера, но пребывание с Ачи немного успокоило ее нервы, и аппетит вернулся. Возможно, ее рефлекторный заказ клубничного парфе — признак того, что она не только голодна, но и все еще маленькая девочка с пристрастием к сладкому в душе?"
   },
   {
     "key": "Iron Stomach",
     "trx": "Железный Желудок",
-    "val": "Iron Stomach"
+    "val": "Железный желудок"
   },
   {
     "key": "A competitive eating event held by this establishment. Backed by Sun TV, the competition has been shared with the entire country over the Internet. Many contestants have entered for a shot at the ten-million-yen prize, but so far, no one has been able to complete the eating challenge. Due to the large number of competitors who suffer from gastrointestinal distress as a result of their efforts, roughly thirty portable toilets have been set up outside the restaurant.",
     "trx": "Соревновательное мероприятие по питанию, проводимое этим заведением. При поддержке Sun TV конкурс был распространен по всей стране через Интернет. Многие конкурсанты приняли участие в конкурсе на приз в десять миллионов иен, но до сих пор никто не смог выполнить задание по питанию. Из-за большого числа участников, которые страдают от желудочно-кишечных расстройств в результате своих усилий, около тридцати переносных туалетов были установлены за пределами ресторана.",
-    "val": "A competitive eating event held by this establishment. Backed by Sun TV, the competition has been shared with the entire country over the Internet. Many contestants have entered for a shot at the ten-million-yen prize, but so far, no one has been able to complete the eating challenge. Due to the large number of competitors who suffer from gastrointestinal distress as a result of their efforts, roughly thirty portable toilets have been set up outside the restaurant."
+    "val": "Соревнование по питанию, проводимое этим заведением. При поддержке Sun TV конкурс транслируется по всей стране через Интернет. На конкурсе разыгрывается приз в десять миллионов иен. Многие конкурсанты принимали в нем участие, но до сих пор никто еще не смог выполнить все условия. Из-за большого числа участников, страдающих из-за своих усилий от желудочно-кишечных расстройств, за пределами ресторана были установлены около тридцати биотуалетов."
   },
   {
     "key": "Masa",
     "trx": "Маисовое тесто",
-    "val": "Masa"
+    "val": "Маса"
   },
   {
     "key": "A first-year student at Midoriyama Academy who works part-time as a delivery driver for Dogen Hut, a noodle shop on Dogenzaka. He’s taken the day off work today in order to attempt a dry run of the “Iron Stomach” eating competition, hoping to strike it rich while his girlfriend looks on. But now that he’s eaten two parfaits, his stomach isn’t feeling well, and he’s just gotten back from his fifth trip to the toilet.",
     "trx": "Студент первого курса Академии Мидорияма, который работает неполный рабочий день водителем доставки в Dogen Hut, магазине лапши на Догензака. Сегодня он взял отгул на работе, чтобы попробовать провести соревнование по поеданию “Железного желудка”, надеясь разбогатеть, пока его девушка смотрит на это. Но теперь, когда он съел два парфе, его желудок чувствует себя неважно, и он только что вернулся после пятого похода в туалет.",
-    "val": "A first-year student at Midoriyama Academy who works part-time as a delivery driver for Dogen Hut, a noodle shop on Dogenzaka. He’s taken the day off work today in order to attempt a dry run of the “Iron Stomach” eating competition, hoping to strike it rich while his girlfriend looks on. But now that he’s eaten two parfaits, his stomach isn’t feeling well, and he’s just gotten back from his fifth trip to the toilet."
+    "val": "Студент первого курса академии Мидорияма, который подрабатывает доставщиком в Доген Хат, магазине лапши в Догензаке. Сегодня он взял на работе отгул, чтобы попробовать свои силы в соревновании по поеданию пищи “Железный желудок”, надеясь разбогатеть, пока его девушка за этим наблюдает. Но теперь, когда он съел два парфе, его желудок в неважном состоянии, и он только что вернулся после пятого похода в туалет."
   },
   {
     "key": "Beauty contest",
     "trx": "Конкурс красоты",
-    "val": "Beauty contest"
+    "val": "Конкурс красоты"
   },
   {
     "key": "The Miss Midoriyama contest at Midoriyama Academy is considered one of the top student beauty pageants in Japan. Pin-up shots of both Hitomi and Maria have already graced the pages of several magazines. Talent agencies have also made attempts to scout them, but both girls declined, claiming that they entered the contest just for the memories, and that they have no interest in show business.",
     "trx": "Конкурс \"Мисс Мидорияма\" в Академии Мидорияма считается одним из лучших студенческих конкурсов красоты в Японии. Снимки Хитоми и Марии в пин-апе уже украсили страницы нескольких журналов. Агентства по подбору талантов также предпринимали попытки разыскать их, но обе девушки отказались, заявив, что приняли участие в конкурсе только ради воспоминаний и что они не интересуются шоу-бизнесом.",
-    "val": "The Miss Midoriyama contest at Midoriyama Academy is considered one of the top student beauty pageants in Japan. Pin-up shots of both Hitomi and Maria have already graced the pages of several magazines. Talent agencies have also made attempts to scout them, but both girls declined, claiming that they entered the contest just for the memories, and that they have no interest in show business."
+    "val": "Конкурс Мисс Мидорияма в академии Мидорияма считается одним из престижных студенческих конкурсов красоты в Японии. Снимки Хитоми и Марии в стиле пинап уже украсили страницы нескольких журналов. Модельные агентства также предпринимали попытки нанять их, но обе девушки отказались, заявив, что приняли участие в конкурсе только ради воспоминаний и что они не интересуются шоу-бизнесом."
   },
   {
     "key": "Shibuya GiGO",
     "trx": "Сибуя Гиго",
-    "val": "Shibuya GiGO"
+    "val": "Сибуя GiGO"
   },
   {
     "key": "At the time of this story, GiGO includes not only a fashion mall, but various amusements on its different levels. The second floor features all-ages fun with rides, games, and sticker machines, while the third floor sports the latest arcade games for the ‘core gamer.’ There’s also a food court that offers things such as crepes and loaded takoyaki octopus dough balls.",
     "trx": "На момент написания этой истории GiGO включает в себя не только модный торговый центр, но и различные развлечения на разных его уровнях. На втором этаже есть развлечения для всех возрастов с аттракционами, играми и автоматами с наклейками, в то время как на третьем этаже представлены новейшие аркадные игры для \"основных геймеров\". Там также есть фуд-корт, где подают такие блюда, как блины и шарики из теста с осьминогом такояки.",
-    "val": "At the time of this story, GiGO includes not only a fashion mall, but various amusements on its different levels. The second floor features all-ages fun with rides, games, and sticker machines, while the third floor sports the latest arcade games for the ‘core gamer.’ There’s also a food court that offers things such as crepes and loaded takoyaki octopus dough balls."
+    "val": "На момент написания этой истории GiGO включает в себя не только модный торговый центр, но и различные залы развлечений на разных уровнях. На втором этаже есть развлечения для всех возрастов с аттракционами, играми и машинами для наклеек, а на третьем этаже представлены новейшие аркадные игры для ‘продвинутых игроков.’ Там также есть фуд-корт, где подают такие блюда, как блины и шарики из теста с осьминогом такояки."
   },
   {
     "key": "Restaurant floor",
     "trx": "Этаж ресторана",
-    "val": "Restaurant floor"
+    "val": "Этаж ресторанов"
   },
   {
     "key": "A floor designated solely for eateries. Typically this is the topmost floor of a mall building like GiGO. Those who head up here during morning hours will likely find the place deserted. GiGO’s restaurant floor features a variety of different cuisines, including Chinese, Italian, creative Japanese food, sushi, tempura, and other delicacies from around the world.",
     "trx": "Этаж, предназначенный исключительно для закусочных. Обычно это самый верхний этаж здания торгового центра, такого как GiGO. Те, кто направится сюда в утренние часы, скорее всего, найдут это место пустынным. В ресторане Gigo's подают разнообразные блюда различных кухонь, в том числе китайскую, итальянскую, креативную японскую кухню, суши, темпуру и другие деликатесы со всего мира.",
-    "val": "A floor designated solely for eateries. Typically this is the topmost floor of a mall building like GiGO. Those who head up here during morning hours will likely find the place deserted. GiGO’s restaurant floor features a variety of different cuisines, including Chinese, Italian, creative Japanese food, sushi, tempura, and other delicacies from around the world."
+    "val": "Этаж, предназначенный исключительно для закусочных. Обычно это самый верхний этаж здания торгового центра, такого как GiGO. Те, кто направится сюда в утренние часы, скорее всего, увидят это место пустынным. На этаже ресторанов в GiGO представлены различные кухни, в том числе китайская, итальянская, креативная японская кухня, суши, тэмпура и другие деликатесы со всего мира."
   },
   {
     "key": "Employee",
     "trx": "Работник",
-    "val": "Employee"
+    "val": "Работница"
   },
   {
     "key": "Masae Takei, a part-time staffer at Imabiki Chinese Restaurant. Her boss chewed her out pretty bad for showing up at work with her nails manicured black. She was ordered to go to the restroom and scrub them clean, but no amount of nail polish remover was able to do the trick, and so she’s been dealing with her boss’ wrath all day long.",
     "trx": "Масае Такеи, сотрудник китайского ресторана Imabiki, работающий неполный рабочий день. Ее босс довольно сильно отчитал ее за то, что она появилась на работе с черным маникюром на ногтях. Ей было приказано пойти в туалет и вытереть их начисто, но никакое количество жидкости для снятия лака не помогло, и поэтому она весь день боролась с гневом своего босса.",
-    "val": "Masae Takei, a part-time staffer at Imabiki Chinese Restaurant. Her boss chewed her out pretty bad for showing up at work with her nails manicured black. She was ordered to go to the restroom and scrub them clean, but no amount of nail polish remover was able to do the trick, and so she’s been dealing with her boss’ wrath all day long."
+    "val": "Масае Такеи, подрабатывает в китайском ресторане Имабики. Ее босс довольно сильно отчитал ее за то, что она появилась на работе с черным маникюром на ногтях. Ей было приказано пойти в туалет и вытереть их начисто, но сколько бы жидкости для снятия лака она не использовала, она не помогла, и поэтому ей весь день приходилось терпеть гнев своего босса."
   },
   {
     "key": "Low kick",
     "trx": "Низкий удар",
-    "val": "Low kick"
+    "val": "Низкий удар"
   },
   {
     "key": "A kick using the foot or shin to strike the opponent in the thigh, just above the knee. In karate, this is known as ",
     "trx": "Удар ногой или голенью для удара противника в бедро, чуть выше колена. В каратэ это известно как ",
-    "val": "A kick using the foot or shin to strike the opponent in the thigh, just above the knee. In karate, this is known as "
+    "val": "Удар ногой или голенью, чтобы попасть противнику в бедро, чуть выше колена. В каратэ известен как "
   },
   {
     "key": "gedan-mawashi-geri",
     "trx": "гедан-маваши-гери",
-    "val": "gedan-mawashi-geri"
+    "val": "гедан-маваши-гери"
   },
   {
     "key": ". Since the legs are longer than the arms, this is an effective technique against boxers.",
     "trx": ". Поскольку ноги длиннее рук, это эффективная техника против боксеров.",
-    "val": ". Since the legs are longer than the arms, this is an effective technique against boxers."
+    "val": ". Поскольку ноги длиннее рук, это эффективная техника против боксеров."
   },
   {
     "key": "Masa",
     "trx": "Маисовое тесто",
-    "val": "Masa"
+    "val": "Маса"
   },
   {
     "key": "A first-year student at Midoriyama Academy who works part-time for Dogen Hut, a noodle shop on Dogenzaka. He’s just back from suffering in the restroom, his stomach rather upset from eating too much parfait. While doing his business there, he happened to spot a magazine on the wall rack. Flipping through nonchalantly, he came across a potential 100,000-yen scratch card inside. Seeing that it hadn’t been scratched off, he considered trying for the prize—but then, deciding that it was no time to press his luck, left the restroom without scratching it.",
     "trx": "Студент первого курса Академии Мидорияма, который работает неполный рабочий день в Dogen Hut, магазине лапши на Догензака. Он только что вернулся после страданий в туалете, его желудок довольно расстроен из-за того, что он съел слишком много парфе. Занимаясь там своими делами, он случайно заметил журнал на настенной стойке. Небрежно листая, он наткнулся на потенциальную скретч-карту стоимостью 100 000 иен внутри. Увидев, что она не была поцарапана, он подумал о том, чтобы попытаться получить приз, но затем, решив, что сейчас не время испытывать судьбу, вышел из туалета, не поцарапав ее.",
-    "val": "A first-year student at Midoriyama Academy who works part-time for Dogen Hut, a noodle shop on Dogenzaka. He’s just back from suffering in the restroom, his stomach rather upset from eating too much parfait. While doing his business there, he happened to spot a magazine on the wall rack. Flipping through nonchalantly, he came across a potential 100,000-yen scratch card inside. Seeing that it hadn’t been scratched off, he considered trying for the prize—but then, deciding that it was no time to press his luck, left the restroom without scratching it."
+    "val": "Студент первого курса академии Мидорияма, который подрабатывает в Доген Хат, магазине лапши в Догензаке. Он только что вернулся после страданий в туалете, его желудок сильно расстроен из-за того, что он съел слишком много парфе. Занимаясь там своими делами, он случайно заметил на стойке журнал. Небрежно листая его, он наткнулся на скретч-карту с потенциальным призом в 100 000 иен. Увидев, что она не была стерта, он подумал о том, чтобы попытаться получить приз, но затем, решив, что сейчас не время испытывать судьбу, вышел из туалета, так ничего и не стерев."
   },
   {
     "key": "Sweets",
     "trx": "Сладости",
-    "val": "Sweets"
+    "val": "Сладости"
   },
   {
     "key": "A term used to refer to candies, snacks, or desserts that are flavored to be, well, sweet. You’ll see people on cooking shows trying fancy sweets and raving about how they taste using every word but “sweet,” which you would think kind of defeats the whole point, but whatever.",
     "trx": "Термин, используемый для обозначения конфет, закусок или десертов, которые приправлены, чтобы быть, ну, сладкими. Вы увидите, как люди на кулинарных шоу пробуют необычные сладости и бредят о том, какие они на вкус, используя каждое слово, кроме “сладкие”, что, по вашему мнению, сводит на нет весь смысл, но неважно.",
-    "val": "A term used to refer to candies, snacks, or desserts that are flavored to be, well, sweet. You’ll see people on cooking shows trying fancy sweets and raving about how they taste using every word but “sweet,” which you would think kind of defeats the whole point, but whatever."
+    "val": "Термин, используемый для обозначения конфет, закусок или десертов, которые на вкус как бы, ну, сладкие. Можно увидеть, как люди на кулинарных шоу пробуют необычные сладости и рассуждают о том, какие они на вкус, используя любые слова, кроме “сладкие”, что в принципе сводит на нет весь смысл, но неважно."
   },
   {
     "key": "Mastermind",
     "trx": "Вдохновитель",
-    "val": "Mastermind"
+    "val": "Главарь"
   },
   {
     "key": "Originally used solely to refer to someone of remarkable intellect, the term first took on its criminal connotations in the 19th century.",
     "trx": "Первоначально этот термин использовался исключительно для обозначения человека с выдающимся интеллектом, но впервые приобрел криминальный оттенок в 19 веке.",
-    "val": "Originally used solely to refer to someone of remarkable intellect, the term first took on its criminal connotations in the 19th century."
+    "val": "Первоначально этот термин использовался исключительно для обозначения человека с выдающимся интеллектом, но впервые приобрел криминальный оттенок в 19 веке."
   },
   {
     "key": "GPS",
@@ -782,7 +782,7 @@
   {
     "key": "Global Positioning System, a network of man-made satellites and ground-based control stations for providing geolocation data; alternately, a device that makes use of said system. Modern cell phones and vehicle navigation systems use the GPS.",
     "trx": "Глобальная система позиционирования, сеть искусственных спутников и наземных станций управления для предоставления данных о геолокации; альтернативно, устройство, которое использует указанную систему. Современные мобильные телефоны и навигационные системы транспортных средств используют GPS.",
-    "val": "Global Positioning System, a network of man-made satellites and ground-based control stations for providing geolocation data; alternately, a device that makes use of said system. Modern cell phones and vehicle navigation systems use the GPS."
+    "val": "Глобальная система позиционирования (Global Positioning System), сеть искусственных спутников и наземных станций управления для предоставления данных о геолокации; также устройство, использующее указанную систему. Современные мобильные телефоны и навигационные системы транспортных средств используют GPS."
   },
   {
     "key": "Custodian",
@@ -4422,7 +4422,7 @@
   {
     "key": "At present, the exclusive Bride has already exceeded its allotted number of members, and is not accepting new ones. Given the buzz about how both the costumes and the fights are really something to see, memberships that are auctioned off online command quite high prices.",
     "trx": "В настоящее время эксклюзивная Невеста уже превысила отведенное ей количество участников и не принимает новых. Учитывая шумиху вокруг того, что и костюмы, и бои действительно достойны внимания, членство, которое выставляется на аукцион онлайн, стоит довольно дорого.",
-    "val": "В настоящее время эксклюзивный бар Невеста уже превысил разрешенное количество участников и не принимает новых. Учитывая шумиху вокруг того, что и костюмы, и бои действительно достойны внимания, членство, продаваемое на онлайн-аукционах, стоит довольно дорого."
+    "val": "В настоящее время эксклюзивный паб Невеста уже превысил разрешенное количество участников и не принимает новых. Учитывая шумиху вокруг того, что и костюмы, и бои действительно достойны внимания, членство, продаваемое на онлайн-аукционах, стоит довольно дорого."
   },
   {
     "key": "Shadow-boxing.",
@@ -5542,7 +5542,7 @@
   {
     "key": "The microwave at my house doesn’t really go “ding” when the timer reaches zero, though. It’s more just a “beep.” But it doesn’t make sense to call a microwave a “beeper” when that’s already a word that refers to something else.",
     "trx": "Однако микроволновая печь в моем доме на самом деле не “звенит”, когда таймер достигает нуля. Это скорее просто “звуковой сигнал”. Но не имеет смысла называть микроволновую печь “звуковым сигналом”, когда это слово уже относится к чему-то другому.",
-    "val": "Однако микроволновая печь в моем доме на самом деле не “звенит”, когда таймер достигает нуля. Это скорее просто писк. Но не имеет смысла называть микроволновую печь “пищалкой” (“beeper”), так как это слово уже относится к чему-то другому."
+    "val": "Однако, в моем доме, когда таймер на микроволновой печи достигает нуля, она издает звук, непохожий на “динь.” Скорее это просто писк. Но не имеет смысла называть микроволновую печь “пищалкой” (“beeper”), так как это слово уже относится к чему-то другому."
   },
   {
     "key": "Fried egg on rice",

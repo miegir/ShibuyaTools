@@ -217,7 +217,7 @@
   {
     "key": "“Heheheh.”",
     "trx": "“Хехехех”.",
-    "val": "“Хехехех”."
+    "val": "“Хехехе.”"
   },
   {
     "key": "“Dad? I reaaaaally don’t like the sound of that.”",
@@ -227,7 +227,7 @@
   {
     "key": "“Heheheh...” ",
     "trx": "“Хехехех...” ",
-    "val": "“Хехехех...” "
+    "val": "“Хехехе...” "
   },
   {
     "key": "And so began a very long conversation.",

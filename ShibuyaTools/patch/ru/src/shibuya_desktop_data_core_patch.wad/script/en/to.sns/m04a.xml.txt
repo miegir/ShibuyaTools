@@ -427,7 +427,7 @@
   {
     "key": "“Please pardon my intrusion! But—",
     "trx": "“Пожалуйста, простите мое вторжение! Но—",
-    "val": "“Пожалуйста, простите мое вторжение! Но "
+    "val": "“Пожалуйста, прости мое вторжение! Но "
   },
   {
     "key": "would you be willing to let me have these diet drinks?”",
@@ -557,7 +557,7 @@
   {
     "key": ",” the salesclerk explains.",
     "trx": ", ” объясняет продавец.",
-    "val": ", ” объясняет продавец."
+    "val": ",” объясняет продавец."
   },
   {
     "key": "“So then, uh, ",
@@ -2132,7 +2132,7 @@
   {
     "key": "“Gaaah! Why isn’t it working?” I exclaim, the audience momentarily forgotten.",
     "trx": "“Гааа! Почему это не работает?” - восклицаю я, на мгновение забыв о публике.",
-    "val": "“Чеерт! Почему он не работает?” восклицаю я, на мгновение забыв о публике."
+    "val": "“Чееерт! Почему он не работает?” восклицаю я, на мгновение забыв о публике."
   },
   {
     "key": "“Guess I’ve already sweated out too much,” Chiri replies, unfazed.",
@@ -3192,7 +3192,7 @@
   {
     "key": "And then....” ",
     "trx": "А потом....” ",
-    "val": "А потом....” "
+    "val": "А потом...” "
   },
   {
     "key": "Clutching his fist, Mr. Yanagishita gets a far-off look in his eye.",

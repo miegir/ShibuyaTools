@@ -797,12 +797,12 @@
   {
     "key": "idea",
     "trx": "идея",
-    "val": "представляешь"
+    "val": "представляешь, "
   },
   {
     "key": " how much money",
     "trx": " сколько денег",
-    "val": ", сколько денег"
+    "val": "сколько денег"
   },
   {
     "key": " the company has thrown at your lab to keep it up and running?”",
@@ -2357,7 +2357,7 @@
   {
     "key": "“Hmmm. ",
     "trx": "“Хммм. ",
-    "val": "“Хммм. "
+    "val": "“Хмм. "
   },
   {
     "key": "I’d better not say, sir. You might take offense.”",
