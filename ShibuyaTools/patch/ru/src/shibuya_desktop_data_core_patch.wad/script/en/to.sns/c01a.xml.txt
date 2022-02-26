@@ -1637,7 +1637,7 @@
   {
     "key": "And Canaan, once Siam took her in, had grown not as a soldier, but as a specialized covert operative.",
     "trx": "И Ханаан, как только Сиам взял ее к себе, выросла не как солдат, а как специализированный тайный оперативник.",
-    "val": "And Canaan, once Siam took her in, had grown not as a soldier, but as a specialized covert operative."
+    "val": "And Canaan, once Siam took her in, had grown not as a soldier, but as a specialized тайный агент."
   },
   {
     "key": "That was her good fortune.",
@@ -7997,7 +7997,7 @@
   {
     "key": "“The liberation front only sent two covert operatives. I brought more. ",
     "trx": "“Фронт освобождения послал только двух тайных агентов. Я принес еще. ",
-    "val": "“The liberation front only sent two covert operatives. I brought more. "
+    "val": "“Фронт освобождения послал всего лишь двух тайных агентов. I brought more. "
   },
   {
     "key": "That’s who you’re hearing going to work back there. And after you risked yourself to protect those people, too.”",

@@ -3517,137 +3517,137 @@
   {
     "key": "Covert operative",
     "trx": "Тайный оперативник",
-    "val": "Covert operative"
+    "val": "Тайный агент"
   },
   {
     "key": "In simple terms, a type of spy that infiltrates hostile territory to carry out various clandestine activities.",
     "trx": "Проще говоря, тип шпиона, который проникает на враждебную территорию для осуществления различных тайных действий.",
-    "val": "In simple terms, a type of spy that infiltrates hostile territory to carry out various clandestine activities."
+    "val": "Проще говоря, шпион, который проникает на вражескую территорию для осуществления различных тайных действий."
   },
   {
     "key": "Abu Ghraib prison",
     "trx": "Тюрьма Абу-Грейб",
-    "val": "Abu Ghraib prison"
+    "val": "Тюрьма Абу-Грейб"
   },
   {
     "key": "A prison in Iraq, west of Baghdad. Under the Hussein government, it was an internment facility for political prisoners, but following the Iraq War, it was used by the U.S. Army to house prisoners of war. In April of 2004, photographs of detainees being tortured by U.S. soldiers were released, causing a massive scandal. President Bush later made the decision to have the facility demolished.",
     "trx": "Тюрьма в Ираке, к западу от Багдада. При правительстве Хусейна это было место для интернирования политических заключенных, но после войны в Ираке оно использовалось армией США для размещения военнопленных. В апреле 2004 года были опубликованы фотографии заключенных, подвергаемых пыткам американскими солдатами, что вызвало масштабный скандал. Позже президент Буш принял решение снести это сооружение.",
-    "val": "A prison in Iraq, west of Baghdad. Under the Hussein government, it was an internment facility for political prisoners, but following the Iraq War, it was used by the U.S. Army to house prisoners of war. In April of 2004, photographs of detainees being tortured by U.S. soldiers were released, causing a massive scandal. President Bush later made the decision to have the facility demolished."
+    "val": "Тюрьма в Ираке, к западу от Багдада. При правлении Хусейна в ней содержались политические заключенные, но после войны в Ираке она использовалась армией США для содержания военнопленных. В апреле 2004 года были опубликованы фотографии заключенных, подвергаемых пыткам американскими солдатами, что вызвало масштабный скандал. Позже президент Буш принял решение снести это сооружение."
   },
   {
     "key": "Ebola virus",
     "trx": "Вирус Эбола",
-    "val": "Ebola virus"
+    "val": "Вирус Эбола"
   },
   {
     "key": "Discovered in Sudan in 1976. Infection causes “Ebola hemorrhagic fever,” resulting in a high fever and massive bleeding throughout the body. At present, there is no vaccine to prevent infection, nor any drug to cure the disease after it manifests.",
     "trx": "Обнаружен в Судане в 1976 году. Инфекция вызывает “геморрагическую лихорадку Эбола”, приводящую к высокой температуре и массивному кровотечению по всему телу. В настоящее время не существует ни вакцины для предотвращения инфекции, ни какого-либо лекарства для лечения болезни после ее проявления.",
-    "val": "Discovered in Sudan in 1976. Infection causes “Ebola hemorrhagic fever,” resulting in a high fever and massive bleeding throughout the body. At present, there is no vaccine to prevent infection, nor any drug to cure the disease after it manifests."
+    "val": "Обнаружен в Судане в 1976 году. Инфекция вызывает “геморрагическую лихорадку Эбола” с высокой температурой и массивным кровотечением по всему телу. В настоящее время не существует ни вакцины для предотвращения инфекции, ни какого-либо лекарства для лечения болезни после ее проявления."
   },
   {
     "key": "HIV",
     "trx": "ВИЧ",
-    "val": "HIV"
+    "val": "ВИЧ"
   },
   {
     "key": "Human Immunodeficiency Virus. HIV destroys the cells that are essential for regulating cell-mediated immunity, considerably reducing immune response. This effect can result in infections that would ordinarily be fought off easily developing into serious illnesses. There are various treatments, but as of yet, nothing that will eradicate the virus completely.",
     "trx": "Вирус иммунодефицита человека. ВИЧ разрушает клетки, которые необходимы для регуляции клеточно-опосредованного иммунитета, значительно снижая иммунный ответ. Этот эффект может привести к тому, что инфекции, с которыми обычно легко бороться, перерастут в серьезные заболевания. Существуют различные методы лечения, но пока нет ничего, что полностью уничтожило бы вирус.",
-    "val": "Human Immunodeficiency Virus. HIV destroys the cells that are essential for regulating cell-mediated immunity, considerably reducing immune response. This effect can result in infections that would ordinarily be fought off easily developing into serious illnesses. There are various treatments, but as of yet, nothing that will eradicate the virus completely."
+    "val": "Вирус иммунодефицита человека. ВИЧ разрушает клетки, которые необходимы для регуляции клеточного иммунитета, значительно снижая иммунный ответ. Этот эффект может привести к тому, что инфекции, с которыми обычно легко бороться, перерастут в серьезные заболевания. Существуют различные методы лечения, но пока нет ничего, что позволило бы полностью уничтожить вирус."
   },
   {
     "key": "Influenza",
     "trx": "Грипп",
-    "val": "Influenza"
+    "val": "Грипп"
   },
   {
     "key": "An infectious disease caused by the influenza virus. Symptoms are similar to that of the common cold, but are much more severe, occasionally resulting in death. There are three main types of the virus—A, B, and C—with A and B causing the typical run of the illness in humans. Neuraminidase is recommended as an effective inhibitor, but this merely alleviates the symptoms and is not a complete cure.",
     "trx": "Инфекционное заболевание, вызываемое вирусом гриппа. Симптомы похожи на симптомы обычной простуды, но гораздо более тяжелые, иногда приводящие к смерти. Существует три основных типа вируса — A, B и C, причем A и B вызывают типичное течение болезни у людей. Нейраминидаза рекомендуется в качестве эффективного ингибитора, но это лишь облегчает симптомы и не является полным лекарством.",
-    "val": "An infectious disease caused by the influenza virus. Symptoms are similar to that of the common cold, but are much more severe, occasionally resulting in death. There are three main types of the virus—A, B, and C—with A and B causing the typical run of the illness in humans. Neuraminidase is recommended as an effective inhibitor, but this merely alleviates the symptoms and is not a complete cure."
+    "val": "Инфекционное заболевание, вызываемое вирусом гриппа. Симптомы похожи на обычную простуду, но гораздо более тяжелые, иногда приводящие к смерти. Существует три основных типа вируса — A, B и C, причем A и B вызывают типичное течение болезни у людей. Нейраминидаза рекомендуется в качестве эффективного ингибитора, но она лишь облегчает симптомы и не является полноценным лекарством."
   },
   {
     "key": "Mutt",
     "trx": "Остолоп",
-    "val": "Mutt"
+    "val": "Злодей"
   },
   {
     "key": "Mutt: perpetrator",
     "trx": "Дворняжка: преступник",
-    "val": "Mutt: perpetrator"
+    "val": "Злодей: преступник"
   },
   {
     "key": "Hook: to put someone in cuffs",
     "trx": "Крючок: надеть на кого-то наручники",
-    "val": "Hook: to put someone in cuffs"
+    "val": "Спеленать: надеть на преступника наручники"
   },
   {
     "key": "Dipper: pickpocket",
     "trx": "Диппер: карманник",
-    "val": "Dipper: pickpocket"
+    "val": "Барыга: торговец краденым"
   },
   {
     "key": "Wants: outstanding warrants",
     "trx": "Требования: выданные ордера",
-    "val": "Wants: outstanding warrants"
+    "val": "Закрыть: задержать преступника"
   },
   {
     "key": "Hang Paper: to write multiple citations",
     "trx": "Повесьте бумагу: для написания нескольких цитат",
-    "val": "Hang Paper: to write multiple citations"
+    "val": "Отписаться: отправить ответ на запрос"
   },
   {
     "key": "...and other such traditional police jargon.",
     "trx": "...и другой подобный традиционный полицейский жаргон.",
-    "val": "...and other such traditional police jargon."
+    "val": "...и другой традиционный полицейский жаргон."
   },
   {
     "key": "Man",
     "trx": "Человек",
-    "val": "Man"
+    "val": "Человек"
   },
   {
     "key": "Teruo Toyama. While searching for Hana at Shibuya GiGO, he was located by a duo of debt collectors and fled the scene. Hana left GiGO to find him, and ran into him here in Maruyamacho. The pair are heading toward Koen-Dori, trying to find a place to hide.",
     "trx": "Теруо Тояма. Во время поисков Ханы в Сибуя Гиго он был обнаружен двумя сборщиками долгов и скрылся с места происшествия. Хана оставила Гиго, чтобы найти его, и столкнулась с ним здесь, в Маруямачо. Пара направляется в сторону Коэн-Дори, пытаясь найти место, где можно спрятаться.",
-    "val": "Teruo Toyama. While searching for Hana at Shibuya GiGO, he was located by a duo of debt collectors and fled the scene. Hana left GiGO to find him, and ran into him here in Maruyamacho. The pair are heading toward Koen-Dori, trying to find a place to hide."
+    "val": "Теруо Тояма. Во время поисков Ханы в Сибуя GiGO он был обнаружен двумя сборщиками долгов и скрылся с места происшествия. Хана покинула GiGO, чтобы найти его, и столкнулась с ним здесь, в Маруяматё. Пара направляется в сторону Коэн-Дори, пытаясь найти место, где можно спрятаться."
   },
   {
     "key": "Scarf hold",
     "trx": "Удержание шарфа",
-    "val": "Scarf hold"
+    "val": "Сайд маунт"
   },
   {
     "key": "A technique in judo.",
     "trx": "Техника в дзюдо.",
-    "val": "A technique in judo."
+    "val": "Доминирующая позиция в дзюдо."
   },
   {
     "key": "Involves wrapping an arm around the opponent’s neck while performing an upper body pin.",
     "trx": "Включает в себя обертывание руки вокруг шеи противника во время выполнения удара верхней частью тела.",
-    "val": "Involves wrapping an arm around the opponent’s neck while performing an upper body pin."
+    "val": "Заключается в нахождении борца на груди противника перпендикулярно к нему."
   },
   {
     "key": "CATS",
     "trx": "кошки",
-    "val": "CATS"
+    "val": "КОТ"
   },
   {
     "key": "Costume As Transmission System",
     "trx": "Костюм Как Система Передачи",
-    "val": "Costume As Transmission System"
+    "val": "Костюм Орбитальный Трансмиссионный"
   },
   {
     "key": "Developed by Far East Costume Rental’s high-tech department. There was an official corporate notice stating, “This is just a prototype and potentially dangerous, so do ",
     "trx": "Разработан отделом высоких технологий Far East Costume Rental. Было официальное корпоративное уведомление, в котором говорилось: “Это всего лишь прототип и потенциально опасный, так что делайте ",
-    "val": "Developed by Far East Costume Rental’s high-tech department. There was an official corporate notice stating, “This is just a prototype and potentially dangerous, so do "
+    "val": "Разработан отделом высоких технологий Far East Costume Rental. В официальном корпоративном уведомлении говорилось: “Это всего лишь прототип, который, возможно, опасен, так что "
   },
   {
     "key": "not",
     "trx": "нет",
-    "val": "not"
+    "val": "не"
   },
   {
     "key": " lend it out under any circumstances,” but it was accidentally rented by mistake.",
     "trx": " одолжите его при любых обстоятельствах”, но он был случайно взят напрокат по ошибке.",
-    "val": " lend it out under any circumstances,” but it was accidentally rented by mistake."
+    "val": " выдавайте его ни при каких обстоятельствах,” но он тем не менее был выдан в прокат по ошибке."
   },
   {
     "key": "Marines",
