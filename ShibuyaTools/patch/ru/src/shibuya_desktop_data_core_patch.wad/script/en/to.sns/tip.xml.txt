@@ -647,7 +647,7 @@
   {
     "key": "Spaghetti with a sauce made from tomatoes and ground meat. Also known as Spaghetti Bolognese, if you want to sound more Italian. Like Napolitan Spaghetti, flavored with ketchup, it is a perennial favorite of Japanese children. Frozen packages at the supermarket for around 200 yen a pop make for a simple and decently tasty microwavable meal that’s also easy on the wallet.",
     "trx": "Спагетти с соусом из помидоров и мясного фарша. Также известный как Спагетти Болоньезе, если вы хотите звучать более по-итальянски. Как и спагетти по-неаполитански, приправленные кетчупом, они являются неизменным фаворитом японских детей. Замороженные пакеты в супермаркете примерно по 200 иен за штуку - это простая и прилично вкусная еда, которую можно приготовить в микроволновой печи, а также легко для кошелька.",
-    "val": "Спагетти с соусом из помидоров и мясного фарша. Также известно как Спагетти Болоньезе, если быть ближе к итальянскому. Как и спагетти Напоритан, приправленные кетчупом, они являются любимым блюдом японских детей. Замороженные пакеты в супермаркете примерно по 200 иен за штуку — это простая и довольно вкусная еда, которую можно приготовить в микроволновой печи, и не бющая по бумажнику."
+    "val": "Спагетти с соусом из помидоров и мясного фарша. Также известно как Спагетти Болоньезе, если быть ближе к итальянскому. Как и спагетти Напоритан, приправленные кетчупом, они являются любимым блюдом японских детей. Замороженные пакеты в супермаркете примерно по 200 иен за штуку — это простая и довольно вкусная еда, которую можно приготовить в микроволновой печи, и не бьющая по бумажнику."
   },
   {
     "key": "Strawberry Parfait",
@@ -1682,7 +1682,7 @@
   {
     "key": "Former broadcast writer. Has appeared on various popular variety shows on commercial network Sun TV. He currently heads up a small theater troupe known as “The Wandering Angels,” operating out of Shibuya.",
     "trx": "Бывший автор радиопередач. Появлялся в различных популярных эстрадных шоу коммерческой сети Sun TV. В настоящее время он возглавляет небольшую театральную труппу, известную как “Блуждающие ангелы”, действующую в Сибуе.",
-    "val": "Бывший автор радиопередач. Появлялся в нескольких популярных шоу коммерческой сети Sun TV. В настоящее время возглавляет театральную труппу под названием “Бродячие Ангелы,” выступающую в Сибуе."
+    "val": "Бывший сценарист. Появлялся в нескольких популярных шоу коммерческой сети Sun TV. В настоящее время возглавляет театральную труппу под названием “Бродячие Ангелы,” выступающую в Сибуе."
   },
   {
     "key": "Later today, the troupe is putting on a performance at Theatre Ace in Sakuragaokacho.",
@@ -2257,72 +2257,72 @@
   {
     "key": "Touch-typing",
     "trx": "Сенсорный ввод текста",
-    "val": "Touch-typing"
+    "val": "Слепой метод набора"
   },
   {
     "key": "The act of typing at a keyboard without looking at the keys. The aspiration of computer novices everywhere.",
     "trx": "Акт набора текста на клавиатуре, не глядя на клавиши. Стремление компьютерных новичков повсюду.",
-    "val": "The act of typing at a keyboard without looking at the keys. The aspiration of computer novices everywhere."
+    "val": "Методика набора текста вслепую, не глядя на клавиши. Идеал для компьютерных новичков во всем мире."
   },
   {
     "key": "The typical method involves placing the index fingers on the “F” and “J” keys, with the middle, ring, and pinky fingers resting on the “A,” “S,” and “D” or “K,” “L,” and “;” keys to either side, from which all other keys are easily reached. With practice, a touch typist can instinctively hit the correct key every time without looking.",
     "trx": "Типичный метод включает в себя размещение указательных пальцев на клавишах “F” и “J”, при этом средний, безымянный и мизинец лежат на клавишах “A”, “S” и “D” или “K”, “L” и “;” с обеих сторон, откуда легко добраться до всех остальных клавиш. С практикой сенсорная машинистка может инстинктивно нажимать правильную клавишу каждый раз, не глядя.",
-    "val": "The typical method involves placing the index fingers on the “F” and “J” keys, with the middle, ring, and pinky fingers resting on the “A,” “S,” and “D” or “K,” “L,” and “;” keys to either side, from which all other keys are easily reached. With practice, a touch typist can instinctively hit the correct key every time without looking."
+    "val": "Заключается обычно в размещении указательных пальцев на клавишах “А” и “О”, при этом средний, безымянный палец и мизинец лежат над клавишами “Ф”, “Ы” и “В” с одной стороны, и “Л”, “Д” и “Ж” с другой, до остальных клавиш можно легко добраться из этого положения. Постоянно практикуясь, наборщик слепым методом может инстинктивно нажимать правильные клавиши, не глядя на клавиатуру."
   },
   {
     "key": "Flimflam",
     "trx": "Надуманный Огонь",
-    "val": "Flimflam"
+    "val": "Обман"
   },
   {
     "key": "Bogus or insincere content. Few things anger Minorikawa more than reporters using dishonest means to create a story; having his own work called ‘flimflam’ would naturally make him blow his top.",
     "trx": "Поддельный или неискренний контент. Мало что злит Минорикаву больше, чем репортеры, использующие нечестные средства для создания истории; наличие его собственной работы под названием \"флимфлам\", естественно, заставило бы его сорваться.",
-    "val": "Bogus or insincere content. Few things anger Minorikawa more than reporters using dishonest means to create a story; having his own work called ‘flimflam’ would naturally make him blow his top."
+    "val": "Поддельный или неискренний контент. Мало что может разозлить Минорикаву больше, чем репортеры, использующие нечестные средства при написании историй; когда его собственную работу называют ‘обман,’ это, естественно, может заставить его сорваться."
   },
   {
     "key": "Spaghetti Napolitan",
     "trx": "Спагетти Наполитан",
-    "val": "Spaghetti Napolitan"
+    "val": "Спагетти Напоритан"
   },
   {
     "key": "Spaghetti flavored with tomato ketchup. “Napolitan” is a corruption of “Neapolitan,” though the dish itself has no connection to the Italian city of Naples (Napoli); rather, it originated as a menu item at a hotel in Yokohama shortly after World War II. There is also a spaghetti dish from Nagoya called “Milanese,” which likewise has no connection to the Italian city of Milan.",
     "trx": "Спагетти, приправленные томатным кетчупом. ”Неаполитанский“ - это искажение ”неаполитанского\", хотя само блюдо не имеет никакого отношения к итальянскому городу Неаполь (Неаполь); скорее, оно появилось как пункт меню в отеле в Йокогаме вскоре после Второй мировой войны. Существует также блюдо из спагетти из Нагои под названием “Миланезе”, которое также не имеет никакого отношения к итальянскому городу Милан.",
-    "val": "Spaghetti flavored with tomato ketchup. “Napolitan” is a corruption of “Neapolitan,” though the dish itself has no connection to the Italian city of Naples (Napoli); rather, it originated as a menu item at a hotel in Yokohama shortly after World War II. There is also a spaghetti dish from Nagoya called “Milanese,” which likewise has no connection to the Italian city of Milan."
+    "val": "Спагетти, приправленные томатным кетчупом. “Напоритан” — это искаженное слово “Неаполитанский,” хотя само блюдо не имеет никакого отношения к итальянскому городу Неаполь; оно впервые появилось как пункт меню в отеле Йокогамы вскоре после Второй мировой войны. Существует также блюдо из спагетти под названием “Миланьезе” из Нагои, которое также не имеет никакого отношения к итальянскому городу Милан."
   },
   {
     "key": "Save his work",
     "trx": "Спасти его работу",
-    "val": "Save his work"
+    "val": "Сохранить свою работу"
   },
   {
     "key": "Always make sure to save your work to avoid losing data. Honestly, why is it that your computer only seems to freeze when you’ve forgotten to save your stuff?",
     "trx": "Всегда сохраняйте свою работу, чтобы избежать потери данных. Честно говоря, почему ваш компьютер, кажется, зависает только тогда, когда вы забыли сохранить свои вещи?",
-    "val": "Always make sure to save your work to avoid losing data. Honestly, why is it that your computer only seems to freeze when you’ve forgotten to save your stuff?"
+    "val": "Всегда сохраняйте свою работу, чтобы избежать потери данных. Кажется, что компьютер любит зависать именно тогда, когда вы забываете сохранить свою работу."
   },
   {
     "key": "Fraternal twins",
     "trx": "Разнояйцевые близнецы",
-    "val": "Fraternal twins"
+    "val": "Разнояйцевые близнецы"
   },
   {
     "key": "Twins who were born at the same time, from two eggs that were fertilized separately. Fraternal twins do not share the same genetic information; they can differ in such characteristics as sex and blood type, though there are cases of fraternal twins resembling one another almost as closely as identical twins.",
     "trx": "Близнецы, родившиеся в одно и то же время из двух яйцеклеток, которые были оплодотворены отдельно. Разнояйцевые близнецы не имеют одинаковой генетической информации; они могут отличаться по таким характеристикам, как пол и группа крови, хотя бывают случаи, когда разнояйцевые близнецы похожи друг на друга почти так же, как однояйцевые близнецы.",
-    "val": "Twins who were born at the same time, from two eggs that were fertilized separately. Fraternal twins do not share the same genetic information; they can differ in such characteristics as sex and blood type, though there are cases of fraternal twins resembling one another almost as closely as identical twins."
+    "val": "Близнецы, родившиеся в одно и то же время из двух яйцеклеток, которые были оплодотворены отдельно. Разнояйцевые близнецы не получают одинаковой генетической информации; они могут отличаться по таким характеристикам, как пол и группа крови, хотя бывают случаи, когда разнояйцевые близнецы похожи друг на друга почти так же, как однояйцевые близнецы."
   },
   {
     "key": "Maria and Hitomi Osawa happen to look very closely alike, but they do not have the same blood type.",
     "trx": "Мария и Хитоми Осава очень похожи, но у них разная группа крови.",
-    "val": "Maria and Hitomi Osawa happen to look very closely alike, but they do not have the same blood type."
+    "val": "Мария и Хитоми Осава очень похожи, но они имеют разные группы крови."
   },
   {
     "key": "Tabasco",
     "trx": "Табаско",
-    "val": "Tabasco"
+    "val": "Табаско"
   },
   {
     "key": "A sauce made by the U.S.-based McIlhenny Company consisting of hot peppers, grain vinegar, and rock salt. Known for its distinctive spiciness, it can make spaghetti and pizza quite tasty with the addition of just a few drops. Tabasco also goes pretty well with ramen and curry. Recommended for times when flavor is lacking a little punch. However, even one drop may be too much for those who can’t handle spicy things. It has been claimed that Tabasco was first imported to Japan by a certain well-known former pro wrestler, but this story is untrue.",
     "trx": "Соус, приготовленный американской компанией McIlhenny, состоящий из острого перца, зернового уксуса и каменной соли. Известный своей особой пряностью, он может сделать спагетти и пиццу довольно вкусными с добавлением всего нескольких капель. Табаско также очень хорошо сочетается с раменом и карри. Рекомендуется для случаев, когда аромату не хватает небольшого пунша. Однако даже одной капли может быть слишком много для тех, кто не умеет обращаться с острыми вещами. Утверждалось, что Табаско было впервые ввезено в Японию неким известным бывшим профессиональным борцом, но эта история не соответствует действительности.",
-    "val": "A sauce made by the U.S.-based McIlhenny Company consisting of hot peppers, grain vinegar, and rock salt. Known for its distinctive spiciness, it can make spaghetti and pizza quite tasty with the addition of just a few drops. Tabasco also goes pretty well with ramen and curry. Recommended for times when flavor is lacking a little punch. However, even one drop may be too much for those who can’t handle spicy things. It has been claimed that Tabasco was first imported to Japan by a certain well-known former pro wrestler, but this story is untrue."
+    "val": "Соус, производимый американской компанией Макайленни (McIlhenny), состоящий из острого перца, зернового уксуса и каменной соли. Известен своей особой пряностью. Всего несколько его капель могут сделать спагетти и пиццу довольно вкусными. Табаско также очень хорошо сочетается с рамэном и карри. Рекомендуется для случаев, когда аромат требуется слегка усилить. Однако даже одной капли может быть слишком много для тех, кто не переносит острое. Утверждалось, что соус Табаско впервые был ввезен в Японию неким бывшим известным профессиональным борцом, но эта история не соответствует действительности."
   },
   {
     "key": "Wandering Angels",
@@ -2332,22 +2332,22 @@
   {
     "key": "[Episode 3] With help from Shin’ichi Bando, Mondo was able to get out of his apartment. Then, when all the players had finally assembled, the troupe proceeded with one last rehearsal before show time. But again, tragedy struck—Mondo came down with food poisoning after eating his lunch! He was rushed to the hospital in an ambulance, and the Angels were once again lacking an actor for the key role of Shido. Oarai was on the verge of panic. Finally, however, he came up with a solution. Novice actor Takuya Amo (age 31) would take on the part...(Continued in Episode 4)",
     "trx": "[Эпизод 3] С помощью Син'ичи Бандо Мондо смог выбраться из своей квартиры. Затем, когда все актеры наконец собрались, труппа приступила к последней репетиции перед началом представления. Но снова случилась трагедия — Мондо слег с пищевым отравлением после того, как съел свой обед! Его доставили в больницу на машине скорой помощи, и Ангелам снова не хватало актера на ключевую роль Шидо. Орай был на грани паники. Однако в конце концов он нашел решение. Начинающий актер Такуя Амо (31 год) взял бы на себя эту роль...(Продолжение в эпизоде 4)",
-    "val": "[Эпизод 3] Мондо при помощи Шиничи Бандо смог выбраться из своей квартиры. Затем, когда все актеры наконец собрались, труппа приступила к последней репитиции перед представлением. Но снова случилась трагедая — Мондо слег с пищевым отравлением после того, как съел обед! Его доставили в больницу на машине скорой помощи, и Ангелам снова не хватало актера на ключевую роль Шидо. Оараи был на грани паники. Однако в конце концов он нашел решение. Начинающий актер Такуя Амо (31 год) мог бы сыграть эту роль...(Продолжение в эпизоде 4)"
+    "val": "[Эпизод 3] Мондо при помощи Шиничи Бандо смог выбраться из своей квартиры. Затем, когда все актеры наконец собрались, труппа приступила к последней репетиции перед представлением. Но снова случилась трагедия — Мондо слег с пищевым отравлением после того, как съел обед! Его доставили в больницу на машине скорой помощи, и Ангелам снова не хватало актера на ключевую роль Шидо. Оараи был на грани паники. Однако в конце концов он нашел решение. Начинающий актер Такуя Амо (31 год) мог бы сыграть эту роль... (Продолжение в эпизоде 4)"
   },
   {
     "key": "Celebrities",
     "trx": "Знаменитости",
-    "val": "Celebrities"
+    "val": "Знаменитости"
   },
   {
     "key": "The largest of the bouquets was sent by Koichi Nakamura of the secret society Choonsoft. The next largest came from Marutaro Ishihara from the government organization Joiyárt. Following that were those from actress Barako Rose, popular scenario writer Ebisu Ipponmatsu, Tohoku Busters Bus Tours Co., Ltd. bus guide Kimiko Amo, professional baseball player Masa Narikiyo, the ventriloquist Shin-Shin, ukulele player Hawai’i Matsuda, online TV critic Genzo Akitsu, and so on.",
     "trx": "Самый большой из букетов был прислан Коичи Накамурой из тайного общества \"Чунсофт\". Следующий по величине результат был получен от Марутаро Исихары из правительственной организации Joiyárt. За этим последовали выступления актрисы Барако Роуз, популярного сценариста Эбису Иппонмацу, компании Tohoku Busters Bus Tours Co., Ltd. автобусного гида Кимико Амо, профессионального бейсболиста Масы Нарикие, чревовещателя Шин-Шин, игрока на гавайской гитаре Гавайи Мацуды, онлайн-телевизионного критика Гензо Акицу и так далее.",
-    "val": "The largest of the bouquets was sent by Koichi Nakamura of the secret society Choonsoft. The next largest came from Marutaro Ishihara from the government organization Joiyárt. Following that were those from actress Barako Rose, popular scenario writer Ebisu Ipponmatsu, Tohoku Busters Bus Tours Co., Ltd. bus guide Kimiko Amo, professional baseball player Masa Narikiyo, the ventriloquist Shin-Shin, ukulele player Hawai’i Matsuda, online TV critic Genzo Akitsu, and so on."
+    "val": "Самый большой из букетов прислал Коичи Накамура из тайного общества Choonsoft. Следующий по размеру букет был получен от Марутаро Исихары из правительственной организации Joiyárt. Следующими были букеты от актрисы Барако Роуз, популярного сценариста Эбису Иппонмацу, автобусного гида Кимико Амо из Tohoku Busters Bus Tours Co., Ltd., профессионального бейсболиста Масы Нарикиё, чревовещателя Шин-Шин, игрока на гавайской гитаре Гавайи Мацуды, телевизионного критика Гензо Акицу и так далее."
   },
   {
     "key": "Wandering Angels",
     "trx": "Блуждающие Ангелы",
-    "val": "Бодяцие Ангелы"
+    "val": "Бродячие Ангелы"
   },
   {
     "key": "[Episode 4] Novice actor Takuya Amo, despite his nervousness, gave a creditable performance as Shido as the production got underway; but as the show continued his inexperience became apparent. He went onstage for the big wire action scene having forgotten to attach himself to the rigging. Tozuka was quick to act, rushing onstage in the improvised role of “Assassin with an Edo Accent No. 1” and fixing a rope to Amo’s back during the confusion. (Continued in Episode 5)",
@@ -2357,42 +2357,42 @@
   {
     "key": "Jolt of tension",
     "trx": "Толчок напряжения",
-    "val": "Jolt of tension"
+    "val": "Напряженность"
   },
   {
     "key": "Around this time, there’s a similar jolt of tension between two other people: ",
     "trx": "Примерно в это же время происходит похожий всплеск напряженности между двумя другими людьми: ",
-    "val": "Around this time, there’s a similar jolt of tension between two other people: "
+    "val": "Примерно в это же время возникла такая же напряженность между двумя другими людьми: "
   },
   {
     "key": "Kenji Osawa",
     "trx": "Кэндзи Осава",
-    "val": "Kenji Osawa"
+    "val": "Кэндзи Осавой"
   },
   {
     "key": " and Mamoru Tanaka.",
     "trx": " и Мамору Танака.",
-    "val": " and Mamoru Tanaka."
+    "val": " и Мамору Танакой."
   },
   {
     "key": "House",
     "trx": "Дом",
-    "val": "House"
+    "val": "Дом"
   },
   {
     "key": "Theater jargon for the theater itself, especially the main auditorium.",
     "trx": "Театральный жаргон для обозначения самого театра, особенно главного зрительного зала.",
-    "val": "Theater jargon for the theater itself, especially the main auditorium."
+    "val": "Театральный жаргон для обозначения самого театра, особенно главного зрительного зала."
   },
   {
     "key": "Broadcast writer",
     "trx": "Автор радиопередачи",
-    "val": "Broadcast writer"
+    "val": "Сценарист"
   },
   {
     "key": "Someone who writes for television or radio programs. A great show depends not only on the actors’ performances, but on the skills of the broadcast writer.",
     "trx": "Кто-то, кто пишет для телевизионных или радиопрограмм. Отличное шоу зависит не только от игры актеров, но и от навыков автора передачи.",
-    "val": "Someone who writes for television or radio programs. A great show depends not only on the actors’ performances, but on the skills of the broadcast writer."
+    "val": "Некто, кто пишет для телевизионных или радиопередач. Отличное шоу зависит не только от игры актеров, но и от навыков сценариста."
   },
   {
     "key": "Wandering Angels",
@@ -4197,7 +4197,7 @@
   {
     "key": "“Dom Pepperon” ",
     "trx": "“Дом Пепперон” ",
-    "val": "“Дон Пеперон” "
+    "val": "“Дон Пепперон” "
   },
   {
     "key": "“PowerBurn Z” ",

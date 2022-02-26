@@ -18,32 +18,45 @@
   <InheritIgnoredFilePatterns>False</InheritIgnoredFilePatterns>
   <InheritXmlSettings>True</InheritXmlSettings>
   <ExclusionExpressions>
+    <Expression Match="&quot;isdeeds’" />
     <Expression Match="\&quot;(key|trx)\&quot;.*$(?# key/trx lines)" />
-    <Expression Match="\bайки-дзю-дзюцу\b" />
-    <Expression Match="\bва-банк\b" />
-    <Expression Match="\bХи+-йа+!" />
-    <Expression Match="\bРр+ах+!" />
-    <Expression Match="\bГва+х!" />
-    <Expression Match="\bАа+!" />
-    <Expression Match="\bМяя+у+\." Options="IgnoreCase" />
-    <Expression Match="\bЧее+рт!" Options="IgnoreCase" />
-    <Expression Match="\bХа(ха)+!" Options="IgnoreCase" />
-    <Expression Match="\bпомоги+те!" Options="IgnoreCase" />
-    <Expression Match="\bКа+к?" Options="IgnoreCase" />
-    <Expression Match="\bЕе+сть!" Options="IgnoreCase" />
-    <Expression Match="\bлже-Альфард" />
-    <Expression Match="\bГр+\." Options="IgnoreCase" />
-    <Expression Match="\bУф+!" Options="IgnoreCase" />
-    <Expression Match="\bЭэ+х\b" />
+    <Expression Match="\&quot;(квак|глорк|шл[юо]к)\&quot;" />
+    <Expression Match="\&quot;ndalous \&quot;" />
+    <Expression Match="\&quot;sca\&quot;" />
+    <Expression Match="\&quot;Нихон-го дэ дайджобу дэс\&quot;" />
+    <Expression Match="\b[Аа]а+-чи\b" />
+    <Expression Match="\b[Аа]йки-дзю-дзюцу\b" />
+    <Expression Match="\b100%-ная\b" />
     <Expression Match="\bА(ха)+\b" />
-    <Expression Match="\bОу+!" />
-    <Expression Match="\bхмм+\b" />
-    <Expression Match="\bХе(хе)+." Options="IgnoreCase" />
-    <Expression Match="\bМии-тян\b" />
-    <Expression Match="\bфуд-корт" Options="IgnoreCase" />
-    <Expression Match="\bфан-страниц" Options="IgnoreCase" />
+    <Expression Match="\bАа+!" />
+    <Expression Match="\bаа+\b" Options="IgnoreCase" />
     <Expression Match="\bальтер-эго\b" Options="IgnoreCase" />
+    <Expression Match="\bва-банк\b" />
+    <Expression Match="\bГва+х!" />
+    <Expression Match="\bГр+\." Options="IgnoreCase" />
+    <Expression Match="\bду ю спик\b" />
+    <Expression Match="\bЕе+сть!" Options="IgnoreCase" />
+    <Expression Match="\bКа+к?" Options="IgnoreCase" />
+    <Expression Match="\bлже-Альфард" />
+    <Expression Match="\bМии-тян\b" />
+    <Expression Match="\bМм+." />
+    <Expression Match="\bМяя+у+\." Options="IgnoreCase" />
+    <Expression Match="\bНега-Чоу\b" />
+    <Expression Match="\bОу+!" />
     <Expression Match="\bПинпо-кун\b" />
+    <Expression Match="\bпомоги+те!" Options="IgnoreCase" />
+    <Expression Match="\bРр+ах+!" />
+    <Expression Match="\bУф+!" Options="IgnoreCase" />
+    <Expression Match="\bфан-страниц" Options="IgnoreCase" />
+    <Expression Match="\bфуд-корт" Options="IgnoreCase" />
+    <Expression Match="\bХа(ха)+!" Options="IgnoreCase" />
+    <Expression Match="\bХе(хе)+." Options="IgnoreCase" />
+    <Expression Match="\bХи+-йа+!" />
+    <Expression Match="\bхмм+\b" />
+    <Expression Match="\bЧее+рт!" Options="IgnoreCase" />
+    <Expression Match="\bЭэ+х\b" />
+    <Expression Match="“покси\b" />
+    <Expression Match="“Гррах!”" />
   </ExclusionExpressions>
   <SpellCheckAsYouType>True</SpellCheckAsYouType>
   <IncludeInProjectSpellCheck>True</IncludeInProjectSpellCheck>
