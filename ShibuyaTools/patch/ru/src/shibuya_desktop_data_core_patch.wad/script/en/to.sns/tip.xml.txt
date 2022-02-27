@@ -4642,107 +4642,107 @@
   {
     "key": "Easy to please",
     "trx": "Легко угодить",
-    "val": "Easy to please"
+    "val": "Легко удовлетворить"
   },
   {
     "key": "Get your mind out of the gutter. That’s not what she means and you know it.",
     "trx": "Вытащи свой разум из канавы. Это не то, что она имеет в виду, и ты это знаешь.",
-    "val": "Get your mind out of the gutter. That’s not what she means and you know it."
+    "val": "Не забивайте голову всякой гадостью. Это не то, что она имеет в виду, и вы это знаете."
   },
   {
     "key": "Shopboy",
     "trx": "Продавец",
-    "val": "Shopboy"
+    "val": "Продавец"
   },
   {
     "key": "Taku Okado. 22 year old getting by on part-time employment.",
     "trx": "Таку Окадо. 22-летний парень зарабатывает на неполный рабочий день.",
-    "val": "Taku Okado. 22 year old getting by on part-time employment."
+    "val": "Таку Окадо, 22 года, работает неполный рабочий день."
   },
   {
     "key": "Recently, after a number of employees quit in rapid succession, the owner hurriedly took on several new hires; but for some reason, instead of everyone chipping in on the cleaning, Okado always winds up stuck doing it.",
     "trx": "Недавно, после того, как несколько сотрудников быстро уволились, владелец поспешно нанял нескольких новых сотрудников; но по какой-то причине вместо того, чтобы все включились в уборку, Окадо всегда застревает на этом.",
-    "val": "Recently, after a number of employees quit in rapid succession, the owner hurriedly took on several new hires; but for some reason, instead of everyone chipping in on the cleaning, Okado always winds up stuck doing it."
+    "val": "Недавно, после того, как несколько сотрудников разом уволились, владелец поспешно нанял нескольких новых сотрудников; но по какой-то причине вместо того, чтобы уборкой занимались все, она всегда достается Окадо."
   },
   {
     "key": "Couple",
     "trx": "Пара",
-    "val": "Couple"
+    "val": "Пара"
   },
   {
     "key": "Achi Endo and Hitomi Osawa.",
     "trx": "Ачи Эндо и Хитоми Осава.",
-    "val": "Achi Endo and Hitomi Osawa."
+    "val": "Ачи Эндо и Хитоми Осава."
   },
   {
     "key": "The two have just run into a girl called Canaan.",
     "trx": "Эти двое только что столкнулись с девушкой по имени Ханаан.",
-    "val": "The two have just run into a girl called Canaan."
+    "val": "Эти двое только что столкнулись с девушкой по имени Ханаан."
   },
   {
     "key": "Homeless-looking guy",
     "trx": "Похожий на бездомного парень",
-    "val": "Homeless-looking guy"
+    "val": "Похожий на бездомного"
   },
   {
     "key": "Detective Yuji Sasayama from the Shibuya Precinct.",
     "trx": "Детектив Юдзи Сасаяма из участка Сибуя.",
-    "val": "Detective Yuji Sasayama from the Shibuya Precinct."
+    "val": "Детектив Юдзи Сасаяма из полицейского участка Сибуи."
   },
   {
     "key": "At the moment Sasayama is searching for a costume for his next disguise.",
     "trx": "В данный момент Сасаяма ищет костюм для своего следующего переодевания.",
-    "val": "At the moment Sasayama is searching for a costume for his next disguise."
+    "val": "В данный момент Сасаяма ищет новый маскировочный костюм."
   },
   {
     "key": "Middle-aged man",
     "trx": "Мужчина средних лет",
-    "val": "Middle-aged man"
+    "val": "Мужчина средних лет"
   },
   {
     "key": "Teruo Toyama.",
     "trx": "Теруо Тояма.",
-    "val": "Teruo Toyama."
+    "val": "Теруо Тояма."
   },
   {
     "key": "He got separated from his daughter Hana while running from debt collectors. He’s on edge, worried that the men who are after him might take Hana hostage.",
     "trx": "Он расстался со своей дочерью Ханой, убегая от сборщиков долгов. Он на взводе, беспокоится, что люди, которые за ним охотятся, могут взять Ханну в заложники.",
-    "val": "He got separated from his daughter Hana while running from debt collectors. He’s on edge, worried that the men who are after him might take Hana hostage."
+    "val": "Он потерял свою дочь Хану, убегая от сборщиков долгов. Он на взводе, так как боится, что люди, которые за ним охотятся, могут взять Хану в заложники."
   },
   {
     "key": "Making a killing",
     "trx": "Совершая убийство",
-    "val": "Making a killing"
+    "val": "Зашибить кучу денег"
   },
   {
     "key": "To earn a lot of money, usually in a very short time and/or with little effort. The phrase originated in the 19th Century, in reference to hunters who were paid based on the number of kills they made.",
     "trx": "Заработать много денег, как правило, за очень короткое время и/или без особых усилий. Эта фраза возникла в 19 веке по отношению к охотникам, которым платили в зависимости от количества совершенных ими убийств.",
-    "val": "To earn a lot of money, usually in a very short time and/or with little effort. The phrase originated in the 19th Century, in reference to hunters who were paid based on the number of kills they made."
+    "val": "Заработать много денег, как правило, за очень короткое время и/или без особых усилий. Эта фраза возникла в 19 веке по отношению к охотникам, которым платили в зависимости от количества совершенных ими убийств."
   },
   {
     "key": "Two thugs",
     "trx": "Два головореза",
-    "val": "Two thugs"
+    "val": "Два головореза"
   },
   {
     "key": "Asao Ozu and his underling, Yutaro Segawa. Members of the Tenryu-gumi yakuza syndicate. Ozu is quite frightening when angry—his nickname is “Ozu the Ogre”—but despite his strong emotions he is very logic-driven. Segawa is the archetypical punk who likes to get into scuffles, but he’s also a really good cook.",
     "trx": "Асао Одзу и его подчиненный Ютаро Сегава. Члены синдиката якудза Тенрю-гуми. Одзу довольно пугающий, когда злится — его прозвище “Огр Одзу”, — но, несмотря на свои сильные эмоции, он очень логичен. Сегава - архетипичный панк, который любит ввязываться в драки, но он также действительно хороший повар.",
-    "val": "Asao Ozu and his underling, Yutaro Segawa. Members of the Tenryu-gumi yakuza syndicate. Ozu is quite frightening when angry—his nickname is “Ozu the Ogre”—but despite his strong emotions he is very logic-driven. Segawa is the archetypical punk who likes to get into scuffles, but he’s also a really good cook."
+    "val": "Асао Одзу и его подчиненный Ютаро Сегава. Члены синдиката якудза Тэнрю-гуми. Одзу довольно пугающий, когда злится — его прозвище “Огр Одзу,” — но, несмотря на свои сильные эмоции, он очень логичен. Сегава — архетипичный панк, который любит ввязываться в драки, но он также очень хороший повар."
   },
   {
     "key": "Poppycock",
     "trx": "Чушь собачья",
-    "val": "Poppycock"
+    "val": "Чушь собачья"
   },
   {
     "key": "Balderdash. Claptrap. Straight-up nonsense.",
     "trx": "Чушь собачья. Чушь собачья. Откровенная чушь.",
-    "val": "Balderdash. Claptrap. Straight-up nonsense."
+    "val": "Вздор. Бессмыслица. Откровенная нелепица."
   },
   {
     "key": "Taken from the Dutch ",
     "trx": "Взято у голландцев ",
-    "val": "Taken from the Dutch "
+    "val": "Английское выражение ‘poppycock’ происходит от голландского "
   },
   {
     "key": "pappekak",
@@ -4752,17 +4752,17 @@
   {
     "key": ", meaning “soft dung.”",
     "trx": ", что означает “мягкий навоз”.",
-    "val": ", meaning “soft dung.”"
+    "val": ", что означает “мягкие экскременты.”"
   },
   {
     "key": "Buffet",
     "trx": "Буфет",
-    "val": "Buffet"
+    "val": "Буфет (шведский стол)"
   },
   {
     "key": "A style of dining where guests serve themselves freely from an array of prepared foods, taking as much of each as they want. Many hotels and restaurants tend to hold buffets at lunchtime, or for brunch. Sometimes, however, this just winds up being a kind of cruel trap, with crowded lines making it take forever for you to even get near the food.",
     "trx": "Стиль питания, при котором гости свободно подают себе разнообразные готовые блюда, беря от каждого столько, сколько захотят. Многие отели и рестораны, как правило, устраивают \"шведский стол\" в обеденное время или на поздний завтрак. Иногда, однако, это просто превращается в своего рода жестокую ловушку, когда переполненные очереди заставляют вас целую вечность даже приближаться к еде.",
-    "val": "A style of dining where guests serve themselves freely from an array of prepared foods, taking as much of each as they want. Many hotels and restaurants tend to hold buffets at lunchtime, or for brunch. Sometimes, however, this just winds up being a kind of cruel trap, with crowded lines making it take forever for you to even get near the food."
+    "val": "Стиль питания, при котором гости свободно набирают себе разнообразные готовые блюда в том количестве, в каком захотят. Многие отели и рестораны, как правило, устраивают шведский стол на обед или поздний завтрак. Однако, иногда он превращается в своего рода жестокую ловушку, когда из-за огромных очередей вы целую вечность не можете даже приблизиться к еде."
   },
   {
     "key": "No-risk, high-return",

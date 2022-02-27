@@ -3102,7 +3102,7 @@
   {
     "key": "“You’ve hoarded so many things to yourself.",
     "trx": "“Ты хранил так много вещей для себя.",
-    "val": "“Ты скопил так много вещей для себя."
+    "val": "“Вы скопили так много вещей для себя."
   },
   {
     "key": "So I’m taking some of them back.”",

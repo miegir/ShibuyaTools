@@ -26,7 +26,11 @@
     <Expression Match="\&quot;Нихон-го дэ дайджобу дэс\&quot;" />
     <Expression Match="\b[Аа]а+-чи\b" />
     <Expression Match="\b[Аа]йки-дзю-дзюцу\b" />
+    <Expression Match="\b[Дд]а+\b" />
+    <Expression Match="\b[Оо]о*х\b" />
     <Expression Match="\b[Сс]айд маунт\b" />
+    <Expression Match="\b[Уу]у+х\b" />
+    <Expression Match="\b[Ээ]э+й!" />
     <Expression Match="\b100%-ная\b" />
     <Expression Match="\bА(ха)+\b" />
     <Expression Match="\bАа+!" />
@@ -57,9 +61,11 @@
     <Expression Match="\bхмм+\b" />
     <Expression Match="\bЦентр Гай\b" />
     <Expression Match="\bЧее+рт!" Options="IgnoreCase" />
+    <Expression Match="\bШш+!" />
     <Expression Match="\bЭэ+х\b" />
     <Expression Match="“Гррах!”" />
     <Expression Match="“покси\b" />
+    <Expression Match="\bПожаа+луйста!" />
   </ExclusionExpressions>
   <SpellCheckAsYouType>True</SpellCheckAsYouType>
   <IncludeInProjectSpellCheck>True</IncludeInProjectSpellCheck>
