@@ -49,6 +49,7 @@ let extract path body =
 let translate path body =
     let mutable index = 0
     let mutable existing = Json.read [||] path
+    let mutable showError = true
 
     let popval key =
         if index >= existing.Length then key else
@@ -56,7 +57,8 @@ let translate path body =
         index <- i + 1
         let e = existing[i]
         if e.Key = key then e.Val else
-        eprintfn "%s: wrong key [%d] '%s'; expected '%s'" path i e.Key key
+        if showError then eprintfn "%s: wrong key [%d] '%s'; expected '%s'" path i e.Key key
+        showError <- false
         key
 
     use reader = Reader.fromByteArray body

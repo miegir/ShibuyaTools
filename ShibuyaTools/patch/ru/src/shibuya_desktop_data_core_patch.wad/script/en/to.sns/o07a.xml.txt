@@ -1335,6 +1335,11 @@
     "val": "Do you really think it’s too late?"
   },
   {
+    "key": "Don’t give up hope. Hang in there! ｐ（＾－＾）ｑ",
+    "trx": "Не теряй надежды. Держись там! ｐ（＾－＾）ｑ",
+    "val": "Don’t give up hope. Hang in there! ｐ（＾－＾）ｑ"
+  },
+  {
     "key": "It’s never too late.",
     "trx": "Никогда не бывает слишком поздно.",
     "val": "It’s never too late."
@@ -1360,9 +1365,19 @@
     "val": "So don’t let it get you down, Julie!"
   },
   {
+    "key": "（ｉ＿ｉ）＼（＾＿＾）",
+    "trx": "（ｉ＿ｉ）＼（＾＿＾）",
+    "val": "（ｉ＿ｉ）＼（＾＿＾）"
+  },
+  {
     "key": "Besides, I did learn one thing from reading your post.",
     "trx": "Кроме того, я узнал одну вещь, прочитав ваш пост.",
     "val": "Besides, I did learn one thing from reading your post."
+  },
+  {
+    "key": "In the end, a father’s happiness is his daughter’s happiness.（＾ｏ＾）",
+    "trx": "В конце концов, счастье отца - это счастье его дочери.（＾ｏ＾）",
+    "val": "In the end, a father’s happiness is his daughter’s happiness.（＾ｏ＾）"
   },
   {
     "key": "Kajiwara peered into the monitor. ",

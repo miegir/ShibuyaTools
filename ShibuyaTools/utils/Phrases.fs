@@ -1,7 +1,7 @@
 ﻿module Phrases
 
 let private isValid (phrase: string) =
-    phrase.Length > 0 && not(Seq.exists (fun c -> int c < 20 || int c > 65000) phrase)
+    phrase.Length > 0 && not(Seq.exists (fun c -> int c < 20 || int c > 65532) phrase)
 
 let private encoding = System.Text.UTF8Encoding(false)
 

@@ -66,8 +66,11 @@ let extract buffer resourceDir =
         seekFromStart file.Offset reader
         let bytes = readByteArray file.Size reader
         let name = System.Text.Encoding.ASCII.GetString(bytes, 0, 0x30).TrimEnd('\000')
-        let path = IO.combine resourceDir name + ".txt"
-        Xml.extract path bytes)
+        let xmlPath = IO.combine resourceDir name
+        let binPath = xmlPath + ".bin"
+        IO.writeBytes bytes binPath
+        let txtPath = xmlPath + ".txt"
+        Xml.extract txtPath bytes)
 
 open Writer
 

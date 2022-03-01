@@ -1,0 +1,16 @@
+[
+	{
+		"TimeStart": 5.5,
+		"TimeEnd": 13,
+		"PositionX": 0.196,
+		"PositionY": 0.583,
+		"Text": "<i>БОЛЬШАЯ</i>"
+	},
+	{
+		"TimeStart": 5.5,
+		"TimeEnd": 13,
+		"PositionX": 0.213,
+		"PositionY": 0.634,
+		"Text": "<i>УДАЧА</i>"
+	}
+]

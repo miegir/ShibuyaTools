@@ -47,7 +47,7 @@
   {
     "key": "Yuji Sasayama, a detective with the Shibuya Precinct. Known as the “Cosplay Detective” due to the strange outfits he wears while on stakeouts. He’s partnered with Shinya Kano for the kidnapping investigation.",
     "trx": "Юдзи Сасаяма, детектив из участка Сибуя. Известен как “Косплей-детектив” из-за странных нарядов, которые он носит во время слежки. Он сотрудничает с Шиньей Кано в расследовании похищения.",
-    "val": "Юдзи Сасаяма, детектив из участка Сибуи. Известен как “Косплей-детектив” из-за странных нарядов, которые он носит во время слежки. Он сотрудничает с Шинья Кано в расследовании похищения."
+    "val": "Юдзи Сасаяма, детектив из участка Сибуи. Известен как “Косплей-детектив” из-за странных нарядов, которые он носит во время слежки. Он сотрудничает с Шиньей Кано в расследовании похищения."
   },
   {
     "key": "Revolver",
@@ -5597,52 +5597,52 @@
   {
     "key": "Tie clip",
     "trx": "Зажим для галстука",
-    "val": "Tie clip"
+    "val": "Зажим для галстука"
   },
   {
     "key": "Clothing accessory meant to hold one’s necktie in place. In the old days, they were a quintessential part of the salaryman’s outfit along with cufflinks and the company badge. Recently tie clips have come back into vogue with some older men, now more frequently referred to as “tie bars.”",
     "trx": "Аксессуар для одежды, предназначенный для удержания галстука на месте. В прежние времена они были неотъемлемой частью одежды наемного работника наряду с запонками и значком компании. В последнее время зажимы для галстуков снова вошли в моду у некоторых пожилых мужчин, теперь их чаще называют “планками для галстуков”.",
-    "val": "Clothing accessory meant to hold one’s necktie in place. In the old days, they were a quintessential part of the salaryman’s outfit along with cufflinks and the company badge. Recently tie clips have come back into vogue with some older men, now more frequently referred to as “tie bars.”"
+    "val": "Аксессуар для одежды, предназначенный для удержания галстука на месте. В прежние времена они были неотъемлемой частью одежды наемного работника наряду с запонками и значком компании. В последнее время зажимы для галстуков снова вошли в моду у некоторых пожилых мужчин, теперь их чаще называют “планками для галстуков.”"
   },
   {
     "key": "Pretty Honey",
     "trx": "Милая, Милая",
-    "val": "Pretty Honey"
+    "val": "Милашка"
   },
   {
     "key": "Username of someone who posts regularly on the Aya Kamiki fan forum. Seems to know a lot about agriculture and the police, as evidenced by statements such as ",
     "trx": "Имя пользователя того, кто регулярно публикует сообщения на форуме поклонников Айя Камики. Похоже, он много знает о сельском хозяйстве и полиции, о чем свидетельствуют такие заявления, как ",
-    "val": "Username of someone who posts regularly on the Aya Kamiki fan forum. Seems to know a lot about agriculture and the police, as evidenced by statements such as "
+    "val": "Имя пользователя, регулярно публикующего сообщения на форуме поклонников Айи Камики. Похоже, она много знает о сельском хозяйстве и полиции, о чем свидетельствуют такие заявления, как "
   },
   {
     "key": "“if the world were a farm with 100 people...” ",
     "trx": "“если бы мир был фермой со 100 жителями...” ",
-    "val": "“if the world were a farm with 100 people...” "
+    "val": "“если бы мир был фермой со 100 жителями...” "
   },
   {
     "key": " as well as a tendency to post to another site called “The 87th Precinct Telecommunity.” Incidentally, ",
     "trx": " а также тенденция размещать сообщения на другом сайте под названием “Телекоммуникационный центр 87-го участка”. Случайно, ",
-    "val": " as well as a tendency to post to another site called “The 87th Precinct Telecommunity.” Incidentally, "
+    "val": "а также тенденция размещать сообщения на другом сайте под названием “Телекоммуникационный центр 87-го участка.” Совершенно случайно девушка "
   },
   {
     "key": "Shinya Kano",
     "trx": "Шинья Кано",
-    "val": "Shinya Kano"
+    "val": "Шиньи Кано"
   },
   {
     "key": "’s girlfriend Rumi also posts to the 87th Precinct Telecommunity from time to time. She has had several massive arguments with Pretty Honey there, with the latter criticizing the police for not doing their job, while Rumi insists that policework is very difficult and deserves more credit.",
     "trx": "Подруга Руми также время от времени отправляет сообщения в телекоммуникационный отдел 87-го участка. Там у нее было несколько серьезных споров с Милой Хани, причем последняя критиковала полицию за то, что она не выполняет свою работу, в то время как Руми настаивает на том, что полицейская работа очень сложна и заслуживает большего уважения.",
-    "val": "’s girlfriend Rumi also posts to the 87th Precinct Telecommunity from time to time. She has had several massive arguments with Pretty Honey there, with the latter criticizing the police for not doing their job, while Rumi insists that policework is very difficult and deserves more credit."
+    "val": ", Руми, также время от времени пишет сообщения в телекоммуникационном центре 87-го участка. Там она иногда серьезно спорит с Милашкой, причем последняя критикует полицию за то, что она не выполняет свою работу, в то время как Руми настаивает на том, что полицейская работа очень сложна и заслуживает большего уважения."
   },
   {
     "key": "Fortune-telling",
     "trx": "Гадание на судьбу",
-    "val": "Fortune-telling"
+    "val": "Предсказания"
   },
   {
     "key": "The practice of determining a person’s future luck or life events using cards, horoscopes, and/or other methods of divination. Most people believe such prognostication when it foretells something good, and don’t believe it when the outlook is bad. That’s about as much faith in fortune-telling as someone should have.",
     "trx": "Практика определения будущей удачи или жизненных событий человека с помощью карт, гороскопов и/или других методов гадания. Большинство людей верят в такое предсказание, когда оно предвещает что-то хорошее, и не верят в него, когда прогноз плохой. Это примерно столько же веры в гадание, сколько и должно быть у кого-то.",
-    "val": "The practice of determining a person’s future luck or life events using cards, horoscopes, and/or other methods of divination. Most people believe such prognostication when it foretells something good, and don’t believe it when the outlook is bad. That’s about as much faith in fortune-telling as someone should have."
+    "val": "Метод определения будущей удачи или жизненных событий человека при помощи карт, гороскопов и/или других методов гадания. Большинство людей верят в такое предсказание, когда оно предвещает что-то хорошее, и не верят в него, когда прогноз плохой."
   },
   {
     "key": "Shinnosuke Oarai",
@@ -5662,62 +5662,62 @@
   {
     "key": "Voice modulator",
     "trx": "Голосовой модулятор",
-    "val": "Voice modulator"
+    "val": "Голосовой модулятор"
   },
   {
     "key": "A type of device or software used to make one’s voice sound different. Changing a voice to the point of making a voiceprint or tone analysis impossible presents a major challenge; to be able to do so in real time requires major financial and technological resources.",
     "trx": "Тип устройства или программного обеспечения, используемого для того, чтобы чей-то голос звучал по-другому. Изменение голоса до такой степени, чтобы сделать невозможным анализ отпечатка голоса или тона, представляет собой серьезную проблему; для того, чтобы сделать это в режиме реального времени, требуются значительные финансовые и технологические ресурсы.",
-    "val": "A type of device or software used to make one’s voice sound different. Changing a voice to the point of making a voiceprint or tone analysis impossible presents a major challenge; to be able to do so in real time requires major financial and technological resources."
+    "val": "Тип устройства или программного обеспечения, используемого для изменения звучания чьего-то голоса. Изменение голоса до такой степени, чтобы сделать невозможным анализ отпечатка голоса или тона, представляет собой серьезную проблему; для того, чтобы сделать это в режиме реального времени, требуются значительные финансовые и технические ресурсы."
   },
   {
     "key": "Fluorescent dye",
     "trx": "Флуоресцентная краска",
-    "val": "Fluorescent dye"
+    "val": "Флуоресцентная краска"
   },
   {
     "key": "A type of dye that causes the dyed substance to emit higher-wavelength fluorescent light when illuminated with a certain other type of light. Such dyes can reveal fine details when used on specimens viewing through a fluorescent microscope.",
     "trx": "Тип красителя, который заставляет окрашенное вещество излучать флуоресцентный свет с более высокой длиной волны при освещении определенным другим типом света. Такие красители могут выявлять мелкие детали при использовании на образцах, рассматриваемых через флуоресцентный микроскоп.",
-    "val": "A type of dye that causes the dyed substance to emit higher-wavelength fluorescent light when illuminated with a certain other type of light. Such dyes can reveal fine details when used on specimens viewing through a fluorescent microscope."
+    "val": "Тип красителя, который заставляет окрашенное вещество излучать флуоресцентный свет с более высокой длиной волны при освещении определенным источником света. Такие красители могут выявлять мелкие детали при использовании в образцах, рассматриваемых через флуоресцентный микроскоп."
   },
   {
     "key": "Fluorescein",
     "trx": "Флюоресцеин",
-    "val": "Fluorescein"
+    "val": "Флюоресцеин"
   },
   {
     "key": "A yellow-green liquid. A type of fluorescent dye. Chiefly used in preparing specimens for viewing under a fluorescent microscope, but it has other uses as well, such as a diagnostic reagent administered in eye exams. Its highest-volume use is on St. Patrick’s Day, when massive amounts of fluorescein are used to dye the Chicago River green.",
     "trx": "Желто-зеленая жидкость. Разновидность флуоресцентного красителя. В основном используется при подготовке образцов для просмотра под флуоресцентным микроскопом, но у него есть и другие применения, такие как диагностический реагент, вводимый при осмотре глаз. Наибольший объем его использования приходится на День Святого Патрика, когда для окрашивания реки Чикаго в зеленый цвет используется огромное количество флуоресцеина.",
-    "val": "A yellow-green liquid. A type of fluorescent dye. Chiefly used in preparing specimens for viewing under a fluorescent microscope, but it has other uses as well, such as a diagnostic reagent administered in eye exams. Its highest-volume use is on St. Patrick’s Day, when massive amounts of fluorescein are used to dye the Chicago River green."
+    "val": "Желто-зеленая жидкость. Разновидность флуоресцентного красителя. В основном используется при подготовке образцов для изучения под флуоресцентным микроскопом, но у него есть и другие применения, например, это диагностический реагент, вводимый при осмотре глаз. Наибольший объем его использования приходится на День Святого Патрика, когда для окрашивания реки Чикаго в зеленый цвет используется огромное количество флуоресцеина."
   },
   {
     "key": "Violation of company policy",
     "trx": "Нарушение политики компании",
-    "val": "Violation of company policy"
+    "val": "Нарушение политики компании"
   },
   {
     "key": "Acting against company rules and regulations. Okoshi Pharmaceutical prohibits leaking work-related information to outsiders. In the case of a major violation, not only can the violator be fired, but the company may also seek indemnities.",
     "trx": "Действовать вопреки правилам и предписаниям компании. Okoshi Pharmaceutical запрещает передачу информации, связанной с работой, посторонним лицам. В случае серьезного нарушения нарушитель может быть не только уволен, но и компания может потребовать возмещения убытков.",
-    "val": "Acting against company rules and regulations. Окоши Фармасьютикал prohibits leaking work-related information to outsiders. In the case of a major violation, not only can the violator be fired, but the company may also seek indemnities."
+    "val": "Действия вопреки правилам и предписаниям компании. Окоши Фармасьютикал запрещает передачу информации, связанной с работой, посторонним лицам. В случае серьезного нарушения провинившийся не только может быть уволен, но также должен будет возместить убытки."
   },
   {
     "key": "X-ray",
     "trx": "Рентген",
-    "val": "X-ray"
+    "val": "Рентген"
   },
   {
     "key": "A type of radiation, also referred to as Röntgen rays, with a shorter wavelength than UV light but a longer wavelength than gamma rays. Because X-rays can penetrate many objects with little absorption or scattering, they can be used to create images of internal structure. Hospitals, for example, use X-ray technology to examine the insides of patients’ bodies, while security personnel use it to scan luggage at airports and to search for bombs.",
     "trx": "Тип излучения, также называемый рентгеновскими лучами, с более короткой длиной волны, чем ультрафиолетовый свет, но с большей длиной волны, чем гамма-лучи. Поскольку рентгеновские лучи могут проникать во многие объекты с небольшим поглощением или рассеянием, их можно использовать для создания изображений внутренней структуры. Больницы, например, используют рентгеновские технологии для исследования внутренних органов пациентов, в то время как сотрудники службы безопасности используют их для сканирования багажа в аэропортах и поиска бомб.",
-    "val": "A type of radiation, also referred to as Röntgen rays, with a shorter wavelength than UV light but a longer wavelength than gamma rays. Because X-rays can penetrate many objects with little absorption or scattering, they can be used to create images of internal structure. Hospitals, for example, use X-ray technology to examine the insides of patients’ bodies, while security personnel use it to scan luggage at airports and to search for bombs."
+    "val": "Тип излучения, также называемый рентгеновскими лучами, с длиной волны меньше, чем ультрафиолет, но больше, чем гамма-лучи. Поскольку рентгеновские лучи могут проникать во многие объекты практически не поглощаясь и не рассеиваясь, их можно использовать для создания изображений внутренней структуры. Больницы, например, используют рентгеновские технологии для исследования внутренних органов пациентов, в то время как сотрудники службы безопасности используют их для сканирования багажа в аэропортах и поиска бомб."
   },
   {
     "key": "ID card",
     "trx": "Удостоверение личности",
-    "val": "ID card"
+    "val": "Удостоверение"
   },
   {
     "key": "Identification card. Many facilities that carry out highly classified research assign different levels of security clearance to individual researchers, and only those with suitable clearance (as indicated by their ID cards) are admitted to restricted areas. Development of more advanced technologies, such as electronic ID tags, are replacing older barcode-type entry cards.",
     "trx": "Удостоверение личности. Многие учреждения, проводящие строго засекреченные исследования, присваивают отдельным исследователям различные уровни допуска, и только те, у кого есть соответствующий допуск (как указано в их удостоверениях личности), допускаются в зоны ограниченного доступа. Разработка более передовых технологий, таких как электронные идентификационные бирки, заменяет старые карточки для въезда со штрих-кодом.",
-    "val": "Identification card. Many facilities that carry out highly classified research assign different levels of security clearance to individual researchers, and only those with suitable clearance (as indicated by their ID cards) are admitted to restricted areas. Development of more advanced technologies, such as electronic ID tags, are replacing older barcode-type entry cards."
+    "val": "Удостоверение личности. Многие учреждения, проводящие строго засекреченные исследования, присваивают отдельным исследователям различные уровни допуска, и только тем, у кого есть соответствующий допуск (он указывается в их удостоверениях личности), разрешается вход в зоны ограниченного доступа. Более передовые технологии, такие как электронные идентификационные бирки, заменяют старые карточки со штрих-кодом."
   },
   {
     "key": "DDS",
@@ -5732,42 +5732,42 @@
   {
     "key": "Also known as “smart drug delivery,” the ability to target a specific region of the body with a specific drug has momentous implications for the future of medicine. DDS technology is currently being tested extensively around the world.",
     "trx": "Также известная как “умная доставка лекарств”, способность воздействовать определенным лекарством на определенную область тела имеет важное значение для будущего медицины. Технология DDS в настоящее время активно тестируется по всему миру.",
-    "val": "Also known as “smart drug delivery,” the ability to target a specific region of the body with a specific drug has momentous implications for the future of medicine. СДЛ technology is currently being tested extensively around the world."
+    "val": "Называется также “умная доставка лекарств”. Способность воздействовать определенным лекарством на определенную область тела имеет важное значение для будущего медицины. Технология СДЛ в настоящее время активно тестируется по всему миру."
   },
   {
     "key": "Nape of the neck",
     "trx": "Затылок шеи",
-    "val": "Nape of the neck"
+    "val": "Задняя часть шеи"
   },
   {
     "key": "The DDS tends to linger in the nape of the neck because of the lymph nodes located there.",
     "trx": "DDS имеет тенденцию задерживаться в задней части шеи из-за расположенных там лимфатических узлов.",
-    "val": "The СДЛ tends to linger in the nape of the neck because of the lymph nodes located there."
+    "val": "СДЛ имеет тенденцию задерживаться в задней части шеи из-за расположенных там лимфатических узлов."
   },
   {
     "key": "These lymph nodes identify viruses that invade the body as foreign substances to be attacked, but they are not always able to overcome particularly powerful pathogens; in such cases, the virus propagates rapidly inside of them. Once the patient has been treated, the antiviral will seek out the virus and accumulate there as well.",
     "trx": "Эти лимфатические узлы идентифицируют вирусы, которые проникают в организм как чужеродные вещества, подлежащие атаке, но они не всегда способны преодолеть особенно мощные патогены; в таких случаях вирус быстро распространяется внутри них. Как только пациент пройдет лечение, противовирусное средство будет искать вирус и накапливаться там же.",
-    "val": "These lymph nodes identify viruses that invade the body as foreign substances to be attacked, but they are not always able to overcome particularly powerful pathogens; in such cases, the virus propagates rapidly inside of them. Once the patient has been treated, the antiviral will seek out the virus and accumulate there as well."
+    "val": "Эти лимфатические узлы идентифицируют вирусы, проникающие в организм, как чужеродные вещества, подлежащие атаке, но они не всегда способны преодолеть самые мощные патогены; в таких случаях вирус быстро распространяется внутри них. Когда пациент проходит лечение, противовирусное средство ищет вирус и накапливается там же."
   },
   {
     "key": "Residual",
     "trx": "Остаточный",
-    "val": "Residual"
+    "val": "Остатки"
   },
   {
     "key": "The materials used to create the DDS must, as a matter of course, cause minimal or no harm to the human body. Ideally, rather than accumulate inside the body, DDS substances should be either digested and absorbed or excreted. Because the antiviral must remain in the body for as long as the virus is active, however, a very careful balance must be struck between persistence and dissipation.",
     "trx": "Материалы, используемые для создания DDS, должны, как само собой разумеющееся, наносить минимальный вред человеческому организму или вообще не наносить его. В идеале, вместо того чтобы накапливаться внутри организма, вещества DDS должны либо перевариваться и всасываться, либо выводиться из организма. Однако, поскольку противовирусное средство должно оставаться в организме до тех пор, пока вирус активен, необходимо соблюдать очень тщательный баланс между сохранением и рассеиванием.",
-    "val": "The materials used to create the СДЛ must, as a matter of course, cause minimal or no harm to the human body. Ideally, rather than accumulate inside the body, СДЛ substances should be either digested and absorbed or excreted. Because the antiviral must remain in the body for as long as the virus is active, however, a very careful balance must be struck between persistence and dissipation."
+    "val": "Материалы, используемые для создания СДЛ, должны, разумеется, наносить минимальный вред человеческому организму или вообще не наносить его. В идеале, вместо того чтобы накапливаться внутри организма, вещества СДЛ должны либо перевариваться и всасываться, либо выводиться из организма. Однако, поскольку противовирусное средство должно оставаться в организме до тех пор, пока вирус активен, необходимо соблюдать очень тщательный баланс между накоплением и выведением."
   },
   {
     "key": "Pandemic",
     "trx": "Пандемия",
-    "val": "Pandemic"
+    "val": "Пандемия"
   },
   {
     "key": "A massive outbreak of a particular infection on a regional or global scale. In 14th Century Europe, a massive cholera outbreak is said to have killed two-thirds of the population, and the Spanish Flu outbreak in the early 20th Century killed at least 25 million people worldwide. Given modern advances in transportation, some researchers are of the opinion that the global risk of a pandemic is higher than ever before.",
     "trx": "Массовая вспышка конкретной инфекции в региональном или глобальном масштабе. Говорят, что в Европе 14 века массовая вспышка холеры унесла жизни двух третей населения, а вспышка испанского гриппа в начале 20 века унесла жизни по меньшей мере 25 миллионов человек во всем мире. Учитывая современные достижения в области транспорта, некоторые исследователи придерживаются мнения, что глобальный риск пандемии выше, чем когда-либо прежде.",
-    "val": "A massive outbreak of a particular infection on a regional or global scale. In 14th Century Europe, a massive cholera outbreak is said to have killed two-thirds of the population, and the Spanish Flu outbreak in the early 20th Century killed at least 25 million people worldwide. Given modern advances in transportation, some researchers are of the opinion that the global risk of a pandemic is higher than ever before."
+    "val": "Массовая вспышка определенной инфекции в региональном или глобальном масштабе. Говорят, что в Европе 14 века массовая вспышка холеры унесла жизни двух третей населения, а вспышка испанского гриппа в начале 20 века унесла жизни по меньшей мере 25 миллионов человек во всем мире. Учитывая современные достижения в области транспорта, некоторые исследователи придерживаются мнения, что глобальный риск пандемии сейчас выше, чем когда-либо прежде."
   },
   {
     "key": "Kaming",
