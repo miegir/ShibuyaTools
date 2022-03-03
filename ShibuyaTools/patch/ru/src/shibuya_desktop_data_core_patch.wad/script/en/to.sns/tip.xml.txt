@@ -3652,17 +3652,17 @@
   {
     "key": "Marines",
     "trx": "Морские пехотинцы",
-    "val": "Marines"
+    "val": "Морская пехота"
   },
   {
     "key": "United States Marine Corps. A rapid-deployment force specializing in amphibious landing operations. An independent branch of the Armed Forces, along with the Army, Navy, and Air Force.",
     "trx": "Корпус морской пехоты Соединенных Штатов. Силы быстрого развертывания, специализирующиеся на десантных операциях. Независимый род Вооруженных сил, наряду с армией, военно-морским флотом и военно-воздушными силами.",
-    "val": "United States Marine Corps. A rapid-deployment force specializing in amphibious landing operations. An independent branch of the Armed Forces, along with the Army, Navy, and Air Force."
+    "val": "Корпус морской пехоты Соединенных Штатов. Силы быстрого развертывания, специализирующиеся на десантных операциях. Независимый род Вооруженных сил, наряду с армией, военно-морским флотом и военно-воздушными силами."
   },
   {
     "key": "The Marines’ motto is ",
     "trx": "Девиз морских пехотинцев таков ",
-    "val": "The Marines’ motto is "
+    "val": "Девиз морских пехотинцев: "
   },
   {
     "key": "“Semper Fidelis,”",
@@ -3672,77 +3672,77 @@
   {
     "key": " Latin for “Always Faithful.”",
     "trx": " По-латыни это означает “Всегда верный”.",
-    "val": " Latin for “Always Faithful.”"
+    "val": " что в переводе с латыни означает “всегда верный.”"
   },
   {
     "key": "Attempted bioterrorism attack",
     "trx": "Попытка нападения с применением биотерроризма",
-    "val": "Attempted bioterrorism attack"
+    "val": "Попытка биотеррористической атаки"
   },
   {
     "key": "Two years ago, the Tokyo Metropolitan Public Safety Commission obtained intel of an imminent bioterrorist attack within the city. Immediately afterward, an unoccupied minivan exploded outside the Metropolitan Police Department, and a device for dispersing a bacterial contagion was discovered at the subway platform at Kasumigaseki Station. Having determined that the city bureaucracy was the target, the Japanese government contacted the terrorist organization responsible in secret, making a deal to put an end to the threat.",
     "trx": "Два года назад Токийская столичная комиссия общественной безопасности получила информацию о готовящейся биотеррористической атаке в городе. Сразу после этого незанятый микроавтобус взорвался возле Столичного полицейского управления, а на платформе метро на станции Касумигасеки было обнаружено устройство для распространения бактериальной инфекции. Определив, что целью была городская бюрократия, японское правительство тайно связалось с ответственной террористической организацией, заключив сделку, чтобы положить конец угрозе.",
-    "val": "Two years ago, the Tokyo Metropolitan Public Safety Commission obtained intel of an imminent bioterrorist attack within the city. Immediately afterward, an unoccupied minivan exploded outside the Metropolitan Police Department, and a device for dispersing a bacterial contagion was discovered at the subway platform at Kasumigaseki Station. Having determined that the city bureaucracy was the target, the Japanese government contacted the terrorist organization responsible in secret, making a deal to put an end to the threat."
+    "val": "Два года назад Токийская столичная комиссия по общественной безопасности получила информацию о готовящейся в городе биотеррористической атаке. Сразу после этого возле Столичного полицейского управления взорвался пустой фургон, а на платформе метро на станции Касумигасеки было обнаружено устройство для распространения бактериальной инфекции. Определив, что целью были городские чиновники, японское правительство тайно связалось с ответственной террористической организацией, заключив сделку, чтобы положить конец угрозе."
   },
   {
     "key": "Girl",
     "trx": "Девочка",
-    "val": "Girl"
+    "val": "Девушка"
   },
   {
     "key": "Miku Morita. While walking along, upset at ",
     "trx": "Мику Морита. Во время прогулки, расстроенный из-за ",
-    "val": "Miku Morita. While walking along, upset at "
+    "val": "Мику Морита. Во время прогулки, расстроенная тем, что "
   },
   {
     "key": "Minorikawa",
     "trx": "Минорикава",
-    "val": "Minorikawa"
+    "val": "Минорикава"
   },
   {
     "key": " for not introducing her to an aiki-jujutsu dojo, she happened across the aftermath of the minivan explosion. Unable to stand idly by when faced with such a horrific scene, she pitched in as best she could to help the wounded.",
     "trx": " за то, что я не познакомил ее с додзе айки-джиу-джитсу, она случайно столкнулась с последствиями взрыва микроавтобуса. Не в силах стоять сложа руки, столкнувшись с такой ужасной сценой, она, как могла, помогала раненым.",
-    "val": " for not introducing her to an айки-дзю-дзюцу dojo, she happened across the aftermath of the minivan explosion. Unable to stand idly by when faced with such a horrific scene, she pitched in as best she could to help the wounded."
+    "val": " отказался порекомендовать ей додзё айки-дзю-дзюцу, она случайно оказалась на месте взрыва фургона. Не в силах стоять сложа руки при виде столь ужасной сцены, она помогала раненым, как могла."
   },
   {
     "key": "Airborne transmission",
     "trx": "Воздушно-капельная передача",
-    "val": "Airborne transmission"
+    "val": "Передача воздушно-капельным путем"
   },
   {
     "key": "Following the onset of symptoms, individuals infected with the Ua virus bleed from the lungs, and the virus is readily released into the air via coughing. The Ua virus is highly resilient in the open air, and can survive even after saliva or other fluids have evaporated; simply getting within two meters of a symptomatic patient is said to carry a high risk of infection. Bodily fluids from deceased patients carry an especially high concentration of the virus, and anything contaminated with such fluids must be thoroughly sterilized before it is safe.",
     "trx": "После появления симптомов у людей, инфицированных вирусом Ua, происходит кровотечение из легких, и вирус легко выделяется в воздух при кашле. Вирус Ua обладает высокой устойчивостью на открытом воздухе и может выжить даже после испарения слюны или других жидкостей; считается, что простое приближение к пациенту с симптомами в пределах двух метров сопряжено с высоким риском заражения. Жидкости организма умерших пациентов содержат особенно высокую концентрацию вируса, и все, что загрязнено такими жидкостями, должно быть тщательно стерилизовано, прежде чем оно станет безопасным.",
-    "val": "Following the onset of symptoms, individuals infected with the Ua virus bleed from the lungs, and the virus is readily released into the air via coughing. The Ua virus is highly resilient in the open air, and can survive even after saliva or other fluids have evaporated; simply getting within two meters of a symptomatic patient is said to carry a high risk of infection. Bodily fluids from deceased patients carry an especially high concentration of the virus, and anything contaminated with such fluids must be thoroughly sterilized before it is safe."
+    "val": "После проявления симптомов у людей, инфицированных вирусом Ua, происходит кровотечение из легких, и вирус легко выделяется в воздух при кашле. Вирус Ua обладает высокой устойчивостью на открытом воздухе и может выжить даже после испарения слюны или других жидкостей; считается, что простое приближение к пациенту с симптомами в радиусе двух метров сопряжено с высоким риском заражения. Жидкости организма умерших пациентов содержат особенно высокую концентрацию вируса, и все, что загрязнено такими жидкостями, должно быть тщательно стерилизовано, прежде чем оно станет безопасным."
   },
   {
     "key": "Arms dealer",
     "trx": "Торговец оружием",
-    "val": "Arms dealer"
+    "val": "Торговец оружием"
   },
   {
     "key": "Beyond simply selling weapons, illegal arms dealers are also frequently involved in smuggling weapons unlawfully obtained through deals with government or military contacts. In recent years, such enterprises have become increasingly globalized; some dealers form smuggling networks that also deal in money laundering, drug trafficking, and more.",
     "trx": "Помимо простой продажи оружия, нелегальные торговцы оружием также часто занимаются контрабандой оружия, незаконно полученного в результате сделок с правительственными или военными контактами. В последние годы такие предприятия становятся все более глобализированными; некоторые дилеры формируют сети контрабанды, которые также занимаются отмыванием денег, незаконным оборотом наркотиков и многим другим.",
-    "val": "Beyond simply selling weapons, illegal arms dealers are also frequently involved in smuggling weapons unlawfully obtained through deals with government or military contacts. In recent years, such enterprises have become increasingly globalized; some dealers form smuggling networks that also deal in money laundering, drug trafficking, and more."
+    "val": "Помимо собственно продажи, нелегальные торговцы оружием также часто занимаются контрабандой оружия, незаконно полученного в результате сделок по правительственным или военным контактам. В последние годы такие предприятия приобретают все более глобальный характер; некоторые дилеры формируют сети контрабанды, которые также занимаются отмыванием денег, незаконным оборотом наркотиков и многим другим."
   },
   {
     "key": "Bioterrorism",
     "trx": "Биотерроризм",
-    "val": "Bioterrorism"
+    "val": "Биотерроризм"
   },
   {
     "key": "Terrorism involving biological agents such as bacteria or viruses. Biological weapons are easier to acquire and transport than nuclear weapons, and because the rely on an organism’s natural ability to proliferate or infect, they can yield powerful results for low effort. For these reasons, recent years have seen widespread apprehension about the possibility that such weapons might be used by terrorists. In the event that a bioterrorist attack occurred in Japan, temporary quarantine and decontamination facilities would be set up in the area affected.",
     "trx": "Терроризм, связанный с биологическими агентами, такими как бактерии или вирусы. Биологическое оружие легче приобрести и транспортировать, чем ядерное оружие, и поскольку оно основано на естественной способности организма размножаться или заражать, оно может дать мощные результаты при минимальных усилиях. По этим причинам в последние годы широко распространены опасения по поводу того, что такое оружие может быть использовано террористами. В случае, если в Японии произойдет биотеррористическая атака, в пострадавшем районе будут созданы временные карантинные и обеззараживающие сооружения.",
-    "val": "Terrorism involving biological agents such as bacteria or viruses. Biological weapons are easier to acquire and transport than nuclear weapons, and because the rely on an organism’s natural ability to proliferate or infect, they can yield powerful results for low effort. For these reasons, recent years have seen widespread apprehension about the possibility that such weapons might be used by terrorists. In the event that a bioterrorist attack occurred in Japan, temporary quarantine and decontamination facilities would be set up in the area affected."
+    "val": "Терроризм, связанный с биологическими агентами, такими как бактерии или вирусы. Биологическое оружие легче приобрести и транспортировать, чем ядерное оружие, и поскольку оно основано на естественной способности организма размножаться и заражать, оно может дать значительные результаты при минимальных усилиях. По этим причинам в последние годы широко распространены опасения по поводу того, что такое оружие может быть использовано террористами. В случае, если в Японии произойдет биотеррористическая атака, в пострадавшем районе будут созданы временные карантинные и обеззараживающие сооружения."
   },
   {
     "key": "Laptop computer",
     "trx": "Портативный компьютер",
-    "val": "Laptop computer"
+    "val": "Ноутбук"
   },
   {
     "key": "Right now, the laptop is in sleep mode, and there’s nothing on the monitor; but just before Kano came in, Shizuo was browsing an Internet forum. He takes his user handle from a nickname for the apples he grows on his own farm, which are pretty little things, and nearly as sweet as honey.",
     "trx": "Прямо сейчас ноутбук находится в спящем режиме, и на мониторе ничего нет; но как раз перед тем, как вошел Кано, Шизуо просматривал интернет-форум. Он берет свой пользовательский дескриптор от прозвища яблок, которые он выращивает на своей собственной ферме, которые являются милыми вещицами и почти такими же сладкими, как мед.",
-    "val": "Right now, the laptop is in sleep mode, and there’s nothing on the monitor; but just before Kano came in, Shizuo was browsing an Internet forum. He takes his user handle from a nickname for the apples he grows on his own farm, which are pretty little things, and nearly as sweet as honey."
+    "val": "Прямо сейчас ноутбук находится в спящем режиме и на мониторе ничего не видно; но как раз перед тем, как вошел Кано, Сидзуо просматривал интернет-форум. Имя пользователя он взял в честь яблок, которые выращивает на собственной ферме — они являются маленькими, прямо-таки малышками, и при этом сладкими, медовыми."
   },
   {
     "key": "Written apology",
@@ -5607,7 +5607,7 @@
   {
     "key": "Pretty Honey",
     "trx": "Милая, Милая",
-    "val": "Милашка"
+    "val": "Медовая Малышка"
   },
   {
     "key": "Username of someone who posts regularly on the Aya Kamiki fan forum. Seems to know a lot about agriculture and the police, as evidenced by statements such as ",
@@ -5632,7 +5632,7 @@
   {
     "key": "’s girlfriend Rumi also posts to the 87th Precinct Telecommunity from time to time. She has had several massive arguments with Pretty Honey there, with the latter criticizing the police for not doing their job, while Rumi insists that policework is very difficult and deserves more credit.",
     "trx": "Подруга Руми также время от времени отправляет сообщения в телекоммуникационный отдел 87-го участка. Там у нее было несколько серьезных споров с Милой Хани, причем последняя критиковала полицию за то, что она не выполняет свою работу, в то время как Руми настаивает на том, что полицейская работа очень сложна и заслуживает большего уважения.",
-    "val": ", Руми, также время от времени пишет сообщения в телекоммуникационном центре 87-го участка. Там она иногда серьезно спорит с Милашкой, причем последняя критикует полицию за то, что она не выполняет свою работу, в то время как Руми настаивает на том, что полицейская работа очень сложна и заслуживает большего уважения."
+    "val": ", Руми, также время от времени пишет сообщения в телекоммуникационном центре 87-го участка. Там она иногда серьезно спорит с Медовой Малышкой, причем последняя критикует полицию за то, что она не выполняет свою работу, в то время как Руми настаивает на том, что полицейская работа очень сложна и заслуживает большего уважения."
   },
   {
     "key": "Fortune-telling",

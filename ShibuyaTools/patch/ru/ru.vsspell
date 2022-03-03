@@ -50,6 +50,7 @@
     <Expression Match="\bНега-Чоу\b" />
     <Expression Match="\bОу+!" />
     <Expression Match="\bПинпо-кун\b" />
+    <Expression Match="\bПожаа+луйста!" />
     <Expression Match="\bпомоги+те!" Options="IgnoreCase" />
     <Expression Match="\bРр+ах+!" />
     <Expression Match="\bУф+!" Options="IgnoreCase" />
@@ -65,7 +66,7 @@
     <Expression Match="\bЭэ+х\b" />
     <Expression Match="“Гррах!”" />
     <Expression Match="“покси\b" />
-    <Expression Match="\bПожаа+луйста!" />
+    <Expression Match="“Semper Fidelis,”" />
   </ExclusionExpressions>
   <SpellCheckAsYouType>True</SpellCheckAsYouType>
   <IncludeInProjectSpellCheck>True</IncludeInProjectSpellCheck>

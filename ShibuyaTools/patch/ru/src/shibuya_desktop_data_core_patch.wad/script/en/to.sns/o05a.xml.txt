@@ -437,7 +437,7 @@
   {
     "key": "“It was Pretty Honey.”",
     "trx": "“Это было Довольно Мило”.",
-    "val": "“Это была Милашка.”"
+    "val": "“Это была Медовая Малышка.”"
   },
   {
     "key": "“It was someone from work.”",
@@ -642,7 +642,7 @@
   {
     "key": "Pretty Honey",
     "trx": "Милая, Милая",
-    "val": "Милашки"
+    "val": "Медовой Малышки"
   },
   {
     "key": ", a regular contributor to Osawa’s threads.",
@@ -672,7 +672,7 @@
   {
     "key": "Pretty Honey claimed to be a 19 year old female college student.",
     "trx": "Красотка Хани утверждала, что она 19-летняя студентка колледжа.",
-    "val": "Милашка утверждала, что она 19-летняя студентка колледжа."
+    "val": "Медовая Малышка утверждала, что она 19-летняя студентка колледжа."
   },
   {
     "key": "Although the community was meant for Aya Kamiki fans forty and over, the settings allowed anyone to post there.",
@@ -682,7 +682,7 @@
   {
     "key": "The only young woman among the members, however, was Pretty Honey.",
     "trx": "Однако единственной молодой женщиной среди членов клуба была Красотка Хани.",
-    "val": "Однако Милашка была там единственной молодой девушкой."
+    "val": "Однако Медовая Малышка была там единственной молодой девушкой."
   },
   {
     "key": "The thread continued:",
@@ -802,12 +802,12 @@
   {
     "key": "He went back to the forum and replied to Pretty Honey.",
     "trx": "Он вернулся на форум и ответил Милой Милашке.",
-    "val": "Он вернулся на форум и написал ответ Милашке."
+    "val": "Он вернулся на форум и написал ответ Медовой Малышке."
   },
   {
     "key": "Nice to hear from you again, Pretty Honey.",
     "trx": "Приятно снова тебя слышать, Милая.",
-    "val": "Приятно снова тебя слышать, Милашка."
+    "val": "Приятно снова тебя слышать, Медовая Малышка."
   },
   {
     "key": "I definitely know how you feel about Aya Kamiki being “ours.”",

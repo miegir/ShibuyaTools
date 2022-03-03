@@ -1487,7 +1487,7 @@
   {
     "key": "“Please, introduce me to a dojo where I can learn aiki-jujutsu!”",
     "trx": "“Пожалуйста, познакомьте меня с додзе, где я могу научиться айки-джиу-джитсу!”",
-    "val": "“Please, introduce me to a dojo where I can learn aiki-jujutsu!”"
+    "val": "“Пожалуйста, порекомендуйте мне додзё, в котором я смогу научиться айки-дзю-дзюцу!”"
   },
   {
     "key": "“I’m sorry. ",
