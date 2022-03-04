@@ -467,7 +467,7 @@
   {
     "key": ", the 22nd performance by the theatre troupe The Wandering Angels. It tells the tale of a man named Ryu looking back on his hundred-year life as a warrior. The performance features wire action as its major set piece, with Ryu and his rival Shido flying high through the air, doing battle with the magical Muramasa Blade and Beam Saber, respectively.",
     "trx": ", 22-е представление театральной труппы \"Блуждающие ангелы\". В ней рассказывается о человеке по имени Рю, оглядывающемся назад на свою столетнюю жизнь воина. В спектакле в качестве основной декорации используется проволочное действие, в котором Рю и его соперник Шидо летают высоко в воздухе, сражаясь с волшебным Клинком Мурамаса и Лучевой Саблей соответственно.",
-    "val": ". В нем рассказывается о человеке по имени Рю, оглядывающемся назад на свою столетнюю жизнь в качестве воина. В основной сцене спектакля Рио и его противник Шидо парят на тросах высоко в воздухе, сражаясь при помощи волшебного клинка Мурамасо и Лучевой сабли соответственно."
+    "val": ". В нем рассказывается о человеке по имени Рю, оглядывающемся назад на свою столетнюю жизнь в качестве воина. В основной сцене спектакля Рю и его противник Шидо парят на тросах высоко в воздухе, сражаясь при помощи волшебного клинка Мурамасо и Лучевой сабли соответственно."
   },
   {
     "key": "Wild Delusions",
@@ -782,32 +782,32 @@
   {
     "key": "Global Positioning System, a network of man-made satellites and ground-based control stations for providing geolocation data; alternately, a device that makes use of said system. Modern cell phones and vehicle navigation systems use the GPS.",
     "trx": "Глобальная система позиционирования, сеть искусственных спутников и наземных станций управления для предоставления данных о геолокации; альтернативно, устройство, которое использует указанную систему. Современные мобильные телефоны и навигационные системы транспортных средств используют GPS.",
-    "val": "Глобальная система позиционирования (Global Positioning System), сеть искусственных спутников и наземных станций управления для предоставления данных о геолокации; также устройство, использующее указанную систему. Современные мобильные телефоны и навигационные системы транспортных средств используют GPS."
+    "val": "Глобальная система позиционирования (Global Positioning System), сеть искусственных спутников и наземных станций управления для предоставления данных о геолокации; также устройство, использующее указанную систему. Современные мобильные телефоны и транспортные навигационные системы используют GPS."
   },
   {
     "key": "Custodian",
     "trx": "Попечитель",
-    "val": "Custodian"
+    "val": "Сторож"
   },
   {
     "key": "Yukinori Kitajima. His main job is overseeing the monitoring room for the local surveillance cameras, but on the side, he also works as a novelist and game scenario writer. He often sleeps on the job during his free time, but sometimes while he’s asleep he gets his writing done. Just recently, a certain game was released, set in Shibuya—but since he wrote the scenario and emailed it to the game company while he was asleep, he didn’t know about it until just the other day.",
     "trx": "Юкинори Китадзима. Его основная работа - наблюдать за комнатой наблюдения для местных камер наблюдения, но на стороне он также работает писателем и сценаристом игр. Он часто спит на работе в свободное время, но иногда, пока он спит, он заканчивает писать. Совсем недавно была выпущена определенная игра, действие которой происходит в Сибуе, но так как он написал сценарий и отправил его по электронной почте игровой компании, пока спал, он не знал об этом до недавнего времени.",
-    "val": "Yukinori Kitajima. His main job is overseeing the monitoring room for the local surveillance cameras, but on the side, he also works as a novelist and game scenario writer. He often sleeps on the job during his free time, but sometimes while he’s asleep he gets his writing done. Just recently, a certain game was released, set in Shibuya—but since he wrote the scenario and emailed it to the game company while he was asleep, he didn’t know about it until just the other day."
+    "val": "Юкинори Китадзима. Его основная работа — следить за комнатой с мониторами видеонаблюдения, но он также подрабатывает писателем и сценаристом игр. Он часто спит на работе в свободное время, но иногда, пока он спит, он продолжает писать. Совсем недавно была выпущена одна игра, действие которой происходит в Сибуе, но так как он написал сценарий и отправил его по электронной почте в игровую фирму, пока спал, он не знал об этом до недавнего времени."
   },
   {
     "key": "Tokyo Denko University",
     "trx": "Токийский университет Денко",
-    "val": "Tokyo Denko University"
+    "val": "Токийский университет Денко"
   },
   {
     "key": "A prestigious national university founded over a century ago. Applicants who place highly on the entrance exam can receive a full scholarship. Achi’s father was one such attendee. The school has supported extensive research into artificial intelligence, and recently announced an AI program known as “BODY.” While the computer is asleep, different personalities emerge, which have an impact on various normal thought processes, forming a network of more humanlike thought patterns as a result.",
     "trx": "Престижный национальный университет, основанный более века назад. Абитуриенты, получившие высокие баллы на вступительных экзаменах, могут получить полную стипендию. Отец Ачи был одним из таких участников. Школа поддержала обширные исследования в области искусственного интеллекта и недавно анонсировала программу искусственного интеллекта, известную как “ТЕЛО”. Пока компьютер спит, появляются разные личности, которые влияют на различные нормальные мыслительные процессы, образуя в результате сеть более похожих на человеческие моделей мышления.",
-    "val": "A prestigious national university founded over a century ago. Applicants who place highly on the entrance exam can receive a full scholarship. Achi’s father was one such attendee. The school has supported extensive research into artificial intelligence, and recently announced an AI program known as “BODY.” While the computer is asleep, different personalities emerge, which have an impact on various normal thought processes, forming a network of more humanlike thought patterns as a result."
+    "val": "Престижный национальный университет, основанный более ста лет назад. Абитуриентам, получившим высокие баллы на вступительных экзаменах, назначается полная стипендия. Отец Ачи был одним из таких студентов. Университет вел обширные исследования в области искусственного интеллекта и недавно анонсировал программу искусственного интеллекта под названием “ТЕЛО”. Пока компьютер находится в спящем режиме, в нем появляются разные личности, влияющие на нормальные мыслительные процессы, образуя в результате сеть более похожих на человеческие моделей мышления."
   },
   {
     "key": "Shirt",
     "trx": "Рубашка",
-    "val": "Shirt"
+    "val": "Рубашка"
   },
   {
     "key": "\u3000There is another face to this city.",
@@ -817,12 +817,12 @@
   {
     "key": "\u3000When you casually gaze at the sights,",
     "trx": "\u3000Когда вы небрежно разглядываете достопримечательности,",
-    "val": "\u3000Когда вы мимоходом видите достопримечательности,"
+    "val": "\u3000Когда вы небрежно оглядываете окрестности,"
   },
   {
     "key": "\u3000amidst all of the normal, everyday things,",
     "trx": "\u3000среди всех обычных, повседневных вещей,",
-    "val": "\u3000среди всех обычных, повседневных вещей,"
+    "val": "\u3000среди обычных, повседневных вещей"
   },
   {
     "key": "\u3000there are stories that nobody has told.",
@@ -832,22 +832,22 @@
   {
     "key": "\u3000Let this tale of one brave ",
     "trx": "\u3000Пусть эта история об одном храбром ",
-    "val": "\u3000Let this tale of one brave "
+    "val": "\u3000Пусть эта история об одном храбром "
   },
   {
     "key": "fellow",
     "trx": "товарищ",
-    "val": "fellow"
+    "val": "друге"
   },
   {
     "key": ", fighting in secret, ",
     "trx": ", сражаясь тайно, ",
-    "val": ", fighting in secret, "
+    "val": ", ведущем тайную битву, "
   },
   {
     "key": "\u3000now be a secret no longer.",
     "trx": "\u3000теперь это больше не будет секретом.",
-    "val": "\u3000now be a secret no longer."
+    "val": "\u3000не будет больше тайной."
   },
   {
     "key": "\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000",
@@ -857,47 +857,47 @@
   {
     "key": "Hechimarl",
     "trx": "Хечимарл",
-    "val": "Hechimarl"
+    "val": "Хечимарл"
   },
   {
     "key": "All-Out Run",
     "trx": "Тотальный бег",
-    "val": "All-Out Run"
+    "val": "На полной скорости"
   },
   {
     "key": "Run, Achi!",
     "trx": "Беги, Ачи!",
-    "val": "Run, Achi!"
+    "val": "Беги, Ачи!"
   },
   {
     "key": "Run, Hitomi!",
     "trx": "Беги, Хитоми!",
-    "val": "Run, Hitomi!"
+    "val": "Беги, Хитоми!"
   },
   {
     "key": "Run, ",
     "trx": "Бежать, ",
-    "val": "Run, "
+    "val": "Беги, "
   },
   {
     "key": "other guy",
     "trx": "другой парень",
-    "val": "other guy"
+    "val": "другой парень"
   },
   {
     "key": " (who’s looking for Miku)!",
     "trx": " (кто ищет Мику)!",
-    "val": " (who’s looking for Miku)!"
+    "val": " (который ищет Мику)!"
   },
   {
     "key": "Back alley",
     "trx": "Глухой переулок",
-    "val": "Back alley"
+    "val": "Глухой переулок"
   },
   {
     "key": "Members of S.O.S. don’t come by here very much. Word has it that in this place, around ten years ago, one man beat the crap out of seven street toughs in the blink of an eye, all by himself. Over time, people have offered various theories—that he was an assassin, that he was some foreign soldier, even that he might have been a ghost—and to this day, the urban legend lives on.",
     "trx": "Члены S.O.S. нечасто сюда заходят. Ходят слухи, что в этом месте, около десяти лет назад, один человек в мгновение ока выбил дерьмо из семи уличных бандитов, и все это в одиночку. Со временем люди выдвигали различные теории — что он был убийцей, что он был каким—то иностранным солдатом, даже что он мог быть призраком - и по сей день городская легенда живет.",
-    "val": "Members of S.O.S. don’t come by here very much. Word has it that in this place, around ten years ago, one man beat the crap out of seven street toughs in the blink of an eye, all by himself. Over time, people have offered various theories—that he was an assassin, that he was some foreign soldier, even that he might have been a ghost—and to this day, the urban legend lives on."
+    "val": "Члены S.O.S. нечасто сюда заходят. Ходят слухи, что в этом месте около десяти лет назад один человек в одиночку в мгновение ока выбил все дерьмо из семи уличных бандитов. Со временем люди выдвигали различные теории — что он был убийцей, что он был каким-то иностранным солдатом, даже что он мог быть призраком — эта городская легенда жива и по сей день."
   },
   {
     "key": "Hematology center",

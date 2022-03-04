@@ -2,72 +2,72 @@
   {
     "key": "Canaan led them into a narrow ",
     "trx": "Ханаан повел их в узкий ",
-    "val": "Canaan led them into a narrow "
+    "val": "Ханаан повела их в узкий "
   },
   {
     "key": "back alley",
     "trx": "глухой переулок",
-    "val": "back alley"
+    "val": "глухой переулок"
   },
   {
     "key": ". The moment she stopped, Hitomi spoke up. ",
     "trx": " В тот момент, когда она остановилась, Хитоми заговорила. ",
-    "val": ". The moment she stopped, Hitomi spoke up. "
+    "val": ". В тот момент, когда она остановилась, Хитоми заговорила. "
   },
   {
     "key": "“Why was my sister kidnapped?”",
     "trx": "“Почему мою сестру похитили?”",
-    "val": "“Why was my sister kidnapped?”"
+    "val": "“Почему мою сестру похитили?”"
   },
   {
     "key": "“Before I answer that, there’s something I need to tell you,” Canaan said. ",
     "trx": "“Прежде чем я отвечу на это, мне нужно тебе кое-что сказать”, - сказал Ханаан. ",
-    "val": "“Before I answer that, there’s something I need to tell you,” Canaan said. "
+    "val": "“Прежде чем я отвечу, я должна вас предупредить,” сказала Ханаан. "
   },
   {
     "key": "Her tone was cold and sharp. ",
     "trx": "Ее тон был холодным и резким. ",
-    "val": "Her tone was cold and sharp. "
+    "val": "Ее тон был холодным и резким. "
   },
   {
     "key": "“I’ve come to Japan because I’m on a mission. ",
     "trx": "“Я приехал в Японию, потому что у меня есть миссия. ",
-    "val": "“I’ve come to Japan because I’m on a mission. "
+    "val": "“Я приехала в Японию в рамках своей миссии. "
   },
   {
     "key": "I’m not at liberty to discuss all the details.”",
     "trx": "Я не вправе обсуждать все детали.”",
-    "val": "I’m not at liberty to discuss all the details.”"
+    "val": "Я не вправе обсуждать ее детали.”"
   },
   {
     "key": "“All right.” ",
     "trx": "“Хорошо”. ",
-    "val": "“All right.” "
+    "val": "“Хорошо.” "
   },
   {
     "key": "Hitomi gave a slight nod.",
     "trx": "Хитоми слегка кивнула.",
-    "val": "Hitomi gave a slight nod."
+    "val": "Хитоми слегка кивнула."
   },
   {
     "key": "“To answer your question—Maria was kidnapped by mistake.”",
     "trx": "\"Чтобы ответить на ваш вопрос — Марию похитили по ошибке\".",
-    "val": "“To answer your question—Maria was kidnapped by mistake.”"
+    "val": "“Теперь отвечаю на твой вопрос — Марию похитили по ошибке.”"
   },
   {
     "key": "“What?” Hitomi gasped. ",
     "trx": "«что?» Хитоми ахнула. ",
-    "val": "“What?” Hitomi gasped. "
+    "val": "“Что?” ахнула Хитоми. "
   },
   {
     "key": "“But...why?”",
     "trx": "“Но... почему?”",
-    "val": "“But...why?”"
+    "val": "“Но... почему?”"
   },
   {
     "key": "“Because this kidnapper isn’t after Maria; they’re after you.”",
     "trx": "“Потому что этот похититель охотится не за Марией, а за тобой\".",
-    "val": "“Because this kidnapper isn’t after Maria; they’re after you.”"
+    "val": "“Потому что этому похитителю нужна ты, а не Мария.”"
   },
   {
     "key": "“",
@@ -77,112 +77,112 @@
   {
     "key": "Who’s",
     "trx": "Кто такой",
-    "val": "Who’s"
+    "val": "Кому"
   },
   {
     "key": " after me?”",
     "trx": " после меня?”",
-    "val": " after me?”"
+    "val": " я нужна?”"
   },
   {
     "key": "“The mastermind behind this whole thing,” Canaan said. ",
     "trx": "“Вдохновитель всего этого\", ” сказал Ханаан. ",
-    "val": "“The mastermind behind this whole thing,” Canaan said. "
+    "val": "“Главарю, стоящему за этой операцией,” сказала Ханаан. "
   },
   {
     "key": "Her tone was matter-of-fact.",
     "trx": "Ее тон был деловым.",
-    "val": "Her tone was matter-of-fact."
+    "val": "Она говорила сухо."
   },
   {
     "key": "“Whoa, hold on!” Achi interrupted. ",
     "trx": "“Эй, подожди!” - прервал его Ачи. ",
-    "val": "“Whoa, hold on!” Achi interrupted. "
+    "val": "“Эй, подожди!” прервал ее Ачи. "
   },
   {
     "key": "“What do they want Hitomi for?”",
     "trx": "“Зачем им нужна Хитоми?”",
-    "val": "“What do they want Hitomi for?”"
+    "val": "“Зачем ему нужна Хитоми?”"
   },
   {
     "key": "“That, I cannot say.”",
     "trx": "“Этого я не могу сказать\".",
-    "val": "“That, I cannot say.”"
+    "val": "“Этого я не могу сказать.”"
   },
   {
     "key": "“Well then who is this person?”",
     "trx": "“Хорошо, тогда кто же этот человек?”",
-    "val": "“Well then who is this person?”"
+    "val": "“Хорошо, тогда кто же этот человек?”"
   },
   {
     "key": "“I can’t tell you that, either. ",
     "trx": "“Этого я тоже не могу тебе сказать. ",
-    "val": "“I can’t tell you that, either. "
+    "val": "“Этого я тоже не могу сказать. "
   },
   {
     "key": "You see, ",
     "trx": "Ты видишь, ",
-    "val": "You see, "
+    "val": "Понимаешь, "
   },
   {
     "key": "their sex, ",
     "trx": "их пол, ",
-    "val": "their sex, "
+    "val": "его пол, "
   },
   {
     "key": "nationality, ",
     "trx": "национальность, ",
-    "val": "nationality, "
+    "val": "национальность, "
   },
   {
     "key": "age, ",
     "trx": "возраст, ",
-    "val": "age, "
+    "val": "возраст, "
   },
   {
     "key": "appearance—",
     "trx": "внешность—",
-    "val": "appearance—"
+    "val": "внешность — "
   },
   {
     "key": "just about everything about them is shrouded in mystery. ",
     "trx": "почти все в них окутано тайной. ",
-    "val": "just about everything about them is shrouded in mystery. "
+    "val": "почти все сведения о нем окутаны тайной. "
   },
   {
     "key": "So there’s honestly not much I ",
     "trx": "Так что, честно говоря, я не так уж много ",
-    "val": "So there’s honestly not much I "
+    "val": "Так что, честно говоря, я не так уж много "
   },
   {
     "key": "can",
     "trx": "мочь",
-    "val": "can"
+    "val": "могу"
   },
   {
     "key": " tell you.”",
     "trx": " расскажу тебе.”",
-    "val": " tell you.”"
+    "val": " вам рассказать.”"
   },
   {
     "key": "Achi and Hitomi stood dumbfounded.",
     "trx": "Ачи и Хитоми стояли ошеломленные.",
-    "val": "Achi and Hitomi stood dumbfounded."
+    "val": "Ачи и Хитоми стояли ошеломленные."
   },
   {
     "key": "“What gives?” Achi said. ",
     "trx": "“Что дает?” - сказал Ачи. ",
-    "val": "“What gives?” Achi said. "
+    "val": "“Как же так?” сказал Ачи. "
   },
   {
     "key": "“So you’re saying all you know is that this person has some lame name like ‘Mastermind’?”",
     "trx": "“То есть ты хочешь сказать, что все, что ты знаешь, это то, что у этого человека есть какое-то дурацкое имя вроде ”Вдохновитель\"?\"",
-    "val": "“So you’re saying all you know is that this person has some lame name like ‘Mastermind’?”"
+    "val": "“Ты хочешь сказать, что все, что ты знаешь — это что у этого человека какое-то дурацкое имя, типа ‘Главарь’?”"
   },
   {
     "key": "Hitomi turned to whisper in his ear. ",
     "trx": "Хитоми повернулась, чтобы прошептать ему на ухо. ",
-    "val": "Hitomi turned to whisper in his ear. "
+    "val": "Хитоми повернулась, чтобы прошептать ему на ухо. "
   },
   {
     "key": "“",
@@ -192,72 +192,72 @@
   {
     "key": "Mastermind",
     "trx": "Вдохновитель",
-    "val": "Mastermind"
+    "val": "Главарь"
   },
   {
     "key": " isn’t actually their name.”",
     "trx": " на самом деле это не их имя.”",
-    "val": " isn’t actually their name.”"
+    "val": " — это на самом не его имя.”"
   },
   {
     "key": "“I’m here,” Canaan spat, “because I’m looking for revenge.”",
     "trx": "“Я здесь, - выплюнул Ханаан, - потому что я жажду мести”.",
-    "val": "“I’m here,” Canaan spat, “because I’m looking for revenge.”"
+    "val": "“Я здесь,” сплюнула Ханаан, “потому, что я жажду мести.”"
   },
   {
     "key": "“Revenge?” Hitomi asked. ",
     "trx": "“Месть?” - спросила Хитоми. ",
-    "val": "“Revenge?” Hitomi asked. "
+    "val": "“Мести?” спросила Хитоми. "
   },
   {
     "key": "“What for?”",
     "trx": "“Для чего?”",
-    "val": "“What for?”"
+    "val": "“За что?”"
   },
   {
     "key": "“This person...also killed my friend.”",
     "trx": "“Этот человек...а еще убил моего друга.”",
-    "val": "“Этот человек...также убил моего друга.”"
+    "val": "“Этот человек... убил также и моего друга.”"
   },
   {
     "key": "Canaan’s inscrutable eyes flashed with a threatening gleam.",
     "trx": "Непроницаемые глаза Ханаана вспыхнули угрожающим блеском.",
-    "val": "Canaan’s inscrutable eyes flashed with a threatening gleam."
+    "val": "Непроницаемые глаза Ханаан вспыхнули угрожающим блеском."
   },
   {
     "key": "“Earlier, you said that it was your fault my sister got kidnapped,” Hitomi said.",
     "trx": "“Ранее ты сказал, что это по твоей вине похитили мою сестру”, - сказала Хитоми.",
-    "val": "“Earlier, you said that it was your fault my sister got kidnapped,” Hitomi said."
+    "val": "“Ранее ты сказала, что по твоей вине похитили мою сестру,” сказала Хитоми."
   },
   {
     "key": "Canaan cast her eyes down.",
     "trx": "Ханаан опустила глаза.",
-    "val": "Canaan cast her eyes down."
+    "val": "Ханаан опустила глаза."
   },
   {
     "key": "“Four days ago, I managed to learn this criminal’s plan. ",
     "trx": "“Четыре дня назад мне удалось узнать план этого преступника. ",
-    "val": "“Four days ago, I managed to learn this criminal’s plan. "
+    "val": "“Четыре дня назад мне удалось раскрыть план этого преступника. "
   },
   {
     "key": "So I got in touch with Maria, and told her that you were going to be attacked at that party.”",
     "trx": "Поэтому я связался с Марией и сказал ей, что на тебя собираются напасть на той вечеринке.”",
-    "val": "So I got in touch with Maria, and told her that you were going to be attacked at that party.”"
+    "val": "Поэтому я связалась с Марией и сказала ей, что на нее собираются напасть на этой вечеринке.”"
   },
   {
     "key": "“So that’s why she told me not to go...” ",
     "trx": "“Так вот почему она сказала мне не ходить...” ",
-    "val": "“So that’s why she told me not to go...” "
+    "val": "“Так вот почему она просила меня не ходить...” "
   },
   {
     "key": "Hitomi’s voice trembled as she spoke.",
     "trx": "Голос Хитоми дрожал, когда она заговорила.",
-    "val": "Hitomi’s voice trembled as she spoke."
+    "val": "Голос Хитоми дрожал, когда она это говорила."
   },
   {
     "key": "“I gave Maria a small ",
     "trx": "“Я дал Марии небольшую ",
-    "val": "“I gave Maria a small "
+    "val": "“Я передала Марии маленький "
   },
   {
     "key": "GPS",
@@ -267,1132 +267,1132 @@
   {
     "key": " tracker to give to you—but I guess you never got it?”",
     "trx": " трекер, чтобы подарить тебе — но, я думаю, ты его так и не получил?”",
-    "val": " tracker to give to you—but I guess you never got it?”"
+    "val": "-трекер, чтобы она отдала его тебе — но ты ведь его так и не получила?”"
   },
   {
     "key": "Hitomi shook her head. ",
     "trx": "Хитоми покачала головой. ",
-    "val": "Hitomi shook her head. "
+    "val": "Хитоми покачала головой. "
   },
   {
     "key": "“I see. ",
     "trx": "“Я понимаю. ",
-    "val": "“I see. "
+    "val": "“Понятно. "
   },
   {
     "key": "She must still have it, then.”",
     "trx": "Значит, он все еще должен быть у нее.”",
-    "val": "She must still have it, then.”"
+    "val": "Значит, он все еще должен быть у нее.”"
   },
   {
     "key": "“Wait...so then, my sister...” ",
     "trx": "“Wait...so тогда, моя сестра...” ",
-    "val": "“Wait...so then, my sister...” "
+    "val": "“Погоди... так значит, моя сестра...” "
   },
   {
     "key": "The color drained from Hitomi’s face as she understood.",
     "trx": "Краска отхлынула от лица Хитоми, когда она поняла.",
-    "val": "The color drained from Hitomi’s face as she understood."
+    "val": "краска отхлынула от лица Хитоми, когда она поняла."
   },
   {
     "key": "“Yes,” Canaan replied. ",
     "trx": "“Да\", ” ответил Ханаан. ",
-    "val": "“Yes,” Canaan replied. "
+    "val": "“Да,” ответила Ханаан. "
   },
   {
     "key": "“Maria acted as a decoy, and let herself get kidnapped in your stead.”",
     "trx": "“Мария действовала как приманка и позволила похитить себя вместо тебя”.",
-    "val": "“Maria acted as a decoy, and let herself get kidnapped in your stead.”"
+    "val": "“Мария решила быть приманкой и заставила их похитить себя вместо тебя.”"
   },
   {
     "key": "Hitomi swayed on her feet, shocked to the verge of fainting.",
     "trx": "Хитоми покачнулась на ногах, потрясенная до обморока.",
-    "val": "Hitomi swayed on her feet, shocked to the verge of fainting."
+    "val": "Хитоми покачнулась на своих ногах, потрясенная до обморока."
   },
   {
     "key": "Achi hurriedly reached out and caught her in his arms.",
     "trx": "Ачи поспешно протянул руку и подхватил ее на руки.",
-    "val": "Achi hurriedly reached out and caught her in his arms."
+    "val": "Ачи поспешно подошел и подхватил ее на руки."
   },
   {
     "key": "“But—wait,” he said to Canaan as he held Hitomi up. “I don’t get that, either. ",
     "trx": "”Но... подожди\", — сказал он Ханаану, поднимая Хитоми. “Я тоже этого не понимаю. ",
-    "val": "“But—wait,” he said to Canaan as he held Hitomi up. “I don’t get that, either. "
+    "val": "“Но — подожди,” сказал он Ханаан, поднимая Хитоми. “Я тоже этого не понимаю. "
   },
   {
     "key": "Why didn’t neither of them go? Then nobody would’ve been kidnapped, right? ",
     "trx": "Почему никто из них не пошел? Тогда бы никого не похитили, верно? ",
-    "val": "Why didn’t neither of them go? Then nobody would’ve been kidnapped, right? "
+    "val": "Почему бы никому из них не пойти? Тогда бы не похитили никого, так ведь? "
   },
   {
     "key": "I mean, why’d her sister need to go and act as a decoy?”",
     "trx": "Я имею в виду, зачем ее сестре понадобилось идти и действовать как приманка?”",
-    "val": "I mean, why’d her sister need to go and act as a decoy?”"
+    "val": "В смысле, зачем ее сестре понадобилось идти и быть приманкой?”"
   },
   {
     "key": "Canaan let out a tiny sigh.",
     "trx": "Ханаан испустил тихий вздох.",
-    "val": "Canaan let out a tiny sigh."
+    "val": "Ханаан тихо вздохнула."
   },
   {
     "key": "“If she hadn’t gone to the party, the kidnappers would have just found some other opportunity to come after her.”",
     "trx": "“Если бы она не пошла на вечеринку, похитители просто нашли бы какую-нибудь другую возможность прийти за ней”.",
-    "val": "“If she hadn’t gone to the party, the kidnappers would have just found some other opportunity to come after her.”"
+    "val": "“Если бы она не пошла на вечеринку, похитители просто нашли бы какую-нибудь другую возможность украсть ее.”"
   },
   {
     "key": "“Ahh. ",
     "trx": "“Ах. ",
-    "val": "“Ahh. "
+    "val": "“Ах. "
   },
   {
     "key": "Okay.” ",
     "trx": "Ладно.” ",
-    "val": "Okay.” "
+    "val": "Ладно.” "
   },
   {
     "key": "Achi nodded. ",
     "trx": "Ачи кивнул. ",
-    "val": "Achi nodded. "
+    "val": "кивнул Ачи. "
   },
   {
     "key": "“That sorta makes sense.”",
     "trx": "“В этом есть какой-то смысл”.",
-    "val": "“That sorta makes sense.”"
+    "val": "“В этом есть какой-то смысл.”"
   },
   {
     "key": "“I’m betting that Maria’s plan was to use the GPS to lead me to these guys’ hideout. ",
     "trx": "“Держу пари, что план Марии состоял в том, чтобы использовать GPS, чтобы привести меня к укрытию этих парней. ",
-    "val": "“I’m betting that Maria’s plan was to use the GPS to lead me to these guys’ hideout. "
+    "val": "“Держу пари, что план Марии состоял в том, чтобы использовать GPS, приведя меня к укрытию этих бандитов. "
   },
   {
     "key": "She wanted to keep her sister safe, and also figured she could help me with my mission. ",
     "trx": "Она хотела обезопасить свою сестру, а также решила, что сможет помочь мне в моей миссии. ",
-    "val": "She wanted to keep her sister safe, and also figured she could help me with my mission. "
+    "val": "Она хотела защитить свою сестру, а также решила, что сможет помочь мне в моей миссии. "
   },
   {
     "key": "It’s the sort of scheme she’d think of.”",
     "trx": "Это своего рода схема, о которой она могла бы подумать.”",
-    "val": "It’s the sort of scheme she’d think of.”"
+    "val": "Наверняка такой план она и придумала.”"
   },
   {
     "key": "“So then can’t you use the GPS to locate Hitomi’s sister?” Achi asked.",
     "trx": "“Так значит, ты не можешь использовать GPS, чтобы найти сестру Хитоми?” - спросил Ачи.",
-    "val": "“So then can’t you use the GPS to locate Hitomi’s sister?” Achi asked."
+    "val": "“Так значит, ты не смогла найти сестру Хитоми при помощи GPS?” спросил Ачи."
   },
   {
     "key": "Canaan shook her head. ",
     "trx": "Ханаан покачала головой. ",
-    "val": "Canaan shook her head. "
+    "val": "Ханаан покачала головой. "
   },
   {
     "key": "“The GPS hasn’t been powered on since she was kidnapped. ",
     "trx": "“GPS не включался с тех пор, как ее похитили. ",
-    "val": "“The GPS hasn’t been powered on since she was kidnapped. "
+    "val": "“GPS не включался с тех пор, как ее похитили. "
   },
   {
     "key": "It’s possible the kidnappers took it from her.”",
     "trx": "Возможно, похитители забрали его у нее.”",
-    "val": "It’s possible the kidnappers took it from her.”"
+    "val": "Возможно, похитители забрали его у нее.”"
   },
   {
     "key": "“Wait, what? ",
     "trx": "“Подожди, что? ",
-    "val": "“Wait, what? "
+    "val": "“Постой, что? "
   },
   {
     "key": "So after all that, even ",
     "trx": "Так что после всего этого, даже ",
-    "val": "So after all that, even "
+    "val": "То есть после всего этого даже "
   },
   {
     "key": "you",
     "trx": "ты",
-    "val": "you"
+    "val": "ты"
   },
   {
     "key": " can’t find Maria?” ",
     "trx": " не можешь найти Марию?” ",
-    "val": " can’t find Maria?” "
+    "val": " не можешь найти Марию?” "
   },
   {
     "key": "Achi slumped his shoulders in disappointment.",
     "trx": "Ачи разочарованно опустил плечи.",
-    "val": "Achi slumped his shoulders in disappointment."
+    "val": "Ачи разочарованно опустил плечи."
   },
   {
     "key": "“I didn’t say that.”",
     "trx": "“Я этого не говорил\".",
-    "val": "“I didn’t say that.”"
+    "val": "“Я этого не говорила.”"
   },
   {
     "key": "“What do you mean?”",
     "trx": "“Что вы имеете в виду?”",
-    "val": "“What do you mean?”"
+    "val": "“Что ты имеешь в виду?”"
   },
   {
     "key": "“I got some intel from those syndicate members we met earlier. ",
     "trx": "“Я получил кое-какую информацию от тех членов синдиката, с которыми мы встречались ранее. ",
-    "val": "“I got some intel from those syndicate members we met earlier. "
+    "val": "“Я получила кое-какую информацию от тех членов синдиката, с которыми мы столкнулись ранее. "
   },
   {
     "key": "Apparently, some time this morning they put Maria into a blue minivan, and since then they’ve been moving her all around Shibuya.”",
     "trx": "Очевидно, сегодня утром Марию посадили в синий микроавтобус, и с тех пор они возят ее по всей Сибуе.”",
-    "val": "Apparently, some time this morning they put Maria into a blue minivan, and since then they’ve been moving her all around Shibuya.”"
+    "val": "Очевидно, сегодня утром Марию посадили в синий фургон, и с тех пор они возят ее по всей Сибуе.”"
   },
   {
     "key": "Achi and Hitomi exchanged glances at the mention of the blue minivan.",
     "trx": "Ачи и Хитоми обменялись взглядами при упоминании синего микроавтобуса.",
-    "val": "Achi and Hitomi exchanged glances at the mention of the blue minivan."
+    "val": "Ачи и Хитоми обменялись взглядами при упоминании синего фургона."
   },
   {
     "key": "“Unfortunately,” Canaan continued, “those operatives didn’t know what the current situation was, exactly.”",
     "trx": "“К сожалению, - продолжил Ханаан, - эти оперативники точно не знали, какова была текущая ситуация\".",
-    "val": "“Unfortunately,” Canaan continued, “those operatives didn’t know what the current situation was, exactly.”"
+    "val": "“К сожалению,” продолжила Ханаан, “эти преступники не были в курсе текущей ситуации.”"
   },
   {
     "key": "“So we’re back to the blue van, then.” ",
     "trx": "“Значит, мы возвращаемся к синему фургону”. ",
-    "val": "“So we’re back to the blue van, then.” "
+    "val": "“Значит, мы возвращаемся к синему фургону.” "
   },
   {
     "key": "Achi hurriedly explained what they’d been through so far.",
     "trx": "Ачи поспешно объяснил, через что они прошли до сих пор.",
-    "val": "Achi hurriedly explained what they’d been through so far."
+    "val": "Ачи поспешно объяснил, через что они прошли до сих пор."
   },
   {
     "key": "He mentioned how they’d first seen the blue van where the kidnappers had told Hitomi to find it.",
     "trx": "Он упомянул, как они впервые увидели синий фургон, где похитители сказали Хитоми найти его.",
-    "val": "He mentioned how they’d first seen the blue van where the kidnappers had told Hitomi to find it."
+    "val": "Он упомянул, как они впервые увидели синий фургон там, где похитители сказали Хитоми найти его."
   },
   {
     "key": "He also described how first the man with the cane and then a host of others had come after them.",
     "trx": "Он также описал, как сначала человек с тростью, а затем множество других последовали за ними.",
-    "val": "He also described how first the man with the cane and then a host of others had come after them."
+    "val": "Он также описал, как сначала человек с тростью, а затем множество других последовали за ними."
   },
   {
     "key": "He got a little sidetracked here and there, but Canaan quietly listened to the end.",
     "trx": "Он немного отвлекался то тут, то там, но Ханаан спокойно выслушал до конца.",
-    "val": "He got a little sidetracked here and there, but Canaan quietly listened to the end."
+    "val": "Он немного отвлекался в некоторые моменты, но Ханаан спокойно выслушала его до конца."
   },
   {
     "key": "“I see,” she muttered.",
     "trx": "”Я понимаю\", - пробормотала она.",
-    "val": "“I see,” she muttered."
+    "val": "“Понимаю,” пробормотала она."
   },
   {
     "key": "“So, then, what do you think?”",
     "trx": "“Итак, тогда, что ты думаешь?”",
-    "val": "“So, then, what do you think?”"
+    "val": "“Итак, что ты об этом думаешь?”"
   },
   {
     "key": "Achi asked. ",
     "trx": "- спросил Ачи. ",
-    "val": "Achi asked. "
+    "val": " спросил Ачи. "
   },
   {
     "key": "“Seems like we messed up their scheme a little, huh?” ",
     "trx": "“Похоже, мы немного испортили их план, да?” ",
-    "val": "“Seems like we messed up their scheme a little, huh?” "
+    "val": "“Похоже, мы немного испортили их план, так?” "
   },
   {
     "key": "“Whatever the case, this man with the cane concerns me,” Canaan said. ",
     "trx": "“В любом случае, этот человек с тростью беспокоит меня”, - сказал Ханаан. ",
-    "val": "“Whatever the case, this man with the cane concerns me,” Canaan said. "
+    "val": "“В любом случае, этот человек с тростью беспокоит меня,” сказала Ханаан. "
   },
   {
     "key": "“I doubt he’s working with the others. I don’t know what that means.”",
     "trx": "“Я сомневаюсь, что он работает с другими. Я не знаю, что это значит.”",
-    "val": "“I doubt he’s working with the others. I don’t know what that means.”"
+    "val": "“Я сомневаюсь, что он работает с остальными. Я не знаю, что это значит.”"
   },
   {
     "key": "“Maybe that’s it! ",
     "trx": "“Может быть, в этом все и дело! ",
-    "val": "“Maybe that’s it! "
+    "val": "“Может быть, в этом все и дело! "
   },
   {
     "key": "Some guy who isn’t involved butts in, and it throws off their whole plan!”",
     "trx": "Вмешивается какой-то парень, который ни в чем не замешан, и это срывает весь их план!”",
-    "val": "Some guy who isn’t involved butts in, and it throws off their whole plan!”"
+    "val": "Вмешивается какой-то тип, который ни в чем не замешан, и это срывает весь их план!”"
   },
   {
     "key": "Canaan nodded in agreement.",
     "trx": "Ханаан кивнул в знак согласия.",
-    "val": "Canaan nodded in agreement."
+    "val": "Ханаан кивнула в знак согласия."
   },
   {
     "key": "“Because you and that man with the cane showed up,” she said, “they couldn’t leave the minivan where it was. ",
     "trx": "“Из-за того, что появились вы и тот мужчина с тростью, - сказала она, - они не могли оставить микроавтобус там, где он был. ",
-    "val": "“Because you and that man with the cane showed up,” she said, “they couldn’t leave the minivan where it was. "
+    "val": "“Из-за того, что появился ты и тот мужчина с тростью,” сказала она, “они не могли оставить фургон там, где он был. "
   },
   {
     "key": "They took a sensible precaution.”",
     "trx": "Они приняли разумные меры предосторожности.”",
-    "val": "They took a sensible precaution.”"
+    "val": "Они приняли разумные меры предосторожности.”"
   },
   {
     "key": "“But then, if you think about it, isn’t this an opportunity for us to turn the tables on Mr. Mastermind?”",
     "trx": "“Но тогда, если вы подумаете об этом, разве это не возможность для нас поменяться ролями с мистером Вдохновителем?”",
-    "val": "“But then, if you think about it, isn’t this an opportunity for us to turn the tables on Mr. Mastermind?”"
+    "val": "“Но если так подумать, разве это не возможность для нас поменяться ролями с мистером Главарем?”"
   },
   {
     "key": "Canaan flashed him a faint speculative smile.",
     "trx": "Ханаан одарила его слабой задумчивой улыбкой.",
-    "val": "Canaan flashed him a faint speculative smile."
+    "val": "Ханаан одарила его слабой задумчивой улыбкой."
   },
   {
     "key": "“I wonder about that.”",
     "trx": "“Я удивляюсь этому”.",
-    "val": "“I wonder about that.”"
+    "val": "“Я сомневаюсь в этом.”"
   },
   {
     "key": "“Aww, come on,” Achi grumbled. ",
     "trx": "“Ой, да ладно\", ” проворчал Ачи. ",
-    "val": "“Aww, come on,” Achi grumbled. "
+    "val": "“Ой, да ладно,” проворчал Ачи. "
   },
   {
     "key": "“You’re such a buzzkill.”",
     "trx": "“Ты такой зануда”.",
-    "val": "“You’re such a buzzkill.”"
+    "val": "“Ты такая зануда.”"
   },
   {
     "key": "“Any well-made plan has a good, solid outline. ",
     "trx": "“Любой хорошо продуманный план имеет хорошие, четкие очертания. ",
-    "val": "“Any well-made plan has a good, solid outline. "
+    "val": "“Любой хорошо продуманный план имеет хорошие, четкие очертания. "
   },
   {
     "key": "Which means that, even after it has come to fruition, it’s easy to trace things back to the planner.”",
     "trx": "Это означает, что даже после того, как это осуществится, легко отследить все до планировщика\".",
-    "val": "Which means that, even after it has come to fruition, it’s easy to trace things back to the planner.”"
+    "val": "Это означает, что даже после того, как он осуществится, легко проследить все события обратно до планировщика.”"
   },
   {
     "key": "“Hmm. ",
     "trx": "“Хм. ",
-    "val": "“Hmm. "
+    "val": "“Хм. "
   },
   {
     "key": "Is that how that works?”",
     "trx": "Вот как это работает?”",
-    "val": "Is that how that works?”"
+    "val": "Вот как это работает?”"
   },
   {
     "key": "“By contrast, if you achieve your goals using accidental means, the outline becomes blurred, and it makes it harder for anyone outside, looking in, to grasp what the actual plan is.”",
     "trx": "“Напротив, если вы достигаете своих целей, используя случайные средства, контуры становятся размытыми, и это затрудняет любому постороннему, заглядывающему внутрь, понимание того, каков реальный план”.",
-    "val": "“By contrast, if you achieve your goals using accidental means, the outline becomes blurred, and it makes it harder for anyone outside, looking in, to grasp what the actual plan is.”"
+    "val": "“Но если ты достигаешь своих целей, используя случайные происшествия, контуры становятся размытыми, и это затрудняет любому постороннему, который хочет в этом разобраться, понимание реального плана.”"
   },
   {
     "key": "Achi swallowed hard as he took in the gravity of the situation.",
     "trx": "Ачи с трудом сглотнул, осознав серьезность ситуации.",
-    "val": "Achi swallowed hard as he took in the gravity of the situation."
+    "val": "Ачи тяжело сглотнул, осознав серьезность ситуации."
   },
   {
     "key": "“Well, ",
     "trx": "“Ну что ж, ",
-    "val": "“Well, "
+    "val": "“Что ж, "
   },
   {
     "key": "but I mean, like, ",
     "trx": "но я имею в виду, как, ",
-    "val": "but I mean, like, "
+    "val": "но я имею в виду, "
   },
   {
     "key": "if there’s an accident, people are gonna for sure panic. ",
     "trx": "если произойдет несчастный случай, люди наверняка запаникуют. ",
-    "val": "if there’s an accident, people are gonna for sure panic. "
+    "val": "что если произойдет несчастный случай, люди наверняка запаникуют. "
   },
   {
     "key": "Plan or not.”",
     "trx": "Планируй или нет.”",
-    "val": "Plan or not.”"
+    "val": "Планируй ты это или нет.”"
   },
   {
     "key": "The corners of Canaan’s lips curled up. ",
     "trx": "Уголки губ Ханаана приподнялись. ",
-    "val": "The corners of Canaan’s lips curled up. "
+    "val": "Уголки губ Ханаан приподнялись. "
   },
   {
     "key": "“Typically, I suppose,” she said.",
     "trx": "“Как обычно, я полагаю\", ” сказала она.",
-    "val": "“Typically, I suppose,” she said."
+    "val": "“Да, как всегда,” сказала она."
   },
   {
     "key": "“But the people who are after Hitomi—not only have they put together a perfect plan, they’ve purposely left certain tiny holes in it. ",
     "trx": "“Но люди, которые охотятся за Хитоми, не только составили идеальный план, но и намеренно оставили в нем некоторые крошечные дыры. ",
-    "val": "“But the people who are after Hitomi—not only have they put together a perfect plan, they’ve purposely left certain tiny holes in it. "
+    "val": "“Но люди, которые охотятся за Хитоми, не только составили идеальный план, но и намеренно оставили в нем некоторые крошечные дыры. "
   },
   {
     "key": "And so we can’t even figure out who they are. ",
     "trx": "И поэтому мы даже не можем понять, кто они такие. ",
-    "val": "And so we can’t even figure out who they are. "
+    "val": "И поэтому мы даже не можем понять, кто они такие. "
   },
   {
     "key": "The outline of the plan is always too blurry.”",
     "trx": "Очертания плана всегда слишком размыты.”",
-    "val": "The outline of the plan is always too blurry.”"
+    "val": "Очертания плана все время слишком размыты.”"
   },
   {
     "key": "Achi had no response to that; it was like he was hearing about some completely different world beyond the one he knew.",
     "trx": "Ачи ничего не ответил на это; как будто он слышал о каком-то совершенно другом мире, помимо того, который он знал.",
-    "val": "Achi had no response to that; it was like he was hearing about some completely different world beyond the one he knew."
+    "val": "Ачи ничего не ответил на это; как будто он слышал сейчас о каком-то совершенно другом мире, существовавшем отдельно от того, который он знал."
   },
   {
     "key": "If what Canaan had said was true, he’d been dealing with opponents that were on a level way above his own.",
     "trx": "Если то, что сказал Ханаан, было правдой, он имел дело с противниками, которые были на уровне намного выше его собственного.",
-    "val": "If what Canaan had said was true, he’d been dealing with opponents that were on a level way above his own."
+    "val": "Если то, что сказала Ханаан, было правдой, он имел дело с противниками, уровень которых намного превосходил его собственный."
   },
   {
     "key": "“In any event, since these people are after you, it’d be best if you didn’t wander around town anymore,” Canaan told him.",
     "trx": "“В любом случае, поскольку эти люди охотятся за тобой, было бы лучше, если бы ты больше не бродил по городу”, - сказал ему Ханаан.",
-    "val": "“In any event, since these people are after you, it’d be best if you didn’t wander around town anymore,” Canaan told him."
+    "val": "“В любом случае, поскольку эти люди охотятся за вами, вам лучше бы не бродить больше по городу,” сказала ему Ханаан."
   },
   {
     "key": "By now Hitomi had recovered. She stood up straight and shook her head. ",
     "trx": "К этому времени Хитоми уже пришла в себя. Она выпрямилась и покачала головой. ",
-    "val": "By now Hitomi had recovered. She stood up straight and shook her head. "
+    "val": "К этому времени Хитоми уже пришла в себя. Она выпрямилась и покачала головой. "
   },
   {
     "key": "“No. ",
     "trx": "\"Нет. ",
-    "val": "“No. "
+    "val": "“Нет. "
   },
   {
     "key": "I’m going to find that blue minivan. ",
     "trx": "Я собираюсь найти тот синий микроавтобус. ",
-    "val": "I’m going to find that blue minivan. "
+    "val": "Я хочу найти тот синий фургон. "
   },
   {
     "key": "My sister is in danger because of me. ",
     "trx": "Моя сестра в опасности из-за меня. ",
-    "val": "My sister is in danger because of me. "
+    "val": "Моя сестра в опасности из-за меня. "
   },
   {
     "key": "I can’t abandon her just to save myself.”",
     "trx": "Я не могу бросить ее только для того, чтобы спасти себя.”",
-    "val": "I can’t abandon her just to save myself.”"
+    "val": "Я не могу бросить ее только для того, чтобы спасти себя.”"
   },
   {
     "key": "“Yeah! That’s right!” ",
     "trx": "“Да! Это верно!” ",
-    "val": "“Yeah! That’s right!” "
+    "val": "“Да! Это верно!” "
   },
   {
     "key": "Achi patted Hitomi on the back. ",
     "trx": "Ачи похлопал Хитоми по спине. ",
-    "val": "Achi patted Hitomi on the back. "
+    "val": "Ачи похлопал Хитоми по спине. "
   },
   {
     "key": "“And if that’s what you’re gonna do, then I don’t care ",
     "trx": "“И если это то, что ты собираешься сделать, то мне все равно ",
-    "val": "“And if that’s what you’re gonna do, then I don’t care "
+    "val": "“И если это то, что ты собираешься сделать, то мне все равно, "
   },
   {
     "key": "who",
     "trx": "кто",
-    "val": "who"
+    "val": "кому"
   },
   {
     "key": " we’re up against—I’m with you in this until the end! ",
     "trx": " мы противостоим — я с тобой в этом до конца! ",
-    "val": " we’re up against—I’m with you in this until the end! "
+    "val": " мы противостоим — я буду в этом с тобой до конца! "
   },
   {
     "key": "Heck, it’s too late for me to back out now. That ship has already failed!”",
     "trx": "Черт возьми, сейчас уже слишком поздно отступать. Этот корабль уже вышел из строя!”",
-    "val": "Heck, it’s too late for me to back out now. That ship has already failed!”"
+    "val": "Черт возьми, сейчас уже слишком поздно отступать. Этот корабль уже утонул!”"
   },
   {
     "key": "Hitomi giggled despite herself. “It’s ‘already sailed,’ Achi.”",
     "trx": "Хитоми невольно хихикнула. “Это \"уже отплыл’, Ачи”.",
-    "val": "Hitomi giggled despite herself. “It’s ‘already sailed,’ Achi.”"
+    "val": "Хитоми невольно хихикнула. “Говорят ‘уже отплыл’, Ачи.”"
   },
   {
     "key": "“Yeah!”",
     "trx": "“Да!”",
-    "val": "“Yeah!”"
+    "val": "“Да!”"
   },
   {
     "key": "Canaan let out another little sigh.",
     "trx": "Ханаан испустил еще один легкий вздох.",
-    "val": "Canaan let out another little sigh."
+    "val": "Ханаан еще раз слабо вздохнула."
   },
   {
     "key": "“All right. Just make sure you’re extra careful,” she said. ",
     "trx": "“Хорошо. Просто убедитесь, что вы очень осторожны\", - сказала она. ",
-    "val": "“All right. Just make sure you’re extra careful,” she said. "
+    "val": "“Хорошо. Просто постарайтесь быть как можно осторожнее,” сказала она. "
   },
   {
     "key": "“You can’t count on getting bailed out of trouble like you have before.”",
     "trx": "“Ты не можешь рассчитывать на то, что тебя выручат из беды, как это было раньше”.",
-    "val": "“You can’t count on getting bailed out of trouble like you have before.”"
+    "val": "“Вы не можете рассчитывать на то, что кто-то вас спасет, как это было раньше.”"
   },
   {
     "key": "“I understand,” Hitomi said.",
     "trx": "“Я понимаю”, - сказала Хитоми.",
-    "val": "“I understand,” Hitomi said."
+    "val": "“Я понимаю,” сказала Хитоми."
   },
   {
     "key": "Her eyes showed no trace of doubt or fear.",
     "trx": "В ее глазах не было и следа сомнения или страха.",
-    "val": "Her eyes showed no trace of doubt or fear."
+    "val": "В ее глазах не было и следа сомнения или страха."
   },
   {
     "key": "Canaan gave her a slight nod, then quickly disappeared down the alleyway.",
     "trx": "Ханаан слегка кивнул ей, затем быстро исчез в переулке.",
-    "val": "Canaan gave her a slight nod, then quickly disappeared down the alleyway."
+    "val": "Ханаан слегка кивнула ей, затем быстро исчезла в переулке."
   },
   {
     "key": "“Right, then,” Achi said. “Wanna get back to looking for that minivan?”",
     "trx": "“Тогда ладно\", ” сказал Ачи. “Хочешь вернуться к поискам этого минивэна?”",
-    "val": "“Right, then,” Achi said. “Wanna get back to looking for that minivan?”"
+    "val": "“Что ж, ладно,” сказал Ачи. “Вернемся к поискам этого фургона?”"
   },
   {
     "key": "Then he stopped, remembering their previous efforts.",
     "trx": "Затем он остановился, вспомнив их предыдущие усилия.",
-    "val": "Then he stopped, remembering their previous efforts."
+    "val": "Затем он остановился, вспомнив их предыдущие усилия."
   },
   {
     "key": "If they just heedlessly wandered around town, they’d probably end up in the same trouble they’d encountered before.",
     "trx": "Если бы они просто бездумно бродили по городу, то, вероятно, попали бы в ту же беду, с которой сталкивались раньше.",
-    "val": "If they just heedlessly wandered around town, they’d probably end up in the same trouble they’d encountered before."
+    "val": "Если бы они начали сейчас бездумно бродить по городу, то, вероятно, попали бы в ту же беду, в которой побывали раньше."
   },
   {
     "key": "They’d get chased by the man with the cane, or by the kidnappers, and their search would be interrupted yet again.",
     "trx": "За ними гнался бы человек с тростью или похитители, и их поиски снова были бы прерваны.",
-    "val": "They’d get chased by the man with the cane, or by the kidnappers, and their search would be interrupted yet again."
+    "val": "За ними погнался бы человек с тростью или похитители, и их поиски снова бы прервались."
   },
   {
     "key": "What should they do, then? ",
     "trx": "Что же им тогда делать? ",
-    "val": "What should they do, then? "
+    "val": "Что же им тогда делать? "
   },
   {
     "key": "There had to be a better way.",
     "trx": "Должен был быть лучший способ.",
-    "val": "There had to be a better way."
+    "val": "Должен был быть способ получше."
   },
   {
     "key": "Achi happened to glance upward, and caught sight of a surveillance camera installed on one of the streetlights.",
     "trx": "Ачи случайно взглянул вверх и увидел камеру наблюдения, установленную на одном из уличных фонарей.",
-    "val": "Achi happened to glance upward, and caught sight of a surveillance camera installed on one of the streetlights."
+    "val": "Ачи случайно взглянул вверх и увидел камеру наблюдения, установленную на одном из уличных фонарей."
   },
   {
     "key": "“That’s it!”",
     "trx": "“Вот и все!”",
-    "val": "“That’s it!”"
+    "val": "“Точно!”"
   },
   {
     "key": "“Hmm?”",
     "trx": "“Хмм?”",
-    "val": "“Hmm?”"
+    "val": "“Хмм?”"
   },
   {
     "key": "“Gah! ",
     "trx": "“Боже! ",
-    "val": "“Gah! "
+    "val": "“Боже! "
   },
   {
     "key": "I can’t believe I didn’t think of it before!”",
     "trx": "Я не могу поверить, что не подумал об этом раньше!”",
-    "val": "I can’t believe I didn’t think of it before!”"
+    "val": "Не могу поверить, что это не пришло мне в голову раньше!”"
   },
   {
     "key": "Hitomi peered at him, startled by his sudden shouting.",
     "trx": "Хитоми уставилась на него, пораженная его внезапным криком.",
-    "val": "Hitomi peered at him, startled by his sudden shouting."
+    "val": "Хитоми уставилась на него, пораженная его внезапным криком."
   },
   {
     "key": "“We just need to use my old man’s surveillance cameras and this’ll be a breeze!”",
     "trx": "“Нам просто нужно использовать камеры наблюдения моего старика, и это будет легко!”",
-    "val": "“We just need to use my old man’s surveillance cameras and this’ll be a breeze!”"
+    "val": "“Нам просто нужно использовать камеры видеонаблюдения моего отца, и мы легко его найдем!”"
   },
   {
     "key": "Achi took Hitomi by the hand and started running.",
     "trx": "Ачи взял Хитоми за руку и побежал.",
-    "val": "Achi took Hitomi by the hand and started running."
+    "val": "Ачи взял Хитоми за руку и побежал."
   },
   {
     "key": "His destination: the security camera monitoring room in Dogenzaka.",
     "trx": "Его пункт назначения: комната наблюдения за камерами безопасности в Догензаке.",
-    "val": "His destination: the security camera monitoring room in Dogenzaka."
+    "val": "Его пункт назначения: комната с мониторами видеонаблюдения в Догензаке."
   },
   {
     "key": "Achi didn’t slow his pace until they were nearing their destination. He turned to look back at Hitomi. ",
     "trx": "Ачи не замедлял шага, пока они не приблизились к месту назначения. Он повернулся, чтобы посмотреть на Хитоми. ",
-    "val": "Achi didn’t slow his pace until they were nearing their destination. He turned to look back at Hitomi. "
+    "val": "Ачи не снижал темп, пока они не приблизились к месту назначения. Он повернулся, чтобы посмотреть на Хитоми. "
   },
   {
     "key": "“It’s only a little bit further now. Did you want to walk?”",
     "trx": "“Теперь осталось совсем немного. Ты хотел прогуляться?”",
-    "val": "“It’s only a little bit further now. Did you want to walk?”"
+    "val": "“Мы уже совсем близко. Не хочешь пойти пешком?”"
   },
   {
     "key": "“I’ll be all right. ",
     "trx": "“Со мной все будет в порядке. ",
-    "val": "“I’ll be all right. "
+    "val": "“Со мной все будет в порядке. "
   },
   {
     "key": "Ah! ",
     "trx": "Ах! ",
-    "val": "Ah! "
+    "val": "Ах! "
   },
   {
     "key": "Achi, look out!”",
     "trx": "Ачи, берегись!”",
-    "val": "Achi, look out!”"
+    "val": "Ачи, берегись!”"
   },
   {
     "key": "Looking ahead again, Achi saw that they were bearing down on a young grade-school girl, her head hung in dismay.",
     "trx": "Снова посмотрев вперед, Ачи увидел, что они надвигаются на молодую ученицу начальной школы, которая в смятении опустила голову.",
-    "val": "Looking ahead again, Achi saw that they were bearing down on a young grade-school girl, her head hung in dismay."
+    "val": "Снова посмотрев вперед, Ачи увидел, что они летят на девочку из начальной школы, которая в смятении опустила голову."
   },
   {
     "key": "Achi...",
     "trx": "Ачи...",
-    "val": "Achi..."
+    "val": "Ачи..."
   },
   {
     "key": "...hurriedly caught the girl up in his arms.",
     "trx": "...поспешно подхватил девушку на руки.",
-    "val": "...hurriedly caught the girl up in his arms."
+    "val": "...поспешно подхватил девочку на руки."
   },
   {
     "key": "...took a quick leap to one side.",
     "trx": "...сделал быстрый прыжок в сторону.",
-    "val": "...took a quick leap to one side."
+    "val": "...быстро отпрыгнул в сторону."
   },
   {
     "key": "Achi took a quick leap to one side.",
     "trx": "Ачи быстро отпрыгнул в сторону.",
-    "val": "Achi took a quick leap to one side."
+    "val": "Ачи быстро отпрыгнул в сторону."
   },
   {
     "key": "He managed to avoid crashing into her by taking a tumble himself, but the girl was still definitely a bit shocked.",
     "trx": "Ему удалось избежать столкновения с ней, упав самому, но девушка все еще определенно была немного шокирована.",
-    "val": "He managed to avoid crashing into her by taking a tumble himself, but the girl was still definitely a bit shocked."
+    "val": "Он упал, но не столкнулся с ней. Девочка тем не менее была при этом немного шокирована."
   },
   {
     "key": "“Sorry about that,” Achi said.",
     "trx": "“Извини за это\", ” сказал Ачи.",
-    "val": "“Sorry about that,” Achi said."
+    "val": "“Извини за это,” сказал Ачи. "
   },
   {
     "key": "“Are you all right?”",
     "trx": "“С тобой все в порядке?”",
-    "val": "“Are you all right?”"
+    "val": "“С тобой все в порядке?”"
   },
   {
     "key": "But the girl didn’t answer, or even meet Achi’s eye; she just looked around as if in a daze.",
     "trx": "Но девушка не ответила и даже не встретилась взглядом с Ачи; она просто огляделась вокруг, словно в оцепенении.",
-    "val": "But the girl didn’t answer, or even meet Achi’s eye; she just looked around as if in a daze."
+    "val": "Но девочка не ответила и даже не встретилась с Ачи взглядом; она просто оглядывалась вокруг, словно в оцепенении."
   },
   {
     "key": "Was she waiting on someone, maybe?",
     "trx": "Может быть, она кого-то ждала?",
-    "val": "Was she waiting on someone, maybe?"
+    "val": "Может быть, она кого-то ждала?"
   },
   {
     "key": "Odd kid,",
     "trx": "Странный ребенок,",
-    "val": "Odd kid,"
+    "val": "Странный ребенок,"
   },
   {
     "key": " Achi thought. ",
     "trx": " Ачи задумался. ",
-    "val": " Achi thought. "
+    "val": " подумал Ачи. "
   },
   {
     "key": "I hope she’s okay.",
     "trx": "Я надеюсь, что с ней все в порядке.",
-    "val": "I hope she’s okay."
+    "val": "Я надеюсь, что с ней все в порядке."
   },
   {
     "key": "Once more, Achi and Hitomi set off running.",
     "trx": "И снова Ачи и Хитоми пустились бежать.",
-    "val": "Once more, Achi and Hitomi set off running."
+    "val": "И снова Ачи и Хитоми бросились бежать."
   },
   {
     "key": "Achi led Hitomi to an old, multi-tenant building; they hurried inside and headed up the stairs.",
     "trx": "Ачи повел Хитоми к старому многоквартирному зданию; они поспешили внутрь и направились вверх по лестнице.",
-    "val": "Achi led Hitomi to an old, многофункциональное здание; they hurried inside and headed up the stairs."
+    "val": "Ачи повел Хитоми к старому многофункциональному зданию; они поспешили внутрь и направились вверх по лестнице."
   },
   {
     "key": "Behind the reception window on the second floor sat the ",
     "trx": "За окном приемной на втором этаже сидел ",
-    "val": "Behind the reception window on the second floor sat the "
+    "val": "За окном приемной на втором этаже сидел "
   },
   {
     "key": "custodian,",
     "trx": "попечитель,",
-    "val": "custodian,"
+    "val": "сторож"
   },
   {
     "key": " sleeping on the job.",
     "trx": " спит на работе.",
-    "val": " sleeping on the job."
+    "val": ", спящий на рабочем месте."
   },
   {
     "key": "“Hey! Wake up, man!”",
     "trx": "- эй! Проснись, чувак!”",
-    "val": "“Hey! Wake up, man!”"
+    "val": "“Эй! Проснись, чувак!”"
   },
   {
     "key": "Achi gave the window a tap, and the man woke with a start. ",
     "trx": "Ачи постучал в окно, и мужчина, вздрогнув, проснулся. ",
-    "val": "Achi gave the window a tap, and the man woke with a start. "
+    "val": "Ачи постучал в окно, и мужчина, вздрогнув, проснулся. "
   },
   {
     "key": "“Huh?! Achichi? ",
     "trx": "“А?! Ачичи? ",
-    "val": "“Huh?! Achichi? "
+    "val": "“А?! Ачичи? "
   },
   {
     "key": "Don’t scare me like that.”",
     "trx": "Не пугай меня так.”",
-    "val": "Don’t scare me like that.”"
+    "val": "Не пугай меня так.”"
   },
   {
     "key": "“That’s one ‘chi’ too many. ",
     "trx": "“Это на одно ‘чи’ слишком много. ",
-    "val": "“That’s one ‘chi’ too many. "
+    "val": "“У тебя одно лишнее ‘чи.’ "
   },
   {
     "key": "And wow, you sure seem to have a lotta free time on your hands.”",
     "trx": "И ничего себе, похоже, у тебя действительно много свободного времени.”",
-    "val": "And wow, you sure seem to have a lotta free time on your hands.”"
+    "val": "И ничего себе, похоже, у тебя уйма свободного времени.”"
   },
   {
     "key": "“Yeah. ",
     "trx": "\"Да. ",
-    "val": "“Yeah. "
+    "val": "“Да. "
   },
   {
     "key": "No one’s been by to check, today. ",
     "trx": "Сегодня никто не приходил проверить. ",
-    "val": "No one’s been by to check, today. "
+    "val": "Сегодня никто не приходил. "
   },
   {
     "key": "But that’s not so bad, right? I mean I guess it ",
     "trx": "Но это не так уж плохо, верно? Я имею в виду, я предполагаю, что это ",
-    "val": "But that’s not so bad, right? I mean I guess it "
+    "val": "Но это не так уж плохо, верно? В смысле, "
   },
   {
     "key": "is",
     "trx": "является",
-    "val": "is"
+    "val": "конечно"
   },
   {
     "key": " the surveillance room, but still.”",
     "trx": " комната наблюдения, но все же.”",
-    "val": " the surveillance room, but still.”"
+    "val": ", это комната видеонаблюдения, но все же.”"
   },
   {
     "key": "The man let out a big yawn.",
     "trx": "Мужчина широко зевнул.",
-    "val": "The man let out a big yawn."
+    "val": "Мужчина широко зевнул."
   },
   {
     "key": "“My dad asked me to come down here and check on the security monitors, actually,” Achi said.",
     "trx": "“На самом деле мой отец попросил меня спуститься сюда и проверить мониторы безопасности\", - сказал Ачи.",
-    "val": "“My dad asked me to come down here and check on the security monitors, actually,” Achi said."
+    "val": "“На самом деле мой отец попросил меня зайти сюда и проверить мониторы безопасности,” сказал Ачи."
   },
   {
     "key": "“Sorry to bother you when you’re busy,” Hitomi added with a polite bow.",
     "trx": "“Извините, что беспокою вас, когда вы заняты\", - добавила Хитоми с вежливым поклоном.",
-    "val": "“Sorry to bother you when you’re busy,” Hitomi added with a polite bow."
+    "val": "“Извините, что побеспокоили вас, когда вы заняты,” добавила Хитоми с вежливым поклоном."
   },
   {
     "key": "“Huh? Who’re you? ",
     "trx": "\"Хм? Кто ты такой? ",
-    "val": "“Huh? Who’re you? "
+    "val": "“А? Ты кто? "
   },
   {
     "key": "You with Achichi?”",
     "trx": "Ты с Ачичи?”",
-    "val": "You with Achichi?”"
+    "val": "Ты с Ачичи?”"
   },
   {
     "key": "“I’m Hitomi Osawa. It’s nice to meet you.”",
     "trx": "“Я Хитоми Осава. Приятно с вами познакомиться.”",
-    "val": "“I’m Hitomi Osawa. It’s nice to meet you.”"
+    "val": "“Я Хитоми Осава. Приятно с вами познакомиться.”"
   },
   {
     "key": "“Ohoho. ",
     "trx": "“Охохо. ",
-    "val": "“Ohoho. "
+    "val": "“О-хо-хо. "
   },
   {
     "key": "What, you Achichi’s girlfriend?”",
     "trx": "Что, ты подружка Ачичи?”",
-    "val": "What, you Achichi’s girlfriend?”"
+    "val": "Ты подружка Ачичи?”"
   },
   {
     "key": "“Again, too many ‘chis’ there. And that’s none of your business. ",
     "trx": "“Опять же, там слишком много \"чи’. И это не твое дело. ",
-    "val": "“Again, too many ‘chis’ there. And that’s none of your business. "
+    "val": "“Снова лишнее ‘чи’. И это не твое дело. "
   },
   {
     "key": "Just let me have the key.” ",
     "trx": "Просто дай мне ключ.” ",
-    "val": "Just let me have the key.” "
+    "val": "Просто дай мне ключ.” "
   },
   {
     "key": "Hoping his blush wasn’t too obvious, Achi mimed unlocking a door.",
     "trx": "Надеясь, что его румянец не был слишком заметен, Ачи изобразил, как отпирает дверь.",
-    "val": "Hoping his blush wasn’t too obvious, Achi mimed unlocking a door."
+    "val": "Надеясь, что его румянец не бросался в глаза, Ачи изобразил, как отпирает дверь."
   },
   {
     "key": "“You won’t answer a simple question and you want me to hand over the key?”",
     "trx": "“Ты не хочешь ответить на простой вопрос и хочешь, чтобы я отдал ключ?”",
-    "val": "“You won’t answer a simple question and you want me to hand over the key?”"
+    "val": "“Ты не хочешь ответить на простой вопрос, но хочешь, чтобы я отдал ключ?”"
   },
   {
     "key": "“Yes, I’m his girlfriend,” Hitomi said. ",
     "trx": "“Да, я его девушка\", - сказала Хитоми. ",
-    "val": "“Yes, I’m his girlfriend,” Hitomi said. "
+    "val": "“Да, я его девушка,” сказала Хитоми. "
   },
   {
     "key": "“We’ve just started dating. ",
     "trx": "“Мы только начали встречаться. ",
-    "val": "“We’ve just started dating. "
+    "val": "“Мы только что начали встречаться. "
   },
   {
     "key": "So I’m sure I’ll be seeing more of you, sir.” ",
     "trx": "Так что я уверен, что буду чаще видеться с вами, сэр.” ",
-    "val": "So I’m sure I’ll be seeing more of you, sir.” "
+    "val": "Так что я уверена, что буду теперь часто с вами видеться, сэр.” "
   },
   {
     "key": "She flashed a winning smile.",
     "trx": "Она сверкнула обаятельной улыбкой.",
-    "val": "She flashed a winning smile."
+    "val": "Она сверкнула обаятельной улыбкой."
   },
   {
     "key": "“Oh. ",
     "trx": "\"ой. ",
-    "val": "“Oh. "
+    "val": "“Ой. "
   },
   {
     "key": "Well, what a surprise. ",
     "trx": "Что ж, какой сюрприз. ",
-    "val": "Well, what a surprise. "
+    "val": "Что ж, какой сюрприз. "
   },
   {
     "key": "Never thought Achichi could land a fine lady like yourself.”",
     "trx": "Никогда не думал, что Ачичи сможет заполучить такую прекрасную леди, как ты.”",
-    "val": "Never thought Achichi could land a fine lady like yourself.”"
+    "val": "Никогда не думал, что Ачичи сможет заполучить такую прекрасную леди, как ты.”"
   },
   {
     "key": "The surprised custodian held out the key. ",
     "trx": "Удивленный сторож протянул ключ. ",
-    "val": "The surprised custodian held out the key. "
+    "val": "Удивленный сторож протянул ключ. "
   },
   {
     "key": "“Good for you, Achichi.”",
     "trx": "“Рад за тебя, Ачичи”.",
-    "val": "“Good for you, Achichi.”"
+    "val": "“Рад за тебя, Ачичи.”"
   },
   {
     "key": "“Still one ‘chi’ too many, there. ",
     "trx": "“Все еще на одно \"чи\" слишком много, вот. ",
-    "val": "“Still one ‘chi’ too many, there. "
+    "val": "“Все еще одно лишнее ‘чи.’ "
   },
   {
     "key": "But yeah. Uh, dating...” ",
     "trx": "Но да. Э-э, встречаться...” ",
-    "val": "But yeah. Uh, dating...” "
+    "val": "Но да. Э-э, мы встречаемся...” "
   },
   {
     "key": "Achi gazed into Hitomi’s face, even more surprised than the custodian.",
     "trx": "Ачи пристально посмотрел в лицо Хитоми, удивленный даже больше, чем хранитель.",
-    "val": "Achi gazed into Hitomi’s face, even more surprised than the custodian."
+    "val": "Ачи пристально посмотрел в лицо Хитоми, удивленный даже больше, чем сторож."
   },
   {
     "key": "The key dangled, swaying to and fro like a pendulum between Achi and the man behind the counter.",
     "trx": "Ключ болтался, раскачиваясь взад и вперед, как маятник, между Ачи и человеком за прилавком.",
-    "val": "The key dangled, swaying to and fro like a pendulum between Achi and the man behind the counter."
+    "val": "Ключ болтался, раскачиваясь взад и вперед, как маятник, между Ачи и человеком за стойкой."
   },
   {
     "key": "“Achi,” Hitomi said, nudging him in the side with her elbow. ",
     "trx": "“Ачи\", ” сказала Хитоми, толкнув его локтем в бок. ",
-    "val": "“Achi,” Hitomi said, nudging him in the side with her elbow. "
+    "val": "“Ачи,” сказала Хитоми, толкнув его локтем в бок. "
   },
   {
     "key": "“Come on.”",
     "trx": "“Давай же”.",
-    "val": "“Come on.”"
+    "val": "“Давай же.”"
   },
   {
     "key": "“Oh. ",
     "trx": "\"ой. ",
-    "val": "“Oh. "
+    "val": "“Ой. "
   },
   {
     "key": "Right.”",
     "trx": "Правильно.”",
-    "val": "Right.”"
+    "val": "Точно.”"
   },
   {
     "key": "Snapping out of it, Achi took the key and headed up to the next floor.",
     "trx": "Придя в себя, Ачи взял ключ и направился на следующий этаж.",
-    "val": "Snapping out of it, Achi took the key and headed up to the next floor."
+    "val": "Придя в себя, Ачи взял ключ и направился на следующий этаж."
   },
   {
     "key": "“I’m sorry,” Hitomi said as they entered the monitoring room. ",
     "trx": "“Мне жаль”, - сказала Хитоми, когда они вошли в комнату наблюдения. ",
-    "val": "“I’m sorry,” Hitomi said as they entered the monitoring room. "
+    "val": "“Мне жаль,” сказала Хитоми, когда они подошли к комнате видеонаблюдения. "
   },
   {
     "key": "“For just saying we were dating like that, I mean. ",
     "trx": "“За то, что просто сказал, что мы вот так встречались, я имею в виду. ",
-    "val": "“For just saying we were dating like that, I mean. "
+    "val": "“За то, что сказала, что мы встречаемся, я имею в виду. "
   },
   {
     "key": "It was a pretty clumsy lie.”",
     "trx": "Это была довольно неуклюжая ложь.”",
-    "val": "It was a pretty clumsy lie.”"
+    "val": "Это была довольно неуклюжая ложь.”"
   },
   {
     "key": "“No, no. ",
     "trx": "“Нет, нет. ",
-    "val": "“No, no. "
+    "val": "“Нет, нет. "
   },
   {
     "key": "It was just kind of...sudden, is all. ",
     "trx": "Это было просто как-то... неожиданно, вот и все. ",
-    "val": "It was just kind of...sudden, is all. "
+    "val": "Это было просто как-то... неожиданно, вот и все. "
   },
   {
     "key": "I was just a bit...jittery, I guess.” ",
     "trx": "Я просто немного... нервничал, наверное.” ",
-    "val": "I was just a bit...jittery, I guess.” "
+    "val": "Я просто немного... занервничал, наверное.” "
   },
   {
     "key": "Achi felt his cheeks color again.",
     "trx": "Ачи почувствовал, как его щеки снова залились краской.",
-    "val": "Achi felt his cheeks color again."
+    "val": "Ачи почувствовал, как его щеки снова залились краской."
   },
   {
     "key": "“I mean, I figured I had to say something or he wasn’t going to cooperate,” Hitomi said. ",
     "trx": "“Я имею в виду, я подумала, что должна была что-то сказать, иначе он не собирался сотрудничать”, - сказала Хитоми. ",
-    "val": "“I mean, I figured I had to say something or he wasn’t going to cooperate,” Hitomi said. "
+    "val": "“Ну, я подумала, что должна была что-то сказать, иначе он не хотел нам помогать,” сказала Хитоми. "
   },
   {
     "key": "She looked a little embarrassed, herself.",
     "trx": "Она и сама выглядела немного смущенной.",
-    "val": "She looked a little embarrassed, herself."
+    "val": "Она и сама выглядела немного смущенной."
   },
   {
     "key": "“I’m sorry. ",
     "trx": "\"мне жаль. ",
-    "val": "“I’m sorry. "
+    "val": "“Мне жаль. "
   },
   {
     "key": "I didn’t mean to make things weird.”",
     "trx": "Я не хотел все усложнять.”",
-    "val": "I didn’t mean to make things weird.”"
+    "val": "Я не хотела все усложнять.”"
   },
   {
     "key": "“No, no, no,” Achi said. “Nah, it wasn’t weird at all. ",
     "trx": "“Нет, нет, нет”, - сказал Ачи. “Нет, это совсем не было странно. ",
-    "val": "“No, no, no,” Achi said. “Nah, it wasn’t weird at all. "
+    "val": "“Нет, нет, нет,” сказал Ачи. “Нет, это совсем не было странно. "
   },
   {
     "key": "Actually, it was kind of...” ",
     "trx": "На самом деле, это было вроде как...” ",
-    "val": "Actually, it was kind of...” "
+    "val": "На самом деле, это было вроде как...” "
   },
   {
     "key": "He stopped himself there.",
     "trx": "На этом он остановился.",
-    "val": "He stopped himself there."
+    "val": "На этом он остановился."
   },
   {
     "key": "Now wasn’t the time for that sort of conversation; they needed to find that blue minivan.",
     "trx": "Сейчас было не время для подобных разговоров; им нужно было найти тот синий микроавтобус.",
-    "val": "Now wasn’t the time for that sort of conversation; they needed to find that blue minivan."
+    "val": "Сейчас было не время для подобных разговоров; им нужно было найти синий фургон."
   },
   {
     "key": "The ‘surveillance camera monitoring room’ was really just a big office with a single computer. Achi knew it well.",
     "trx": "\"Комната наблюдения за камерами наблюдения\" на самом деле была просто большим офисом с одним компьютером. Ачи хорошо это знал.",
-    "val": "The ‘surveillance camera monitoring room’ was really just a big office with a single computer. Achi knew it well."
+    "val": "‘Комната с мониторами видеонаблюдения’ на самом деле была всего лишь большим офисом с одним компьютером. Ачи хорошо это знал."
   },
   {
     "key": "“So this is the monitoring system,” he explained. ",
     "trx": "“Итак, это система мониторинга”, - объяснил он. ",
-    "val": "“So this is the monitoring system,” he explained. "
+    "val": "“Вот, это и есть система наблюдения,” объяснил он. "
   },
   {
     "key": "He switched on the computer. ",
     "trx": "Он включил компьютер. ",
-    "val": "He switched on the computer. "
+    "val": "Он включил компьютер. "
   },
   {
     "key": "“You can see all of downtown Shibuya from this one computer.”",
     "trx": "“Вы можете видеть весь центр Сибуи с этого одного компьютера”.",
-    "val": "“You can see all of downtown Shibuya from this one computer.”"
+    "val": "“С этого компьютера можно видеть весь центр Сибуи.”"
   },
   {
     "key": "Hitomi gazed impatiently at the monitor, even though it wasn’t showing anything yet.",
     "trx": "Хитоми нетерпеливо посмотрела на монитор, хотя он еще ничего не показывал.",
-    "val": "Hitomi gazed impatiently at the monitor, even though it wasn’t showing anything yet."
+    "val": "Хитоми нетерпеливо уставилась на монитор, хотя он еще ничего не показывал."
   },
   {
     "key": "The look of sheer determination on her face held Achi enthralled.",
     "trx": "Выражение абсолютной решимости на ее лице привело Ачи в восторг.",
-    "val": "The look of sheer determination on her face held Achi enthralled."
+    "val": "Выражение абсолютной решимости на ее лице привело Ачи в восторг."
   },
   {
     "key": "“You talk about how attractive your sister is,” Achi murmured, ",
     "trx": "“Ты говоришь о том, насколько привлекательна твоя сестра”, - пробормотал Ачи, ",
-    "val": "“You talk about how attractive your sister is,” Achi murmured, "
+    "val": "“Ты говоришь о том, насколько привлекательна твоя сестра,” пробормотал Ачи, "
   },
   {
     "key": "“but as far as I’m concerned...",
     "trx": "“но, насколько я понимаю...",
-    "val": "“but as far as I’m concerned..."
+    "val": "“но, насколько я понимаю... "
   },
   {
     "key": "right now, you’re the lovely one, Hitomi.”",
     "trx": "прямо сейчас ты самая милая, Хитоми.”",
-    "val": "right now, you’re the lovely one, Hitomi.”"
+    "val": "в этот момент ты самая прекрасная, Хитоми.”"
   },
   {
     "key": "Hitomi looked at him, uncertain.",
     "trx": "Хитоми неуверенно посмотрела на него.",
-    "val": "Hitomi looked at him, uncertain."
+    "val": "Хитоми неуверенно посмотрела на него."
   },
   {
     "key": "“I mean, look at the lengths you’re going to and the risks you’re taking to save your sister,” Achi said.",
     "trx": "“Я имею в виду, посмотри, на что ты идешь и на какой риск идешь, чтобы спасти свою сестру”, - сказал Ачи.",
-    "val": "“I mean, look at the lengths you’re going to and the risks you’re taking to save your sister,” Achi said."
+    "val": "“В смысле, посмотри, на какой риск ты идешь, чтобы спасти свою сестру,” сказал Ачи."
   },
   {
     "key": "“I can’t bear the thought that something might happen to her, ",
     "trx": "“Мне невыносима мысль, что с ней может что-то случиться, ",
-    "val": "“I can’t bear the thought that something might happen to her, "
+    "val": "“Мне невыносима мысль, что с ней может что-то случиться, "
   },
   {
     "key": "and the last time we were together I said such horrible things...” ",
     "trx": "и в последний раз, когда мы были вместе, я наговорил таких ужасных вещей...” ",
-    "val": "and the last time we were together I said such horrible things...” "
+    "val": "и в последний раз, когда мы были вместе, я наговорила ей таких ужасных вещей...” "
   },
   {
     "key": "“Plenty of people do bad things without even realizing they’re bad. Never mind trying to fix it.”",
     "trx": "“Множество людей совершают плохие поступки, даже не осознавая, что они плохие. Не бери в голову пытаться это исправить.”",
-    "val": "“Plenty of people do bad things without even realizing they’re bad. Never mind trying to fix it.”"
+    "val": "“Множество людей совершают плохие поступки, даже не осознавая, что они плохие. Не нужно пытаться это исправить.”"
   },
   {
     "key": "“I’m just doing what I think is right.”",
     "trx": "“Я просто делаю то, что считаю правильным”.",
-    "val": "“I’m just doing what I think is right.”"
+    "val": "“Я просто делаю то, что считаю правильным.”"
   },
   {
     "key": "“Yeah, but these days, most people ",
     "trx": "“Да, но в наши дни большинство людей ",
-    "val": "“Yeah, but these days, most people "
+    "val": "“Да, но в наши дни большинство людей "
   },
   {
     "key": "don’t",
     "trx": "не",
-    "val": "don’t"
+    "val": "не"
   },
   {
     "key": " do the right thing. ",
     "trx": " поступай правильно. ",
-    "val": " do the right thing. "
+    "val": " поступают правильно. "
   },
   {
     "key": "Heck, if they did, Shibuya wouldn’t be covered in trash like it is. ",
     "trx": "Черт возьми, если бы они это сделали, Сибуя не была бы так покрыта мусором, как сейчас. ",
-    "val": "Heck, if they did, Shibuya wouldn’t be covered in trash like it is. "
+    "val": "Черт возьми, если бы они это делали, Сибуя не была бы настолько замусорена, как сейчас. "
   },
   {
     "key": "Me, I appreciate it when someone really cares about the things that are important. ",
     "trx": "Что касается меня, то я ценю, когда кто-то действительно заботится о важных вещах. ",
-    "val": "Me, I appreciate it when someone really cares about the things that are important. "
+    "val": "Что касается меня, то я ценю, когда кто-то по-настоящему заботится о важных вещах. "
   },
   {
     "key": "Doing the right thing as a matter of course—that’s very attractive.”",
     "trx": "Поступать правильно как само собой разумеющееся — это очень привлекательно”.",
-    "val": "Doing the right thing as a matter of course—that’s very attractive.”"
+    "val": "Поступать правильно как само собой разумеющееся — это очень привлекательно.”"
   },
   {
     "key": "Achi blushed as he said it, and Hitomi shyly looked away. ",
     "trx": "Ачи покраснел, когда сказал это, и Хитоми застенчиво отвела взгляд. ",
-    "val": "Achi blushed as he said it, and Hitomi shyly looked away. "
+    "val": "Ачи покраснел, когда сказал это, и Хитоми застенчиво отвела взгляд. "
   },
   {
     "key": "“—Ah. ",
     "trx": "“— Ах. ",
-    "val": "“—Ah. "
+    "val": "“—Ах. "
   },
   {
     "key": "I think the system is ready.” ",
     "trx": "Я думаю, что система готова”. ",
-    "val": "I think the system is ready.” "
+    "val": "Я думаю, что система готова.” "
   },
   {
     "key": "Turning to the computer, Achi hastily changed the subject. ",
     "trx": "Повернувшись к компьютеру, Ачи поспешно сменил тему. ",
-    "val": "Turning to the computer, Achi hastily changed the subject. "
+    "val": "Повернувшись к компьютеру, Ачи поспешно сменил тему. "
   },
   {
     "key": "“This thing’s so simple even I know how to use it.”",
     "trx": "“Эта штука так проста, что даже я знаю, как ею пользоваться”.",
-    "val": "“This thing’s so simple even I know how to use it.”"
+    "val": "“Эта штука такая простая, что даже я знаю, как ей пользоваться.”"
   },
   {
     "key": "Clicking on the mouse, he brought up a row of four windows on the monitor.",
     "trx": "Щелкнув мышью, он вызвал на мониторе ряд из четырех окон.",
-    "val": "Clicking on the mouse, he brought up a row of four windows on the monitor."
+    "val": "Щелкнув мышью, он выстроил четыре окна на мониторе в ряд."
   },
   {
     "key": "Each window showed a different view of the Shibuya cityscape.",
     "trx": "Из каждого окна открывался разный вид на городской пейзаж Сибуи.",
-    "val": "Each window showed a different view of the Shibuya cityscape."
+    "val": "В этих окнах отображались разные виды на городской пейзаж Сибуи."
   },
   {
     "key": "“The image quality’s not great, but that’s because it’s being updated on a two-second delay, I guess.”",
     "trx": "“Качество изображения невелико, но это потому, что оно обновляется с двухсекундной задержкой, я думаю”.",
-    "val": "“The image quality’s not great, but that’s because it’s being updated on a two-second delay, I guess.”"
+    "val": "“Изображения не очень качественные, но, думаю, это потому, что они обновляются с задержкой в две секунды.”"
   },
   {
     "key": "Achi tapped on the keyboard, bringing up shots of different locations.",
     "trx": "Ачи постучал по клавиатуре, выводя снимки разных мест.",
-    "val": "Achi tapped on the keyboard, bringing up shots of different locations."
+    "val": "Ачи стучал по клавиатуре, выводя снимки разных мест."
   },
   {
     "key": "He clicked on one of them in order to enlarge the image.",
     "trx": "Он нажал на один из них, чтобы увеличить изображение.",
-    "val": "He clicked on one of them in order to enlarge the image."
+    "val": "Он нажал на один из них, чтобы увеличить изображение."
   },
   {
     "key": "“Maybe we really can find that minivan with this.” ",
     "trx": "“Может быть, мы действительно сможем найти этот микроавтобус с помощью этого”. ",
-    "val": "“Maybe we really can find that minivan with this.” "
+    "val": "“Может быть, мы действительно сможем найти фургон при помощи этих камер.” "
   },
   {
     "key": "Hitomi was practically glued to the screen.",
     "trx": "Хитоми была практически приклеена к экрану.",
-    "val": "Hitomi was practically glued to the screen."
+    "val": "Хитоми была практически приклеена к экрану."
   },
   {
     "key": "“My dad’s the one who designed this security system.”",
     "trx": "“Мой отец - тот, кто разработал эту систему безопасности”.",
-    "val": "“My dad’s the one who designed this security system.”"
+    "val": "“Эту систему безопасности разработал мой отец.”"
   },
   {
     "key": "“Your dad must be pretty amazing.”",
     "trx": "“Твой папа, должно быть, просто потрясающий”.",
-    "val": "“Your dad must be pretty amazing.”"
+    "val": "“Твой отец, должно быть, просто потрясающий.”"
   },
   {
     "key": "“Well, he graduated top of his class at ",
     "trx": "“Ну, он закончил лучшим в своем классе в ",
-    "val": "“Well, he graduated top of his class at "
+    "val": "“Ну, он был лучшим из своей группы в "
   },
   {
     "key": "Tokyo Denko University",
     "trx": "Токийский университет Денко",
-    "val": "Tokyo Denko University"
+    "val": "Токийском университете Денко"
   },
   {
     "key": ". ",
@@ -1402,177 +1402,177 @@
   {
     "key": "He always said he could have had a career in computer engineering, but he took over the electronics shop so that he could marry my mother, instead.”",
     "trx": "Он всегда говорил, что мог бы сделать карьеру в компьютерной инженерии, но вместо этого он возглавил магазин электроники, чтобы жениться на моей матери.”",
-    "val": "He always said he could have had a career in computer engineering, but he took over the electronics shop so that he could marry my mother, instead.”"
+    "val": "Он всегда говорил, что мог бы сделать карьеру в компьютерной инженерии, но вместо этого он стал владельцем магазина электроники, чтобы жениться на моей матери.”"
   },
   {
     "key": "“That’s such a sweet story. ",
     "trx": "“Это такая милая история. ",
-    "val": "“That’s such a sweet story. "
+    "val": "“Это такая милая история. "
   },
   {
     "key": "Do they run the store together, then?”",
     "trx": "Значит, они вместе управляют магазином?”",
-    "val": "Do they run the store together, then?”"
+    "val": "Значит, они вместе управляют магазином?”"
   },
   {
     "key": "Achi shook his head. ",
     "trx": "Ачи покачал головой. ",
-    "val": "Achi shook his head. "
+    "val": "Ачи покачал головой. "
   },
   {
     "key": "“No. ",
     "trx": "\"Нет. ",
-    "val": "“No. "
+    "val": "“Нет. "
   },
   {
     "key": "My mother died when I was four.”",
     "trx": "Моя мать умерла, когда мне было четыре года.”",
-    "val": "My mother died when I was four.”"
+    "val": "Моя мать умерла, когда мне было четыре года.”"
   },
   {
     "key": "“Oh. I’m sorry.” ",
     "trx": "\"ой. Мне очень жаль.” ",
-    "val": "“Oh. I’m sorry.” "
+    "val": "“Ох. Мне очень жаль.” "
   },
   {
     "key": "Hitomi sounded even sadder than Achi.",
     "trx": "Голос Хитоми звучал еще печальнее, чем у Ачи.",
-    "val": "Hitomi sounded even sadder than Achi."
+    "val": "Голос Хитоми звучал еще печальнее, чем Ачи."
   },
   {
     "key": "“Well, ",
     "trx": "“Ну что ж, ",
-    "val": "“Well, "
+    "val": "“Ну что ж, "
   },
   {
     "key": "anyway, never mind that. ",
     "trx": "в любом случае, не обращай на это внимания. ",
-    "val": "anyway, never mind that. "
+    "val": "в любом случае, не обращай на это внимания. "
   },
   {
     "key": "Here, look.”",
     "trx": "Вот, смотри.”",
-    "val": "Here, look.”"
+    "val": "Вот, смотри.”"
   },
   {
     "key": "The seedy-looking weirdo they’d run into at GiGO was on the screen.",
     "trx": "На экране был потрепанный чудак, с которым они столкнулись в Гиго.",
-    "val": "The seedy-looking weirdo they’d run into at GiGO was on the screen."
+    "val": "На экране появился потрепанный чудак, с которым они столкнулись в GiGO."
   },
   {
     "key": "“Huh? ",
     "trx": "\"Хм? ",
-    "val": "“Huh? "
+    "val": "“Что? "
   },
   {
     "key": "That guy again?”",
     "trx": "Опять этот парень?”",
-    "val": "That guy again?”"
+    "val": "Опять этот парень?”"
   },
   {
     "key": "Said weirdo was running all-out, a laptop computer under one arm.",
     "trx": "Сказал, что чудак бежал изо всех сил, держа ноутбук под мышкой.",
-    "val": "Said weirdo was running all-out, a laptop computer under one arm."
+    "val": "Упомянутый чудак бежал изо всех сил, держа под мышкой ноутбук."
   },
   {
     "key": "He was being chased by a man in a long coat.",
     "trx": "За ним гнался мужчина в длинном пальто.",
-    "val": "He was being chased by a man in a long coat."
+    "val": "За ним гнался мужчина в длинном пальто."
   },
   {
     "key": "“That guy sure gets chased around a lot, huh?” Achi said.",
     "trx": "“За этим парнем действительно часто гоняются, да?” - сказал Ачи.",
-    "val": "“That guy sure gets chased around a lot, huh?” Achi said."
+    "val": "“Этого парня и на самом деле часто преследуют, да?” сказал Ачи."
   },
   {
     "key": "When the weirdo slipped out of view, Achi switched to another camera.",
     "trx": "Когда чудак исчез из поля зрения, Ачи переключился на другую камеру.",
-    "val": "When the weirdo slipped out of view, Achi switched to another camera."
+    "val": "Когда чудак исчез из поля зрения, Ачи переключился на другую камеру."
   },
   {
     "key": "The new view showed the weirdo running again.",
     "trx": "Новый вид показал, что чудак снова бежит.",
-    "val": "The new view showed the weirdo running again."
+    "val": "Через эту камеру было видно, что чудак продолжает бежать."
   },
   {
     "key": "By hopping from camera to camera, they could track him wherever he went.",
     "trx": "Перескакивая с камеры на камеру, они могли выследить его, куда бы он ни пошел.",
-    "val": "By hopping from camera to camera, they could track him wherever he went."
+    "val": "Переключаясь с камеры на камеру, они могли выследить его, куда бы он ни пошел."
   },
   {
     "key": "“So long as we have these cameras,” Achi said, “this guy has nowhere to run.”",
     "trx": "“Пока у нас есть эти камеры, - сказал Ачи, - этому парню некуда бежать”.",
-    "val": "“So long as we have these cameras,” Achi said, “this guy has nowhere to run.”"
+    "val": "“Пока у нас есть эти камеры,” сказал Ачи, “этому парню некуда бежать.”"
   },
   {
     "key": "Hmm...",
     "trx": "Хмм...",
-    "val": "Hmm..."
+    "val": "Хмм... "
   },
   {
     "key": "Nowhere to run, huh?",
     "trx": "Некуда бежать, да?",
-    "val": "Nowhere to run, huh?"
+    "val": "Некуда бежать, да?"
   },
   {
     "key": "The moment he said those words, they struck an odd chord in his mind.",
     "trx": "В тот момент, когда он произнес эти слова, они задели странную струну в его сознании.",
-    "val": "The moment he said those words, they struck an odd chord in his mind."
+    "val": "В тот момент, когда он произнес эти слова, они задели странную струну в его сознании."
   },
   {
     "key": "He remembered their repeated run-ins with the man with the cane—how the assassin had seemed always to know where to find them.",
     "trx": "Он вспомнил их неоднократные стычки с человеком с тростью - как убийца, казалось, всегда знал, где их найти.",
-    "val": "He remembered their repeated run-ins with the man with the cane—how the assassin had seemed always to know where to find them."
+    "val": "Он вспомнил их неоднократные встречи с человеком с тростью — убийца, казалось, всегда знал, где их найти."
   },
   {
     "key": "“Achi, please,” Hitomi urged. ",
     "trx": "“Ачи, пожалуйста\", ” настаивала Хитоми. ",
-    "val": "“Achi, please,” Hitomi urged. "
+    "val": "“Ачи, пожалуйста,” настаивала Хитоми. "
   },
   {
     "key": "“Stop messing around and let’s look for the minivan.”",
     "trx": "“Перестань валять дурака и давай поищем микроавтобус”.",
-    "val": "“Stop messing around and let’s look for the minivan.”"
+    "val": "“Перестань валять дурака и давай поищем фургон.”"
   },
   {
     "key": "“Sorry. There’s just something I’m curious about.”",
     "trx": "“прости. Просто есть кое-что, что мне любопытно.”",
-    "val": "“Sorry. There’s just something I’m curious about.”"
+    "val": "“Прости. Мне просто кое-что интересно.”"
   },
   {
     "key": "Achi continued to track the seedy-looking man.",
     "trx": "Ачи продолжал следить за потрепанным мужчиной.",
-    "val": "Achi continued to track the seedy-looking man."
+    "val": "Ачи продолжил следить за потрепанным мужчиной."
   },
   {
     "key": "“Ah, right. My bad.”",
     "trx": "“Ах, точно. Я виноват.”",
-    "val": "“Ah, right. My bad.”"
+    "val": "“Ах, точно. Виноват.”"
   },
   {
     "key": "Achi switched over to a different camera.",
     "trx": "Ачи переключился на другую камеру.",
-    "val": "Achi switched over to a different camera."
+    "val": "Ачи переключился на другую камеру."
   },
   {
     "key": "“Ah, right. ",
     "trx": "“Ах, точно. ",
-    "val": "“Ah, right. "
+    "val": "“Ах, точно. "
   },
   {
     "key": "My bad.” ",
     "trx": "Я виноват.” ",
-    "val": "My bad.” "
+    "val": "Виноват.” "
   },
   {
     "key": "Achi switched over to a different camera.",
     "trx": "Ачи переключился на другую камеру.",
-    "val": "Achi switched over to a different camera."
+    "val": "Ачи переключился на другую камеру."
   },
   {
     "key": "He continued switching views, scanning the streets of Shibuya, but there was no sign of a blue minivan anywhere.",
     "trx": "Он продолжал переключать виды, осматривая улицы Сибуи, но нигде не было никаких признаков синего микроавтобуса.",
-    "val": "He continued switching views, scanning the streets of Shibuya, but there was no sign of a blue minivan anywhere."
+    "val": "Он продолжал переключать камеры, осматривая улицы Сибуи, но нигде не было никаких признаков синего фургона."
   },
   {
     "key": "\\",
@@ -1582,97 +1582,97 @@
   {
     "key": "Still, they remained glued to the monitor.",
     "trx": "Тем не менее, они оставались приклеенными к монитору.",
-    "val": "Still, they remained glued to the monitor."
+    "val": "Тем не менее, они оставались приклеенными к монитору."
   },
   {
     "key": "“Oh, that’s me.” ",
     "trx": "“О, это я”. ",
-    "val": "“Oh, that’s me.” "
+    "val": "“О, это мой.” "
   },
   {
     "key": "Hitomi took out her cell phone.",
     "trx": "Хитоми достала свой мобильный телефон.",
-    "val": "Hitomi took out her cell phone."
+    "val": "Хитоми достала свой мобильный телефон."
   },
   {
     "key": "“It’s an email from Mr. Tanaka.”",
     "trx": "“Это электронное письмо от мистера Танаки”.",
-    "val": "“It’s an email from Mr. Tanaka.”"
+    "val": "“Это электронное письмо от мистера Танаки.”"
   },
   {
     "key": "“Ah, ",
     "trx": "“Ах, ",
-    "val": "“Ah, "
+    "val": "“Ах, "
   },
   {
     "key": "okay.”",
     "trx": "ладно.”",
-    "val": "okay.”"
+    "val": "ладно.”"
   },
   {
     "key": "Yeah, it was about time for my mood to take a dip,",
     "trx": "Да, для моего настроения как раз пришло время окунуться,",
-    "val": "Yeah, it was about time for my mood to take a dip,"
+    "val": "Да, опять он,"
   },
   {
     "key": " Achi thought.",
     "trx": " Ачи задумался.",
-    "val": " Achi thought."
+    "val": " задумался Ачи."
   },
   {
     "key": "“What?!” Hitomi blurted. ",
     "trx": "“Что?!” - выпалила Хитоми. ",
-    "val": "“What?!” Hitomi blurted. "
+    "val": "“Что?!” выпалила Хитоми. "
   },
   {
     "key": "She looked up from her phone. ",
     "trx": "Она оторвала взгляд от телефона. ",
-    "val": "She looked up from her phone. "
+    "val": "Она оторвала взгляд от телефона. "
   },
   {
     "key": "“Achi! Mr. Tanaka found the minivan!”",
     "trx": "\"Ачи! мистер Танака нашел микроавтобус!”",
-    "val": "“Achi! Mr. Tanaka found the minivan!”"
+    "val": "“Ачи! Мистер Танака нашел фургон!”"
   },
   {
     "key": "“He what?! ",
     "trx": "“Он что?! ",
-    "val": "“He what?! "
+    "val": "“Он что?! "
   },
   {
     "key": "What does he say? Read it to me!”",
     "trx": "Что он говорит? Прочти мне это!”",
-    "val": "What does he say? Read it to me!”"
+    "val": "Что он пишет? Прочти мне это!”"
   },
   {
     "key": "“Okay...",
     "trx": "\"Ладно...",
-    "val": "“Okay..."
+    "val": "“Ладно... "
   },
   {
     "key": "I ran after it but, but wound up losing sight of it. ",
     "trx": "Я побежал за ним, но... но в итоге потерял его из виду. ",
-    "val": "I ran after it but, but wound up losing sight of it. "
+    "val": "Я побежал за ним, но... но в итоге потерял его из виду. "
   },
   {
     "key": "It was heading toward Jinnan. ",
     "trx": "Он направлялся в Джиннань. ",
-    "val": "It was heading toward Jinnan. "
+    "val": "Он направлялся в Джиннан. "
   },
   {
     "key": "That’s what he says.”",
     "trx": "Вот что он говорит.”",
-    "val": "That’s what he says.”"
+    "val": "Вот что он пишет.”"
   },
   {
     "key": "“What about your ",
     "trx": "“А как насчет твоего ",
-    "val": "“What about your "
+    "val": "“А что насчет твоей "
   },
   {
     "key": "sister",
     "trx": "сестра",
-    "val": "sister"
+    "val": "сестры"
   },
   {
     "key": "? ",
@@ -1682,57 +1682,57 @@
   {
     "key": "Was she inside?”",
     "trx": "Она была внутри?”",
-    "val": "Was she inside?”"
+    "val": "Она была внутри?”"
   },
   {
     "key": "“He doesn’t say.”",
     "trx": "“Он не говорит”.",
-    "val": "“He doesn’t say.”"
+    "val": "“Он не сказал.”"
   },
   {
     "key": "Achi switched over to an array of surveillance cameras near Jinnan.",
     "trx": "Ачи переключился на множество камер наблюдения рядом с Цзиннанем.",
-    "val": "Achi switched over to an array of surveillance cameras near Jinnan."
+    "val": "Ачи переключился на массив камер видеонаблюдения рядом с Джиннаном."
   },
   {
     "key": "The few seconds the transition took felt agonizingly slow.",
     "trx": "Несколько секунд, которые занял переход, казались мучительно медленными.",
-    "val": "The few seconds the transition took felt agonizingly slow."
+    "val": "Несколько секунд, которые заняло переключение, казались мучительно медленными."
   },
   {
     "key": "Finally, four new images popped up.",
     "trx": "Наконец, появилось четыре новых изображения.",
-    "val": "Finally, four new images popped up."
+    "val": "Наконец, появилось четыре новых изображения."
   },
   {
     "key": "Achi quickly enlarged one of them.",
     "trx": "Ачи быстро увеличил один из них.",
-    "val": "Achi quickly enlarged one of them."
+    "val": "Ачи быстро увеличил одно из них."
   },
   {
     "key": "“Ah!” ",
     "trx": "“Ах!” ",
-    "val": "“Ah!” "
+    "val": "“Ах!” "
   },
   {
     "key": "Hitomi let out a tiny gasp.",
     "trx": "Хитоми издала тихий вздох.",
-    "val": "Hitomi let out a tiny gasp."
+    "val": "Хитоми тихо вздохнула."
   },
   {
     "key": "There on the monitor was the blue minivan. There was no doubt about it.",
     "trx": "Там, на мониторе, был синий микроавтобус. В этом не было никаких сомнений.",
-    "val": "There on the monitor was the blue minivan. There was no doubt about it."
+    "val": "Там, на мониторе, был синий фургон. В этом не было никаких сомнений."
   },
   {
     "key": "Achi and Hitomi rushed from the building, speeding toward Jinnan in an ",
     "trx": "Ачи и Хитоми выбежали из здания, мчась к Джиннан в ",
-    "val": "Achi and Hitomi rushed from the building, speeding toward Jinnan in an "
+    "val": "Ачи и Хитоми выбежали из здания, устремившись в Джиннан "
   },
   {
     "key": "all-out run",
     "trx": "тотальный бег",
-    "val": "all-out run"
+    "val": "на полной скорости"
   },
   {
     "key": ".",
@@ -1742,17 +1742,17 @@
   {
     "key": "Neither spoke; they simply dashed along in silence.",
     "trx": "Ни один из них не произнес ни слова; они просто мчались вперед в тишине.",
-    "val": "Neither spoke; they simply dashed along in silence."
+    "val": "Ни один из них не произнес ни слова; они просто мчались вперед в тишине."
   },
   {
     "key": "Achi felt as if they’d been running a marathon and the finish line had finally come into view.",
     "trx": "Ачи чувствовал себя так, словно они пробежали марафон и наконец-то показалась финишная черта.",
-    "val": "Achi felt as if they’d been running a marathon and the finish line had finally come into view."
+    "val": "Ачи чувствовал себя так, словно они пробежали марафон и наконец-то показалась финишная черта."
   },
   {
     "key": "They hooked a left at the station and darted past the Seibu Department Store.",
     "trx": "На станции они свернули налево и промчались мимо универмага Сейбу.",
-    "val": "They hooked a left at the station and darted past the Seibu Department Store."
+    "val": "На станции они свернули налево и промчались мимо универмага Сэйбу."
   },
   {
     "key": "D",
@@ -1762,426 +1762,426 @@
   {
     "key": "“Ahaaaa!”",
     "trx": "“Ааааааа!”",
-    "val": "“Ahaaaa!”"
+    "val": "“Агаааа!”"
   },
   {
     "key": "Achi pointed as he came to a stop.",
     "trx": "Ачи указал, когда он остановился.",
-    "val": "Achi pointed as he came to a stop."
+    "val": "Ачи указал на синий фургон, когда они остановились."
   },
   {
     "key": "The blue minivan was still there, parked by the curb along the slight, hilly incline.",
     "trx": "Синий микроавтобус все еще был там, припаркованный у обочины вдоль небольшого холмистого склона.",
-    "val": "The blue minivan was still there, parked by the curb along the slight, hilly incline."
+    "val": "Он все еще был там, припаркованный у обочины вдоль небольшого холмистого склона."
   },
   {
     "key": "Leaving Achi behind, Hitomi started rushing up the hill.",
     "trx": "Оставив Ачи позади, Хитоми помчалась вверх по склону.",
-    "val": "Leaving Achi behind, Hitomi started rushing up the hill."
+    "val": "Оставив Ачи позади, Хитоми помчалась вверх по склону."
   },
   {
     "key": "Alarm bells started going off in Achi’s mind. Someone from the kidnapping crew was in that van.",
     "trx": "В голове Ачи зазвонили тревожные колокольчики. В этом фургоне был кто-то из команды похитителей.",
-    "val": "Alarm bells started going off in Achi’s mind. Someone from the kidnapping crew was in that van."
+    "val": "Ачи забеспокоился. В этом фургоне был кто-то из команды похитителей."
   },
   {
     "key": "It was dangerous to approach carelessly.",
     "trx": "Небрежно приближаться было опасно.",
-    "val": "It was dangerous to approach carelessly."
+    "val": "Неосторожно приближаться было опасно."
   },
   {
     "key": "“Stay back! Don’t get too close!”",
     "trx": "“Не подходи! Не подходи слишком близко!”",
-    "val": "“Stay back! Don’t get too close!”"
+    "val": "“Не подходи! Не подходи слишком близко!”"
   },
   {
     "key": "“Hitomi, wait!”",
     "trx": "“Хитоми, подожди!”",
-    "val": "“Hitomi, wait!”"
+    "val": "“Хитоми, стой!”"
   },
   {
     "key": "“Hitomi, ",
     "trx": "“Хитоми, ",
-    "val": "“Hitomi, "
+    "val": "“Хитоми, "
   },
   {
     "key": "wait!” ",
     "trx": "подожди!” ",
-    "val": "wait!” "
+    "val": "стой!” "
   },
   {
     "key": "Achi shouted.",
     "trx": "- крикнул Ачи.",
-    "val": "Achi shouted."
+    "val": "крикнул Ачи."
   },
   {
     "key": "But she didn’t appear to hear his cries.",
     "trx": "Но она, казалось, не слышала его криков.",
-    "val": "But she didn’t appear to hear his cries."
+    "val": "Но она, казалось, не слышала его криков."
   },
   {
     "key": "The hope of rescuing her sister had driven all else from her mind.",
     "trx": "Надежда спасти сестру вытеснила все остальное из ее головы.",
-    "val": "The hope of rescuing her sister had driven all else from her mind."
+    "val": "Надежда спасти сестру вытеснила все остальное из ее головы."
   },
   {
     "key": "Achi started to run after her.",
     "trx": "Ачи побежал за ней.",
-    "val": "Achi started to run after her."
+    "val": "Ачи побежал за ней."
   },
   {
     "key": "Hitomi had reached the vehicle already; she brought her face close to one of its windows.",
     "trx": "Хитоми уже добралась до машины; она приблизила свое лицо к одному из ее окон.",
-    "val": "Hitomi had reached the vehicle already; she brought her face close to one of its windows."
+    "val": "Хитоми уже добралась до автомобиля; она вгляделась в одно из его окон."
   },
   {
     "key": "But the tinted glass obscured the view inside.",
     "trx": "Но тонированное стекло скрывало вид изнутри.",
-    "val": "But the tinted glass obscured the view inside."
+    "val": "Но через тонированное стекло не было видно, что внутри."
   },
   {
     "key": "Hitomi circled around to the minivan’s other side.",
     "trx": "Хитоми обошла микроавтобус с другой стороны.",
-    "val": "Hitomi circled around to the minivan’s other side."
+    "val": "Хитоми подошла к фургону с другой стороны."
   },
   {
     "key": "Achi saw her grasping at the door.",
     "trx": "Ачи видел, как она вцепилась в дверь.",
-    "val": "Achi saw her grasping at the door."
+    "val": "Ачи видел, как она вцепилась в дверь."
   },
   {
     "key": "She slipped out of his view for just a moment.",
     "trx": "Она выскользнула из его поля зрения всего на мгновение.",
-    "val": "She slipped out of his view for just a moment."
+    "val": "Она выскользнула из его поля зрения всего на мгновение."
   },
   {
     "key": "There was a thunderous explosion, and a gout of flame tore the roof off the minivan like it was made of aluminum foil.",
     "trx": "Раздался оглушительный взрыв, и вспышка пламени сорвала крышу с микроавтобуса, как будто он был сделан из алюминиевой фольги.",
-    "val": "There was a thunderous explosion, and a gout of flame tore the roof off the minivan like it was made of aluminum foil."
+    "val": "Раздался оглушительный взрыв, и вспышка пламени сорвала с фургона крышу, как будто он был сделан из алюминиевой фольги."
   },
   {
     "key": "“Hi-",
     "trx": "“Привет-",
-    "val": "“Hi-"
+    "val": "“Хи-"
   },
   {
     "key": "Hitomi!”",
     "trx": "Хитоми!”",
-    "val": "Hitomi!”"
+    "val": "Хитоми!”"
   },
   {
     "key": "Horrified, Achi charged through roiling smoke, searching for Hitomi.",
     "trx": "Охваченный ужасом, Ачи бросился сквозь клубящийся дым в поисках Хитоми.",
-    "val": "Horrified, Achi charged through roiling smoke, searching for Hitomi."
+    "val": "Охваченный ужасом, Ачи бросился сквозь клубящийся дым в поисках Хитоми."
   },
   {
     "key": "He saw two figures sprawled on the street, several meters from the van.",
     "trx": "Он увидел две фигуры, распростертые на улице, в нескольких метрах от фургона.",
-    "val": "He saw two figures sprawled on the street, several meters from the van."
+    "val": "Он увидел две фигуры, распростертые на улице, в нескольких метрах от фургона."
   },
   {
     "key": "Hitomi and Canaan.",
     "trx": "Хитоми и Ханаан.",
-    "val": "Hitomi and Canaan."
+    "val": "Хитоми и Ханаан."
   },
   {
     "key": "“Hitomi! Wake up!”",
     "trx": "“Хитоми! Просыпайся!”",
-    "val": "“Hitomi! Wake up!”"
+    "val": "“Хитоми! Очнись!”"
   },
   {
     "key": "Achi cradled her in his arms, and her eyes drifted open faintly.",
     "trx": "Ачи прижал ее к себе, и ее глаза слегка приоткрылись.",
-    "val": "Achi cradled her in his arms, and her eyes drifted open faintly."
+    "val": "Ачи прижал ее к себе, и ее глаза слегка приоткрылись."
   },
   {
     "key": "“Are you okay?! ",
     "trx": "“Ты в порядке?! ",
-    "val": "“Are you okay?! "
+    "val": "“Ты в порядке?! "
   },
   {
     "key": "Are you hurt?!”",
     "trx": "Ты ранен?!”",
-    "val": "Are you hurt?!”"
+    "val": "Ты ранена?!”"
   },
   {
     "key": "Hitomi didn’t appear to understand him; her only response was a blank, dazed look.",
     "trx": "Хитоми, казалось, не поняла его; ее единственным ответом был пустой, ошеломленный взгляд.",
-    "val": "Hitomi didn’t appear to understand him; her only response was a blank, dazed look."
+    "val": "Хитоми, казалось, не понимала его; ее единственным ответом был пустой, ошеломленный взгляд."
   },
   {
     "key": "There was a small patch of red on her face.",
     "trx": "На ее лице было небольшое красное пятно.",
-    "val": "There was a small patch of red on her face."
+    "val": "На ее лице было небольшое красное пятно."
   },
   {
     "key": "Achi wiped it gently away with a finger; he saw no further signs of bleeding.",
     "trx": "Ачи осторожно вытер ее пальцем; он больше не видел признаков кровотечения.",
-    "val": "Achi wiped it gently away with a finger; he saw no further signs of bleeding."
+    "val": "Ачи осторожно стер его пальцем; он не видел больше признаков кровотечения."
   },
   {
     "key": "She must have been splattered by someone else’s blood, then.",
     "trx": "Значит, она, должно быть, была забрызгана чьей-то чужой кровью.",
-    "val": "She must have been splattered by someone else’s blood, then."
+    "val": "Значит, она, должно быть, была обрызгана чьей-то чужой кровью."
   },
   {
     "key": "As far as he could tell, she hadn’t been gravely injured.",
     "trx": "Насколько он мог судить, она не была серьезно ранена.",
-    "val": "As far as he could tell, she hadn’t been gravely injured."
+    "val": "Насколько он мог судить, она не была серьезно ранена."
   },
   {
     "key": "Achi let out a sigh of relief.",
     "trx": "Ачи вздохнул с облегчением.",
-    "val": "Achi let out a sigh of relief."
+    "val": "Ачи вздохнул с облегчением."
   },
   {
     "key": "“Hitomi...",
     "trx": "“Хитоми...",
-    "val": "“Hitomi..."
+    "val": "“Хитоми... "
   },
   {
     "key": "is she all right?”",
     "trx": "с ней все в порядке?”",
-    "val": "is she all right?”"
+    "val": "с ней все в порядке?”"
   },
   {
     "key": "Canaan stirred on the ground.",
     "trx": "Ханаан пошевелился на земле.",
-    "val": "Canaan stirred on the ground."
+    "val": "Ханаан пошевелилась, лежа на земле."
   },
   {
     "key": "Her clothes were scorched in places, and she was bleeding from her head.",
     "trx": "Ее одежда местами была обожжена, а из головы текла кровь.",
-    "val": "Her clothes were scorched in places, and she was bleeding from her head."
+    "val": "Ее одежда местами была обожжена, а из головы текла кровь."
   },
   {
     "key": "“Canaan...",
     "trx": "“Ханаан...",
-    "val": "“Canaan..."
+    "val": "“Ханаан... "
   },
   {
     "key": "did you save her?”",
     "trx": "ты спас ее?”",
-    "val": "did you save her?”"
+    "val": "ты спасла ее?”"
   },
   {
     "key": "“Is she all right?”",
     "trx": "“С ней все в порядке?”",
-    "val": "“Is she all right?”"
+    "val": "“С ней все в порядке?”"
   },
   {
     "key": "“Yeah. ",
     "trx": "\"Да. ",
-    "val": "“Yeah. "
+    "val": "“Да. "
   },
   {
     "key": "What about her sister?”",
     "trx": "А как насчет ее сестры?”",
-    "val": "What about her sister?”"
+    "val": "А что насчет ее сестры?”"
   },
   {
     "key": "Canaan didn’t respond.",
     "trx": "Ханаан не ответил.",
-    "val": "Canaan didn’t respond."
+    "val": "Ханаан не ответила."
   },
   {
     "key": "No. It can’t be...",
     "trx": "Нет. Этого не может быть...",
-    "val": "No. It can’t be..."
+    "val": "Нет. Этого не может быть... "
   },
   {
     "key": "Achi went to look inside the van.",
     "trx": "Ачи пошел заглянуть внутрь фургона.",
-    "val": "Achi went to look inside the van."
+    "val": "Ачи пошел заглянуть внутрь фургона."
   },
   {
     "key": "Amidst the smoke and the flames, he could make out the outline of a body.",
     "trx": "Среди дыма и пламени он мог различить очертания тела.",
-    "val": "Amidst the smoke and the flames, he could make out the outline of a body."
+    "val": "Среди дыма и пламени он мог различить очертания тела."
   },
   {
     "key": "“What ",
     "trx": "“Что ",
-    "val": "“What "
+    "val": "“Что здесь "
   },
   {
     "key": "happened",
     "trx": "произошло",
-    "val": "happened"
+    "val": "произошло"
   },
   {
     "key": " here?”",
     "trx": " здесь?”",
-    "val": " here?”"
+    "val": "?”"
   },
   {
     "key": "Achi had to look away.",
     "trx": "Ачи пришлось отвести взгляд.",
-    "val": "Achi had to look away."
+    "val": "Ачи пришлось отвести взгляд."
   },
   {
     "key": "“Get Hitomi out of here. ",
     "trx": "“Уведи Хитоми отсюда. ",
-    "val": "“Get Hitomi out of here. "
+    "val": "“Уведи Хитоми отсюда. "
   },
   {
     "key": "Hurry. ",
     "trx": "Торопиться. ",
-    "val": "Hurry. "
+    "val": "Быстрее. "
   },
   {
     "key": "If those guys show back up...” ",
     "trx": "Если эти парни вернутся...” ",
-    "val": "If those guys show back up...” "
+    "val": "Если эти парни вернутся...” "
   },
   {
     "key": "Canaan’s face twisted up with pain.",
     "trx": "Лицо Ханаана исказилось от боли.",
-    "val": "Canaan’s face twisted up with pain."
+    "val": "Лицо Ханаан исказилось от боли."
   },
   {
     "key": "“All right.”",
     "trx": "“Хорошо”.",
-    "val": "“All right.”"
+    "val": "“Хорошо.”"
   },
   {
     "key": "Achi settled Hitomi carefully in his arms.",
     "trx": "Ачи осторожно усадил Хитоми в свои объятия.",
-    "val": "Achi settled Hitomi carefully in his arms."
+    "val": "Ачи осторожно усадил Хитоми в свои объятия."
   },
   {
     "key": "“Wait...I need to tell you something.”",
     "trx": "“Подожди...Мне нужно тебе кое-что сказать.”",
-    "val": "“Wait...I need to tell you something.”"
+    "val": "“Постой... Мне нужно тебе кое-что сказать.”"
   },
   {
     "key": "Canaan’s pained gasp called him back.",
     "trx": "Болезненный вздох Ханаана вернул его назад.",
-    "val": "Canaan’s pained gasp called him back."
+    "val": "Болезненный вздох Ханаан остановил его."
   },
   {
     "key": "“Alphard.”",
     "trx": "“Альфард”.",
-    "val": "“Alphard.”"
+    "val": "“Альфард.”"
   },
   {
     "key": "“Huh?”",
     "trx": "\"Хм?\"",
-    "val": "“Huh?”"
+    "val": "“Что?”"
   },
   {
     "key": "“Alphard...",
     "trx": "“Альфард...",
-    "val": "“Alphard..."
+    "val": "“Альфард... "
   },
   {
     "key": "that’s the name of the mastermind. ",
     "trx": "это имя вдохновителя. ",
-    "val": "that’s the name of the mastermind. "
+    "val": "это имя главаря. "
   },
   {
     "key": "I’m sure it’ll come up again if you keep pursuing this. ",
     "trx": "Я уверен, что это всплывет снова, если ты продолжишь в том же духе. ",
-    "val": "I’m sure it’ll come up again if you keep pursuing this. "
+    "val": "Я уверена, что оно снова всплывет, если ты продолжишь в том же духе. "
   },
   {
     "key": "But if you value your life...don’t get involved with Alphard any further. ",
     "trx": "Но если тебе дорога твоя жизнь... не связывайся больше с Альфардом. ",
-    "val": "But if you value your life...don’t get involved with Alphard any further. "
+    "val": "Но если тебе дорога твоя жизнь... лучше не связывайся больше с Альфардом. "
   },
   {
     "key": "Now go...” ",
     "trx": "А теперь иди...” ",
-    "val": "Now go...” "
+    "val": "А теперь иди...” "
   },
   {
     "key": "“Okay. And thanks.”",
     "trx": "\"Ладно. И спасибо.”",
-    "val": "“Okay. And thanks.”"
+    "val": "“Хорошо. И спасибо.”"
   },
   {
     "key": "“Wait!” ",
     "trx": "“Подожди!” ",
-    "val": "“Wait!” "
+    "val": "“Постой!” "
   },
   {
     "key": "Again, Canaan stopped him.",
     "trx": "И снова Ханаан остановил его.",
-    "val": "Again, Canaan stopped him."
+    "val": "И снова Ханаан остановила его."
   },
   {
     "key": "“What is it?”",
     "trx": "\"что это?\"",
-    "val": "“What is it?”"
+    "val": "“В чем дело?”"
   },
   {
     "key": "“I’ve been wondering something...” ",
     "trx": "“Я тут подумал кое о чем...” ",
-    "val": "“I’ve been wondering something...” "
+    "val": "“Я тут подумала кое о чем...” "
   },
   {
     "key": "“Yeah?”",
     "trx": "«да?»",
-    "val": "“Yeah?”"
+    "val": "“Да?”"
   },
   {
     "key": "“About your ",
     "trx": "“О твоем ",
-    "val": "“About your "
+    "val": "“О твоей "
   },
   {
     "key": "shirt",
     "trx": "рубашка",
-    "val": "shirt"
+    "val": "рубашке"
   },
   {
     "key": "...",
     "trx": "...",
-    "val": "..."
+    "val": "... "
   },
   {
     "key": "no, ",
     "trx": "нет, ",
-    "val": "no, "
+    "val": "ладно, "
   },
   {
     "key": "it doesn’t matter. Go.”",
     "trx": "это не имеет значения. Иди.”",
-    "val": "it doesn’t matter. Go.”"
+    "val": "не важно. Иди.”"
   },
   {
     "key": "“Okay...” ",
     "trx": "\"Ладно...” ",
-    "val": "“Okay...” "
+    "val": "“Хорошо...” "
   },
   {
     "key": "With Hitomi in his arms, Achi hurried from the scene.",
     "trx": "Держа Хитоми на руках, Ачи поспешил с места происшествия.",
-    "val": "With Hitomi in his arms, Achi hurried from the scene."
+    "val": "Держа Хитоми на руках, Ачи поспешил с места происшествия."
   },
   {
     "key": "He wasn’t sure where he was heading.",
     "trx": "Он не был уверен, куда направляется.",
-    "val": "He wasn’t sure where he was heading."
+    "val": "Он не был уверен, куда направляется."
   },
   {
     "key": "He just wanted to get away, wherever that meant.",
     "trx": "Он просто хотел убежать, что бы это ни значило.",
-    "val": "He just wanted to get away, wherever that meant."
+    "val": "Он просто хотел убежать, что бы это ни значило."
   },
   {
     "key": "He carried her past the crowd of onlookers that had swiftly begun to assemble.",
     "trx": "Он пронес ее мимо толпы зевак, которая быстро начала собираться.",
-    "val": "He carried her past the crowd of onlookers that had swiftly begun to assemble."
+    "val": "Он пронес ее мимо толпы зевак, которая начала быстро собираться."
   },
   {
     "key": "The flames of the burning van rose ever higher, ",
     "trx": "Пламя горящего фургона поднималось все выше, ",
-    "val": "The flames of the burning van rose ever higher, "
+    "val": "Пламя горящего фургона поднималось все выше, "
   },
   {
     "key": "roaring up toward the heavens.",
     "trx": "ревущий к небесам.",
-    "val": "roaring up toward the heavens."
+    "val": "возносясь к небесам."
   }
 ]
