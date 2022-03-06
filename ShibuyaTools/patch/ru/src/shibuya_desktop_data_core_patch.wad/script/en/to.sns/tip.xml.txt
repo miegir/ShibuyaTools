@@ -2407,52 +2407,52 @@
   {
     "key": "Defamation of character",
     "trx": "Дискредитация личности",
-    "val": "Defamation of character"
+    "val": "Дискредитация личности"
   },
   {
     "key": "In the civil sense, the act of unlawfully damaging another person’s character or reputation in the public eye; in the criminal sense, the act of disseminating damaging facts about an individual to an unspecified large number of people.",
     "trx": "В гражданском смысле - акт незаконного нанесения ущерба характеру или репутации другого лица в глазах общественности; в уголовном смысле - акт распространения порочащих фактов о человеке среди неопределенного большого числа людей.",
-    "val": "In the civil sense, the act of unlawfully damaging another person’s character or reputation in the public eye; in the criminal sense, the act of disseminating damaging facts about an individual to an unspecified large number of people."
+    "val": "В гражданском смысле — акт незаконного нанесения ущерба чести или репутации другого лица в глазах общественности; в уголовном смысле — акт распространения порочащих фактов о человеке среди неограниченного круга лиц."
   },
   {
     "key": "Selling lost property",
     "trx": "Продажа утраченного имущества",
-    "val": "Selling lost property"
+    "val": "Продажа утраченного имущества"
   },
   {
     "key": "A potential violation of Article 254 of the Penal Code of Japan regarding Embezzlement of Lost Property, which states: “A person, who embezzles lost property, drift property or any other property which belongs to another person and is in no one’s possession shall be punished by imprisonment with work for not more than 1 year, a fine of not more than 100,000 yen or a petty fine.”",
     "trx": "Потенциальное нарушение статьи 254 Уголовного кодекса Японии, касающейся хищения утерянного имущества, в которой говорится: “Лицо, которое присваивает утерянное имущество, чужое имущество или любое другое имущество, принадлежащее другому лицу и не находящееся в чьем-либо владении, наказывается лишением свободы с работой на срок не более 1 года, штрафом в размере не более 100 000 иен или мелким штрафом”.",
-    "val": "A potential violation of Article 254 of the Penal Code of Japan regarding Embezzlement of Lost Property, which states: “A person, who embezzles lost property, drift property or any other property which belongs to another person and is in no one’s possession shall be punished by imprisonment with work for not more than 1 year, a fine of not more than 100,000 yen or a petty fine.”"
+    "val": "Потенциальное нарушение статьи 254 Уголовного кодекса Японии, касающейся присвоения утерянного имущества, в которой говорится: “Лицо, которое присваивает утерянное имущество, утраченное имущество или любое другое имущество, не находящееся в чьем-либо владении, наказывается лишением свободы с общественными работами на срок не более 1 года, штрафом в размере не более 100 000 иен или мелким штрафом.”"
   },
   {
     "key": "Tenryu-gumi",
     "trx": "Тенрю-гуми",
-    "val": "Tenryu-gumi"
+    "val": "Тэнрю-гуми"
   },
   {
     "key": "An up-and-coming yakuza syndicate that turned up on the scene ten years ago. With the seemingly legitimate “Takarada Financing” as its business front, the group offers monetary solutions for people in financial trouble—but those who accept their offers soon find that their troubles only grow and grow. Embroiled in conflict with the Kanto-Shiramine-gumi, who have been long established in Shibuya.",
     "trx": "Многообещающий синдикат якудза, появившийся на сцене десять лет назад. Используя, казалось бы, законное “Финансирование Такарада” в качестве своего бизнес—направления, группа предлагает денежные решения для людей, испытывающих финансовые трудности, но те, кто принимает их предложения, вскоре обнаруживают, что их проблемы только растут и растут. Втянут в конфликт с канто-Сираминэ-гуми, которые давно обосновались в Сибуе.",
-    "val": "An up-and-coming yakuza syndicate that turned up on the scene ten years ago. With the seemingly legitimate “Takarada Financing” as its business front, the group offers monetary solutions for people in financial trouble—but those who accept their offers soon find that their troubles only grow and grow. Embroiled in conflict with the Kanto-Shiramine-gumi, who have been long established in Shibuya."
+    "val": "Перспективный синдикат якудзы, появившийся десять лет назад. Используя внешне законную кредитную фирму “Takarada Financing” в качестве фасада, группа предлагает денежные решения для людей, испытывающих финансовые затруднения, но те, кто принимает их предложения, вскоре обнаруживают, что их затруднения только растут и растут. Втянут в конфликт с Канто-Сираминэ-гуми, который давно обосновался в Сибуе."
   },
   {
     "key": "Ankle hold",
     "trx": "Фиксация лодыжки",
-    "val": "Ankle hold"
+    "val": "Захват лодыжки"
   },
   {
     "key": "A professional wrestling technique that involves grabbing the opponent by the ankle. Being caught up like this can be extremely painful; it also puts a lot of pressure on the lower body—and if you’re already fighting the urge to urinate, well...",
     "trx": "Профессиональная техника борьбы, которая включает в себя захват противника за лодыжку. Быть пойманным подобным образом может быть чрезвычайно болезненно; это также оказывает сильное давление на нижнюю часть тела — и если вы уже боретесь с позывами к мочеиспусканию, что ж...",
-    "val": "A professional wrestling technique that involves grabbing the opponent by the ankle. Being caught up like this can be extremely painful; it also puts a lot of pressure on the lower body—and if you’re already fighting the urge to urinate, well..."
+    "val": "Профессиональная техника борьбы, которая включает в себя захват противника за лодыжку. Быть пойманным в этот захват может оказаться чрезвычайно болезненно; также он оказывает сильное давление на нижнюю часть тела — и если вы уже испытываете позывы к мочеиспусканию, что ж..."
   },
   {
     "key": "Deserve ten thousand deaths",
     "trx": "Заслуживаю десяти тысяч смертей",
-    "val": "Deserve ten thousand deaths"
+    "val": "Заслужить десяти тысяч смертей"
   },
   {
     "key": "Honestly, you’d think that dying once would be sufficient.",
     "trx": "Честно говоря, можно подумать, что одной смерти будет достаточно.",
-    "val": "Honestly, you’d think that dying once would be sufficient."
+    "val": "Честно говоря, одной смерти было бы достаточно."
   },
   {
     "key": "Nervous breakdown",
