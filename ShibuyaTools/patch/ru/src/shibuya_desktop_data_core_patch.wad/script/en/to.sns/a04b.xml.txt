@@ -642,7 +642,7 @@
   {
     "key": "Back when he’d run with Susumu and the others, he’d never left himself exposed to a surprise attack.",
     "trx": "Раньше, когда он бегал с Сусуму и остальными, он никогда не подвергал себя внезапному нападению.",
-    "val": "Раньше, когда он был с Сусуму и остальными, он никогда не позволял себе подвергнутся внезапному нападению."
+    "val": "Раньше, когда он был с Сусуму и остальными, он никогда не позволял себе подвергнуться внезапному нападению."
   },
   {
     "key": "There were plenty of times when he’d taken a punch that sent him reeling, only to spin away and come back swinging.",
@@ -927,7 +927,7 @@
   {
     "key": "Clutched in its mitt was a gun.",
     "trx": "В его рукавице был зажат пистолет.",
-    "val": "В ее рукавице был зажат пистолет."
+    "val": "В ее руке был зажат револьвер."
   },
   {
     "key": "Achi and Hitomi had nowhere to run, ",

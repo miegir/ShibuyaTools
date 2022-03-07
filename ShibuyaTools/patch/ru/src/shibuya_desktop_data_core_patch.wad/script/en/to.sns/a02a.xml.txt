@@ -2,7 +2,7 @@
   {
     "key": "The man with the cane aimed his gun at Hitomi, his face devoid of emotion.",
     "trx": "Человек с тростью направил пистолет на Хитоми, его лицо было лишено эмоций.",
-    "val": "Человек с тростью направил пистолет на Хитоми, его лицо было лишено всяких эмоций."
+    "val": "Человек с тростью направил револьвер на Хитоми, его лицо было лишено всяких эмоций."
   },
   {
     "key": "“Please,” the girl said, trembling. ",
@@ -157,7 +157,7 @@
   {
     "key": "...lunged forward in an attempt to wrest the gun away.",
     "trx": "...бросился вперед в попытке вырвать пистолет.",
-    "val": "...бросился вперед, пытаясь вырвать пистолет."
+    "val": "...бросился вперед, пытаясь вырвать револьвер."
   },
   {
     "key": "...snatched up the beer bottle and swung it at the assassin.",

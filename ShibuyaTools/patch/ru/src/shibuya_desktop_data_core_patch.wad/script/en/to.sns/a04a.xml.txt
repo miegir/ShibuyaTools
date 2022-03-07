@@ -2847,7 +2847,7 @@
   {
     "key": "Gun drawn, the assassin prowled slowly around the storeroom.",
     "trx": "Вытащив пистолет, убийца медленно обошел склад.",
-    "val": "Вытащив пистолет, убийца медленно обошел склад."
+    "val": "Вытащив револьвер, убийца медленно обошел склад."
   },
   {
     "key": "Achi and Hitomi crouched behind the plywood prop, trying not to make a sound.",
@@ -2952,7 +2952,7 @@
   {
     "key": "If they turned back, Achi knew, the man with the cane might catch up with them—and he had a gun.",
     "trx": "Ачи знал, что если они повернут назад, человек с тростью может догнать их — и у него был пистолет.",
-    "val": "Ачи знал, что если они повернут назад, человек с тростью может догнать их — и у него был пистолет."
+    "val": "Ачи знал, что если они повернут назад, человек с тростью может догнать их — и у него был револьвер."
   },
   {
     "key": "Achi slipped off his sleeveless jacket and wrapped it around his left arm.",

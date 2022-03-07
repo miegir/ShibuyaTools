@@ -4767,42 +4767,42 @@
   {
     "key": "No-risk, high-return",
     "trx": "Отсутствие риска, высокая доходность",
-    "val": "No-risk, high-return"
+    "val": "Отсутствие риска, высокая доходность"
   },
   {
     "key": "In the world of equity investment, a wise investor weighs risk against the potential for return. Many heavily risky projects, however, yield little in the way of actual returns (such cases are called high-risk, low-return). The inverse—low-risk, high-return—is quite rare; the idea of ",
     "trx": "В мире инвестиций в акционерный капитал мудрый инвестор сопоставляет риск с потенциальной прибылью. Однако многие проекты с высоким уровнем риска практически не приносят реальной прибыли (такие случаи называются высокорискованными и малодоходными). Обратная ситуация — низкий риск, высокая доходность — встречается довольно редко; идея ",
-    "val": "In the world of equity investment, a wise investor weighs risk against the potential for return. Many heavily risky projects, however, yield little in the way of actual returns (such cases are called high-risk, low-return). The inverse—low-risk, high-return—is quite rare; the idea of "
+    "val": "В мире инвестиций в акционерный капитал мудрый инвестор сопоставляет риск с потенциальной прибылью. Однако многие проекты с высоким уровнем риска практически не приносят реальной прибыли (такие случаи называются высокорискованными и малодоходными). Обратная ситуация — низкий риск, высокая доходность — встречается довольно редко; мысль об "
   },
   {
     "key": "no",
     "trx": "нет",
-    "val": "no"
+    "val": "отсутствии"
   },
   {
     "key": "-risk, high-return is simply absurd.",
     "trx": "- риск, высокая доходность - это просто абсурд.",
-    "val": "-risk, high-return is simply absurd."
+    "val": " риска и высокой доходности — это просто абсурд."
   },
   {
     "key": "Adios",
     "trx": "Прощайте",
-    "val": "Adios"
+    "val": "Адьос"
   },
   {
     "key": "Spanish for “goodbye.”",
     "trx": "По-испански это означает “прощай”.",
-    "val": "Spanish for “goodbye.”"
+    "val": "“Пока” по-испански."
   },
   {
     "key": "The true meaning is closer to the English “farewell.” In day-to-day interactions, most Spanish speakers use the word ",
     "trx": "Истинное значение ближе к английскому “прощай”. В повседневном общении большинство носителей испанского языка используют это слово ",
-    "val": "The true meaning is closer to the English “farewell.” In day-to-day interactions, most Spanish speakers use the word "
+    "val": "Истинное значение ближе к русскому слову “прощай.” В повседневном общении большинство носителей испанского языка используют слово "
   },
   {
     "key": "ciao",
     "trx": "чао",
-    "val": "ciao"
+    "val": "чао"
   },
   {
     "key": ". ",
@@ -4812,27 +4812,27 @@
   {
     "key": "“Adios”",
     "trx": "“Прощай”",
-    "val": "“Adios”"
+    "val": "“Адьос”"
   },
   {
     "key": " can carry the connotation that you do not expect to see the addressee again.",
     "trx": " может нести в себе оттенок того, что вы не ожидаете снова увидеть адресата.",
-    "val": " can carry the connotation that you do not expect to see the addressee again."
+    "val": " может нести в себе оттенок того, что вы не ожидаете увидеть адресата снова."
   },
   {
     "key": "Poems",
     "trx": "Стихи",
-    "val": "Poems"
+    "val": "Стихи"
   },
   {
     "key": "Copies of a prose poem titled ",
     "trx": "Копии стихотворения в прозе под названием ",
-    "val": "Copies of a prose poem titled "
+    "val": "Копии стихотворения в прозе под названием "
   },
   {
     "key": "The False Monsoon",
     "trx": "Ложный муссон",
-    "val": "The False Monsoon"
+    "val": "Ложный муссон"
   },
   {
     "key": ".",
@@ -4842,12 +4842,12 @@
   {
     "key": "The poem delicately details the wavering emotions of an adolescent girl. Also, in a clever twist, if the text is read horizontally instead of vertically, it tells about a father’s worries over his only daughter, who is now of marriageable age.",
     "trx": "В стихотворении деликатно описываются колеблющиеся эмоции девочки-подростка. Кроме того, в хитроумном повороте, если текст читается горизонтально, а не вертикально, он рассказывает о тревогах отца за свою единственную дочь, которая сейчас достигла брачного возраста.",
-    "val": "The poem delicately details the wavering emotions of an adolescent girl. Also, in a clever twist, if the text is read horizontally instead of vertically, it tells about a father’s worries over his only daughter, who is now of marriageable age."
+    "val": "В стихотворении деликатно описываются эмоции и колебания девочки-подростка. Кроме того, в качестве хитроумной находки, если читать текст горизонтально, а не вертикально, он рассказывает о тревогах отца за свою единственную дочь, которая сейчас достигла брачного возраста."
   },
   {
     "key": "Hana’s genius will soon be discovered by Aya Kamiki, and she will go on to become a popular songwriter.",
     "trx": "Гений Ханы скоро откроется Айе Камики, и она станет популярным автором песен.",
-    "val": "Hana’s genius will soon be discovered by Aya Kamiki, and she will go on to become a popular songwriter."
+    "val": "Айя Камики скоро раскроет талант Ханы, и она станет популярным автором песен."
   },
   {
     "key": "Part-time job",
@@ -4857,82 +4857,82 @@
   {
     "key": "Japan’s Labor Standards Act prohibits the hiring of children under the age of 15. For certain jobs within the entertainment industry, however, employers can obtain permission from the Labor Standards Inspection Office for younger children to work.",
     "trx": "Закон о трудовых стандартах Японии запрещает прием на работу детей в возрасте до 15 лет. Однако для определенных рабочих мест в индустрии развлечений работодатели могут получить разрешение от Инспекции трудовых норм на работу детей младшего возраста.",
-    "val": "Japan’s Labor Standards Act prohibits the hiring of children under the age of 15. For certain jobs within the entertainment industry, however, employers can obtain permission from the Labor Standards Inspection Office for younger children to work."
+    "val": "Закон о трудовых стандартах Японии запрещает прием на работу детей в возрасте до 15 лет. Однако для определенных рабочих мест в индустрии развлечений работодатели могут получить разрешение от Инспекции трудовых норм на работу детей младшего возраста."
   },
   {
     "key": "Identity",
     "trx": "Идентичность",
-    "val": "Identity"
+    "val": "Идентичность"
   },
   {
     "key": "Developmental psychologist Erik Homberger Erikson was a key proponent of the concept of ",
     "trx": "Психолог по развитию Эрик Хомбергер Эриксон был ключевым сторонником концепции ",
-    "val": "Developmental psychologist Erik Homberger Erikson was a key proponent of the concept of "
+    "val": "Психолог по развитию Эрик Хомбургер Эриксон был ключевым сторонником концепции "
   },
   {
     "key": "self-identity",
     "trx": "самоидентификация",
-    "val": "self-identity"
+    "val": "самоидентификации"
   },
   {
     "key": "—the ability of individuals to continually and reliably know who they are and what they should do.",
     "trx": "— способность отдельных людей постоянно и достоверно знать, кто они такие и что им следует делать.",
-    "val": "—the ability of individuals to continually and reliably know who they are and what they should do."
+    "val": " — способности отдельных людей постоянно и достоверно знать, кто они такие и что им следует делать."
   },
   {
     "key": "Scene of the explosion",
     "trx": "Место взрыва",
-    "val": "Scene of the explosion"
+    "val": "Место взрыва"
   },
   {
     "key": "The explosion happened in Shibuya-ku, Jinnan 1-chome, near the intersection of Koen-Dori and Organ Hill.",
     "trx": "Взрыв произошел в Сибуя-ку, Цзиннань 1-чоме, недалеко от пересечения улиц Коэн-Дори и Орган-Хилл.",
-    "val": "The explosion happened in Shibuya-ku, Jinnan 1-chome, near the intersection of Koen-Dori and Organ Hill."
+    "val": "Взрыв произошел в Сибуя-ку, Джиннан 1-тёмэ, недалеко от пересечения улиц Коэн-Дори и Орган-Хилл."
   },
   {
     "key": "Scene of the explosion",
     "trx": "Место взрыва",
-    "val": "Scene of the explosion"
+    "val": "Место взрыва"
   },
   {
     "key": "The explosion happened in Shibuya-ku, Jinnan 1-chome, near the intersection of Koen-Dori and Organ Hill.",
     "trx": "Взрыв произошел в Сибуя-ку, Цзиннань 1-чоме, недалеко от пересечения улиц Коэн-Дори и Орган-Хилл.",
-    "val": "The explosion happened in Shibuya-ku, Jinnan 1-chome, near the intersection of Koen-Dori and Organ Hill."
+    "val": "Взрыв произошел в Сибуя-ку, Джиннан 1-тёмэ, недалеко от пересечения улиц Коэн-Дори и Орган-Хилл."
   },
   {
     "key": "A number of curious onlookers have flocked to the scene, but it turns out there are some “",
     "trx": "На место происшествия собралось множество любопытных зрителей, но, оказывается, есть некоторые “",
-    "val": "A number of curious onlookers have flocked to the scene, but it turns out there are some “"
+    "val": "На месте происшествия собралось множество зевак, но, оказывается, там были и “"
   },
   {
     "key": "other individuals",
     "trx": "другие лица",
-    "val": "other individuals"
+    "val": "некоторые другие"
   },
   {
     "key": "” there as well.",
     "trx": "”там тоже.",
-    "val": "” there as well."
+    "val": ".”"
   },
   {
     "key": "Self-defense",
     "trx": "Самозащита",
-    "val": "Self-defense"
+    "val": "Самооборона"
   },
   {
     "key": "Techniques for protecting oneself when attacked. Rather than defeating the opponent, self-defense training generally prioritizes simply getting oneself away from danger. Some people consider behavioral tenets such as “run away when you’re attacked” or “don’t go near dangerous places” to be forms of self-defense as well.",
     "trx": "Техники защиты при нападении. Вместо того, чтобы победить противника, обучение самообороне обычно ставит во главу угла простое избавление от опасности. Некоторые люди также считают такие поведенческие принципы, как “убегай, когда на тебя нападают” или “не приближайся к опасным местам”, формами самообороны.",
-    "val": "Techniques for protecting oneself when attacked. Rather than defeating the opponent, self-defense training generally prioritizes simply getting oneself away from danger. Some people consider behavioral tenets such as “run away when you’re attacked” or “don’t go near dangerous places” to be forms of self-defense as well."
+    "val": "Техника защиты при нападении. Вместо того, чтобы победить противника, самооборона обычно ставит во главу угла просто избавление от опасности. Некоторые люди также считают такие поведенческие принципы, как “убегай, когда на тебя нападают” или “не приближайся к опасным местам”, формами самообороны."
   },
   {
     "key": "Terrorist",
     "trx": "Террорист",
-    "val": "Terrorist"
+    "val": "Террорист"
   },
   {
     "key": "One who uses fear and violence to attain political objectives. The term has its origins in the “Reign of Terror” in 18th Century France, known in French as “la Terreur.”",
     "trx": "Тот, кто использует страх и насилие для достижения политических целей. Этот термин берет свое начало во времена “Правления террора” во Франции 18 века, известного по-французски как “la Terreur\".",
-    "val": "One who uses fear and violence to attain political objectives. The term has its origins in the “Reign of Terror” in 18th Century France, known in French as “la Terreur.”"
+    "val": "Человек, использующий страх и насилие для достижения политических целей. Этот термин берет свое начало во времена “Эпохи террора” во Франции 18 века, называемые по-французски “la Terreur.”"
   },
   {
     "key": "Righteousness",
@@ -5582,7 +5582,7 @@
   {
     "key": "Roughly one hour earlier, Ai Osawa slipped out of the house and went to the café Lautrec down near the train station, where she ordered a sandwich and some black tea.",
     "trx": "Примерно часом ранее Ай Осава выскользнула из дома и отправилась в кафе \"Лотрек\" недалеко от железнодорожного вокзала, где заказала сэндвич и немного черного чая.",
-    "val": "Примерно часом ранее Ай Осава сбежала из дома и отправилась в кафе Лотрек недалеко от железнодорожного вокзала, где заказала сэндвич и немного черного чая."
+    "val": "Примерно часом ранее Ай Осава сбежала из дома и отправилась в кафе Лотрек недалеко от железнодорожной станции, где заказала сэндвич и немного черного чая."
   },
   {
     "key": "Apron",
