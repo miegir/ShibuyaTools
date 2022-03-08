@@ -5772,27 +5772,27 @@
   {
     "key": "Kaming",
     "trx": "Каминг-аут",
-    "val": "Kaming"
+    "val": "Каминг"
   },
   {
     "key": "Requires a 1000-yen initiation fee and yearly dues of 3000 yen. Membership grants several perks, including the opportunity to reserve concert tickets in advance of the general public. Osawa is fond of the members-only website content, which includes Aya Kamiki’s blog and exclusive videos.",
     "trx": "Требуется вступительный взнос в размере 1000 иен и ежегодные взносы в размере 3000 иен. Членство предоставляет несколько льгот, в том числе возможность заранее забронировать билеты на концерты для широкой публики. Осава любит контент сайта только для подписчиков, который включает блог Айи Камики и эксклюзивные видео.",
-    "val": "Requires a 1000-yen initiation fee and yearly dues of 3000 yen. Membership grants several perks, including the opportunity to reserve concert tickets in advance of the general public. Osawa is fond of the members-only website content, which includes Aya Kamiki’s blog and exclusive videos."
+    "val": "Требуется вступительный взнос в размере 1000 иен и ежегодные взносы в размере 3000 иен. Членство предоставляет некоторые льготы, в том числе возможность заранее забронировать билеты на концерты для широкой публики. Осава любит раздел сайта только для подписчиков, который включает блог Айи Камики и эксклюзивные видео."
   },
   {
     "key": "Mozart",
     "trx": "Моцарт",
-    "val": "Mozart"
+    "val": "Моцарт"
   },
   {
     "key": "Wolfgang Amadeus Mozart (1756-1791). Austrian-born music prodigy and Classical composer. Famous works include ",
     "trx": "Вольфганг Амадей Моцарт (1756-1791). Музыкальный вундеркинд австрийского происхождения и композитор-классик. Известные работы включают ",
-    "val": "Wolfgang Amadeus Mozart (1756-1791). Austrian-born music prodigy and Classical composer. Famous works include "
+    "val": "Вольфганг Амадей Моцарт (1756–1791). Музыкальный вундеркинд австрийского происхождения и композитор-классик. Среди его известных работ: "
   },
   {
     "key": "The Marriage of Figaro",
     "trx": "Женитьба Фигаро",
-    "val": "The Marriage of Figaro"
+    "val": "Свадьба Фигаро"
   },
   {
     "key": ", ",
@@ -5802,67 +5802,67 @@
   {
     "key": "The Magic Flute",
     "trx": "Волшебная флейта",
-    "val": "The Magic Flute"
+    "val": "Волшебная флейта"
   },
   {
     "key": ", and Symphony No. 41, known as the ",
     "trx": ", и симфония № 41, известная как ",
-    "val": ", and Symphony No. 41, known as the "
+    "val": " и симфония № 41, известная под названием "
   },
   {
     "key": "Jupiter",
     "trx": "Юпитер",
-    "val": "Jupiter"
+    "val": "Юпитер"
   },
   {
     "key": " Symphony. ",
     "trx": " Симфония. ",
-    "val": " Symphony. "
+    "val": ". "
   },
   {
     "key": "Chopin",
     "trx": "Шопен",
-    "val": "Chopin"
+    "val": "Шопен"
   },
   {
     "key": "Frédéric François Chopin (1810-1849). Composer and pianist of the early Romantic era. Famed as a national musician of Poland. Left behind numerous solo piano works. Famous works include his Nocturne, Op. 9, No. 2, and his Piano Sonata No. 2.",
     "trx": "Фредерик Франсуа Шопен (1810-1849). Композитор и пианист эпохи раннего романтизма. Прославился как национальный музыкант Польши. Оставил после себя множество сольных фортепианных произведений. Известные произведения включают его Ноктюрн, соч. 9, № 2 и сонату для фортепиано № 2.",
-    "val": "Frédéric François Chopin (1810-1849). Composer and pianist of the early Romantic era. Famed as a national musician of Poland. Left behind numerous solo piano works. Famous works include his Nocturne, Op. 9, No. 2, and his Piano Sonata No. 2."
+    "val": "Фредерик Франсуа Шопен (1810–1849). Композитор и пианист эпохи раннего романтизма. Прославился как национальный музыкант Польши. Оставил после себя множество сольных фортепианных произведений. Известные произведения включают его Ноктюрн, соч. 9, № 2 и сонату для фортепиано № 2."
   },
   {
     "key": "Erudition",
     "trx": "Эрудиция",
-    "val": "Erudition"
+    "val": "Эрудиция"
   },
   {
     "key": "Accumulated knowledge; the term often connotes an advanced and/or esoteric understanding. Displaying a moderate amount can impress others, but pompously flaunting it is bound to put them off.",
     "trx": "Накопленные знания; этот термин часто означает продвинутое и/или эзотерическое понимание. Демонстрация умеренного количества может произвести впечатление на других, но помпезное выставление его напоказ обязательно отпугнет их.",
-    "val": "Accumulated knowledge; the term often connotes an advanced and/or esoteric understanding. Displaying a moderate amount can impress others, but pompously flaunting it is bound to put them off."
+    "val": "Накопленные знания; этот термин часто означает углубленное и/или эзотерическое понимание. Демонстрация умеренного количества знаний может произвести впечатление на других, но помпезное выставление их напоказ наверняка отпугнет аудиторию."
   },
   {
     "key": "Headquarters",
     "trx": "Штаб-квартира",
-    "val": "Headquarters"
+    "val": "Штаб-квартира"
   },
   {
     "key": "Right now, the task force is in an uproar after a change in direction from the higher-ups.",
     "trx": "Прямо сейчас целевая группа находится в смятении после смены руководства.",
-    "val": "Right now, the task force is in an uproar after a change in direction from the higher-ups."
+    "val": "Прямо сейчас оперативная группа находится в волнении после смены указаний от руководства."
   },
   {
     "key": "The ",
     "trx": "То ",
-    "val": "The "
+    "val": ""
   },
   {
     "key": "detectives",
     "trx": "детективы",
-    "val": "detectives"
+    "val": "Детективам"
   },
   {
     "key": " who were on the scene have been ordered to discontinue the kidnapping investigation.",
     "trx": " тем, кто был на месте происшествия, было приказано прекратить расследование похищения.",
-    "val": " who were on the scene have been ordered to discontinue the kidnapping investigation."
+    "val": ", находящимся на месте происшествия, было приказано прекратить расследование похищения."
   },
   {
     "key": "Went missing",

@@ -31,6 +31,7 @@
     <Expression Match="\b[Оо]о*х\b" />
     <Expression Match="\b[Сс]айд маунт\b" />
     <Expression Match="\b[Уу]у+х\b" />
+    <Expression Match="\b[Фф]ан-клуб\b" />
     <Expression Match="\b[Хх]а(ха)+\b" />
     <Expression Match="\b[Хх]е(хе)+\b" />
     <Expression Match="\b[Чч]тоо+!" />
@@ -49,6 +50,7 @@
     <Expression Match="\bду ю спик\b" />
     <Expression Match="\bЕе+сть!" Options="IgnoreCase" />
     <Expression Match="\bКа+к?" Options="IgnoreCase" />
+    <Expression Match="\bКанто-Сираминэ-гуми\b" />
     <Expression Match="\bлже-Альфард" />
     <Expression Match="\bМии-тян\b" />
     <Expression Match="\bМм+." />
@@ -74,7 +76,7 @@
     <Expression Match="“Semper Fidelis,”" />
     <Expression Match="“Гррах!”" />
     <Expression Match="“покси\b" />
-    <Expression Match="\bКанто-Сираминэ-гуми\b" />
+    <Expression Match="\b[Нн]ее+т!" />
   </ExclusionExpressions>
   <SpellCheckAsYouType>True</SpellCheckAsYouType>
   <IncludeInProjectSpellCheck>True</IncludeInProjectSpellCheck>

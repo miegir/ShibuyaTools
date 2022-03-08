@@ -2,376 +2,376 @@
   {
     "key": "“Darling?” ",
     "trx": "“Дорогая?” ",
-    "val": "“Darling?” "
+    "val": "“Дорогой?” "
   },
   {
     "key": "Ai opened the door and stepped into the room. ",
     "trx": "Ай открыла дверь и вошла в комнату. ",
-    "val": "Ai opened the door and stepped into the room. "
+    "val": "Ай открыла дверь и вошла в комнату. "
   },
   {
     "key": "“The detectives are asking for you. ",
     "trx": "“Детективы спрашивают вас. ",
-    "val": "“The detectives are asking for you. "
+    "val": "“Детективы вызывают тебя. "
   },
   {
     "key": "It seems there’s been a development.”",
     "trx": "Похоже, что-то произошло.”",
-    "val": "It seems there’s been a development.”"
+    "val": "Похоже, что-то произошло.”"
   },
   {
     "key": "“We’ll be right there.”",
     "trx": "“Мы сейчас будем там”.",
-    "val": "“We’ll be right there.”"
+    "val": "“Мы сейчас будем там.”"
   },
   {
     "key": "Osawa and Kajiwara hurried out of the room.",
     "trx": "Осава и Кадзивара поспешили из комнаты.",
-    "val": "Osawa and Kajiwara hurried out of the room."
+    "val": "Осава и Кадзивара поспешили из комнаты."
   },
   {
     "key": "Before the news was shared with the Osawas, the members of the investigation team quietly briefed Detective Kajiwara.",
     "trx": "Прежде чем поделиться этой новостью с Осавами, члены следственной группы тихо проинформировали детектива Кадзивару.",
-    "val": "Before the news was shared with the Osawas, the members of the investigation team quietly briefed Detective Kajiwara."
+    "val": "Прежде чем поделиться этой новостью с семьей Осава, члены следственной группы тихо проинформировали детектива Кадзивару."
   },
   {
     "key": "Osawa and Ai sat on the sofa on the far side of the room, watching.",
     "trx": "Осава и Ай сидели на диване в дальнем конце комнаты и наблюдали.",
-    "val": "Osawa and Ai sat on the sofa on the far side of the room, watching."
+    "val": "Осава и Ай сидели на диване в дальнем конце комнаты и наблюдали."
   },
   {
     "key": "They could see Kajiwara go pale; ",
     "trx": "Они могли видеть, как Кадзивара побледнел; ",
-    "val": "They could see Kajiwara go pale; "
+    "val": "Они могли видеть, как Кадзивара побледнел; "
   },
   {
     "key": "he wiped the sweat from his forehead with a handkerchief several times.",
     "trx": "он несколько раз вытер пот со лба носовым платком.",
-    "val": "he wiped the sweat from his forehead with a handkerchief several times."
+    "val": "он несколько раз вытер пот со лба носовым платком."
   },
   {
     "key": "Bad news,",
     "trx": "Плохие новости,",
-    "val": "Bad news,"
+    "val": "Плохие новости,"
   },
   {
     "key": " Osawa thought.",
     "trx": " Осава задумался.",
-    "val": " Osawa thought."
+    "val": " подумал Осава."
   },
   {
     "key": "“Mr. Osawa, ",
     "trx": "“Мистер Осава, ",
-    "val": "“Mr. Osawa, "
+    "val": "“Мистер Осава, "
   },
   {
     "key": "ma’am...” ",
     "trx": "мэм...” ",
-    "val": "ma’am...” "
+    "val": "мэм...” "
   },
   {
     "key": "Kajiwara shuffled his way over to them at last. ",
     "trx": "Наконец Кадзивара, шаркая, подошел к ним. ",
-    "val": "Kajiwara shuffled his way over to them at last. "
+    "val": "Кадзивара, шаркая, наконец подошел к ним. "
   },
   {
     "key": "“We’ve just gotten word from headquarters.”",
     "trx": "“Мы только что получили сообщение из штаба”.",
-    "val": "“We’ve just gotten word from headquarters.”"
+    "val": "“Мы только что получили сообщение из штаб-квартиры.”"
   },
   {
     "key": "He hesitated ominously.",
     "trx": "Он зловеще заколебался.",
-    "val": "He hesitated ominously."
+    "val": "Он зловеще заколебался."
   },
   {
     "key": "Osawa braced himself. ",
     "trx": "Осава собрался с духом. ",
-    "val": "Osawa braced himself. "
+    "val": "Осава собрался с духом. "
   },
   {
     "key": "“Please, let’s hear it.”",
     "trx": "“Пожалуйста, давайте послушаем это”.",
-    "val": "“Please, let’s hear it.”"
+    "val": "“Пожалуйста, рассказывайте.”"
   },
   {
     "key": "“First, about your daughter Hitomi.” ",
     "trx": "“Во-первых, о вашей дочери Хитоми\". ",
-    "val": "“First, about your daughter Hitomi.” "
+    "val": "“Во-первых, о вашей дочери Хитоми.” "
   },
   {
     "key": "Kajiwara’s expression was grim. ",
     "trx": "Выражение лица Кадзивары было мрачным. ",
-    "val": "Kajiwara’s expression was grim. "
+    "val": "Выражение лица Кадзивары было мрачным. "
   },
   {
     "key": "“The body of a young man named Achi Endo was discovered near Shibuya Station.”",
     "trx": "“Тело молодого человека по имени Ачи Эндо было обнаружено недалеко от станции Сибуя”.",
-    "val": "“The body of a young man named Achi Endo was discovered near Shibuya Station.”"
+    "val": "“Тело молодого человека по имени Ачи Эндо было обнаружено недалеко от станции Сибуя.”"
   },
   {
     "key": "The name meant nothing to Osawa.",
     "trx": "Это имя ничего не значило для Осавы.",
-    "val": "The name meant nothing to Osawa."
+    "val": "Это имя ничего не значило для Осавы."
   },
   {
     "key": "“In a building not too far from the scene, ",
     "trx": "“В здании не слишком далеко от места происшествия, ",
-    "val": "“In a building not too far from the scene, "
+    "val": "“В здании поблизости от места происшествия, "
   },
   {
     "key": "we...” ",
     "trx": "мы...” ",
-    "val": "we...” "
+    "val": "мы...” "
   },
   {
     "key": "The detective swallowed.",
     "trx": "Детектив сглотнул.",
-    "val": "The detective swallowed."
+    "val": "Детектив сглотнул."
   },
   {
     "key": "“Your daughter Hitomi",
     "trx": "“Ваша дочь Хитоми",
-    "val": "“Your daughter Hitomi"
+    "val": "“Ваша дочь Хитоми"
   },
   {
     "key": "was found dead.”",
     "trx": "был найден мертвым.”",
-    "val": "was found dead.”"
+    "val": "была найдена мертвой.”"
   },
   {
     "key": "The world began to shake.",
     "trx": "Мир начал сотрясаться.",
-    "val": "The world began to shake."
+    "val": "Мир начал дрожать."
   },
   {
     "key": "Osawa staggered, reeling with sudden, nauseating vertigo. ",
     "trx": "Осава пошатнулся, пошатнувшись от внезапного, тошнотворного головокружения. ",
-    "val": "Osawa staggered, reeling with sudden, nauseating vertigo. "
+    "val": "Осава пошатнулся от внезапного, тошнотворного головокружения. "
   },
   {
     "key": "“No...no, it’s not possible...” ",
     "trx": "“No...no , это невозможно...” ",
-    "val": "“No...no, it’s not possible...” "
+    "val": "“Нет... нет, это невозможно...” "
   },
   {
     "key": "“After that, your daughter Maria...” ",
     "trx": "“После этого ваша дочь Мария...” ",
-    "val": "“After that, your daughter Maria...” "
+    "val": "“После этого ваша дочь Мария...” "
   },
   {
     "key": "The words blurred together; he could no longer comprehend what he was hearing.",
     "trx": "Слова сливались воедино; он больше не мог понять, что слышит.",
-    "val": "The words blurred together; he could no longer comprehend what he was hearing."
+    "val": "Слова сливались воедино; он больше не мог понять то, что слышит."
   },
   {
     "key": "Everything was wobbling, shuddering, distorting.",
     "trx": "Все вокруг шаталось, содрогалось, искажалось.",
-    "val": "Everything was wobbling, shuddering, distorting."
+    "val": "Все вокруг шаталось, содрогалось, искажалось."
   },
   {
     "key": "Hitomi was dead?",
     "trx": "Хитоми была мертва?",
-    "val": "Hitomi was dead?"
+    "val": "Хитоми была мертва?"
   },
   {
     "key": "Hitomi...?",
     "trx": "Хитоми...?",
-    "val": "Hitomi...?"
+    "val": "Хитоми?.."
   },
   {
     "key": "At those words, Osawa’s whole world went dark, as if someone had just yanked the curtains closed.",
     "trx": "При этих словах весь мир Осавы погрузился во тьму, как будто кто-то только что задернул шторы.",
-    "val": "At those words, Osawa’s whole world went dark, as if someone had just yanked the curtains closed."
+    "val": "При этих словах весь мир Осавы погрузился во тьму, как будто кто-то только что задернул шторы."
   },
   {
     "key": "No. 50\u3000",
     "trx": "№ 50\u3000",
-    "val": "No. 50\u3000"
+    "val": "№ 50\u3000"
   },
   {
     "key": "Hitomi’s Death",
     "trx": "Смерть Хитоми",
-    "val": "Hitomi’s Death"
+    "val": "Смерть Хитоми"
   },
   {
     "key": "Hint",
     "trx": "Подсказка",
-    "val": "Hint"
+    "val": "Подсказка"
   },
   {
     "key": "Learning of Hitomi’s death plunged Osawa into a pit of despair. This was the dark end of a chain of events that began with a simple, small decision. Someone else merely decided to abide by a little promise. Because of that, not only did Achi and Hitomi meet with disaster, but Osawa lost his mind as well. Keeping a promise is a noble thing, for sure—but right now, saving Achi, Hitomi, and Osawa is more important.",
     "trx": "Известие о смерти Хитоми повергло Осаву в пучину отчаяния. Это был мрачный конец цепочки событий, которая началась с простого, небольшого решения. Кто-то другой просто решил выполнить небольшое обещание. Из-за этого не только Ачи и Хитоми столкнулись с катастрофой, но и Осава сошел с ума. Сдержать обещание — это, конечно, благородный поступок, но прямо сейчас спасение Ачи, Хитоми и Осавы важнее.",
-    "val": "Learning of Hitomi’s death plunged Osawa into a pit of despair. This was the dark end of a chain of events that began with a simple, small decision. Someone else merely decided to abide by a little promise. Because of that, not only did Achi and Hitomi meet with disaster, but Osawa lost his mind as well. Keeping a promise is a noble thing, for sure—but right now, saving Achi, Hitomi, and Osawa is more important."
+    "val": "Известие о смерти Хитоми повергло Осаву в пучину отчаяния. Это был мрачный финал цепочки событий, которая началась с простого, небольшого решения. Кто-то другой просто решил выполнить свое маленькое обещание. Из-за этого не только с Ачи и Хитоми случилось несчастье, но и Осава сошел с ума. Сдержать обещание — это, конечно, благородный поступок, но в этот момент спасение Ачи, Хитоми и Осавы важнее."
   },
   {
     "key": "“No, thank you.”",
     "trx": "“Нет, спасибо”.",
-    "val": "“No, thank you.”"
+    "val": "“Нет, спасибо.”"
   },
   {
     "key": "Right now, Osawa preferred silence to unfamiliar music.",
     "trx": "Прямо сейчас Осава предпочитал тишину незнакомой музыке.",
-    "val": "Right now, Osawa preferred silence to unfamiliar music."
+    "val": "Сейчас Осава предпочитал тишину незнакомой музыке."
   },
   {
     "key": "“I see. ",
     "trx": "“Я понимаю. ",
-    "val": "“I see. "
+    "val": "“Я понимаю. "
   },
   {
     "key": "How about something like this, then?”",
     "trx": "Тогда как насчет чего-нибудь вроде этого?”",
-    "val": "How about something like this, then?”"
+    "val": "Тогда как насчет чего-нибудь вроде этого?”"
   },
   {
     "key": "The detective pulled a digital music player out of his pocket. ",
     "trx": "Детектив вытащил из кармана цифровой музыкальный плеер. ",
-    "val": "The detective pulled a digital music player out of his pocket. "
+    "val": "Детектив вытащил из кармана цифровой музыкальный плеер. "
   },
   {
     "key": "“Here you go.”",
     "trx": "“Вот, держи”.",
-    "val": "“Here you go.”"
+    "val": "“Вот, держите.”"
   },
   {
     "key": "Dubiously, Osawa slipped the attached earbuds into his ears.",
     "trx": "С сомнением Осава вставил прикрепленные наушники в уши.",
-    "val": "Dubiously, Osawa slipped the attached earbuds into his ears."
+    "val": "С сомнением Осава вставил наушники себе в уши."
   },
   {
     "key": "He heard the gentle sound of surf.",
     "trx": "Он услышал тихий шум прибоя.",
-    "val": "He heard the gentle sound of surf."
+    "val": "Он услышал тихий шум прибоя."
   },
   {
     "key": "The simple rhythm of waves crashing and receding drew him in; he listened with unexpected pleasure.",
     "trx": "Простой ритм набегающих и отступающих волн привлек его; он слушал с неожиданным удовольствием.",
-    "val": "The simple rhythm of waves crashing and receding drew him in; he listened with unexpected pleasure."
+    "val": "Простой ритм набегающих и отступающих волн увлек его; он слушал с неожиданным удовольствием."
   },
   {
     "key": "Time went by, comfortably, as if he were standing alone on some remote beach.",
     "trx": "Время шло спокойно, как будто он стоял один на каком-то отдаленном пляже.",
-    "val": "Time went by, comfortably, as if he were standing alone on some remote beach."
+    "val": "Время шло спокойно, как будто он стоял один на каком-то далеком пляже."
   },
   {
     "key": "He took a deep breath, then expelled it through his nostrils.",
     "trx": "Он сделал глубокий вдох, затем выпустил его через ноздри.",
-    "val": "He took a deep breath, then expelled it through his nostrils."
+    "val": "Он глубоко вдохнул, затем выпустил воздух через ноздри."
   },
   {
     "key": "It felt as if the toxic gloom that had filled him was departing with the air.",
     "trx": "Ему казалось, что ядовитый мрак, наполнявший его, уходит вместе с воздухом.",
-    "val": "It felt as if the toxic gloom that had filled him was departing with the air."
+    "val": "Ему казалось, что ядовитый мрак, наполнявший его, уходит вместе с воздухом."
   },
   {
     "key": "Before he knew it, nearly ten minutes had passed.",
     "trx": "Прежде чем он осознал это, прошло почти десять минут.",
-    "val": "Before he knew it, nearly ten minutes had passed."
+    "val": "Прежде чем он осознал это, прошло почти десять минут."
   },
   {
     "key": "“What do you think?”",
     "trx": "“А ты что думаешь?”",
-    "val": "“What do you think?”"
+    "val": "“Что вы думаете?”"
   },
   {
     "key": "“It’s quite nice.”",
     "trx": "“Это довольно мило”.",
-    "val": "“It’s quite nice.”"
+    "val": "“Это довольно мило.”"
   },
   {
     "key": "“I listen to this a lot when I can’t sleep.”",
     "trx": "“Я часто слушаю это, когда не могу уснуть”.",
-    "val": "“I listen to this a lot when I can’t sleep.”"
+    "val": "“Я часто слушаю это, когда не могу уснуть.”"
   },
   {
     "key": "Even Kajiwara’s voice sounded somewhat soothing to Osawa now.",
     "trx": "Даже голос Кадзивары теперь звучал для Осавы несколько успокаивающе.",
-    "val": "Even Kajiwara’s voice sounded somewhat soothing to Osawa now."
+    "val": "Даже голос Кадзивары теперь звучал для Осавы несколько успокаивающе."
   },
   {
     "key": "“Thank you, detective. ",
     "trx": "“Спасибо, детектив. ",
-    "val": "“Thank you, detective. "
+    "val": "“Спасибо, детектив. "
   },
   {
     "key": "I’d forgotten what it was like to feel this way.” ",
     "trx": "Я уже забыл, каково это - чувствовать себя таким образом.” ",
-    "val": "I’d forgotten what it was like to feel this way.” "
+    "val": "Я уже забыл, каково это — чувствовать себя таким образом.” "
   },
   {
     "key": "He spoke he words unthinkingly, with unaccustomed frankness.",
     "trx": "Он произнес эти слова бездумно, с непривычной откровенностью.",
-    "val": "He spoke he words unthinkingly, with unaccustomed frankness."
+    "val": "Он произнес эти слова бездумно, с непривычной откровенностью."
   },
   {
     "key": "“I’m very happy to hear that, sir.”",
     "trx": "“Я очень рад это слышать, сэр”.",
-    "val": "“I’m very happy to hear that, sir.”"
+    "val": "“Я очень рад это слышать, сэр.”"
   },
   {
     "key": "Osawa gazed at one of the postcards as he gave his body over to the sound of the roaring sea.",
     "trx": "Осава пристально посмотрел на одну из открыток, отдавая свое тело звукам ревущего моря.",
-    "val": "Osawa gazed at one of the postcards as he gave his body over to the sound of the roaring sea."
+    "val": "Осава пристально посмотрел на одну из открыток, продолжая погружаться в звуки ревущего моря."
   },
   {
     "key": "Aya was scooping up handfuls of mystical blue sand.",
     "trx": "Айя набирала пригоршни мистического голубого песка.",
-    "val": "Aya was scooping up handfuls of mystical blue sand."
+    "val": "Айя набирала пригоршни мистического голубого песка."
   },
   {
     "key": "The grains dripped down from her fingertips.",
     "trx": "Крупинки стекали с кончиков ее пальцев.",
-    "val": "The grains dripped down from her fingertips."
+    "val": "Крупинки сыпались с кончиков ее пальцев."
   },
   {
     "key": "“I feel like I could be in this photo here,” Osawa muttered. ",
     "trx": "“Я чувствую, что мог бы быть здесь на этой фотографии”, - пробормотал Осава. ",
-    "val": "“I feel like I could be in this photo here,” Osawa muttered. "
+    "val": "“Я чувствую, что мог бы сам быть на этой фотографии,” пробормотал Осава. "
   },
   {
     "key": "“Like I’ve lived my life letting so many things slip through my fingers.”",
     "trx": "“Как будто я прожил свою жизнь, позволяя стольким вещам ускользать у меня из рук”.",
-    "val": "“Like I’ve lived my life letting so many things slip through my fingers.”"
+    "val": "“Я прожил свою жизнь таким же образом, позволяя стольким вещам ускользать у меня из рук.”"
   },
   {
     "key": "“Oh—all right, I guess I’ll take it.”",
     "trx": "“О... хорошо, я думаю, я возьму это”.",
-    "val": "“Oh—all right, I guess I’ll take it.”"
+    "val": "“О, хорошо, я его возьму.”"
   },
   {
     "key": "Osawa spoke irritably; then his expression softened a little.",
     "trx": "Осава говорил раздраженно, затем выражение его лица немного смягчилось.",
-    "val": "Osawa spoke irritably; then his expression softened a little."
+    "val": "Осава говорил раздраженно, затем выражение его лица немного смягчилось."
   },
   {
     "key": "“You know, you’ve been getting on my nerves all day.”",
     "trx": "“Знаешь, ты весь день действовал мне на нервы”.",
-    "val": "“You know, you’ve been getting on my nerves all day.”"
+    "val": "“Знаете, вы весь день действовали мне на нервы.”"
   },
   {
     "key": "“Really? ",
     "trx": "\"В самом деле? ",
-    "val": "“Really? "
+    "val": "“В самом деле? "
   },
   {
     "key": "And here I thought I’d been doing what I could to soothe your spirits, Mr. Osawa.”",
     "trx": "И вот я подумал, что сделал все, что мог, чтобы успокоить вас, мистер Осава.”",
-    "val": "And here I thought I’d been doing what I could to soothe your spirits, Mr. Osawa.”"
+    "val": "А я думал, что делал все, что мог, чтобы успокоить вас, мистер Осава.”"
   },
   {
     "key": "“It’s actually been a real long time since I’ve yelled at anyone quite so much.”",
     "trx": "“На самом деле прошло очень много времени с тех пор, как я так сильно на кого-то кричал”.",
-    "val": "“It’s actually been a real long time since I’ve yelled at anyone quite so much.”"
+    "val": "“На самом деле прошло очень много времени с тех пор, когда я так много на кого-то кричал.”"
   },
   {
     "key": "As the words left his lips, ",
     "trx": "Как только слова слетели с его губ, ",
-    "val": "As the words left his lips, "
+    "val": "Как только слова слетели с его губ, "
   },
   {
     "key": "Osawa found himself thinking back to one particular rainy day.",
     "trx": "Осава поймал себя на том, что вспоминает один конкретный дождливый день.",
-    "val": "Osawa found himself thinking back to one particular rainy day."
+    "val": "Осава поймал себя на том, что вспоминает один конкретный дождливый день."
   }
 ]
