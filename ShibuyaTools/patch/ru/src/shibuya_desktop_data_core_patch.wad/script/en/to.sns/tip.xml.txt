@@ -902,72 +902,72 @@
   {
     "key": "Hematology center",
     "trx": "Гематологический центр",
-    "val": "Hematology center"
+    "val": "Гематологический центр"
   },
   {
     "key": "The hospital division that deals with blood. Its goal is to provide high-end care to patients with blood disorders, including blood screening, treatments, transfusions, the management and supply of blood products, and other related services.",
     "trx": "Отделение больницы, которое занимается кровью. Его цель состоит в том, чтобы оказывать высококачественную медицинскую помощь пациентам с заболеваниями крови, включая скрининг крови, лечение, переливание, управление и поставку продуктов крови и другие сопутствующие услуги.",
-    "val": "The hospital division that deals with blood. Its goal is to provide high-end care to patients with blood disorders, including blood screening, treatments, transfusions, the management and supply of blood products, and other related services."
+    "val": "Отделение больницы, которое занимается кровью. Его целью является оказание высококачественной медицинской помощи пациентам с заболеваниями крови, в том числе скрининг крови, лечение, переливание, хранение и поставка запасов крови и другие сопутствующие услуги."
   },
   {
     "key": "Cardiovascular Medicine",
     "trx": "Сердечно-сосудистая медицина",
-    "val": "Cardiovascular Medicine"
+    "val": "Сердечно-сосудистая медицина"
   },
   {
     "key": "The cardiovascular system includes the heart as well the various blood vessels that circulate blood throughout the body. Cardiovascular medicine deals with heart and blood issues such as angina, heart attacks, heart failure, irregular pulse, and the like.",
     "trx": "Сердечно-сосудистая система включает в себя сердце, а также различные кровеносные сосуды, которые обеспечивают циркуляцию крови по всему телу. Сердечно-сосудистая медицина занимается проблемами сердца и крови, такими как стенокардия, сердечные приступы, сердечная недостаточность, нерегулярный пульс и тому подобное.",
-    "val": "The cardiovascular system includes the heart as well the various blood vessels that circulate blood throughout the body. Cardiovascular medicine deals with heart and blood issues such as angina, heart attacks, heart failure, irregular pulse, and the like."
+    "val": "Сердечно-сосудистая система включает в себя сердце, а также различные кровеносные сосуды, которые обеспечивают циркуляцию крови по всему телу. Сердечно-сосудистая медицина занимается проблемами сердца и крови, такими как стенокардия, сердечные приступы, сердечная недостаточность, нерегулярный пульс и тому подобное."
   },
   {
     "key": "Langley",
     "trx": "Лэнгли",
-    "val": "Langley"
+    "val": "Лэнгли"
   },
   {
     "key": "Slang for the U.S. Central Intelligence Agency (CIA), headquartered in Langley, Virginia. Similar to referring to the Japanese government as “Nagatacho.” The CIA has other nicknames, including “the Company,” “the Agency,” “the Second Government,” “the Invisible Government,” and “the Coupmakers.”",
     "trx": "Жаргонное название Центрального разведывательного управления США (ЦРУ) со штаб-квартирой в Лэнгли, штат Вирджиния. Аналогично обращению к японскому правительству как к “Нагатачо”. У ЦРУ есть и другие прозвища, в том числе “Компания”, “Агентство”, “Второе правительство”, “Невидимое правительство” и “Организаторы переворота\".",
-    "val": "Slang for the U.S. Central Intelligence Agency (CIA), headquartered in Langley, Virginia. Similar to referring to the Japanese government as “Nagatacho.” The CIA has other nicknames, including “the Company,” “the Agency,” “the Second Government,” “the Invisible Government,” and “the Coupmakers.”"
+    "val": "Жаргонное название Центрального разведывательного управления США (ЦРУ), имеющего штаб-квартиру в Лэнгли, штат Вирджиния. Аналогично жаргонному названию японского правительства “Нагата-Тё”. У ЦРУ есть и другие прозвища, например, “Компания”, “Агентство”, “Второе правительство”, “Невидимое правительство” и “Организаторы переворота.”"
   },
   {
     "key": "CIA Agent",
     "trx": "Агент ЦРУ",
-    "val": "CIA Agent"
+    "val": "Агент ЦРУ"
   },
   {
     "key": "Technically known as “officers,” the CIA refers to its own spies as “agents.” Someone in charge of directing agents is called a “case officer.” Case officers are stationed at embassies across the world in the public guise of diplomats, soldiers, and the like.",
     "trx": "Технически известное как “офицеры\", ЦРУ называет своих собственных шпионов “агентами”. Того, кто отвечает за руководство агентами, называют “оперативным сотрудником”. Оперативные сотрудники размещены в посольствах по всему миру под видом дипломатов, солдат и тому подобного.",
-    "val": "Technically known as “officers,” the CIA refers to its own spies as “agents.” Someone in charge of directing agents is called a “case officer.” Case officers are stationed at embassies across the world in the public guise of diplomats, soldiers, and the like."
+    "val": "Хотя они официально называются “офицеры,” ЦРУ обычно называет своих шпионов “агентами.” Того, кто отвечает за руководство агентами, называют “оперативным сотрудником.” Оперативные сотрудники находятся в посольствах по всему миру под видом дипломатов, солдат и так далее."
   },
   {
     "key": "I.D. card",
     "trx": "Идентификационная карточка",
-    "val": "I.D. card"
+    "val": "Удостоверение"
   },
   {
     "key": "Diplomats are issued diplomatic passports and diplomatic ID cards by their home governments. Japan’s Ministry of Foreign Affairs also issues its own form of diplomatic identification card. The CIA provides such identification to its operatives working overseas to help maintain their false identities.",
     "trx": "Дипломатам выдаются дипломатические паспорта и дипломатические удостоверения личности правительствами их стран проживания. Министерство иностранных дел Японии также выпускает собственную форму дипломатического удостоверения личности. ЦРУ предоставляет такую идентификацию своим оперативникам, работающим за рубежом, чтобы помочь сохранить их фальшивые удостоверения личности.",
-    "val": "Diplomats are issued diplomatic passports and diplomatic ID cards by their home governments. Japan’s Ministry of Foreign Affairs also issues its own form of diplomatic identification card. The CIA provides such identification to its operatives working overseas to help maintain their false identities."
+    "val": "Дипломатам выдаются дипломатические паспорта и дипломатические удостоверения личности правительствами их родных стран. Министерство иностранных дел Японии также имеет собственную форму дипломатического удостоверения личности. ЦРУ предоставляет такие удостоверения своим оперативникам, работающим за рубежом, чтобы помочь сохранить их фальшивые личности."
   },
   {
     "key": "Saeki",
     "trx": "Саэки",
-    "val": "Saeki"
+    "val": "Саэки"
   },
   {
     "key": "Seiichi Saeki. Heart specialist and Suzune’s attending physician. A preeminent surgeon who has successfully performed the “Batista procedure,” wherein the left ventricle is reconstructed after a third of it has been removed.",
     "trx": "Сейичи Саэки. Кардиолог и лечащий врач Сузуне. Выдающийся хирург, успешно выполнивший “процедуру Батисты”, при которой восстанавливается левый желудочек после удаления его трети.",
-    "val": "Seiichi Saeki. Heart specialist and Suzune’s attending physician. A preeminent surgeon who has successfully performed the “Batista procedure,” wherein the left ventricle is reconstructed after a third of it has been removed."
+    "val": "Сейичи Саэки. Кардиолог и лечащий врач Сузуне. Выдающийся хирург, успешно выполнивший “процедуру Батисты”, при которой восстанавливается левый желудочек после удаления его трети."
   },
   {
     "key": "Shakedown",
     "trx": "Вымогательство",
-    "val": "Shakedown"
+    "val": "Стрясти деньги"
   },
   {
     "key": "Slang for extortion. A full-fledged crime. Naturally, the direct shakedown (“Gimme all your money, punk!”) is quite unpleasant, but more roundabout ways of being shaken down can still leave a bad taste in one’s mouth. Someone who was surrounded on the street by eight people in pompadours who said “Begging your pardon, but could you please hand over your money?” might suffer no physical harm, but would still be the victim of a shakedown.",
     "trx": "Жаргонное обозначение вымогательства. Полноценное преступление. Естественно, прямое вымогательство (“Отдай мне все свои деньги, панк!”) довольно неприятно, но более окольные способы вытряхивания все еще могут оставить неприятный привкус во рту. Кто-то, кого на улице окружили восемь человек в помпадурах, которые сказали: “Прошу прощения, но не могли бы вы, пожалуйста, отдать свои деньги?”, возможно, не пострадал бы физически, но все равно стал бы жертвой вымогательства.",
-    "val": "Slang for extortion. A full-fledged crime. Naturally, the direct shakedown (“Gimme all your money, punk!”) is quite unpleasant, but more roundabout ways of being shaken down can still leave a bad taste in one’s mouth. Someone who was surrounded on the street by eight people in pompadours who said “Begging your pardon, but could you please hand over your money?” might suffer no physical harm, but would still be the victim of a shakedown."
+    "val": "Жаргонное обозначение вымогательства. Полноценное преступление. Естественно, прямое вымогательство (“Отдай мне все свои деньги, панк!”) довольно неприятно, но более окольные способы вытряхивания денег тоже могут оставить неприятный привкус во рту. Кто-то, кого на улице окружили восемь человек с помпадурами и говорят: “Прошу прощения, но не могли бы вы, пожалуйста, отдать нам свои деньги?” возможно, не пострадал бы физически, но все равно стал бы жертвой вымогательства."
   },
   {
     "key": "Brain-dead",

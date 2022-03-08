@@ -28,6 +28,7 @@
     <Expression Match="\b[Аа]а+-чи\b" />
     <Expression Match="\b[Аа]йки-дзю-дзюцу\b" />
     <Expression Match="\b[Дд]а+\b" />
+    <Expression Match="\b[Нн]ее+т!" />
     <Expression Match="\b[Оо]о*х\b" />
     <Expression Match="\b[Сс]айд маунт\b" />
     <Expression Match="\b[Уу]у+х\b" />
@@ -76,7 +77,7 @@
     <Expression Match="“Semper Fidelis,”" />
     <Expression Match="“Гррах!”" />
     <Expression Match="“покси\b" />
-    <Expression Match="\b[Нн]ее+т!" />
+    <Expression Match="\bНагата-Тё\b" />
   </ExclusionExpressions>
   <SpellCheckAsYouType>True</SpellCheckAsYouType>
   <IncludeInProjectSpellCheck>True</IncludeInProjectSpellCheck>
