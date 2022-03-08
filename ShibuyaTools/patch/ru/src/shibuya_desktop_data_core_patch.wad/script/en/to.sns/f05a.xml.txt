@@ -1762,7 +1762,7 @@
   {
     "key": "Eyes jumping back and forth between pasta and computer, Minorikawa got to work on his copy once more.",
     "trx": "Переводя взгляд с пасты на компьютер и обратно, Минорикава снова принялся за работу над своей копией.",
-    "val": "Переводя взгляд с макарон на компьютер и обратно, Минорикава снова принялся за работу над своей копией."
+    "val": "Переводя взгляд с макарон на компьютер и обратно, Минорикава снова принялся за работу над своей статьей."
   },
   {
     "key": "Before long, he was oblivious to every sound in the cafe around him.",
@@ -1997,7 +1997,7 @@
   {
     "key": "Wandering Angels",
     "trx": "Блуждающие Ангелы",
-    "val": "Блуждающие Ангелы"
+    "val": "Бродячие Ангелы"
   },
   {
     "key": " was supposed to have started already.",
