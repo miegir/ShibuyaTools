@@ -2457,32 +2457,32 @@
   {
     "key": "Nervous breakdown",
     "trx": "Нервный срыв",
-    "val": "Nervous breakdown"
+    "val": "Нервный срыв"
   },
   {
     "key": "A period of mental illness manifesting as panic disorder, stress-induced anxiety, or the like. The term is commonly used to refer to serious health issues such as schizophrenia or bipolar disorder (manic depression), as well as the buildup of more minor stresses as part of everyday life. Because it is so broadly and vaguely defined, it is generally avoided in psychiatric contexts.",
     "trx": "Период психического заболевания, проявляющийся в виде панического расстройства, тревоги, вызванной стрессом, или тому подобного. Этот термин обычно используется для обозначения серьезных проблем со здоровьем, таких как шизофрения или биполярное расстройство (маниакальная депрессия), а также нарастания более незначительных стрессов как части повседневной жизни. Поскольку оно так широко и расплывчато определено, его обычно избегают в психиатрических контекстах.",
-    "val": "A period of mental illness manifesting as panic disorder, stress-induced anxiety, or the like. The term is commonly used to refer to serious health issues such as schizophrenia or bipolar disorder (manic depression), as well as the buildup of more minor stresses as part of everyday life. Because it is so broadly and vaguely defined, it is generally avoided in psychiatric contexts."
+    "val": "Период психического заболевания, проявляющийся в виде панического расстройства, тревоги, вызванной стрессом и т.п. Этот термин обычно используется для обозначения серьезных проблем со здоровьем, таких как шизофрения или биполярное расстройство (маниакальная депрессия), а также накопления незначительных стрессовых ситуаций при повседневной жизни. Поскольку он так широко и расплывчато определен, в профессиональной психиатрической среде его обычно избегают."
   },
   {
     "key": "Copy editor",
     "trx": "Редактор копий",
-    "val": "Copy editor"
+    "val": "Ответственный редактор"
   },
   {
     "key": "At a newspaper, an employee who evaluates the quality and suitability of reporters’ copy and coverage. Effectively the boss of a group of reporters; however, the copy editor typically works under a section editor who has the final say about what makes the page. A middle management position, caught between upstart reporters and an angry section chief.",
     "trx": "В газете - сотрудник, который оценивает качество и пригодность репортерской копии и освещения событий. Фактически является боссом группы репортеров; однако редактор-копирайтер обычно работает под руководством редактора раздела, который имеет последнее слово о том, что делает страницу. Руководящая должность среднего звена, зажатая между выскочками-журналистами и разгневанным начальником отдела.",
-    "val": "At a newspaper, an employee who evaluates the quality and suitability of reporters’ copy and coverage. Effectively the boss of a group of reporters; however, the copy editor typically works under a section editor who has the final say about what makes the page. A middle management position, caught between upstart reporters and an angry section chief."
+    "val": "В газете — сотрудник, который оценивает качество и пригодность статей и освещение в них событий. Фактически является начальником группы репортеров; однако ответственный редактор обычно работает под руководством редактора раздела, который имеет последнее слово относительно того, что попадает на страницу. Руководящая должность среднего звена, зажатая между выскочками-журналистами и разгневанным начальником отдела."
   },
   {
     "key": "Klutz",
     "trx": "Недотепа",
-    "val": "Klutz"
+    "val": "Недотепа (klutz)"
   },
   {
     "key": "“You know, like the pedal in a car that’s got a manual transmission? Oh, that’s a ",
     "trx": "“Знаешь, как педаль в машине с механической коробкой передач? О, это же ",
-    "val": "“You know, like the pedal in a car that’s got a manual transmission? Oh, that’s a "
+    "val": "“Ну, знаете, педаль в машине с механической коробкой передач? Ой, это "
   },
   {
     "key": "clutch",
@@ -2492,7 +2492,7 @@
   {
     "key": ". Okay, so then like lumps of earth or clay. Those are ",
     "trx": ". Хорошо, тогда как комки земли или глины. Это ",
-    "val": ". Okay, so then like lumps of earth or clay. Those are "
+    "val": ". Хорошо, тогда комки земли или глины. А, это "
   },
   {
     "key": "clods",
@@ -2502,7 +2502,7 @@
   {
     "key": ", you say? Right, so then we’re talking about a sort of social get-together for coffee and conversation? Huh? Ah, right, that’s a ",
     "trx": ", вы говорите? Хорошо, значит, мы говорим о чем-то вроде светской тусовки за чашечкой кофе и беседой? А? Ах, да, это же ",
-    "val": ", you say? Right, so then we’re talking about a sort of social get-together for coffee and conversation? Huh? Ah, right, that’s a "
+    "val": ", говорите? Тогда это что-то вроде светской тусовки за чашечкой кофе? Да? Ах, да, это же "
   },
   {
     "key": "klatsch",
@@ -2512,7 +2512,7 @@
   {
     "key": ". Is it when you try to fix something using stuff that isn’t really meant for that purpose? That’s a ",
     "trx": ". Это когда вы пытаетесь что-то исправить, используя вещи, которые на самом деле не предназначены для этой цели? Это ",
-    "val": ". Is it when you try to fix something using stuff that isn’t really meant for that purpose? That’s a "
+    "val": ". А когда вы пытаетесь что-то исправить, используя вещи, на самом деле не предназначенные для этой цели? Это "
   },
   {
     "key": "kludge",
@@ -2522,7 +2522,7 @@
   {
     "key": "? Okay.”",
     "trx": "? Хорошо.”",
-    "val": "? Okay.”"
+    "val": "? Ладно.”"
   },
   {
     "key": "Takarada Financing",
@@ -2532,47 +2532,47 @@
   {
     "key": "A black-market lending firm that offers loans at an interest rate above what the law allows. Well-known for taking whatever steps necessary to collect what’s owed. Its business card slogan: “Got bad credit, but you need a loan? Call any time! We’ll put together a loan that suits YOUR needs!”",
     "trx": "Кредитная фирма на черном рынке, которая предлагает кредиты по процентной ставке выше разрешенной законом. Хорошо известен тем, что предпринимает все необходимые шаги для взыскания причитающегося. Слоган его визитной карточки: “У вас плохой кредит, но вам нужен кредит? Звоните в любое время! Мы составим кредит, соответствующий ВАШИМ потребностям!”",
-    "val": "A black-market lending firm that offers loans at an interest rate above what the law allows. Well-known for taking whatever steps necessary to collect what’s owed. Its business card slogan: “Got bad credit, but you need a loan? Call any time! We’ll put together a loan that suits YOUR needs!”"
+    "val": "Кредитная фирма на черном рынке, которая предлагает кредиты по процентной ставке выше разрешенной законом. Хорошо известна тем, что предпринимает любые шаги, необходимые для взыскания причитающегося. Ее бизнес-слоган: “Имеете плохую кредитную историю, но вам нужен кредит? Звоните в любое время! Мы подберем кредит, соответствующий ВАШИМ потребностям!”"
   },
   {
     "key": "Returned stock",
     "trx": "Возвращенный запас",
-    "val": "Returned stock"
+    "val": "Возвращенные издания"
   },
   {
     "key": "Bookstores do not purchase the books they sell, but rather take them on consignment. This allows them to return to the publisher any books that do not sell.",
     "trx": "Книжные магазины не покупают книги, которые они продают, а скорее берут их на пересылку. Это позволяет им возвращать издателю любые книги, которые не продаются.",
-    "val": "Bookstores do not purchase the books they sell, but rather take them on consignment. This allows them to return to the publisher any books that do not sell."
+    "val": "Книжные магазины не покупают книги, которые они продают, а скорее берут их на реализацию. Это позволяет им возвращать издателю те книги, которые не получается продать."
   },
   {
     "key": "Goat",
     "trx": "Коза",
-    "val": "Goat"
+    "val": "Коза"
   },
   {
     "key": "The mental image of a goat eating paper is a common one, dating back to long ago, when paper was made solely out of plant material. If a goat were to eat modern paper, the wad of chemically-treated pulp would go undigested, and possibly cause an intestinal blockage. So please, do not feed paper to goats.",
     "trx": "Мысленный образ козы, поедающей бумагу, является распространенным и восходит к давним временам, когда бумага изготавливалась исключительно из растительного материала. Если бы коза съела современную бумагу, комок химически обработанной целлюлозы остался бы непереваренным и, возможно, вызвал бы закупорку кишечника. Поэтому, пожалуйста, не кормите козлов бумагой.",
-    "val": "The mental image of a goat eating paper is a common one, dating back to long ago, when paper was made solely out of plant material. If a goat were to eat modern paper, the wad of chemically-treated pulp would go undigested, and possibly cause an intestinal blockage. So please, do not feed paper to goats."
+    "val": "Мысленный образ козы, поедающей бумагу, является довольно распространенным и восходит к давним временам, когда бумага изготавливалась исключительно из растительных материалов. Если бы коза съела современную бумагу, комок химически обработанной целлюлозы не переварился бы и, возможно, вызвал закупорку кишечника. Поэтому, пожалуйста, не кормите коз бумагой."
   },
   {
     "key": "No side",
     "trx": "Никакой стороны",
-    "val": "No side"
+    "val": "Нет стороны"
   },
   {
     "key": "The phrase called out by the referee to signal the end of a rugby match. Refers to the fact that “no side” has possession of the ball, allowing the two teams to part on sportsmanlike terms.",
     "trx": "Фраза, произносимая судьей для обозначения окончания матча по регби. Относится к тому факту, что “ни одна сторона” не владеет мячом, что позволяет двум командам расстаться на спортивных условиях.",
-    "val": "The phrase called out by the referee to signal the end of a rugby match. Refers to the fact that “no side” has possession of the ball, allowing the two teams to part on sportsmanlike terms."
+    "val": "Фраза, произносимая судьей для объявления об окончании матча по регби. Относится к тому факту, что в данный момент “нет стороны,” владеющей мячом, что позволяет двум командам разойтись на спортивных условиях."
   },
   {
     "key": "That girl",
     "trx": "Эта девушка",
-    "val": "That girl"
+    "val": "Та девочка"
   },
   {
     "key": "The name of the girl who killed herself was Chiharu Fuyutsuki. After reading her diary, Minorikawa became convinced it wasn’t an ordinary suicide. Six years from now, Minorikawa will run into a certain teacher, and the investigation into the student’s death will be reopened, but that’s another story, for another time.",
     "trx": "Девушку, которая покончила с собой, звали Тихару Фуюцуки. Прочитав ее дневник, Минорикава убедился, что это не было обычным самоубийством. Через шесть лет Минорикава столкнется с неким учителем, и расследование смерти ученика будет возобновлено, но это уже другая история, для другого времени.",
-    "val": "The name of the girl who killed herself was Chiharu Fuyutsuki. After reading her diary, Minorikawa became convinced it wasn’t an ordinary suicide. Six years from now, Minorikawa will run into a certain teacher, and the investigation into the student’s death will be reopened, but that’s another story, for another time."
+    "val": "Девочку, которая покончила с собой, звали Тихару Фуюцуки. Прочитав ее дневник, Минорикава убедился, что это не было обычным самоубийством. Через шесть лет Минорикава столкнется с неким учителем, и расследование смерти ученицы будет возобновлено, но это уже другая история, для другого раза."
   },
   {
     "key": "Used to be a boxer",

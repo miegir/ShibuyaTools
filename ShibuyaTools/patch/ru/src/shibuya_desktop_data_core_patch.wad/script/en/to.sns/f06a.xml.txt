@@ -1722,7 +1722,7 @@
   {
     "key": "Hitomi...?",
     "trx": "Хитоми...?",
-    "val": "Хитоми?.."
+    "val": "Хитоми...?"
   },
   {
     "key": "It was a pretty common name.",
@@ -2887,7 +2887,7 @@
   {
     "key": "“Yes...?”",
     "trx": "“Да?..”",
-    "val": "“Да?..”"
+    "val": "“Да...?”"
   },
   {
     "key": "“Everyone in Shibuya is going to die.”",
