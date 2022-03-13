@@ -192,7 +192,7 @@
   {
     "key": "The line went dead before Sasayama could finish.",
     "trx": "Линия оборвалась прежде, чем Сасаяма успел закончить.",
-    "val": "Линия оборвалась прежде, чем Сасаяма успел закончить."
+    "val": "Связь оборвалась прежде, чем Сасаяма успел закончить."
   },
   {
     "key": "Kano didn’t have the faintest idea what was going on, but obviously his partner needed him.",

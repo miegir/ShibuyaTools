@@ -312,7 +312,7 @@
   {
     "key": "You’re both in the way.”",
     "trx": "Вы оба стоите у меня на пути.”",
-    "val": "Вы оба стоите на моем пути.”"
+    "val": "Вы обе стоите на моем пути.”"
   },
   {
     "key": "He mutters almost as if talking to himself.",

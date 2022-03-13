@@ -3747,22 +3747,22 @@
   {
     "key": "Written apology",
     "trx": "Письменное извинение",
-    "val": "Written apology"
+    "val": "Письменное извинение"
   },
   {
     "key": "When public servants are negligent in their duties or violate regulations, they can be punished with a warning (a formal reprimand), reduction in pay, suspension, or dismissal. In the case of a warning, in addition to the remonstration from a direct supervisor, the individual must also submit a formal letter explaining the relevant details and assuring that it won’t happen again.",
     "trx": "Когда государственные служащие халатно относятся к своим обязанностям или нарушают правила, они могут быть наказаны предупреждением (официальным выговором), снижением заработной платы, отстранением от работы или увольнением. В случае предупреждения, в дополнение к предостережению от непосредственного руководителя, физическое лицо также должно представить официальное письмо с объяснением соответствующих деталей и заверением, что это больше не повторится.",
-    "val": "When public servants are negligent in their duties or violate regulations, they can be punished with a warning (a formal reprimand), reduction in pay, suspension, or dismissal. In the case of a warning, in addition to the remonstration from a direct supervisor, the individual must also submit a formal letter explaining the relevant details and assuring that it won’t happen again."
+    "val": "Когда государственные служащие халатно относятся к своим обязанностям или нарушают правила, они могут быть наказаны предупреждением (официальным выговором), снижением заработной платы, отстранением от работы или увольнением. В случае предупреждения, в дополнение к выговору от непосредственного руководителя, провинившийся также должен предоставить официальное письмо с объяснением соответствующих деталей и заверением, что такое больше не повторится."
   },
   {
     "key": "Complete blockade",
     "trx": "Полная блокада",
-    "val": "Complete blockade"
+    "val": "Полная блокада"
   },
   {
     "key": "Because modern Japan does not have a system for enacting martial law, there are few ways that the government could effectively quarantine Shibuya. In the case of a potential viral infection, the Infectious Disease Law allows for the city to be partitioned into areas of restricted movement. If the authorities do not want to acknowledge the existence of the top secret Ua virus, however, taking such an action would be rather tricky legally.",
     "trx": "Поскольку в современной Японии нет системы введения военного положения, правительство может эффективно изолировать Сибую несколькими способами. В случае потенциальной вирусной инфекции Закон об инфекционных заболеваниях разрешает делить город на зоны ограниченного передвижения. Однако, если власти не хотят признавать существование сверхсекретного вируса Ua, предпринять такие действия было бы довольно сложно с юридической точки зрения.",
-    "val": "Because modern Japan does not have a system for enacting martial law, there are few ways that the government could effectively quarantine Shibuya. In the case of a potential viral infection, the Infectious Disease Law allows for the city to be partitioned into areas of restricted movement. If the authorities do not want to acknowledge the existence of the top secret Ua virus, however, taking such an action would be rather tricky legally."
+    "val": "Поскольку в современной Японии нет системы введения военного положения, в распоряжении правительства существует не так много возможностей изолировать Сибую. В случае потенциальной вирусной инфекции Закон об инфекционных заболеваниях разрешает разделить город на зоны ограниченного передвижения. Однако, если власти не хотят признавать существование засекреченного вируса Ua, предпринять такие действия было бы довольно сложно с юридической точки зрения."
   },
   {
     "key": "South Hill",
@@ -3772,12 +3772,12 @@
   {
     "key": "The building takes its name from a rough translation of ‘Nanpeidai,’ the name of the area where it is located.",
     "trx": "Здание получило свое название от приблизительного перевода \"Нанпэйдай\", названия района, где оно расположено.",
-    "val": "The building takes its name from a rough translation of ‘Nanpeidai,’ the name of the area where it is located."
+    "val": "Здание получило свое название от приблизительного перевода слова ‘Нампейдай,’ названия района, в котором оно расположено."
   },
   {
     "key": "The official name is “South Hill Building,” but since this is awkward to say, it is frequently shortened.",
     "trx": "Официальное название - “Саут-Хилл-Билдинг”, но, поскольку это неудобно произносить, его часто сокращают.",
-    "val": "The official name is “South Hill Building,” but since this is awkward to say, it is frequently shortened."
+    "val": "Официальное название — “South Hill Building,” но, поскольку это неудобно произносить, его часто сокращают."
   },
   {
     "key": "South Hill",
@@ -3787,107 +3787,107 @@
   {
     "key": "The building takes its name from a rough translation of ‘Nanpeidai,’ the name of the area where it is located.",
     "trx": "Здание получило свое название от приблизительного перевода \"Нанпэйдай\", названия района, где оно расположено.",
-    "val": "The building takes its name from a rough translation of ‘Nanpeidai,’ the name of the area where it is located."
+    "val": "Здание получило свое название от приблизительного перевода слова ‘Нампейдай,’ названия района, в котором оно расположено."
   },
   {
     "key": "The official name is “South Hill Building,” but since this is awkward to say, it is frequently shortened.",
     "trx": "Официальное название - “Саут-Хилл-Билдинг”, но, поскольку это неудобно произносить, его часто сокращают.",
-    "val": "The official name is “South Hill Building,” but since this is awkward to say, it is frequently shortened."
+    "val": "Официальное название — “South Hill Building,” но, поскольку это неудобно произносить, его часто сокращают."
   },
   {
     "key": "When Kano showed up here, ",
     "trx": "Когда Кано появился здесь, ",
-    "val": "When Kano showed up here, "
+    "val": "Когда Кано там появился, "
   },
   {
     "key": "Mean Clean",
     "trx": "Значит Чистый",
-    "val": "Mean Clean"
+    "val": "Чистюля"
   },
   {
     "key": " and his pals were on the roof as well.",
     "trx": " и его приятели тоже были на крыше.",
-    "val": " and his pals were on the roof as well."
+    "val": " и его приятели тоже были на крыше."
   },
   {
     "key": "Heart condition",
     "trx": "Состояние сердца",
-    "val": "Heart condition"
+    "val": "Заболевание сердца"
   },
   {
     "key": "A generic expression for illnesses pertaining to the heart; also referred to as heart disease. Includes things like heart failure, valvular heart disease, and so forth.",
     "trx": "Общее выражение для болезней, связанных с сердцем; также упоминается как болезнь сердца. Включает в себя такие вещи, как сердечная недостаточность, порок клапанов сердца и так далее.",
-    "val": "A generic expression for illnesses pertaining to the heart; also referred to as heart disease. Includes things like heart failure, valvular heart disease, and so forth."
+    "val": "Общее название болезней, связанных с сердцем. Включает в себя такие заболевания, как сердечная недостаточность, порок клапанов сердца и так далее."
   },
   {
     "key": "Compatible",
     "trx": "Совместимый",
-    "val": "Compatible"
+    "val": "Совместимый"
   },
   {
     "key": "The immune system exists to get rid of foreign substances in the body. Often a patient’s immune system will attack a transplanted organ, which can result in the organ failing or functioning poorly. To mitigate the risk of rejection, it is preferable for the donor and the recipient to have matching body tissue. In the case of a heart transplant, characteristics such as blood type and pre-sensitized antibodies (human leukocyte antigens) must be screened ahead of time.",
     "trx": "Иммунная система существует для того, чтобы избавляться от чужеродных веществ в организме. Часто иммунная система пациента атакует пересаженный орган, что может привести к тому, что орган выйдет из строя или будет плохо функционировать. Чтобы снизить риск отторжения, предпочтительно, чтобы донор и реципиент имели одинаковые ткани тела. В случае пересадки сердца такие характеристики, как группа крови и предварительно сенсибилизированные антитела (антигены лейкоцитов человека), должны быть проверены заранее.",
-    "val": "The immune system exists to get rid of foreign substances in the body. Often a patient’s immune system will attack a transplanted organ, which can result in the organ failing or functioning poorly. To mitigate the risk of rejection, it is preferable for the donor and the recipient to have matching body tissue. In the case of a heart transplant, characteristics such as blood type and pre-sensitized antibodies (human leukocyte antigens) must be screened ahead of time."
+    "val": "Иммунная система существует для того, чтобы избавляться от чужеродных веществ в организме. Часто иммунная система пациента атакует пересаженный орган, что может привести к тому, что орган выйдет из строя или будет плохо функционировать. Чтобы снизить риск отторжения, предпочтительно, чтобы донор и реципиент имели одинаковые ткани тела. В случае пересадки сердца такие характеристики, как группа крови и предварительно сенсибилизированные антитела (антигены лейкоцитов человека), следует проверить заранее."
   },
   {
     "key": "Brain-dead",
     "trx": "Мертвый мозг",
-    "val": "Brain-dead"
+    "val": "Смерть мозга"
   },
   {
     "key": "The term “brain dead” refers to a state where the entire brain, including the brain stem, is beyond any recovery. In Japan, brain death is defined by Article 6 of the Act on Organ Transplantation, which states that brain death can only be declared with the goal of authorizing a transplant, and is subject to the judgment of at least two doctors inspecting the patient according to a pre-set process at least six hours apart.",
     "trx": "Термин “мертвый мозг” относится к состоянию, при котором весь мозг, включая ствол мозга, не поддается никакому восстановлению. В Японии смерть мозга определяется статьей 6 Закона о трансплантации органов, в которой говорится, что смерть мозга может быть объявлена только с целью санкционирования трансплантации и подлежит решению по крайней мере двух врачей, осматривающих пациента в соответствии с заранее установленным процессом с интервалом не менее шести часов.",
-    "val": "The term “brain dead” refers to a state where the entire brain, including the brain stem, is beyond any recovery. In Japan, brain death is defined by Article 6 of the Act on Organ Transplantation, which states that brain death can only be declared with the goal of authorizing a transplant, and is subject to the judgment of at least two doctors inspecting the patient according to a pre-set process at least six hours apart."
+    "val": "Термин “смерть мозга” относится к состоянию, при котором весь мозг, включая мозговой ствол, не поддается никакому восстановлению. В Японии смерть мозга определяется статьей 6 Закона о трансплантации органов, в которой говорится, что смерть мозга может быть объявлена только с целью санкционирования трансплантации и должна быть подтверждена по крайней мере двумя врачами, осматривающими пациента в соответствии с заранее установленным процессом с разницей по времени не менее шести часов."
   },
   {
     "key": "Take their testimony",
     "trx": "Возьмите их показания",
-    "val": "Take their testimony"
+    "val": "Снять у них показания"
   },
   {
     "key": "To ask about the circumstances and details of a given event or situation. Standard police procedure when dealing with individuals involved in a criminal investigation. Sometimes includes taking written statements to present to the court.",
     "trx": "Чтобы спросить об обстоятельствах и деталях данного события или ситуации. Стандартная полицейская процедура при работе с лицами, участвующими в уголовном расследовании. Иногда включает в себя принятие письменных заявлений для представления в суд.",
-    "val": "To ask about the circumstances and details of a given event or situation. Standard police procedure when dealing with individuals involved in a criminal investigation. Sometimes includes taking written statements to present to the court."
+    "val": "Расспросить об обстоятельствах и деталях определенного события или ситуации. Стандартная полицейская процедура при работе с лицами, участвующими в уголовном расследовании. Иногда включает в себя принятие письменных заявлений для представления в суд."
   },
   {
     "key": "Policeman",
     "trx": "Полицейский",
-    "val": "Policeman"
+    "val": "Полицейский"
   },
   {
     "key": "The relatively low crime rate in Japan, combined with rather high police personnel numbers in Tokyo, mean that officers, particularly beat cops, often have plenty of bandwidth to deal with more minor issues.",
     "trx": "Относительно низкий уровень преступности в Японии в сочетании с довольно высокой численностью полицейского персонала в Токио означает, что офицеры, особенно избитые полицейские, часто имеют достаточно возможностей для решения более мелких проблем.",
-    "val": "The relatively low crime rate in Japan, combined with rather high police personnel numbers in Tokyo, mean that officers, particularly beat cops, often have plenty of bandwidth to deal with more minor issues."
+    "val": "Относительно низкий уровень преступности в Японии в сочетании с довольно высокой численностью полицейского персонала в Токио означает, что офицеры, особенно патрульные, часто имеют достаточно времени для решения мелких проблем."
   },
   {
     "key": "Stare down",
     "trx": "Смотреть вниз",
-    "val": "Stare down"
+    "val": "Сверху вниз"
   },
   {
     "key": "While Kano is locked in a tear-filled stare down with Tateno, ",
     "trx": "В то время как Кано пристально смотрит на Татено, полный слез, ",
-    "val": "While Kano is locked in a tear-filled stare down with Tateno, "
+    "val": "В то время как Кано, полный слез, смотрит на Татено сверху вниз, "
   },
   {
     "key": "Mean Clean",
     "trx": "Значит Чистый",
-    "val": "Mean Clean"
+    "val": "Чистюля"
   },
   {
     "key": " is staring at both of them—in annoyance.",
     "trx": " смотрит на них обоих — с раздражением.",
-    "val": " is staring at both of them—in annoyance."
+    "val": " смотрит на них обоих с раздражением."
   },
   {
     "key": "Exhausted",
     "trx": "Измученный",
-    "val": "Exhausted"
+    "val": "Истощен"
   },
   {
     "key": "After dealing with the kidnappers’ baffling actions and too much meddling from the higher-ups, even a veteran like Kuze is just beat. But that’s not the only reason for his exhaustion. Kuze has a brother, six years his senior, who despite being nominally mature refuses to get a real job and shows no inclination to settle down with a family. He walks around town day after day, dressed like a hippy and treating passersby to songs he’s written. Kuze has been worrying about his shiftless brother for years now; the guy’s become a chronic source of consternation.",
     "trx": "После того, как мы столкнулись с непонятными действиями похитителей и слишком большим вмешательством со стороны начальства, даже такой ветеран, как Кузе, просто побежден. Но это не единственная причина его истощения. У Кузе есть брат, на шесть лет старше его, который, несмотря на номинальную зрелость, отказывается устраиваться на настоящую работу и не проявляет желания обзавестись семьей. Он ходит по городу день за днем, одетый как хиппи, и угощает прохожих написанными им песнями. Кузе уже много лет беспокоится о своем бездельничающем брате; парень стал хроническим источником беспокойства.",
-    "val": "After dealing with the kidnappers’ baffling actions and too much meddling from the higher-ups, even a veteran like Kuze is just beat. But that’s not the only reason for his exhaustion. Kuze has a brother, six years his senior, who despite being nominally mature refuses to get a real job and shows no inclination to settle down with a family. He walks around town day after day, dressed like a hippy and treating passersby to songs he’s written. Kuze has been worrying about his shiftless brother for years now; the guy’s become a chronic source of consternation."
+    "val": "Столкнувшись с непонятными действиями похитителей и активным вмешательством со стороны начальства, даже такой ветеран, как Кузе, был совершенно измучен. Но это не единственная причина его истощения. У Кузе есть брат, на шесть лет старше его, который, несмотря на свой возраст, отказывается устраиваться на работу и не проявляет желания обзавестись семьей. Он ходит по городу день за днем, одетый как хиппи, и исполняет прохожим написанные им песни. Кузе уже много лет переживает о своем бездельничающем брате; его брат стал хроническим источником беспокойства."
   },
   {
     "key": "CIA",
