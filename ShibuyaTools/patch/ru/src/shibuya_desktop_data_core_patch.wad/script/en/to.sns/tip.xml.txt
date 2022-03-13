@@ -4922,7 +4922,7 @@
   {
     "key": "Techniques for protecting oneself when attacked. Rather than defeating the opponent, self-defense training generally prioritizes simply getting oneself away from danger. Some people consider behavioral tenets such as “run away when you’re attacked” or “don’t go near dangerous places” to be forms of self-defense as well.",
     "trx": "Техники защиты при нападении. Вместо того, чтобы победить противника, обучение самообороне обычно ставит во главу угла простое избавление от опасности. Некоторые люди также считают такие поведенческие принципы, как “убегай, когда на тебя нападают” или “не приближайся к опасным местам”, формами самообороны.",
-    "val": "Техника защиты при нападении. Вместо того, чтобы победить противника, самооборона обычно ставит во главу угла просто избавление от опасности. Некоторые люди также считают такие поведенческие принципы, как “убегай, когда на тебя нападают” или “не приближайся к опасным местам”, формами самообороны."
+    "val": "Техника защиты при нападении. Вместо того, чтобы победить противника, самооборона обычно ставит во главу угла простое избавление от опасности. Некоторые люди также считают такие поведенческие принципы, как “убегай, когда на тебя нападают” или “не приближайся к опасным местам”, формами самообороны."
   },
   {
     "key": "Terrorist",
@@ -4932,22 +4932,22 @@
   {
     "key": "One who uses fear and violence to attain political objectives. The term has its origins in the “Reign of Terror” in 18th Century France, known in French as “la Terreur.”",
     "trx": "Тот, кто использует страх и насилие для достижения политических целей. Этот термин берет свое начало во времена “Правления террора” во Франции 18 века, известного по-французски как “la Terreur\".",
-    "val": "Человек, использующий страх и насилие для достижения политических целей. Этот термин берет свое начало во времена “Эпохи террора” во Франции 18 века, называемые по-французски “la Terreur.”"
+    "val": "Человек, использующий страх и насилие для достижения политических целей. Этот термин берет свое начало во времена “эпохи террора” во Франции 18 века, называемой по-французски “la Terreur.”"
   },
   {
     "key": "Righteousness",
     "trx": "Праведность",
-    "val": "Righteousness"
+    "val": "Праведность"
   },
   {
     "key": "In the religious sense, the state of being virtuous, free of sin, and observant of the proper rules of moral conduct.",
     "trx": "В религиозном смысле - состояние добродетели, свободы от греха и соблюдения надлежащих правил нравственного поведения.",
-    "val": "In the religious sense, the state of being virtuous, free of sin, and observant of the proper rules of moral conduct."
+    "val": "В религиозном смысле — состояние добродетели, свободы от греха и соблюдения надлежащих правил нравственного поведения."
   },
   {
     "key": "Not the same as being “in the right,” though many people equate the two.",
     "trx": "Не то же самое, что быть “правым”, хотя многие люди приравнивают эти два понятия.",
-    "val": "Not the same as being “in the right,” though many people equate the two."
+    "val": "Не то же самое, что быть “правым,” хотя многие люди приравнивают эти два понятия."
   },
   {
     "key": "Ua virus",
