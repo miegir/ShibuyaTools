@@ -5867,147 +5867,147 @@
   {
     "key": "Went missing",
     "trx": "Пропал без вести",
-    "val": "Went missing"
+    "val": "Пропал без вести"
   },
   {
     "key": "The head of Okoshi Pharmaceutical’s New York branch has been missing since April 25th, 9p.m. local time. There have been no demands for a ransom, and so the New York Police Department is investigating the possibility of some other form of foul play.",
     "trx": "Глава нью-йоркского филиала Okoshi Pharmaceutical пропал без вести с 25 апреля, 9 часов утра по местному времени. Требований о выкупе не поступало, и поэтому Департамент полиции Нью-Йорка расследует возможность какой-либо другой формы нечестной игры.",
-    "val": "The head of Окоши Фармасьютикал’s New York branch has been missing since April 25th, 9p.m. local time. There have been no demands for a ransom, and so the New York Police Department is investigating the possibility of some other form of foul play."
+    "val": "Глава нью-йоркского филиала Окоши Фармасьютикал числится пропавшим без вести с 25 апреля, 9 часов утра по местному времени. Требований о выкупе не поступало, и поэтому департамент полиции Нью-Йорка расследует возможность какого-либо другого преступления."
   },
   {
     "key": "MPD detective",
     "trx": "Детектив полиции",
-    "val": "MPD detective"
+    "val": "Детектив СПУ"
   },
   {
     "key": "Kiichi Sawatari, with the Metropolitan Police Department’s First Criminal Investigation Section. Having heard of Kajiwara’s past deeds from friends at the Shibuya precinct, he recommended to his boss that Kajiwara be assigned to the investigation at the Osawa residence. After seeing the detective’s interactions with Osawa, he is confident that his recommendation was in the right; however, given the circumstances, he can’t help but take a cold stance towards Kajiwara.",
     "trx": "Киичи Саватари, сотрудник Первого отдела уголовных расследований Департамента полиции Метрополии. Услышав о прошлых деяниях Кадзивары от друзей в участке Сибуя, он порекомендовал своему боссу назначить Кадзивару для расследования в резиденции Осава. Увидев взаимодействие детектива с Осавой, он уверен, что его рекомендация была правильной; однако, учитывая обстоятельства, он не может не занять холодную позицию по отношению к Кадзиваре.",
-    "val": "Kiichi Sawatari, with the Metropolitan Police Department’s First Criminal Investigation Section. Having heard of Kajiwara’s past deeds from friends at the Shibuya precinct, he recommended to his boss that Kajiwara be assigned to the investigation at the Osawa residence. After seeing the detective’s interactions with Osawa, he is confident that his recommendation was in the right; however, given the circumstances, he can’t help but take a cold stance towards Kajiwara."
+    "val": "Киичи Саватари, сотрудник Первого отдела уголовных расследований Столичного полицейского управления. Услышав о прошлых деяниях Кадзивары от друзей в полицейском участке Сибуи, он порекомендовал своему боссу назначить Кадзивару на расследование в резиденции семьи Осава. Увидев, как детектив взаимодействует с Осавой, он убедился, что его рекомендация была правильной; однако, учитывая обстоятельства, он не может не занять холодную позицию по отношению к Кадзиваре."
   },
   {
     "key": "Recalled",
     "trx": "Отозванный",
-    "val": "Recalled"
+    "val": "Отозвали"
   },
   {
     "key": "The MPD has established a security force, headed by members of its Public Security Bureau, to deal with the bioterrorist threat. Because the kidnapping task force has not yet found Maria, and she is infected with the virus, the task force personnel have instead been absorbed into the security force, and will continue their work under its direction.",
     "trx": "Министерство обороны создало силы безопасности, возглавляемые сотрудниками Бюро общественной безопасности, для борьбы с угрозой биотерроризма. Поскольку целевая группа по похищению людей еще не нашла Марию, и она заражена вирусом, сотрудники целевой группы вместо этого были включены в состав сил безопасности и продолжат свою работу под ее руководством.",
-    "val": "The MPD has established a security force, headed by members of its Public Security Bureau, to deal with the bioterrorist threat. Because the kidnapping task force has not yet found Maria, and she is infected with the virus, the task force personnel have instead been absorbed into the security force, and will continue their work under its direction."
+    "val": "СПУ создало группу безопасности, возглавляемую сотрудниками Бюро общественной безопасности, для борьбы с угрозой биотерроризма. Поскольку оперативная группа по похищению еще не нашла Марию, и она заражена вирусом, сотрудники оперативной группы были вместо этого включены в состав группы безопасности и продолжат свою работу под ее руководством."
   },
   {
     "key": "Mystery",
     "trx": "Тайна",
-    "val": "Mystery"
+    "val": "Тайна"
   },
   {
     "key": "Something difficult or impossible to explain; an enigma.",
     "trx": "Что-то трудное или невозможное для объяснения; загадка.",
-    "val": "Something difficult or impossible to explain; an enigma."
+    "val": "Что-то, что трудно или невозможно объяснить; загадка."
   },
   {
     "key": "You see plenty of books titled ",
     "trx": "Вы видите множество книг под названием ",
-    "val": "You see plenty of books titled "
+    "val": "На полках магазинов вы можете увидеть множество разных книг с названиями вроде "
   },
   {
     "key": "The Mystery of Such-and-Such",
     "trx": "Тайна Такого-то и Такого-то",
-    "val": "The Mystery of Such-and-Such"
+    "val": "Тайна того-то"
   },
   {
     "key": " or ",
     "trx": " или ",
-    "val": " or "
+    "val": " или "
   },
   {
     "key": "The Secret of Whatever",
     "trx": "Секрет чего бы то ни было",
-    "val": "The Secret of Whatever"
+    "val": "Загадка чего-бы-то-ни-было"
   },
   {
     "key": " on bookstore shelves, but when you read them, you’re invariably disappointed by the mystery not being that mysterious after all.",
     "trx": " на полках книжных магазинов, но когда вы их читаете, вы неизменно разочаровываетесь в том, что тайна, в конце концов, не так уж и таинственна.",
-    "val": " on bookstore shelves, but when you read them, you’re invariably disappointed by the mystery not being that mysterious after all."
+    "val": ", но когда вы их читаете, вы неизменно разочаровываетесь, так как эта тайна в результате оказывается не такой уж и таинственной."
   },
   {
     "key": "Mystery",
     "trx": "Тайна",
-    "val": "Mystery"
+    "val": "Тайна"
   },
   {
     "key": "Something difficult or impossible to explain; an enigma.",
     "trx": "Что-то трудное или невозможное для объяснения; загадка.",
-    "val": "Something difficult or impossible to explain; an enigma."
+    "val": "Что-то, что трудно или невозможно объяснить; загадка."
   },
   {
     "key": "You see plenty of books titled ",
     "trx": "Вы видите множество книг под названием ",
-    "val": "You see plenty of books titled "
+    "val": "На полках магазинов вы можете увидеть множество разных книг с названиями вроде "
   },
   {
     "key": "The Mystery of Such-and-Such",
     "trx": "Тайна Такого-то и Такого-то",
-    "val": "The Mystery of Such-and-Such"
+    "val": "Тайна того-то"
   },
   {
     "key": " or ",
     "trx": " или ",
-    "val": " or "
+    "val": " или "
   },
   {
     "key": "The Secret of Whatever",
     "trx": "Секрет чего бы то ни было",
-    "val": "The Secret of Whatever"
+    "val": "Загадка чего-бы-то-ни-было"
   },
   {
     "key": " on bookstore shelves, but when you read them, you’re invariably disappointed by the mystery not being that mysterious after all.",
     "trx": " на полках книжных магазинов, но когда вы их читаете, вы неизменно разочаровываетесь в том, что тайна, в конце концов, не так уж и таинственна.",
-    "val": " on bookstore shelves, but when you read them, you’re invariably disappointed by the mystery not being that mysterious after all."
+    "val": ", но когда вы их читаете, вы неизменно разочаровываетесь, так как эта тайна в результате оказывается не такой уж и таинственной."
   },
   {
     "key": "But never mind that...right now, ",
     "trx": "Но не бери в голову, что... прямо сейчас, ",
-    "val": "But never mind that...right now, "
+    "val": "Но дело не в этом... прямо сейчас "
   },
   {
     "key": "these guys",
     "trx": "эти парни",
-    "val": "these guys"
+    "val": "эти парни"
   },
   {
     "key": " have headed for the scene of the minivan bombing, trying to solve the mystery of the second explosion.",
     "trx": " направились к месту взрыва микроавтобуса, пытаясь разгадать тайну второго взрыва.",
-    "val": " have headed for the scene of the minivan bombing, trying to solve the mystery of the second explosion."
+    "val": " направились к месту, на котором взорвался фургон, пытаясь разгадать тайну второго взрыва."
   },
   {
     "key": "Provider",
     "trx": "Поставщик",
-    "val": "Provider"
+    "val": "Провайдер"
   },
   {
     "key": "A vendor that provides an Internet connection service.",
     "trx": "Поставщик, предоставляющий услугу подключения к Интернету.",
-    "val": "A vendor that provides an Internet connection service."
+    "val": "Поставщик, предоставляющий услугу подключения к Интернету."
   },
   {
     "key": "A typical Internet connection requires a dedicated line; customers who do not already have one must make a contract for one with the provider.",
     "trx": "Для обычного подключения к Интернету требуется выделенная линия; клиенты, у которых ее еще нет, должны заключить контракт на нее с провайдером.",
-    "val": "A typical Internet connection requires a dedicated line; customers who do not already have one must make a contract for one with the provider."
+    "val": "Обычно для подключения к Интернету требуется выделенная линия; клиенты, у которых ее еще нет, должны заключить контракт на нее с провайдером."
   },
   {
     "key": "When the provider establishes your connection to the Internet, you are assigned an identifying number called an IP address.",
     "trx": "Когда провайдер устанавливает ваше подключение к Интернету, вам присваивается идентификационный номер, называемый IP-адресом.",
-    "val": "When the provider establishes your connection to the Internet, you are assigned an identifying number called an IP address."
+    "val": "Когда провайдер предоставляет подключение к Интернету, он присваивает вам идентификационный номер, называемый IP-адресом."
   },
   {
     "key": "Command prompt",
     "trx": "Командная строка",
-    "val": "Command prompt"
+    "val": "Командная строка"
   },
   {
     "key": "A literal prompt for users to issue computer control commands via keyboard instead of mouse; also frequently used to refer to the window or program allowing for such.",
     "trx": "Буквальное приглашение пользователям выдавать команды управления компьютером с клавиатуры вместо мыши; также часто используется для обозначения окна или программы, позволяющей это.",
-    "val": "A literal prompt for users to issue computer control commands via keyboard instead of mouse; also frequently used to refer to the window or program allowing for such."
+    "val": "Текстовое приглашение пользователю, позволяющее ввести команды для управления компьютером при помощи клавиатуры (а не мыши); также часто обозначает окно или программу, предоставляющую такую возможность."
   },
   {
     "key": "Just like me",
