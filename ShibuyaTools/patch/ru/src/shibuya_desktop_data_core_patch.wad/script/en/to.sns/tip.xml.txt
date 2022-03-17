@@ -972,102 +972,102 @@
   {
     "key": "Brain-dead",
     "trx": "Мертвый мозг",
-    "val": "Brain-dead"
+    "val": "Смерть мозга"
   },
   {
     "key": "A state where brain function has ceased irreversibly. In Japan, there are two conditions for declaring breath death. The first is that the patient must be comatose and in a state of apnea (no longer breathing) due to damage to the brain. The second is that the root cause is diagnosed and it is deemed that no reasonable treatment will restore brain function.",
     "trx": "Состояние, при котором функция мозга необратимо прекращается. В Японии есть два условия для объявления смерти от дыхания. Первый заключается в том, что пациент должен находиться в коматозном состоянии и в состоянии апноэ (больше не дышать) из-за повреждения головного мозга. Во-вторых, диагностируется первопричина, и считается, что никакое разумное лечение не восстановит функцию мозга.",
-    "val": "A state where brain function has ceased irreversibly. In Japan, there are two conditions for declaring breath death. The first is that the patient must be comatose and in a state of apnea (no longer breathing) due to damage to the brain. The second is that the root cause is diagnosed and it is deemed that no reasonable treatment will restore brain function."
+    "val": "Состояние, при котором функции мозга необратимо прекращаются. В Японии, чтобы констатировать смерть мозга, должны выполняться два условия. Во-первых, пациент должен быть в коме и в состоянии апноэ (больше не дышать) из-за повреждения головного мозга. Во-вторых, должна быть установлена первопричина, про которую известно, что никакое разумное лечение не восстановит функцию мозга."
   },
   {
     "key": "Side of the road",
     "trx": "Обочина дороги",
-    "val": "Side of the road"
+    "val": "Обочина"
   },
   {
     "key": "Specifically, the shoulder that runs along either side of the traveled portion of the roadway.",
     "trx": "В частности, обочина, которая проходит по обе стороны от пройденного участка проезжей части.",
-    "val": "Specifically, the shoulder that runs along either side of the traveled portion of the roadway."
+    "val": "Элемент дороги, примыкающий непосредственно к проезжей части и расположенный на одном уровне с ней."
   },
   {
     "key": "A place where trash tossed out the windows of moving cars tends to accumulate.",
     "trx": "Место, где обычно скапливается мусор, выброшенный из окон движущихся машин.",
-    "val": "A place where trash tossed out the windows of moving cars tends to accumulate."
+    "val": "Место, где обычно скапливается мусор, выброшенный из окон движущихся машин."
   },
   {
     "key": "Tossing cigarette butts and empty cans out onto the street can potentially hurt people, and it definitely makes a mess. Please, don’t litter. ",
     "trx": "Выбрасывание окурков и пустых банок на улицу потенциально может навредить людям, и это определенно создает беспорядок. Пожалуйста, не мусорьте. ",
-    "val": "Tossing cigarette butts and empty cans out onto the street can potentially hurt people, and it definitely makes a mess. Please, don’t litter. "
+    "val": "Выброшенные на улицу окурки и пустые банки могут потенциально навредить людям, и уж точно загрязняют окружающую среду. Пожалуйста, не мусорьте. "
   },
   {
     "key": "Side of the road",
     "trx": "Обочина дороги",
-    "val": "Side of the road"
+    "val": "Обочина"
   },
   {
     "key": "Specifically, the shoulder that runs along either side of the traveled portion of the roadway.",
     "trx": "В частности, обочина, которая проходит по обе стороны от пройденного участка проезжей части.",
-    "val": "Specifically, the shoulder that runs along either side of the traveled portion of the roadway."
+    "val": "Элемент дороги, примыкающий непосредственно к проезжей части и расположенный на одном уровне с ней."
   },
   {
     "key": "A place where trash tossed out the windows of moving cars tends to accumulate.",
     "trx": "Место, где обычно скапливается мусор, выброшенный из окон движущихся машин.",
-    "val": "A place where trash tossed out the windows of moving cars tends to accumulate."
+    "val": "Место, где обычно скапливается мусор, выброшенный из окон движущихся машин."
   },
   {
     "key": "Tossing cigarette butts and empty cans out onto the street can potentially hurt people, and it definitely makes a mess. Please, don’t litter. It’ll just make ",
     "trx": "Выбрасывание окурков и пустых банок на улицу потенциально может навредить людям, и это определенно создает беспорядок. Пожалуйста, не мусорьте. Это просто заставит ",
-    "val": "Tossing cigarette butts and empty cans out onto the street can potentially hurt people, and it definitely makes a mess. Please, don’t litter. It’ll just make "
+    "val": "Выброшенные на улицу окурки и пустые банки могут потенциально навредить людям, и уж точно загрязняют окружающую среду. Пожалуйста, не мусорьте. Это разозлит "
   },
   {
     "key": "Mean Clean",
     "trx": "Значит Чистый",
-    "val": "Mean Clean"
+    "val": "Чистюлю"
   },
   {
     "key": " angry.",
     "trx": " сердитый.",
-    "val": " angry."
+    "val": "."
   },
   {
     "key": "Culprit",
     "trx": "Преступник",
-    "val": "Culprit"
+    "val": "Преступник"
   },
   {
     "key": "Kidnapping for ransom carries a potential life sentence, with a definite term of imprisonment of no less than three years. ",
     "trx": "Похищение с целью выкупа влечет за собой потенциальное пожизненное заключение с определенным сроком тюремного заключения не менее трех лет. ",
-    "val": "Kidnapping for ransom carries a potential life sentence, with a definite term of imprisonment of no less than three years. "
+    "val": "Похищение с целью выкупа влечет за собой тюремное заключение сроком не менее трех лет и вплоть до пожизненного. "
   },
   {
     "key": "Ohajiki",
     "trx": "Охаджики",
-    "val": "Ohajiki"
+    "val": "Охаджики"
   },
   {
     "key": "A toy made of small, coin-shaped glass beads, somewhat similar to marbles. The typical game involves flicking one’s pieces into the opponent’s with a fingertip. Specific rules vary greatly by region.",
     "trx": "Игрушка, сделанная из маленьких стеклянных бусин в форме монеты, чем-то похожих на шарики. Типичная игра включает в себя бросание своих фигур в фигуры противника кончиком пальца. Конкретные правила сильно различаются в зависимости от региона.",
-    "val": "A toy made of small, coin-shaped glass beads, somewhat similar to marbles. The typical game involves flicking one’s pieces into the opponent’s with a fingertip. Specific rules vary greatly by region."
+    "val": "Игра с использованием маленьких стеклянных бусин в форме монеты, напоминающих шарики. Игроки как правило бросают свои бусины в бусины противника кончиком пальца. Точные правила сильно различаются в зависимости от региона."
   },
   {
     "key": "Case",
     "trx": "Случай",
-    "val": "Case"
+    "val": "Дело"
   },
   {
     "key": "Stanley and the others haven’t realized that there’s more than one unresolved case in Shibuya. Ten years ago, the people of the city were terrorized by the “Compost Incident”—and now, the garbage insurrection is underway again. Will our heroes be able to overcome this danger?",
     "trx": "Стэнли и остальные еще не поняли, что в Сибуе есть не одно нераскрытое дело. Десять лет назад жители города были терроризированы “Инцидентом с компостом” — и теперь мусорное восстание снова продолжается. Смогут ли наши герои преодолеть эту опасность?",
-    "val": "Stanley and the others haven’t realized that there’s more than one unresolved case in Shibuya. Ten years ago, the people of the city were terrorized by the “Compost Incident”—and now, the garbage insurrection is underway again. Will our heroes be able to overcome this danger?"
+    "val": "Стэнли и остальные пока не догадываются, что в Сибуе есть и другие нераскрытые дела. Десять лет назад жителей города терроризировал “инцидент с компостом” — и сейчас мусорное восстание снова продолжается. Смогут ли наши герои устранить эту опасность?"
   },
   {
     "key": "It’s all up to ",
     "trx": "Все зависит от ",
-    "val": "It’s all up to "
+    "val": "Все зависит от "
   },
   {
     "key": "Mean Clean",
     "trx": "Значит Чистый",
-    "val": "Mean Clean"
+    "val": "Чистюли"
   },
   {
     "key": "!",
@@ -1077,47 +1077,47 @@
   {
     "key": "Parent-participation",
     "trx": "Участие родителей",
-    "val": "Parent-participation"
+    "val": "Участие родителей"
   },
   {
     "key": "A type of children’s event where the parents who have come to watch their children compete are asked to join in with them. Daisuke took part in the tug-of-war, only to get tangled up in the rope and dragged over the line. Achi was understandably disheartened by his father’s embarrassing display, but after eating the lunch his father had made for him, his spirits quickly returned. Daisuke had made rice balls that were clumsily over-salted, but Achi could tell how hard he’d worked to prepare them.",
     "trx": "Тип детского мероприятия, на котором родителей, пришедших посмотреть, как соревнуются их дети, просят присоединиться к ним. Дайсуке принял участие в перетягивании каната, но запутался в веревке и его протащили через линию. Ачи, по понятным причинам, был обескуражен неловким поведением своего отца, но после того, как он съел обед, приготовленный для него отцом, его настроение быстро вернулось. Дайсуке сделал рисовые шарики, которые были неуклюже пересолены, но Ачи мог сказать, как усердно он работал, чтобы их приготовить.",
-    "val": "A type of children’s event where the parents who have come to watch their children compete are asked to join in with them. Daisuke took part in the tug-of-war, only to get tangled up in the rope and dragged over the line. Achi was understandably disheartened by his father’s embarrassing display, but after eating the lunch his father had made for him, his spirits quickly returned. Daisuke had made rice balls that were clumsily over-salted, but Achi could tell how hard he’d worked to prepare them."
+    "val": "Вид школьного мероприятия, на котором родителей, пришедших посмотреть, как соревнуются их дети, просят присоединиться к ним. Дайсуке принял участие в перетягивании каната, но запутался в веревке и его протащили через линию. Ачи, по понятным причинам, был обескуражен неловким поведением своего отца, но после того, как он съел обед, приготовленный для него отцом, настроение быстро вернулось к нему. Дайсуке сделал рисовые шарики, которые были неуклюже пересолены, но Ачи понимал, как он старался, чтобы их приготовить."
   },
   {
     "key": "Stun Gun",
     "trx": "Электрошокер",
-    "val": "Stun Gun"
+    "val": "Электрошокер"
   },
   {
     "key": "A piece of self-defense equipment for repelling would-be attackers with an electrical shock. There are several types, including baton-type stun prods and guns that fire needles attached to flexible wires. The latter type especially is frequently referred to in the U.S. as a “Taser” or “Taser Gun” due to the popular models produced by TASER International (now Axon). Stun guns are used not only by civilians, but also by law enforcement and military personnel for non-lethal applications.",
     "trx": "Часть оборудования для самообороны для отражения потенциальных нападающих электрическим током. Существует несколько типов, в том числе электрошокеры типа дубинки и пистолеты, стреляющие иглами, прикрепленными к гибким проводам. Последний тип особенно часто упоминается в США как “Электрошокер” или “Пистолет с электрошокером” из-за популярных моделей, выпускаемых компанией TASER International (ныне Axon). Электрошокеры используются не только гражданскими лицами, но и сотрудниками правоохранительных органов и военнослужащими для несмертельного применения.",
-    "val": "A piece of self-defense equipment for repelling would-be attackers with an electrical shock. There are several types, including baton-type stun prods and guns that fire needles attached to flexible wires. The latter type especially is frequently referred to in the U.S. as a “Taser” or “Taser Gun” due to the popular models produced by TASER International (now Axon). Stun guns are used not only by civilians, but also by law enforcement and military personnel for non-lethal applications."
+    "val": "Устройство для самообороны, которое поражает потенциальных нападающих электрическим током. Существует несколько типов, в том числе электрошокеры в виде дубинки, а также пистолеты, стреляющие иглами, прикрепленными к гибким проводам. Последний тип в США как правило называется “Тэйзер” из-за того, что популярные модели были выпущены компанией TASER International (ныне Axon). Электрошокеры используются не только гражданскими лицами, но и сотрудниками правоохранительных органов и военнослужащими в качестве оружия несмертельного действия."
   },
   {
     "key": "Organ trafficker",
     "trx": "Торговец органами",
-    "val": "Organ trafficker"
+    "val": "Торговец органами"
   },
   {
     "key": "In Japan, a medical professional known as a transplant coordinator handles the liaison between the donor and recipient parties, but there are many cases of illegal or borderline illegal activity carried out by third-party organ brokers. There are countries where organ transplants are openly performed for monetary gain, and no shortage of specialists willing to do the job. These questionable markets include suppliers who source viable organs and tissue for transplant from cadavers.",
     "trx": "В Японии медицинский работник, известный как координатор трансплантации, обеспечивает связь между сторонами-донором и реципиентом, но существует множество случаев незаконной или граничащей с незаконной деятельности, осуществляемой сторонними посредниками по продаже органов. Есть страны, где трансплантация органов открыто проводится ради денежной выгоды, и нет недостатка в специалистах, готовых выполнить эту работу. Эти сомнительные рынки включают поставщиков, которые поставляют жизнеспособные органы и ткани для трансплантации из трупов.",
-    "val": "In Japan, a medical professional known as a transplant coordinator handles the liaison between the donor and recipient parties, but there are many cases of illegal or borderline illegal activity carried out by third-party organ brokers. There are countries where organ transplants are openly performed for monetary gain, and no shortage of specialists willing to do the job. These questionable markets include suppliers who source viable organs and tissue for transplant from cadavers."
+    "val": "В Японии связь между сторонами донора и реципиента обеспечивает медицинский работник, известный как координатор трансплантации, однако существует множество случаев незаконной или граничащей с незаконной деятельности, осуществляемой сторонними посредниками по продаже органов. Есть страны, где трансплантация органов проводится открыто ради денежной выгоды, и нет недостатка в специалистах, готовых выполнить эту работу. Эти сомнительные рынки состоят из поставщиков жизнеспособных органов и тканей для трансплантации из трупов."
   },
   {
     "key": "Young man",
     "trx": "Молодой человек",
-    "val": "Young man"
+    "val": "Молодой человек"
   },
   {
     "key": "It’s ",
     "trx": "Это ",
-    "val": "It’s "
+    "val": "Это "
   },
   {
     "key": "Achi Endo",
     "trx": "Ачи Эндо",
-    "val": "Achi Endo"
+    "val": "Ачи Эндо"
   },
   {
     "key": ".",
@@ -1127,7 +1127,7 @@
   {
     "key": "He’s come to ask the members of S.O.S. to help with the planned operation down at the scramble.",
     "trx": "Он пришел, чтобы попросить членов S.O.S. помочь с запланированной операцией в схватке.",
-    "val": "He’s come to ask the members of S.O.S. to help with the planned operation down at the scramble."
+    "val": "Он пришел, чтобы попросить членов S.O.S. о помощи в запланированной операции на площади."
   },
   {
     "key": "Halva",
