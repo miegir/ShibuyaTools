@@ -4367,7 +4367,7 @@
   {
     "key": "Now it’s time to give you some choice information; that’s just common decency.",
     "trx": "Теперь пришло время дать вам некоторую информацию о выборе; это просто обычная порядочность.",
-    "val": "Now it’s time to give you some choice information; that’s just common decency."
+    "val": "Now it’s time to give you some choice information; это всего лишь обычная порядочность."
   },
   {
     "key": "In Achi’s Story, in the 14:00 time block, there’s a scene inside GiGO where Achi takes a punch from a debt collector. Take a good, hard look right before that scene and see what happens!",

@@ -1182,7 +1182,7 @@
   {
     "key": "The instructor gave the signal to begin, and Achi opened with a sharp low kick.",
     "trx": "Инструктор дал сигнал начинать, и Ачи открылся резким низким ударом.",
-    "val": "Инструктор дал сигнал к началу, и Ачи открылся резким нижним ударом."
+    "val": "Инструктор дал сигнал к началу, и Ачи открылся резким низким ударом."
   },
   {
     "key": "Daisuke didn’t guard against it; the blow caught him in the thigh.",
@@ -1197,7 +1197,7 @@
   {
     "key": "Achi proceeded to unleash several more low kicks to the same spot.",
     "trx": "Ачи продолжил наносить еще несколько низких ударов в то же место.",
-    "val": "Ачи продолжил наносить новые нижние удары в то же место."
+    "val": "Ачи продолжил наносить новые низкие удары в то же место."
   },
   {
     "key": "Bit by bit, Daisuke’s face revealed his discomfort; finally he yanked his leg away.",

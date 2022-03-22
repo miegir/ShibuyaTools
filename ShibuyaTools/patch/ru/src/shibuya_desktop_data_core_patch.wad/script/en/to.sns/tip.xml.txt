@@ -2577,167 +2577,167 @@
   {
     "key": "Used to be a boxer",
     "trx": "Раньше был боксером",
-    "val": "Used to be a boxer"
+    "val": "Раньше был боксером"
   },
   {
     "key": "Back in his boxing days, Segawa was so tough, people called him “the Dogfighter of Shibuya.” One day, however, as he was walking along, he happened to step onto a strange panel that made him fall into a state of confusion and go on a rampage. He was quickly arrested, and his boxing license was revoked.",
     "trx": "В дни своего бокса Сегава был таким крутым, что люди называли его “Собачьим бойцом Сибуи”. Однако однажды, прогуливаясь, он случайно наступил на странную панель, которая привела его в замешательство и привела в ярость. Он был быстро арестован, и его боксерская лицензия была отозвана.",
-    "val": "Back in his boxing days, Segawa was so tough, people called him “the Dogfighter of Shibuya.” One day, however, as he was walking along, he happened to step onto a strange panel that made him fall into a state of confusion and go on a rampage. He was quickly arrested, and his boxing license was revoked."
+    "val": "Во времена, когда Сегава занимался боксом, он был таким крутым, что люди называли его “Собачьим бойцом Сибуи”. Однако, прогуливаясь как-то раз, он случайно наступил на странную панель, которая привела его в замешательство и ярость. Его быстро арестовали и отозвали его боксерскую лицензию."
   },
   {
     "key": "←The mysterious panel Segawa stepped on. They say there are also panels shaped like feet, and even panels shaped like rice balls.",
     "trx": "←Таинственная панель, на которую наступил Сегава. Они говорят, что есть также панели в форме ножек и даже панели в форме рисовых шариков.",
-    "val": "←The mysterious panel Segawa stepped on. They say there are also panels shaped like feet, and even panels shaped like rice balls."
+    "val": "←Таинственная панель, на которую наступил Сегава. Говорят, что бывают похожие панели в форме ступни и даже в форме рисовых шариков."
   },
   {
     "key": "Daikanyama",
     "trx": "Дайканьяма",
-    "val": "Daikanyama"
+    "val": "Дайканъяма"
   },
   {
     "key": "A very fashionable yet relaxed neighborhood in Shibuya. High-end boutiques, high-end restaurants, high-end confectionery shops, high-end cafés, high-end interior design stores, and high-end residential housing all line the streets. A settlement dating back two thousand years (to the Yayoi Period) has been excavated in Daikanyama, but it cannot be said for sure whether its dwellings were high-end for the time.",
     "trx": "Очень модный, но в то же время спокойный район в Сибуе. Элитные бутики, элитные рестораны, элитные кондитерские, элитные кафе, элитные магазины дизайна интерьера и элитные жилые дома - все это выстроилось вдоль улиц. В Дайканьяме было раскопано поселение, датируемое двумя тысячами лет (периодом Яей), но нельзя с уверенностью сказать, были ли его жилища высокого класса для того времени.",
-    "val": "A very fashionable yet relaxed neighborhood in Shibuya. High-end boutiques, high-end restaurants, high-end confectionery shops, high-end cafés, high-end interior design stores, and high-end residential housing all line the streets. A settlement dating back two thousand years (to the Yayoi Period) has been excavated in Daikanyama, but it cannot be said for sure whether its dwellings were high-end for the time."
+    "val": "Очень модный, но в то же время спокойный район в Сибуе. Элитные бутики, элитные рестораны, элитные кондитерские, элитные кафе, элитные магазины дизайна интерьера и элитные жилые дома выстроились вдоль улиц. При раскопках в Дайканъяме было найдено поселение, которому было де тысячи лет (период Яёй), но нельзя с уверенностью сказать, были ли его жилища элитными для того времени."
   },
   {
     "key": "Send to press",
     "trx": "Отправить в печать",
-    "val": "Send to press"
+    "val": "Отправка в печать"
   },
   {
     "key": "The writer submits to the editor, the editor submits to the designer...this is the next step in that whole handoff process. Naturally, being late for this causes quite a lot of trouble.",
     "trx": "Автор подчиняется редактору, редактор подчиняется дизайнеру...это следующий шаг во всем этом процессе передачи. Естественно, опоздание на это доставляет довольно много хлопот.",
-    "val": "The writer submits to the editor, the editor submits to the designer...this is the next step in that whole handoff process. Naturally, being late for this causes quite a lot of trouble."
+    "val": "Автор отправляет материал редактору, редактор — дизайнеру... это следующий шаг в общей цепочке передачи. Естественно, опоздание на одном из ее этапов доставляет довольно много хлопот."
   },
   {
     "key": "Predecessor",
     "trx": "Предшественник",
-    "val": "Predecessor"
+    "val": "Предшественник"
   },
   {
     "key": "Sachio Usui. 39 years old. Single.",
     "trx": "Сачио Усуи. 39 лет. Одиночный.",
-    "val": "Sachio Usui. 39 years old. Single."
+    "val": "Сатио Усуи. 39 лет. Холост."
   },
   {
     "key": "A long-time veteran at Cho-Nippon Printing. Rather timid by nature; the strain of dealing with publishers makes him sick to his stomach.",
     "trx": "Давний ветеран типографии \"Чо-Ниппон\". Довольно робкий по натуре; напряжение, связанное с издателями, вызывает у него тошноту.",
-    "val": "A long-time veteran at Cho-Nippon Printing. Rather timid by nature; the strain of dealing with publishers makes him sick to his stomach."
+    "val": "Давний ветеран типографии Cho-Nippon. Довольно робкий по натуре; напряжение, связанное с издателями, вызывает у него тошноту."
   },
   {
     "key": "At around 1:10pm earlier today, while driving to meet with one of his clients, he had to swerve to avoid a young man and woman who darted into the street. He crashed into the car next to him and ended up at the hospital.",
     "trx": "Сегодня около 1:10 вечера, когда он ехал на встречу с одним из своих клиентов, ему пришлось свернуть, чтобы избежать столкновения с молодыми мужчиной и женщиной, которые выскочили на улицу. Он врезался в соседнюю машину и оказался в больнице.",
-    "val": "At around 1:10pm earlier today, while driving to meet with one of his clients, he had to swerve to avoid a young man and woman who darted into the street. He crashed into the car next to him and ended up at the hospital."
+    "val": "Сегодня около 13:10, когда он ехал на встречу с одним из своих клиентов, ему пришлось свернуть, чтобы не сбить парня и девушку, выскочивших на улицу. Он врезался в ближайшую машину и оказался в больнице."
   },
   {
     "key": "That’s just common decency",
     "trx": "Это просто обычная порядочность",
-    "val": "That’s just common decency"
+    "val": "Это всего лишь обычная порядочность"
   },
   {
     "key": "Katayama’s pet phrase.",
     "trx": "Любимая фраза Катаямы.",
-    "val": "Katayama’s pet phrase."
+    "val": "Любимая фраза Катаямы."
   },
   {
     "key": "Thus far, he has said “That’s just common decency” three times in this story.",
     "trx": "До сих пор он трижды говорил в этой истории: “Это просто обычная порядочность\".",
-    "val": "Thus far, he has said “That’s just common decency” three times in this story."
+    "val": "На данный момент он произнес фразу “Это всего лишь обычная порядочность” три раза в этой истории."
   },
   {
     "key": "“Always make sure to show up fifteen minutes ahead of the appointed time.”",
     "trx": "“Всегда старайся приходить на пятнадцать минут раньше назначенного времени\".",
-    "val": "“Always make sure to show up fifteen minutes ahead of the appointed time.”"
+    "val": "“Всегда старайтесь приходить на пятнадцать минут раньше назначенного времени.”"
   },
   {
     "key": "“I realize there’s little point, but I’ll wait until the designated time.”",
     "trx": "“Я понимаю, что в этом мало смысла, но я подожду до назначенного времени”.",
-    "val": "“I realize there’s little point, but I’ll wait until the designated time.”"
+    "val": "“Я понимаю, что в этом мало смысла, но я подожду до назначенного времени.”"
   },
   {
     "key": "There was one more. Do you know when and where it was?",
     "trx": "Был еще один. Вы знаете, когда и где это было?",
-    "val": "There was one more. Do you know when and where it was?"
+    "val": "Был и еще один. Помните ли вы, когда и где?"
   },
   {
     "key": "Pop quiz",
     "trx": "Поп-викторина",
-    "val": "Pop quiz"
+    "val": "Поп-викторина"
   },
   {
     "key": "Surprise, kids! It’s time for a science quiz!",
     "trx": "Сюрприз, дети! Пришло время для научной викторины!",
-    "val": "Surprise, kids! It’s time for a science quiz!"
+    "val": "Сюрприз, детки! Пришло время для научной викторины!"
   },
   {
     "key": "What colorless, odorless gas, lighter than and air and used for consumer and municipal gas applications, is also known as “marsh gas” or “swamp gas”?",
     "trx": "Какой бесцветный газ без запаха, легче воздуха и используемый для бытового и коммунального газа, также известен как “болотный газ” или “болотный газ”?",
-    "val": "What colorless, odorless gas, lighter than and air and used for consumer and municipal gas applications, is also known as “marsh gas” or “swamp gas”?"
+    "val": "Какой бесцветный газ без запаха и легче воздуха, называемый также “болотный газ,” используется в бытовых и коммунальных целях?"
   },
   {
     "key": "\u3000・Helium",
     "trx": "\u3000・ Гелий",
-    "val": "\u3000・Helium"
+    "val": "\u3000・Гелий"
   },
   {
     "key": "\u3000・Ethylene",
     "trx": "\u3000・ Этилен",
-    "val": "\u3000・Ethylene"
+    "val": "\u3000・Этилен"
   },
   {
     "key": "\u3000・Propane",
     "trx": "\u3000・ Пропан",
-    "val": "\u3000・Propane"
+    "val": "\u3000・Пропан"
   },
   {
     "key": "\u3000・Methane",
     "trx": "\u3000・ Метан",
-    "val": "\u3000・Methane"
+    "val": "\u3000・Метан"
   },
   {
     "key": "Tune in next time for the answer.",
     "trx": "Настройтесь в следующий раз на ответ.",
-    "val": "Tune in next time for the answer."
+    "val": "Ожидайте правильный ответ в следующем выпуске."
   },
   {
     "key": "Headlong rush",
     "trx": "Стремительный бросок",
-    "val": "Headlong rush"
+    "val": "Сломя голову"
   },
   {
     "key": "To rush into a situation recklessly or heedlessly. Not quite the same as being daredevil.",
     "trx": "Бросаться в ситуацию опрометчиво или необдуманно. Не совсем то же самое, что быть сорвиголовой.",
-    "val": "To rush into a situation recklessly or heedlessly. Not quite the same as being daredevil."
+    "val": "Бросаться в ситуацию опрометчиво или необдуманно. Не совсем то же самое, что быть сорвиголовой."
   },
   {
     "key": "Masa",
     "trx": "Маисовое тесто",
-    "val": "Masa"
+    "val": "Маса"
   },
   {
     "key": "A first-year student at Midoriyama Academy. After getting indigestion from eating too much parfait at a fast food restaurant on Center Gai (he was there with his girlfriend to do a dry run for a competitive eating contest), he wound up going to the restroom fourteen times in one hour. Unable to stand idly by, his girlfriend called an acquaintance of hers, the gluttonous Chiriko Osugi, for advice on improving Masa’s intestinal fortitude. It turned out, however, that Chiriko was planning to compete in the same contest. Knowing that they were up against some monumental competition, the two continued their training, wary of the battle to come...",
     "trx": "Студент первого курса Академии Мидорияма. После того, как у него началось несварение желудка из-за того, что он съел слишком много парфе в ресторане быстрого питания на Сентер-Гай (он был там со своей девушкой, чтобы принять участие в соревновании по питанию), он пошел в туалет четырнадцать раз за один час. Не в силах стоять сложа руки, его подруга позвонила своей знакомой, прожорливой Чирико Осуги, за советом по улучшению стойкости кишечника Масы. Однако оказалось, что Чирико планировала участвовать в том же конкурсе. Зная, что им предстоит какое-то грандиозное соревнование, эти двое продолжили свои тренировки, опасаясь предстоящей битвы...",
-    "val": "A first-year student at Midoriyama Academy. After getting indigestion from eating too much parfait at a fast food restaurant on Center Gai (he was there with his girlfriend to do a dry run for a competitive eating contest), he wound up going to the restroom fourteen times in one hour. Unable to stand idly by, his girlfriend called an acquaintance of hers, the gluttonous Chiriko Osugi, for advice on improving Masa’s intestinal fortitude. It turned out, however, that Chiriko was planning to compete in the same contest. Knowing that they were up against some monumental competition, the two continued their training, wary of the battle to come..."
+    "val": "Студент первого курса Академии Мидорияма. После того, как у него началось несварение желудка из-за того, что он съел слишком много парфе в ресторане быстрого питания на Центр Гай (он был там со своей девушкой, готовясь принять участие в соревновании по поеданию пищи), он ходил в туалет четырнадцать раз в течение часа. Не в силах стоять сложа руки, его подруга позвонила своей знакомой, прожорливой Чирико Осуги, за советом по улучшению стойкости кишечника Масы. Однако оказалось, что Чирико сама планировала принять участие в этом конкурсе. Зная, что им предстоит грандиозное соревнование, эти двое продолжили свои тренировки, опасаясь предстоящей битвы..."
   },
   {
     "key": "Dogen Hut",
     "trx": "Хижина Догена",
-    "val": "Dogen Hut"
+    "val": "Доген Хат"
   },
   {
     "key": "A long-standing noodle shop on Dogenzaka. Two years ago, the owner passed away from illness; now, the restaurant is run by his widow, Maki Yoneda, and her two part-timers, Masa from Midoriyama Academy, and Mohinder, an Indian exchange student. Despite the sign billing the establishment as a soba restaurant, “duck meat soba” and “chilled curry soba” are the only two actual soba offerings; the rest of the menu, for some reason, is all udon dishes. And in fact both kinds of soba are terrible, though maybe the chilled curry soba would be okay if someone else were making it.",
     "trx": "Давний магазин лапши на Догензака. Два года назад владелец скончался от болезни; сейчас рестораном управляет его вдова Маки Йонеда и двое ее совместителей, Маса из Академии Мидорияма и Мохиндер, студент по обмену из Индии. Несмотря на вывеску, рекламирующую заведение как ресторан соба, “соба из утиного мяса” и “охлажденная соба с карри” - единственные два настоящих предложения соба; остальная часть меню, по какой-то причине, состоит из блюд удон. И на самом деле оба вида собы ужасны, хотя, возможно, охлажденная соба с карри была бы хороша, если бы ее готовил кто-то другой.",
-    "val": "A long-standing noodle shop on Dogenzaka. Two years ago, the owner passed away from illness; now, the restaurant is run by his widow, Maki Yoneda, and her two part-timers, Masa from Midoriyama Academy, and Mohinder, an Indian exchange student. Despite the sign billing the establishment as a soba restaurant, “duck meat soba” and “chilled curry soba” are the only two actual soba offerings; the rest of the menu, for some reason, is all udon dishes. And in fact both kinds of soba are terrible, though maybe the chilled curry soba would be okay if someone else were making it."
+    "val": "Старая лапшичная в Догензаке. Два года назад ее владелец скончался от болезни; сейчас рестораном управляет его вдова Маки Йонеда и двое ее рабочих, Маса из Академии Мидорияма и Мохиндер, студент по обмену из Индии. Несмотря на вывеску, рекламирующую заведение как ресторан соба, “соба из утиного мяса” и “охлажденная соба с карри” — единственные настоящие блюда с соба; остальная часть меню, по какой-то причине, состоит из блюд удон. На самом деле оба вида собы ужасны, хотя, возможно, охлажденная соба с карри была бы хороша, если бы ее готовил кто-то другой."
   },
   {
     "key": "Ura-Harajuku",
     "trx": "Ура-Харадзюку",
-    "val": "Ura-Harajuku"
+    "val": "Ура-Харадзюку"
   },
   {
     "key": "Known as “Ura-Hara” for short. The area east of the Japan Rail Harajuku Station, around where Takeshita-Dori meets Meiji-Dori. There are many small clothing and accessory stores here, set up in renovated houses. Most of these shops are on the cutting edge of youth fashion, offering quirky and unique means of personal expression.",
     "trx": "Сокращенно известный как “Ура-Хара”. Район к востоку от японской железнодорожной станции Харадзюку, примерно там, где Такешита-Дори встречается с Мэйдзи-Дори. Здесь есть много небольших магазинов одежды и аксессуаров, расположенных в отремонтированных домах. Большинство из этих магазинов находятся на переднем крае молодежной моды, предлагая необычные и уникальные средства самовыражения.",
-    "val": "Known as “Ura-Hara” for short. The area east of the Japan Rail Harajuku Station, around where Takeshita-Dori meets Meiji-Dori. There are many small clothing and accessory stores here, set up in renovated houses. Most of these shops are on the cutting edge of youth fashion, offering quirky and unique means of personal expression."
+    "val": "Сокращенно “Ура-Хара.” Район к востоку от японской железнодорожной станции Харадзюку, расположенный примерно там, где Такэсита-Дори сходится с Мэйдзи-Дори. В этом районе находится множество небольших магазинов одежды и аксессуаров, расположенных в отремонтированных домах. Большинство из этих магазинов находятся на пике молодежной моды, предлагая необычные и уникальные средства самовыражения."
   },
   {
     "key": "Minivan",

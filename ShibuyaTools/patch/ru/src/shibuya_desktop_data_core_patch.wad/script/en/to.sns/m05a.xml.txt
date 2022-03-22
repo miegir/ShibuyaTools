@@ -1542,7 +1542,7 @@
   {
     "key": "I get the heck out of there.",
     "trx": "Я убираюсь оттуда к чертовой матери.",
-    "val": "Я спешу убраться оттуда к чертовой матери."
+    "val": "Я спешу убраться отсюда к чертовой матери."
   },
   {
     "key": "“Hey! ",
@@ -2262,7 +2262,7 @@
   {
     "key": "Lying idly across the seats in the waiting area at the front of the restaurant is a young girl.",
     "trx": "На сиденьях в зоне ожидания в передней части ресторана лениво лежит молодая девушка.",
-    "val": "На сиденьях в зоне ожидания в перед рестораном лежит какая-то девочка."
+    "val": "На сиденьях в зоне ожидания перед рестораном лежит какая-то девочка."
   },
   {
     "key": "Is this the girl that dismal-looking fellow has been searching for?",

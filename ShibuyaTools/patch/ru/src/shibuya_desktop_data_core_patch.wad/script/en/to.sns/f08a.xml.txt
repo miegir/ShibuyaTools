@@ -2,137 +2,137 @@
   {
     "key": "The TV news continued to report on how Mamoru Tanaka had been killed in the minivan explosion.",
     "trx": "В телевизионных новостях продолжали сообщать о том, как Мамору Танака был убит при взрыве микроавтобуса.",
-    "val": "The TV news continued to report on how Mamoru Tanaka had been killed in the minivan explosion."
+    "val": "В телевизионных новостях продолжались сообщения о том, как Мамору Танака был убит при взрыве микроавтобуса."
   },
   {
     "key": "“What...",
     "trx": "“Что...",
-    "val": "“What..."
+    "val": "“Что... "
   },
   {
     "key": "what does this mean?” ",
     "trx": "что это значит?” ",
-    "val": "what does this mean?” "
+    "val": "что это значит?” "
   },
   {
     "key": "Chiaki blinked in confusion.",
     "trx": "Чиаки растерянно моргнула.",
-    "val": "Chiaki blinked in confusion."
+    "val": "Чиаки растерянно моргнула."
   },
   {
     "key": "“I mean, Hana told us herself that the van explosion was her father committing suicide, ",
     "trx": "“Я имею в виду, Хана сама сказала нам, что взрыв фургона был вызван самоубийством ее отца, ",
-    "val": "“I mean, Hana told us herself that the van explosion was her father committing suicide, "
+    "val": "“То есть, Хана ведь сама сказала нам, что фургон взорвался из-за самоубийства ее отца, "
   },
   {
     "key": "didn’t she?”",
     "trx": "не так ли?”",
-    "val": "didn’t she?”"
+    "val": "не так ли?”"
   },
   {
     "key": "“The only explanation I can think of,” Minorikawa replied, ",
     "trx": "“Единственное объяснение, которое я могу придумать”, - ответил Минорикава, ",
-    "val": "“The only explanation I can think of,” Minorikawa replied, "
+    "val": "“Единственное объяснение, которое приходит мне на ум,” ответил Минорикава, "
   },
   {
     "key": "“is that Hana was lying.”",
     "trx": "“в том, что Хана лгала”.",
-    "val": "“is that Hana was lying.”"
+    "val": "“это что Хана лгала.”"
   },
   {
     "key": "He scratched his head as he considered the situation.",
     "trx": "Он почесал в затылке, обдумывая ситуацию.",
-    "val": "He scratched his head as he considered the situation."
+    "val": "Он почесал затылок, обдумывая ситуацию."
   },
   {
     "key": "“But, why?” Chiaki said.",
     "trx": "“Но, почему?” Сказала Чиаки.",
-    "val": "“But, why?” Chiaki said."
+    "val": "“Но почему?” спросила Чиаки."
   },
   {
     "key": "Ozu let out a snort. ",
     "trx": "Одзу фыркнул. ",
-    "val": "Ozu let out a snort. "
+    "val": "Одзу фыркнул. "
   },
   {
     "key": "“Well, ",
     "trx": "“Ну что ж, ",
-    "val": "“Well, "
+    "val": "“Что ж, "
   },
   {
     "key": "it would seem Mr. Toyama had her lie in order to deceive us. ",
     "trx": "похоже, мистер Тояма заставил ее солгать, чтобы обмануть нас. ",
-    "val": "it would seem Mr. Toyama had her lie in order to deceive us. "
+    "val": "похоже, мистер Тояма заставил ее солгать, чтобы обмануть нас. "
   },
   {
     "key": "What an upstanding individual, using his own daughter to buy himself some time!”",
     "trx": "Какой порядочный человек, использующий собственную дочь, чтобы выиграть себе немного времени!”",
-    "val": "What an upstanding individual, using his own daughter to buy himself some time!”"
+    "val": "Подумать только — он использовал собственную дочь, чтобы выиграть себе немного времени!”"
   },
   {
     "key": "Minorikawa wanted to yell at the guy, but he managed to hold his tongue.",
     "trx": "Минорикава хотел накричать на парня, но ему удалось придержать язык.",
-    "val": "Minorikawa wanted to yell at the guy, but he managed to hold his tongue."
+    "val": "Минорикава хотел накричать на парня, но смог придержать язык."
   },
   {
     "key": "The important thing was that Toyama was still alive.",
     "trx": "Важно было то, что Тояма все еще был жив.",
-    "val": "The important thing was that Toyama was still alive."
+    "val": "Важно было то, что Тояма все еще был жив."
   },
   {
     "key": "And if he was still alive, then there was still a way to save Heaven Publishing.",
     "trx": "И если он все еще был жив, то все еще был способ спасти издательство \"Хевен Паблишинг\".",
-    "val": "And if he was still alive, then there was still a way to save Heaven Publishing."
+    "val": "И раз он все еще был жив, то все еще была возможность спасти издательство \"Небеса\"."
   },
   {
     "key": "They’d get the current issue out on time, with a big scoop waiting in the wings for the issue after that.",
     "trx": "Они выпустили бы текущий выпуск вовремя, а после этого ждала бы своего часа большая сенсация.",
-    "val": "They’d get the current issue out on time, with a big scoop waiting in the wings for the issue after that."
+    "val": "Текущий выпуск мог бы выйти вовремя, а для последующего выпуска уже была готова большая сенсация."
   },
   {
     "key": "From there on out, it should be smooth sailing.",
     "trx": "С этого момента все должно идти гладко.",
-    "val": "From there on out, it should be smooth sailing."
+    "val": "С этого момента все должно идти гладко."
   },
   {
     "key": "“Well, no matter,” Ozu said. ",
     "trx": "“Ну, не важно\", ” сказал Одзу. ",
-    "val": "“Well, no matter,” Ozu said. "
+    "val": "“Ну, не важно,” сказал Одзу. "
   },
   {
     "key": "“Seeing as Mr. Toyama isn’t dead after all, we’ll just wait here for him.”",
     "trx": "“Поскольку мистер Тояма все-таки не умер, мы просто подождем его здесь”.",
-    "val": "“Seeing as Mr. Toyama isn’t dead after all, we’ll just wait here for him.”"
+    "val": "“Раз мистер Тояма все-таки не умер, мы просто подождем его здесь.”"
   },
   {
     "key": "He sat back down on the sofa.",
     "trx": "Он снова сел на диван.",
-    "val": "He sat back down on the sofa."
+    "val": "Он снова сел на диван."
   },
   {
     "key": "But Segawa leaned threateningly toward Chiaki. “Hey!” he snarled. ",
     "trx": "Но Сегава угрожающе наклонился к Чиаки. \"Эй!\" - прорычал он. ",
-    "val": "But Segawa leaned threateningly toward Chiaki. “Hey!” he snarled. "
+    "val": "Но Сегава угрожающе наклонился к Чиаки. “Эй!” прорычал он. "
   },
   {
     "key": "“You sure you don’t know where the guy’s hiding out?”",
     "trx": "“Ты уверен, что не знаешь, где прячется этот парень?”",
-    "val": "“You sure you don’t know where the guy’s hiding out?”"
+    "val": "“Ты уверена, что не знаешь, где прячется этот парень?”"
   },
   {
     "key": "“I don’t!” Chiaki shot back. ",
     "trx": "“Я не хочу!” Чиаки выстрелила в ответ. ",
-    "val": "“I don’t!” Chiaki shot back. "
+    "val": "“Я не знаю!” выпалила Чиаки в ответ. "
   },
   {
     "key": "“And even if I did, I’d never tell ",
     "trx": "“И даже если бы я знал, я бы никогда не сказал ",
-    "val": "“And even if I did, I’d never tell "
+    "val": "“И даже если бы знала, я бы никогда не сказала "
   },
   {
     "key": "you",
     "trx": "ты",
-    "val": "you"
+    "val": "вам"
   },
   {
     "key": "!”",
@@ -142,62 +142,62 @@
   {
     "key": "“Say what now?!”",
     "trx": "“Что теперь сказать?!”",
-    "val": "“Say what now?!”"
+    "val": "“Что ты несешь?!”"
   },
   {
     "key": "He leaned in even closer just as she stood on her tip-toes in defiance—and their foreheads collided with a dull thud.",
     "trx": "Он наклонился еще ближе как раз в тот момент, когда она с вызовом встала на цыпочки - и их лбы столкнулись с глухим стуком.",
-    "val": "He leaned in even closer just as she stood on her tip-toes in defiance—and their foreheads collided with a dull thud."
+    "val": "Он наклонился еще ближе как раз в тот момент, когда она с вызовом встала на цыпочки — и их лбы столкнулись с глухим стуком."
   },
   {
     "key": "Both reeled back, clutching their heads in their hands.",
     "trx": "Оба отшатнулись, схватившись за головы руками.",
-    "val": "Both reeled back, clutching their heads in their hands."
+    "val": "Оба отшатнулись, схватившись за головы руками."
   },
   {
     "key": "“Just calm down, Chiaki,” Minorikawa said as he began rooting through Toyama’s desk. ",
     "trx": "“Просто успокойся, Чиаки”, - сказал Минорикава, начиная рыться в столе Тоямы. ",
-    "val": "“Just calm down, Chiaki,” Minorikawa said as he began rooting through Toyama’s desk. "
+    "val": "“Успокойся, Чиаки,” сказал Минорикава, начиная рыться в столе Тоямы. "
   },
   {
     "key": "“For now, I’m going to look for clues to where Toyama might have gone. ",
     "trx": "“Сейчас я собираюсь поискать подсказки о том, куда мог пойти Тояма. ",
-    "val": "“For now, I’m going to look for clues to where Toyama might have gone. "
+    "val": "“Я попробую найти что-то, что поможет понять, куда мог пойти Тояма. "
   },
   {
     "key": "You just focus on working on your article.”",
     "trx": "Ты просто сосредоточься на работе над своей статьей”.",
-    "val": "You just focus on working on your article.”"
+    "val": "А ты пока сосредоточься на работе над своей статьей.”"
   },
   {
     "key": "“Oh?” Ozu raised an eyebrow. ",
     "trx": "\"о?” Одзу приподнял бровь. ",
-    "val": "“Oh?” Ozu raised an eyebrow. "
+    "val": "“А?” Одзу приподнял бровь. "
   },
   {
     "key": "“Getting all cooperative all of a sudden, I see.”",
     "trx": "“Я вижу, ты вдруг становишься таким сговорчивым”.",
-    "val": "“Getting all cooperative all of a sudden, I see.”"
+    "val": "“Смотрю, ты вдруг стал таким сговорчивым.”"
   },
   {
     "key": "“I want to change up the plan for next month’s issue. ",
     "trx": "“Я хочу изменить план выпуска за следующий месяц. ",
-    "val": "“I want to change up the plan for next month’s issue. "
+    "val": "“Я хочу изменить план для номера за следующий месяц. "
   },
   {
     "key": "And I can’t do that without the editor-in-chief’s approval.”",
     "trx": "И я не могу этого сделать без одобрения главного редактора\".",
-    "val": "And I can’t do that without the editor-in-chief’s approval.”"
+    "val": "Но я не могу этого сделать без одобрения главного редактора.”"
   },
   {
     "key": "What Minorikawa was actually looking for, however, was a back issue of ",
     "trx": "Однако то, что Минорикава на самом деле искал, было задней проблемой ",
-    "val": "What Minorikawa was actually looking for, however, was a back issue of "
+    "val": "Однако на самом деле Минорикава искал старый выпуск "
   },
   {
     "key": "Four-Star General Gossip",
     "trx": "Четырехзвездочная Общая сплетня",
-    "val": "Four-Star General Gossip"
+    "val": "Четырехзвездочных сплетен"
   },
   {
     "key": ".",
@@ -207,182 +207,182 @@
   {
     "key": "He was pretty sure the article on Osawa had been printed in the magazine’s inaugural issue.",
     "trx": "Он был почти уверен, что статья об Осаве была напечатана в первом номере журнала.",
-    "val": "He was pretty sure the article on Osawa had been printed in the magazine’s inaugural issue."
+    "val": "Он был почти уверен, что статья об Осаве была напечатана в самом первом номере журнала."
   },
   {
     "key": "If he could find that scandalous piece that the scientist had asked for, he’d also be able to get his big lead about “the power balance of the world” being at stake.",
     "trx": "Если бы он смог найти ту скандальную статью, о которой просил ученый, он также смог бы получить важную информацию о том, что на карту поставлен “баланс сил в мире”.",
-    "val": "If he could find that scandalous piece that the scientist had asked for, he’d also be able to get his big lead about “the power balance of the world” being at stake."
+    "val": "Если бы он смог найти ту скандальную статью, о которой спрашивал ученый, он смог бы получить также важную информацию о “балансе сил во всем мире,” который был поставлен на карту."
   },
   {
     "key": "And if he could get that, not only would next month’s issue be a sure thing, ",
     "trx": "И если бы он мог получить это, то не только выпуск в следующем месяце был бы верной вещью, ",
-    "val": "And if he could get that, not only would next month’s issue be a sure thing, "
+    "val": "И если бы он смог ее получить, то не только можно было бы быть уверенным, что номер за следующий месяц точно выйдет, "
   },
   {
     "key": "it was a good bet that sales figures would go through the roof.",
     "trx": "можно было поспорить, что показатели продаж взлетят до небес.",
-    "val": "it was a good bet that sales figures would go through the roof."
+    "val": "можно было также поспорить, что его продажи взлетят до небес."
   },
   {
     "key": "He found a file folder full of early material and quickly flipped through it.",
     "trx": "Он нашел папку с файлами, полную ранних материалов, и быстро пролистал ее.",
-    "val": "He found a file folder full of early material and quickly flipped through it."
+    "val": "Он нашел папку, полную ранних материалов, и быстро пролистал ее."
   },
   {
     "key": "It didn’t take him long to find the article.",
     "trx": "Ему не потребовалось много времени, чтобы найти статью.",
-    "val": "It didn’t take him long to find the article."
+    "val": "Ему не потребовалось много времени, чтобы найти статью."
   },
   {
     "key": "“Floundering Okoshi Pharmaceutical Arranges Marriage of Political Convenience”",
     "trx": "“Барахтающаяся фармацевтическая компания Окоши Устраивает брак по политическому расчету”",
-    "val": "“Floundering Окоши Фармасьютикал Arranges Marriage of Political Convenience”"
+    "val": "“Идущая ко дну Окоши Фармасьютикал устраивает брак по политическому расчету”"
   },
   {
     "key": "The large headline practically jumped off of the page.",
     "trx": "Крупный заголовок практически соскочил со страницы.",
-    "val": "The large headline practically jumped off of the page."
+    "val": "Огромный заголовок растянулся на всю ширину страницы."
   },
   {
     "key": "Minorikawa quickly read over the story.",
     "trx": "Минорикава быстро перечитал рассказ.",
-    "val": "Minorikawa quickly read over the story."
+    "val": "Минорикава быстро прочитал историю."
   },
   {
     "key": "The basic gist of it was this:",
     "trx": "Основная суть этого заключалась в следующем:",
-    "val": "The basic gist of it was this:"
+    "val": "Суть ее заключалась в следующем:"
   },
   {
     "key": "The corporate director of Okoshi Pharmaceutical had ‘sacrificed’ his daughter in order to keep a researcher named Kenji Osawa on board.",
     "trx": "Корпоративный директор Okoshi Pharmaceutical \"пожертвовал\" своей дочерью, чтобы удержать на борту исследователя по имени Кэндзи Осава.",
-    "val": "The corporate director of Окоши Фармасьютикал had ‘sacrificed’ his daughter in order to keep a researcher named Kenji Osawa on board."
+    "val": "Корпоративный директор Окоши Фармасьютикал ‘пожертвовал’ своей дочерью, чтобы удержать в компании исследователя по имени Кэндзи Осава."
   },
   {
     "key": "The daughter, however, had previously been dating another man.",
     "trx": "Дочь, однако, ранее встречалась с другим мужчиной.",
-    "val": "The daughter, however, had previously been dating another man."
+    "val": "Однако ранее его дочь встречалась с другим мужчиной."
   },
   {
     "key": "That must be what Osawa wanted him to look into—the guy his wife had been dating before they were married.",
     "trx": "Должно быть, именно этим Осава хотел, чтобы он занялся — парнем, с которым встречалась его жена до того, как они поженились.",
-    "val": "That must be what Osawa wanted him to look into—the guy his wife had been dating before they were married."
+    "val": "По видимому Осава хотел, чтобы он разузнал, кем был тот человек, с которым встречалась его жена до свадьбы."
   },
   {
     "key": "It should be easy enough to just ask whoever had written the article.",
     "trx": "Должно быть достаточно легко просто спросить того, кто написал статью.",
-    "val": "It should be easy enough to just ask whoever had written the article."
+    "val": "Наверное, можно было просто спросить об этом у того, кто написал статью."
   },
   {
     "key": "Minorikawa’s gaze jumped to the end of the piece, ",
     "trx": "Взгляд Минорикавы метнулся к концу пьесы, ",
-    "val": "Minorikawa’s gaze jumped to the end of the piece, "
+    "val": "Взгляд Минорикавы метнулся в конец статьи, "
   },
   {
     "key": "looking for the writing credit.",
     "trx": "ищу зачет по написанию.",
-    "val": "looking for the writing credit."
+    "val": "ища имя автора."
   },
   {
     "key": "The piece had been written by Toyama himself.",
     "trx": "Эта статья была написана самим Тоямой.",
-    "val": "The piece had been written by Toyama himself."
+    "val": "Оказалось, что статью написал сам Тояма."
   },
   {
     "key": "“Hey, ain’t you done yet?” Segawa yelled. ",
     "trx": "“Эй, ты еще не закончил?” - закричал Сегава. ",
-    "val": "“Hey, ain’t you done yet?” Segawa yelled. "
+    "val": "“Эй, ты еще не закончил?” закричал Сегава. "
   },
   {
     "key": "“Tell us where Toyama is already!”",
     "trx": "“Скажи нам, где уже Тояма!”",
-    "val": "“Tell us where Toyama is already!”"
+    "val": "“Скажи нам уже, где Тояма!”"
   },
   {
     "key": "Yeah,",
     "trx": "Да,",
-    "val": "Yeah,"
+    "val": "Да,"
   },
   {
     "key": " Minorikawa thought, ",
     "trx": " Минорикава подумал, ",
-    "val": " Minorikawa thought, "
+    "val": " подумал Минорикава, "
   },
   {
     "key": "we’re going to need to do something about these guys.",
     "trx": "нам нужно будет что-то сделать с этими парнями.",
-    "val": "we’re going to need to do something about these guys."
+    "val": "нужно будет что-то сделать с этими парнями."
   },
   {
     "key": "“I’m still looking into it,” he said. ",
     "trx": "“Я все еще изучаю это\", ” сказал он. ",
-    "val": "“I’m still looking into it,” he said. "
+    "val": "“Я все еще изучаю материалы,” сказал он. "
   },
   {
     "key": "“Just hold on.”",
     "trx": "“Просто держись”.",
-    "val": "“Just hold on.”"
+    "val": "“Вам придется подождать.”"
   },
   {
     "key": "He made a show of opening and closing various desk drawers.",
     "trx": "Он устроил представление, открывая и закрывая различные ящики стола.",
-    "val": "He made a show of opening and closing various desk drawers."
+    "val": "Он устроил представление, открывая и закрывая различные ящики стола."
   },
   {
     "key": "The drawers themselves were packed with a jumbled mess of electrical and gas bills, ",
     "trx": "Сами ящики были набиты беспорядочной кучей счетов за электричество и газ, ",
-    "val": "The drawers themselves were packed with a jumbled mess of electrical and gas bills, "
+    "val": "Сами ящики были набиты беспорядочной кучей счетов за электричество и газ, "
   },
   {
     "key": "noodle house delivery menus, and the like.",
     "trx": "меню доставки лапши в дом и тому подобное.",
-    "val": "noodle house delivery menus, and the like."
+    "val": "доставочным меню из лапшичной и так далее."
   },
   {
     "key": "“Look faster!” Segawa growled.",
     "trx": "“Смотри быстрее!” Сегава зарычал.",
-    "val": "“Look faster!” Segawa growled."
+    "val": "“Ищи быстрее!” зарычал Сегава."
   },
   {
     "key": "For now, Minorikawa decided, he’d better butter this guy up.",
     "trx": "А пока, решил Минорикава, ему лучше умаслить этого парня.",
-    "val": "For now, Minorikawa decided, he’d better butter this guy up."
+    "val": "Минорикава решил, что надо пока умаслить этого парня."
   },
   {
     "key": "Maybe he could mollify this guy by having some noodles delivered for dinner.",
     "trx": "Может быть, он мог бы успокоить этого парня, заказав на ужин немного лапши.",
-    "val": "Maybe he could mollify this guy by having some noodles delivered for dinner."
+    "val": "Может быть, он мог бы успокоить этого парня, заказав на ужин немного лапши."
   },
   {
     "key": "For now, Minorikawa decided, he’d better butter this guy up.",
     "trx": "А пока, решил Минорикава, ему лучше умаслить этого парня.",
-    "val": "For now, Minorikawa decided, he’d better butter this guy up."
+    "val": "Минорикава решил, что надо пока умаслить этого парня."
   },
   {
     "key": "“Say, you look like a pretty tough guy. ",
     "trx": "“Слушай, ты выглядишь довольно крутым парнем. ",
-    "val": "“Say, you look like a pretty tough guy. "
+    "val": "“Слушай, ты выглядишь довольно крутым парнем. "
   },
   {
     "key": "You work out?”",
     "trx": "Ты тренируешься?”",
-    "val": "You work out?”"
+    "val": "Ты тренируешься?”"
   },
   {
     "key": "Segawa grinned, thrusting his fist out in an emphatic air-punch. ",
     "trx": "Сегава ухмыльнулся, выставив кулак в выразительном ударе по воздуху. ",
-    "val": "Segawa grinned, thrusting his fist out in an emphatic air-punch. "
+    "val": "Сегава ухмыльнулся, выкинув кулак в выразительном ударе по воздуху. "
   },
   {
     "key": "“I ",
     "trx": "“Я ",
-    "val": "“I "
+    "val": "“Я "
   },
   {
     "key": "used to be a boxer",
     "trx": "раньше был боксером",
-    "val": "used to be a boxer"
+    "val": "раньше был боксером"
   },
   {
     "key": ". ",
@@ -392,182 +392,182 @@
   {
     "key": "I could drop a guy like you in one punch.”",
     "trx": "Я мог бы уложить такого парня, как ты, одним ударом.”",
-    "val": "I could drop a guy like you in one punch.”"
+    "val": "Я мог бы уложить такого парня, как ты, одним ударом.”"
   },
   {
     "key": "“Oho. ",
     "trx": "“Ого. ",
-    "val": "“Oho. "
+    "val": "“Ого. "
   },
   {
     "key": "Guess there aren’t many folks who can give you a good fight, then.”",
     "trx": "Тогда, думаю, найдется не так много людей, которые смогут дать тебе хороший бой.”",
-    "val": "Guess there aren’t many folks who can give you a good fight, then.”"
+    "val": "Тогда, думаю, найдется не так много людей, которые смогут сражаться с тобой на равных.”"
   },
   {
     "key": "Segawa dropped into a fighting pose and threw a few quick jabs. ",
     "trx": "Сегава встал в боевую позу и нанес несколько быстрых ударов. ",
-    "val": "Segawa dropped into a fighting pose and threw a few quick jabs. "
+    "val": "Сегава встал в боевую позу и выполнил несколько быстрых ударов. "
   },
   {
     "key": "“Well, matter of fact, ",
     "trx": "“Ну, собственно говоря, ",
-    "val": "“Well, matter of fact, "
+    "val": "“Ну, я, вообще-то, "
   },
   {
     "key": "I’m unbeatable in a street fight. ",
     "trx": "Я непобедим в уличной драке. ",
-    "val": "I’m unbeatable in a street fight. "
+    "val": "непобедим в уличной драке. "
   },
   {
     "key": "They call me the Crazy Tiger of Shibuya.”",
     "trx": "Они называют меня Сумасшедшим Тигром Сибуи.”",
-    "val": "They call me the Crazy Tiger of Shibuya.”"
+    "val": "Меня называют Сумасшедшим тигром Сибуи.”"
   },
   {
     "key": "“Shibuya, huh? ",
     "trx": "“Сибуя, да? ",
-    "val": "“Shibuya, huh? "
+    "val": "“Сибуи, да? "
   },
   {
     "key": "You familiar with S.O.S., then?”",
     "trx": "Значит, вы знакомы с S.O.S.?”",
-    "val": "You familiar with S.O.S., then?”"
+    "val": "Значит, ты знаешь S.O.S.?”"
   },
   {
     "key": "Segawa’s face twisted into a sneer.",
     "trx": "Лицо Сегавы исказила усмешка.",
-    "val": "Segawa’s face twisted into a sneer."
+    "val": "Лицо Сегавы исказила усмешка."
   },
   {
     "key": "“What, ",
     "trx": "“Что, ",
-    "val": "“What, "
+    "val": "“Что, "
   },
   {
     "key": "those",
     "trx": "те",
-    "val": "those"
+    "val": "тех"
   },
   {
     "key": " guys?”",
     "trx": " ребята?”",
-    "val": " guys?”"
+    "val": " парней?”"
   },
   {
     "key": "“I mean I’ve heard they’re pretty tough, too.”",
     "trx": "“Я имею в виду, я слышал, что они тоже довольно крутые”.",
-    "val": "“I mean I’ve heard they’re pretty tough, too.”"
+    "val": "“Ну, я слышал, что они тоже довольно крутые.”"
   },
   {
     "key": "“Hmph. ",
     "trx": "“Хм. ",
-    "val": "“Hmph. "
+    "val": "“Хмф. "
   },
   {
     "key": "Only one of ",
     "trx": "Только один из ",
-    "val": "Only one of "
+    "val": "Ну, из "
   },
   {
     "key": "them",
     "trx": "их",
-    "val": "them"
+    "val": "них"
   },
   {
     "key": " who’d be able to give me a fight would prob’ly be that Achi Endo. ",
     "trx": " тот, кто смог бы дать мне бой, вероятно, был бы тем Ачи Эндо. ",
-    "val": " who’d be able to give me a fight would prob’ly be that Achi Endo. "
+    "val": " подраться со мной на равных наверное мог бы только Ачи Эндо. "
   },
   {
     "key": "Except as I hear it, he’s left the gang.”",
     "trx": "За исключением того, что, как я слышал, он покинул банду.”",
-    "val": "Except as I hear it, he’s left the gang.”"
+    "val": "Хотя я слышал, что он покинул банду.”"
   },
   {
     "key": "“Aha. Really now? ",
     "trx": "“Ага. Действительно сейчас? ",
-    "val": "“Aha. Really now? "
+    "val": "“Ага. Правда? "
   },
   {
     "key": "Heard anything else interesting?”",
     "trx": "Слышал еще что-нибудь интересное?”",
-    "val": "Heard anything else interesting?”"
+    "val": "А ты слышал еще что-нибудь интересное?”"
   },
   {
     "key": "“Sounds like nowadays they’re being run by some guy named Susumu.”",
     "trx": "“Похоже, в настоящее время ими управляет какой-то парень по имени Сусуму”.",
-    "val": "“Sounds like nowadays they’re being run by some guy named Susumu.”"
+    "val": "“В настоящее время ими, похоже, управляет парень по имени Сусуму.”"
   },
   {
     "key": "The name Susumu rung a bell.",
     "trx": "Имя Сусуму прозвучало как колокольчик.",
-    "val": "The name Susumu rung a bell."
+    "val": "Имя Сусуму насторожило Минорикаву."
   },
   {
     "key": "Those two young punks who’d been arguing after the van explosion had mentioned him.",
     "trx": "Те двое молодых панков, которые спорили после взрыва фургона, упомянули его.",
-    "val": "Those two young punks who’d been arguing after the van explosion had mentioned him."
+    "val": "Те двое молодых панков, которые спорили после взрыва фургона, также упоминали его."
   },
   {
     "key": "“Seems like S.O.S. is in a pretty rough state since Achi left, though,” Segawa added. ",
     "trx": "“Похоже, что S.O.S. находится в довольно тяжелом состоянии с тех пор, как ушел Ачи\", - добавил Сегава. ",
-    "val": "“Seems like S.O.S. is in a pretty rough state since Achi left, though,” Segawa added. "
+    "val": "“Похоже, что S.O.S. находится в довольно тяжелом состоянии с тех пор, как ушел Ачи,” добавил Сегава. "
   },
   {
     "key": "Minorikawa didn’t miss a beat. ",
     "trx": "Минорикава не пропустил ни одного удара. ",
-    "val": "Minorikawa didn’t miss a beat. "
+    "val": "Минорикава не упускал ничего. "
   },
   {
     "key": "“What do you mean, rough state?”",
     "trx": "“Что вы имеете в виду, в тяжелом состоянии?”",
-    "val": "“What do you mean, rough state?”"
+    "val": "“Что значит в тяжелом состоянии?”"
   },
   {
     "key": "“Back in the day, they were all goody-two-shoes—never shake folks down, or steal, or any of that stuff. ",
     "trx": "“В свое время все они были паиньками - никогда не унижали людей, не крали и тому подобное. ",
-    "val": "“Back in the day, they were all goody-two-shoes—never shake folks down, or steal, or any of that stuff. "
+    "val": "“В свое время все они были паиньками — никогда не унижали людей, не крали и так далее. "
   },
   {
     "key": "Guess their founder Achi hated that sorta thing. ",
     "trx": "Думаю, их основатель Ачи ненавидел подобные вещи. ",
-    "val": "Guess their founder Achi hated that sorta thing. "
+    "val": "Думаю, их основатель Ачи ненавидел подобные вещи. "
   },
   {
     "key": "But now that he’s out, a lotta rough-and-tumble, hot-blooded types have been signing up with them. ",
     "trx": "Но теперь, когда он вышел, к ним присоединилось множество грубых, вспыльчивых типов. ",
-    "val": "But now that he’s out, a lotta rough-and-tumble, hot-blooded types have been signing up with them. "
+    "val": "Но теперь, когда он ушел, к ним присоединилось множество грубых, вспыльчивых типов. "
   },
   {
     "key": "Smart move is not to get involved with S.O.S. nowadays, really. ",
     "trx": "На самом деле, разумный ход - не связываться с S.O.S. в наши дни. ",
-    "val": "Smart move is not to get involved with S.O.S. nowadays, really. "
+    "val": "На самом деле, в наши дни разумно будет не связываться с S.O.S. "
   },
   {
     "key": "Hard to find a scarier bunch ‘round here, when there’s a lot of ‘em together.”",
     "trx": "Трудно найти здесь более страшную компанию, когда их так много вместе.”",
-    "val": "Hard to find a scarier bunch ‘round here, when there’s a lot of ‘em together.”"
+    "val": "Трудно найти здесь более страшную компанию, чем когда они собираются все вместе.”"
   },
   {
     "key": "“Mmhmm. ",
     "trx": "“Мммм. ",
-    "val": "“Mmhmm. "
+    "val": "“Мммм. "
   },
   {
     "key": "And their main hangout—that’s at Inferno, yeah?”",
     "trx": "И их главная тусовка — это в Инферно, да?”",
-    "val": "And their main hangout—that’s at Inferno, yeah?”"
+    "val": "А их главное логово находится в Инферно, да?”"
   },
   {
     "key": "“Yeah, over in ",
     "trx": "“Да, вон там, в ",
-    "val": "“Yeah, over in "
+    "val": "“Да, в "
   },
   {
     "key": "Ura-Harajuku",
     "trx": "Ура-Харадзюку",
-    "val": "Ura-Harajuku"
+    "val": "Ура-Харадзюку"
   },
   {
     "key": ". ",
@@ -577,627 +577,627 @@
   {
     "key": "Man, you been listenin’ out on the streets. What gives?”",
     "trx": "Чувак, ты подслушивал на улицах. Что дает?”",
-    "val": "Man, you been listenin’ out on the streets. What gives?”"
+    "val": "И ты услышал все это на улицах?”"
   },
   {
     "key": "“Ura-Harajuku, huh?”",
     "trx": "“Ура-Харадзюку, да?”",
-    "val": "“Ura-Harajuku, huh?”"
+    "val": "“Ура-Харадзюку, да?”"
   },
   {
     "key": "Minorikawa smiled to himself. Inferno’s location had practically fallen into his lap.",
     "trx": "Минорикава улыбнулся про себя. Местоположение Инферно практически упало ему на колени.",
-    "val": "Minorikawa smiled to himself. Inferno’s location had practically fallen into his lap."
+    "val": "Минорикава улыбнулся про себя. Местоположение Инферно свалилось на него как манна небесная."
   },
   {
     "key": "Suddenly Segawa’s eyes went wide. ",
     "trx": "Внезапно глаза Сегавы расширились. ",
-    "val": "Suddenly Segawa’s eyes went wide. "
+    "val": "Внезапно глаза Сегавы расширились. "
   },
   {
     "key": "“Aha! ",
     "trx": "“Ага! ",
-    "val": "“Aha! "
+    "val": "“Ага! "
   },
   {
     "key": "So ",
     "trx": "Так ",
-    "val": "So "
+    "val": "Так "
   },
   {
     "key": "that’s",
     "trx": "Это",
-    "val": "that’s"
+    "val": "вот"
   },
   {
     "key": " where Toyama is! ",
     "trx": " где Тояма! ",
-    "val": " where Toyama is! "
+    "val": " где Тояма! "
   },
   {
     "key": "...wait. ",
     "trx": "...подожди. ",
-    "val": "...wait. "
+    "val": "...Погоди. "
   },
   {
     "key": "Nah. No way a coward like him would go to a place like that.”",
     "trx": "Нет. Такой трус, как он, ни за что не пошел бы в такое место.”",
-    "val": "Nah. No way a coward like him would go to a place like that.”"
+    "val": "Нет. Такой трус, как он, ни за что не пошел бы в такое место.”"
   },
   {
     "key": "Chiaki looked up from her keyboard. ",
     "trx": "Чиаки оторвала взгляд от клавиатуры. ",
-    "val": "Chiaki looked up from her keyboard. "
+    "val": "Чиаки оторвала взгляд от клавиатуры. "
   },
   {
     "key": "“Look, can you ",
     "trx": "“Послушай, ты можешь ",
-    "val": "“Look, can you "
+    "val": "“Слушайте, не могли бы вы, "
   },
   {
     "key": "please",
     "trx": "пожалуйста",
-    "val": "please"
+    "val": "пожалуйста"
   },
   {
     "key": " shut up!”",
     "trx": " заткнись!”",
-    "val": " shut up!”"
+    "val": ", заткнуться!”"
   },
   {
     "key": "“No, ",
     "trx": "“Нет, ",
-    "val": "“No, "
+    "val": "“Нет, это "
   },
   {
     "key": "you",
     "trx": "ты",
-    "val": "you"
+    "val": "ты"
   },
   {
     "key": " shut up!”",
     "trx": " заткнись!”",
-    "val": " shut up!”"
+    "val": " заткнись!”"
   },
   {
     "key": "“That’s my phone.”",
     "trx": "“Это мой телефон”.",
-    "val": "“That’s my phone.”"
+    "val": "“Это мой телефон.”"
   },
   {
     "key": "Minorikawa pulled his cell out of his pocket.",
     "trx": "Минорикава вытащил свой сотовый из кармана.",
-    "val": "Minorikawa pulled his cell out of his pocket."
+    "val": "Минорикава вытащил свой сотовый из кармана."
   },
   {
     "key": "It was Toyama’s name on the incoming call screen.",
     "trx": "На экране входящего вызова было имя Тоямы.",
-    "val": "It was Toyama’s name on the incoming call screen."
+    "val": "На экране высветилось имя Тоямы."
   },
   {
     "key": "Minorikawa’s heart skipped a beat.",
     "trx": "Сердце Минорикавы пропустило удар.",
-    "val": "Minorikawa’s heart skipped a beat."
+    "val": "Сердце Минорикавы ёкнуло."
   },
   {
     "key": "“Toyama? Where are you?!” he blurted out as he picked up.",
     "trx": "“Тояма? Где ты?! - выпалил он, поднимая трубку.",
-    "val": "“Toyama? Where are you?!” he blurted out as he picked up."
+    "val": "“Тояма? Где вы?!” выпалил он, поднимая трубку."
   },
   {
     "key": "Chiaki, Ozu, and Segawa turned to look at him as one.",
     "trx": "Чиаки, Одзу и Сегава повернулись, чтобы посмотреть на него как один.",
-    "val": "Chiaki, Ozu, and Segawa turned to look at him as one."
+    "val": "Чиаки, Одзу и Сегава одновременно повернулись, чтобы посмотреть на него."
   },
   {
     "key": "“Well...",
     "trx": "\"хорошо...",
-    "val": "“Well..."
+    "val": "“Ну... "
   },
   {
     "key": "um...” ",
     "trx": "эм...” ",
-    "val": "um...” "
+    "val": "эм...” "
   },
   {
     "key": "“What were you ",
     "trx": "“Кем ты был ",
-    "val": "“What were you "
+    "val": "“О чем вы "
   },
   {
     "key": "thinking",
     "trx": "размышляющий",
-    "val": "thinking"
+    "val": "думали"
   },
   {
     "key": ", faking your death like that?!”",
     "trx": ", вот так инсценировать свою смерть?!”",
-    "val": ", faking your death like that?!”"
+    "val": ", вот так инсценируя свою смерть?!”"
   },
   {
     "key": "“Even if we could fill those pages and postpone repayment, ",
     "trx": "“Даже если бы мы могли заполнить эти страницы и отложить выплату, ",
-    "val": "“Even if we could fill those pages and postpone repayment, "
+    "val": "“Даже если бы мы смогли заполнить эти страницы и отложить выплату, "
   },
   {
     "key": "all it would do is delay the inevitable. ",
     "trx": "все, что это могло бы сделать, - это отсрочить неизбежное. ",
-    "val": "all it would do is delay the inevitable. "
+    "val": "это всего лишь отсрочило бы неизбежное. "
   },
   {
     "key": "I’d still be up to my ears in debt. ",
     "trx": "Я все равно был бы по уши в долгах. ",
-    "val": "I’d still be up to my ears in debt. "
+    "val": "Я все равно был бы по уши в долгах. "
   },
   {
     "key": "So I thought if I made it look like I was dead...” ",
     "trx": "Поэтому я подумал, что если я сделаю так, чтобы все выглядело так, будто я мертв...” ",
-    "val": "So I thought if I made it look like I was dead...” "
+    "val": "И я подумал, что если бы это все выглядело так, как будто я мертв...” "
   },
   {
     "key": "Minorikawa let out an exasperated sigh.",
     "trx": "Минорикава раздраженно вздохнул.",
-    "val": "Minorikawa let out an exasperated sigh."
+    "val": "Минорикава раздраженно вздохнул."
   },
   {
     "key": "“Well, everyone already knows you’re still alive. ",
     "trx": "“Ну, все уже знают, что ты все еще жив. ",
-    "val": "“Well, everyone already knows you’re still alive. "
+    "val": "“Ну, все уже знают, что вы все еще живы. "
   },
   {
     "key": "So your little attempt at subterfuge didn’t even wind up buying you time.”",
     "trx": "Так что твоя маленькая попытка отговорки даже не выиграла тебе время.”",
-    "val": "So your little attempt at subterfuge didn’t even wind up buying you time.”"
+    "val": "Так что ваша маленькая попытка даже не выиграла вам время.”"
   },
   {
     "key": "“What?!” ",
     "trx": "“Что?!” ",
-    "val": "“What?!” "
+    "val": "“Что?!” "
   },
   {
     "key": "Toyama’s hysterical squeak was painful to hear.",
     "trx": "Истерический писк Тоямы было больно слышать.",
-    "val": "Toyama’s hysterical squeak was painful to hear."
+    "val": "Истерический писк Тоямы было больно слышать."
   },
   {
     "key": "“All right, listen up,” Minorikawa said. ",
     "trx": "“Хорошо, слушайте\", ” сказал Минорикава. ",
-    "val": "“All right, listen up,” Minorikawa said. "
+    "val": "“Хорошо, слушайте,” сказал Минорикава. "
   },
   {
     "key": "“If it’s the debt you’re worried about, you’ll be able to pay that back real soon.”",
     "trx": "“Если тебя беспокоит долг, ты сможешь его вернуть очень скоро”.",
-    "val": "“If it’s the debt you’re worried about, you’ll be able to pay that back real soon.”"
+    "val": "“Если вас беспокоит долг, вы вскоре сможете его вернуть.”"
   },
   {
     "key": "“What do you mean?”",
     "trx": "“Что вы имеете в виду?”",
-    "val": "“What do you mean?”"
+    "val": "“Что ты имеешь в виду?”"
   },
   {
     "key": "“I’ve landed a huge scoop. ",
     "trx": "“Я получил огромную сенсацию. ",
-    "val": "“I’ve landed a huge scoop. "
+    "val": "“Я заполучил огромную сенсацию. "
   },
   {
     "key": "You could do a print run of a million copies and still sell out if we can run it as an article.”",
     "trx": "Вы могли бы напечатать тираж в миллион экземпляров и все равно раскупиться, если мы сможем опубликовать это в виде статьи”.",
-    "val": "You could do a print run of a million copies and still sell out if we can run it as an article.”"
+    "val": "Даже тираж в миллион экземпляров легко разойдется, если мы сможем опубликовать такую статью.”"
   },
   {
     "key": "Toyama perked right up. ",
     "trx": "Тояма сразу оживился. ",
-    "val": "Toyama perked right up. "
+    "val": "Тояма сразу оживился. "
   },
   {
     "key": "“Wait—you really mean it?!”",
     "trx": "“Подожди, ты действительно это имеешь в виду?!”",
-    "val": "“Wait—you really mean it?!”"
+    "val": "“Подожди, ты это серьезно?!”"
   },
   {
     "key": "“I’ll give you all the details. ",
     "trx": "“Я расскажу тебе все подробности. ",
-    "val": "“I’ll give you all the details. "
+    "val": "“Я расскажу вам все подробности. "
   },
   {
     "key": "Just get your butt back here!”",
     "trx": "Просто тащи свою задницу обратно сюда!”",
-    "val": "Just get your butt back here!”"
+    "val": "Тащите свою задницу обратно сюда!”"
   },
   {
     "key": "“But...",
     "trx": "\"но...",
-    "val": "“But..."
+    "val": "“Но... "
   },
   {
     "key": "aren’t those loan sharks there at the office right now?”",
     "trx": "разве эти ростовщики сейчас не в офисе?”",
-    "val": "aren’t those loan sharks there at the office right now?”"
+    "val": "разве эти ростовщики сейчас не в офисе?”"
   },
   {
     "key": "“Fine, then I’ll come to you. ",
     "trx": "“Хорошо, тогда я приду к тебе. ",
-    "val": "“Fine, then I’ll come to you. "
+    "val": "“Хорошо, тогда я приду к вам. "
   },
   {
     "key": "Tell me where you are.”",
     "trx": "Скажи мне, где ты.”",
-    "val": "Tell me where you are.”"
+    "val": "Скажите мне, где вы.”"
   },
   {
     "key": "The two thugs crowded nearer, a predatory gleam in their eyes.",
     "trx": "Двое головорезов придвинулись ближе, в их глазах появился хищный блеск.",
-    "val": "The two thugs crowded nearer, a predatory gleam in their eyes."
+    "val": "Двое головорезов придвинулись ближе, в их глазах появился хищный блеск."
   },
   {
     "key": "And Minorikawa had a flash of inspiration. ",
     "trx": "И на Минорикаву снизошло вдохновение. ",
-    "val": "And Minorikawa had a flash of inspiration. "
+    "val": "И на Минорикаву снизошло вдохновение. "
   },
   {
     "key": "“Got it,” he said quickly, before Toyama could respond. ",
     "trx": "”Понял\", - быстро сказал он, прежде чем Тояма успел ответить. ",
-    "val": "“Got it,” he said quickly, before Toyama could respond. "
+    "val": "“Понял,” быстро сказал он, прежде чем Тояма успел ответить. "
   },
   {
     "key": "“Miyashita Park. ",
     "trx": "“Парк Мияшита. ",
-    "val": "“Miyashita Park. "
+    "val": "“Парк Мияшита. "
   },
   {
     "key": "I’m on my way now. Don’t go anywhere!”",
     "trx": "Я уже в пути. Никуда не уходи!”",
-    "val": "I’m on my way now. Don’t go anywhere!”"
+    "val": "Я уже в пути. Никуда не уходите!”"
   },
   {
     "key": "Ozu and Segawa grinned at one another, then bolted out the door.",
     "trx": "Одзу и Сегава ухмыльнулись друг другу, а затем выскочили за дверь.",
-    "val": "Ozu and Segawa grinned at one another, then bolted out the door."
+    "val": "Одзу и Сегава ухмыльнулись друг другу, а затем выскочили за дверь."
   },
   {
     "key": "“Heh,” Minorikawa said as their footsteps receded. ",
     "trx": "“Хех”, - сказал Минорикава, когда их шаги затихли. ",
-    "val": "“Heh,” Minorikawa said as their footsteps receded. "
+    "val": "“Хех,” сказал Минорикава, когда их шаги стихли. "
   },
   {
     "key": "“Those guys took the bait. I sent them to Miyashita Park.” ",
     "trx": "“Эти парни заглотили наживку. Я отправил их в парк Мияшита.” ",
-    "val": "“Those guys took the bait. I sent them to Miyashita Park.” "
+    "val": "“Эти парни проглотили наживку. Я отправил их в парк Мияшита.” "
   },
   {
     "key": "He allowed himself a cocksure grin. ",
     "trx": "Он позволил себе самоуверенную усмешку. ",
-    "val": "He allowed himself a cocksure grin. "
+    "val": "Он самоуверенно усмехнулся. "
   },
   {
     "key": "“Right, then. ",
     "trx": "“Тогда ладно. ",
-    "val": "“Right, then. "
+    "val": "“Ладно. "
   },
   {
     "key": "So where are you really, Toyama?”",
     "trx": "Так где же ты на самом деле, Тояма?”",
-    "val": "So where are you really, Toyama?”"
+    "val": "И где же вы на самом деле, Тояма?”"
   },
   {
     "key": "“You...",
     "trx": "“Ты...",
-    "val": "“You..."
+    "val": "“Ты... "
   },
   {
     "key": "you imbecile! ",
     "trx": "ты идиот! ",
-    "val": "you imbecile! "
+    "val": "ты идиот! "
   },
   {
     "key": "I ",
     "trx": "Я ",
-    "val": "I "
+    "val": "Я "
   },
   {
     "key": "am",
     "trx": "являюсь",
-    "val": "am"
+    "val": "как раз"
   },
   {
     "key": " at Miyashita Park!”",
     "trx": " в парке Мияшита!”",
-    "val": " at Miyashita Park!”"
+    "val": " в парке Мияшита!”"
   },
   {
     "key": "“What?!”",
     "trx": "“Что?!”",
-    "val": "“What?!”"
+    "val": "“Что?!”"
   },
   {
     "key": "Minorikawa fought the urge to pull his hair out. ",
     "trx": "Минорикава боролся с желанием вырвать себе волосы. ",
-    "val": "Minorikawa fought the urge to pull his hair out. "
+    "val": "Минорикава боролся с желанием вырвать себе волосы. "
   },
   {
     "key": "“What the hell are you doing someplace like that?!”",
     "trx": "“Какого черта ты делаешь в таком месте?!”",
-    "val": "“What the hell are you doing someplace like that?!”"
+    "val": "“Какого черта вы делаете в таком месте?!”"
   },
   {
     "key": "“Why the hell did you tell them Miyashita Park?!”",
     "trx": "“Какого черта ты рассказал им о парке Мияшита?!”",
-    "val": "“Why the hell did you tell them Miyashita Park?!”"
+    "val": "“А какого черта ты сказал им о парке Мияшита?!”"
   },
   {
     "key": "“I thought it would be a clever ruse!”",
     "trx": "“Я думал, что это будет хитрая уловка!”",
-    "val": "“I thought it would be a clever ruse!”"
+    "val": "“Я думал, что это будет хитрая уловка!”"
   },
   {
     "key": "“Well it wasn’t!”",
     "trx": "“Ну, это было не так!”",
-    "val": "“Well it wasn’t!”"
+    "val": "“Ну, это оказалось не так!”"
   },
   {
     "key": "“This is no time to be fighting!” Chiaki butted in.",
     "trx": "“Сейчас не время для ссор!” Вмешалась Чиаки.",
-    "val": "“This is no time to be fighting!” Chiaki butted in."
+    "val": "“Сейчас не время для ссор!” вмешалась Чиаки."
   },
   {
     "key": "“Yeah. Yeah, you’re right.” Minorikawa scowled. ",
     "trx": "\"Да. Да, ты прав.” Минорикава нахмурился. ",
-    "val": "“Yeah. Yeah, you’re right.” Minorikawa scowled. "
+    "val": "“Да. Да, вы правы.” Минорикава нахмурился. "
   },
   {
     "key": "“Anyway, Toyama, those guys are headed your way. ",
     "trx": "“В любом случае, Тояма, эти парни направляются в твою сторону. ",
-    "val": "“Anyway, Toyama, those guys are headed your way. "
+    "val": "“В любом случае, Тояма, эти парни направляются в вашу сторону. "
   },
   {
     "key": "We need you to get out of there and go someplace we can talk. ",
     "trx": "Нам нужно, чтобы ты убрался оттуда и пошел куда-нибудь, где мы могли бы поговорить. ",
-    "val": "We need you to get out of there and go someplace we can talk. "
+    "val": "Нам нужно, чтобы вы убрались оттуда и пошли куда-нибудь, где мы могли бы поговорить. "
   },
   {
     "key": "I can meet you there.”",
     "trx": "Я могу встретиться с тобой там.”",
-    "val": "I can meet you there.”"
+    "val": "Я встречусь с вами там.”"
   },
   {
     "key": "“Right. Okay.”",
     "trx": "\"верно. Ладно.”",
-    "val": "“Right. Okay.”"
+    "val": "“Хорошо. Ладно.”"
   },
   {
     "key": "They needed someplace safe and public where they could speak freely.",
     "trx": "Им нужно было безопасное и публичное место, где они могли бы свободно говорить.",
-    "val": "They needed someplace safe and public where they could speak freely."
+    "val": "Им нужно было безопасное и публичное место, где они могли бы свободно говорить."
   },
   {
     "key": "Someplace where the staff wouldn’t be overly nosy.",
     "trx": "Куда-нибудь, где персонал не был бы слишком любопытен.",
-    "val": "Someplace where the staff wouldn’t be overly nosy."
+    "val": "Какое-нибудь место, в котором персонал не был бы слишком любопытен."
   },
   {
     "key": "But where?",
     "trx": "Но где?",
-    "val": "But where?"
+    "val": "Но где?"
   },
   {
     "key": " Minorikawa thought.",
     "trx": " Минорикава задумался.",
-    "val": " Minorikawa thought."
+    "val": " задумался Минорикава."
   },
   {
     "key": "The familiar café by the station was a natural choice.",
     "trx": "Знакомое кафе у вокзала было естественным выбором.",
-    "val": "The familiar café by the station was a natural choice."
+    "val": "Знакомое кафе у вокзала было логичным выбором."
   },
   {
     "key": "Recalling the noodle house from the menu he’d seen earlier, he opted for that.",
     "trx": "Вспомнив \"дом с лапшой\" из меню, которое он видел ранее, он выбрал это.",
-    "val": "Recalling the noodle house from the menu he’d seen earlier, he opted for that."
+    "val": "Вспомнив лапшичную, которую он видел в меню, он выбрал ее."
   },
   {
     "key": "Nothing suitable came to mind. Probably Toyama should decide.",
     "trx": "Ничего подходящего на ум не приходило. Вероятно, Тояме следует принять решение.",
-    "val": "Nothing suitable came to mind. Probably Toyama should decide."
+    "val": "Ничего подходящего на ум не приходило. Пусть лучше выбирает Тояма."
   },
   {
     "key": "The familiar café by the station was a natural choice.",
     "trx": "Знакомое кафе у вокзала было естественным выбором.",
-    "val": "The familiar café by the station was a natural choice."
+    "val": "Знакомое кафе у вокзала было логичным выбором."
   },
   {
     "key": "He quickly described the location. ",
     "trx": "Он быстро описал местоположение. ",
-    "val": "He quickly described the location. "
+    "val": "Он быстро описал местоположение. "
   },
   {
     "key": "“Okay,” Toyama said. “Café Lautrec—got it. ",
     "trx": "”Хорошо\", - сказал Тояма. “Кафе Лотрек — понял. ",
-    "val": "“Okay,” Toyama said. “Café Lautrec—got it. "
+    "val": "“Хорошо,” сказал Тояма. “Кафе Лотрек — понял. "
   },
   {
     "key": "I’ll see you there.”",
     "trx": "Увидимся там.”",
-    "val": "I’ll see you there.”"
+    "val": "Увидимся там.”"
   },
   {
     "key": "He hung up, and Minorikawa quickly gathered his belongings.",
     "trx": "Он повесил трубку, и Минорикава быстро собрал свои вещи.",
-    "val": "He hung up, and Minorikawa quickly gathered his belongings."
+    "val": "Он повесил трубку, и Минорикава быстро собрал свои вещи."
   },
   {
     "key": "“Chiaki! How’s that copy coming along?”",
     "trx": "“Чиаки! Как продвигается эта копия?”",
-    "val": "“Chiaki! How’s that copy coming along?”"
+    "val": "“Чиаки! Как продвигается твоя статья?”"
   },
   {
     "key": "“Um...well...",
     "trx": "“Эм... ну...",
-    "val": "“Um...well..."
+    "val": "“Эм... ну... "
   },
   {
     "key": "Almost done? ",
     "trx": "Почти закончили? ",
-    "val": "Almost done? "
+    "val": "почти закончена? "
   },
   {
     "key": "Just a little more, I think.”",
     "trx": "Еще немного, я думаю.”",
-    "val": "Just a little more, I think.”"
+    "val": "Думаю, осталось немного.”"
   },
   {
     "key": "“All right. Bring your computer and come with me. ",
     "trx": "“Хорошо. Бери свой компьютер и пойдем со мной. ",
-    "val": "“All right. Bring your computer and come with me. "
+    "val": "“Хорошо. Бери свой ноутбук и пойдем со мной. "
   },
   {
     "key": "I’ll read over what you’ve got so far.”",
     "trx": "Я перечитаю то, что у вас уже есть.”",
-    "val": "I’ll read over what you’ve got so far.”"
+    "val": "Я перечитаю то, что у тебя уже есть.”"
   },
   {
     "key": "Minorikawa waited as Chiaki got ready to head to the café.",
     "trx": "Минорикава подождал, пока Чиаки соберется отправиться в кафе.",
-    "val": "Minorikawa waited as Chiaki got ready to head to the café."
+    "val": "Минорикава подождал, пока Чиаки соберется, чтобы отправиться в кафе."
   },
   {
     "key": "As the two were heading out of the office, however, ",
     "trx": "Однако, когда эти двое выходили из офиса,, ",
-    "val": "As the two were heading out of the office, however, "
+    "val": "Однако, когда они направились к выходу, "
   },
   {
     "key": "someone else opened the door.",
     "trx": "дверь открыл кто-то другой.",
-    "val": "someone else opened the door."
+    "val": "кто-то другой открыл дверь."
   },
   {
     "key": "“You’ve got fourteen minutes and fifty-seven seconds left to ",
     "trx": "“У вас осталось четырнадцать минут и пятьдесят семь секунд, чтобы ",
-    "val": "“You’ve got fourteen minutes and fifty-seven seconds left to "
+    "val": "“У вас осталось четырнадцать минут и пятьдесят семь секунд до "
   },
   {
     "key": "send to press",
     "trx": "отправить в печать",
-    "val": "send to press"
+    "val": "отправки в печать"
   },
   {
     "key": "...",
     "trx": "...",
-    "val": "..."
+    "val": "... "
   },
   {
     "key": "fifty-six...",
     "trx": "пятьдесят шесть...",
-    "val": "fifty-six..."
+    "val": "пятьдесят шесть... "
   },
   {
     "key": "fifty-five...” ",
     "trx": "пятьдесят пять...” ",
-    "val": "fifty-five...” "
+    "val": "пятьдесят пять...” "
   },
   {
     "key": "A slender man with a gaudy necktie entered the room and sat down on the nearest desk, staring fixedly at his pocket watch. ",
     "trx": "Стройный мужчина в ярком галстуке вошел в комнату и сел на ближайший стол, пристально глядя на свои карманные часы. ",
-    "val": "A slender man with a gaudy necktie entered the room and sat down on the nearest desk, staring fixedly at his pocket watch. "
+    "val": "Стройный мужчина в ярком галстуке вошел в комнату и сел за ближайший стол, пристально глядя на свои карманные часы. "
   },
   {
     "key": "Minorikawa narrowed his eyes dubiously. ",
     "trx": "Минорикава с сомнением прищурил глаза. ",
-    "val": "Minorikawa narrowed his eyes dubiously. "
+    "val": "Минорикава с сомнением прищурил глаза. "
   },
   {
     "key": "“Who the hell are you?”",
     "trx": "“Кто ты, черт возьми, такой?”",
-    "val": "“Who the hell are you?”"
+    "val": "“Кто ты, черт возьми, такой?”"
   },
   {
     "key": "“Always make sure to show up fifteen minutes ahead of the appointed time. ",
     "trx": "“Всегда старайтесь приходить на пятнадцать минут раньше назначенного времени. ",
-    "val": "“Always make sure to show up fifteen minutes ahead of the appointed time. "
+    "val": "“Всегда старайтесь приходить на пятнадцать минут раньше назначенного времени. "
   },
   {
     "key": "That’s just common decency.” ",
     "trx": "Это просто обычная порядочность.” ",
-    "val": "That’s just common decency.” "
+    "val": "Это всего лишь обычная порядочность.” "
   },
   {
     "key": "The man gave no indication he’d even heard Minorikawa’s question.",
     "trx": "Мужчина не подал виду, что даже слышал вопрос Минорикавы.",
-    "val": "The man gave no indication he’d even heard Minorikawa’s question."
+    "val": "Мужчина, казалось, даже не слышал вопрос Минорикавы."
   },
   {
     "key": "“I suppose I can wait here,” he continued. ",
     "trx": "“Полагаю, я могу подождать здесь\", ” продолжил он. ",
-    "val": "“I suppose I can wait here,” he continued. "
+    "val": "“Полагаю, я могу подождать здесь,” продолжил он. "
   },
   {
     "key": "“Just for another fourteen minutes and twenty seconds.”",
     "trx": "“Всего на четырнадцать минут и двадцать секунд”.",
-    "val": "“Just for another fourteen minutes and twenty seconds.”"
+    "val": "“Всего четырнадцать минут и двадцать секунд.”"
   },
   {
     "key": "“Uh, Mr. Mino? ",
     "trx": "“Э-э, мистер Мино? ",
-    "val": "“Uh, Mr. Mino? "
+    "val": "“Э-э, мистер Мино? "
   },
   {
     "key": "Is this guy talking about our submission?” ",
     "trx": "Этот парень говорит о нашем подчинении?” ",
-    "val": "Is this guy talking about our submission?” "
+    "val": "Он говорит о передаче материалов?” "
   },
   {
     "key": "Chiaki stared doubtfully at the newcomer.",
     "trx": "Чиаки с сомнением уставилась на новоприбывшего.",
-    "val": "Chiaki stared doubtfully at the newcomer."
+    "val": "Чиаки с сомнением уставилась на новоприбывшего."
   },
   {
     "key": "“Hey, you,” Minorikawa asked. ",
     "trx": "”Эй, ты\", - спросил Минорикава. ",
-    "val": "“Hey, you,” Minorikawa asked. "
+    "val": "“Эй, ты,” спросил Минорикава. "
   },
   {
     "key": "“Are you from the printer?”",
     "trx": "“Вы из типографии?”",
-    "val": "“Are you from the printer?”"
+    "val": "“Ты из типографии?”"
   },
   {
     "key": "But the man did not reply.",
     "trx": "Но мужчина не ответил.",
-    "val": "But the man did not reply."
+    "val": "Но мужчина не ответил."
   },
   {
     "key": "“Don’t ignore me! ",
     "trx": "“Не игнорируй меня! ",
-    "val": "“Don’t ignore me! "
+    "val": "“Не игнорируй меня! "
   },
   {
     "key": "Are you from the printer?!”",
     "trx": "Вы из типографии?!”",
-    "val": "Are you from the printer?!”"
+    "val": "Ты из типографии?!”"
   },
   {
     "key": "Still the man remained silent.",
     "trx": "Мужчина по-прежнему молчал.",
-    "val": "Still the man remained silent."
+    "val": "Мужчина по-прежнему молчал."
   },
   {
     "key": "Minorikawa was furious. “Look, cut the crap!” he roared.",
     "trx": "Минорикава был в ярости. “Слушай, прекрати нести чушь!” - прорычал он.",
-    "val": "Minorikawa was furious. “Look, cut the crap!” he roared."
+    "val": "Минорикава был в ярости. “Отвечай уже!” прорычал он."
   },
   {
     "key": "In response, the man quietly reached into his suit pocket and pulled out his business card.",
     "trx": "В ответ мужчина спокойно полез в карман пиджака и вытащил свою визитную карточку.",
-    "val": "In response, the man quietly reached into his suit pocket and pulled out his business card."
+    "val": "В ответ мужчина спокойно полез в карман пиджака и вытащил свою визитную карточку."
   },
   {
     "key": "“My name is not ‘hey you.’”",
     "trx": "“Меня зовут не \"эй, ты\".”",
-    "val": "“My name is not ‘hey you.’”"
+    "val": "“Мое имя не ‘Эй, ты.’”"
   },
   {
     "key": "He handed the card to Minorikawa. It read:",
     "trx": "Он протянул карточку Минорикаве. В нем говорилось:",
-    "val": "He handed the card to Minorikawa. It read:"
+    "val": "Он протянул карточку Минорикаве. В ней говорилось:"
   },
   {
     "key": "\u3000Cho-Nippon Printing Co., Ltd.",
@@ -1207,352 +1207,352 @@
   {
     "key": "\u3000Sales Department\u3000Division #1",
     "trx": "\u3000Отдел продаж №1",
-    "val": "\u3000Sales Department\u3000Division #1"
+    "val": "\u3000Отдел продаж №1"
   },
   {
     "key": "\u3000Koichiro Katayama",
     "trx": "\u3000Коитиро Катаяма",
-    "val": "\u3000Koichiro Katayama"
+    "val": "\u3000Коитиро Катаяма"
   },
   {
     "key": "“I’m Koichiro Katayama, newly assigned to Heaven Publishing. ",
     "trx": "“Я Коитиро Катаяма, недавно назначенный в издательство Heaven Publishing. ",
-    "val": "“I’m Koichiro Katayama, newly assigned to Heaven Publishing. "
+    "val": "“Я Коитиро Катаяма, мне недавно передали издательство \"Небеса\". "
   },
   {
     "key": "A pleasure to meet you. ",
     "trx": "Рад с вами познакомиться. ",
-    "val": "A pleasure to meet you. "
+    "val": "Рад с вами познакомиться. "
   },
   {
     "key": "My ",
     "trx": "Мой ",
-    "val": "My "
+    "val": "Мой "
   },
   {
     "key": "predecessor",
     "trx": "предшественник",
-    "val": "predecessor"
+    "val": "предшественник"
   },
   {
     "key": " is in the hospital due to a car accident. ",
     "trx": " находится в больнице из-за автомобильной аварии. ",
-    "val": " is in the hospital due to a car accident. "
+    "val": " находится в больнице из-за автомобильной аварии. "
   },
   {
     "key": "He should make a complete recovery in about two months.”",
     "trx": "Он должен полностью восстановиться примерно через два месяца.”",
-    "val": "He should make a complete recovery in about two months.”"
+    "val": "Он должен полностью восстановиться примерно через два месяца.”"
   },
   {
     "key": "“Well, what are you doing here, Katayama?” Minorikawa asked. ",
     "trx": "“Ну, что ты здесь делаешь, Катаяма?” - спросил Минорикава. ",
-    "val": "“Well, what are you doing here, Katayama?” Minorikawa asked. "
+    "val": "“И что же ты здесь делаешь, Катаяма?” спросил Минорикава. "
   },
   {
     "key": "“I thought we had until eight o’clock to complete proofreading.”",
     "trx": "“Я думал, у нас есть время до восьми часов, чтобы закончить корректуру”.",
-    "val": "“I thought we had until eight o’clock to complete proofreading.”"
+    "val": "“Я думал, что у нас еще остается время до восьми часов, чтобы закончить корректуру.”"
   },
   {
     "key": "“Eight o’clock? ",
     "trx": "“В восемь часов? ",
-    "val": "“Eight o’clock? "
+    "val": "“До восьми часов? "
   },
   {
     "key": "Surely you must be joking. ",
     "trx": "Конечно, вы, должно быть, шутите. ",
-    "val": "Surely you must be joking. "
+    "val": "Да вы, должно быть, шутите. "
   },
   {
     "key": "Our company’s proofing deadline is 5:30.” ",
     "trx": "Крайний срок проверки нашей компании - 5:30.” ",
-    "val": "Our company’s proofing deadline is 5:30.” "
+    "val": "Крайний срок передачи корректуры в нашу компанию — 17:30.” "
   },
   {
     "key": "Katayama stared fixedly back at Minorikawa.",
     "trx": "Катаяма пристально посмотрел на Минорикаву.",
-    "val": "Katayama stared fixedly back at Minorikawa."
+    "val": "Катаяма пристально посмотрел на Минорикаву."
   },
   {
     "key": "“Now ",
     "trx": "“Сейчас ",
-    "val": "“Now "
+    "val": "“Это ты, должно быть, "
   },
   {
     "key": "that",
     "trx": "тот",
-    "val": "that"
+    "val": "шутишь"
   },
   {
     "key": " had to be a joke. ",
     "trx": " должно быть, это была шутка. ",
-    "val": " had to be a joke. "
+    "val": ". "
   },
   {
     "key": "I heard from the editor-in-chief that it was eight o’clock.”",
     "trx": "Я слышал от главного редактора, что было восемь часов.”",
-    "val": "I heard from the editor-in-chief that it was eight o’clock.”"
+    "val": "Главный редактор сказал мне, что срок был восемь часов.”"
   },
   {
     "key": "“I take that to mean, then, ",
     "trx": "“Я так понимаю, что это значит, тогда, ",
-    "val": "“I take that to mean, then, "
+    "val": "“Значит, как я понимаю, "
   },
   {
     "key": "that you don’t have any copy for us.”",
     "trx": "что у вас нет для нас никакой копии.”",
-    "val": "that you don’t have any copy for us.”"
+    "val": "у вас нет для нас материалов.”"
   },
   {
     "key": "“It’s not that we don’t ",
     "trx": "“Дело не в том, что мы не ",
-    "val": "“It’s not that we don’t "
+    "val": "“Дело не в том, у нас "
   },
   {
     "key": "have",
     "trx": "иметь",
-    "val": "have"
+    "val": "нет"
   },
   {
     "key": " it,” Minorikawa said. ",
     "trx": " это, - сказал Минорикава. ",
-    "val": " it,” Minorikawa said. "
+    "val": " материалов,” сказал Минорикава. "
   },
   {
     "key": "“It’s just not finished yet. ",
     "trx": "“Это просто еще не закончено. ",
-    "val": "“It’s just not finished yet. "
+    "val": "“Они просто еще не готовы. "
   },
   {
     "key": "Just hold on until eight.”",
     "trx": "Просто подожди до восьми.”",
-    "val": "Just hold on until eight.”"
+    "val": "Просто подожди до восьми.”"
   },
   {
     "key": "Katayama raised an eyebrow.",
     "trx": "Катаяма приподнял бровь.",
-    "val": "Katayama raised an eyebrow."
+    "val": "Катаяма приподнял бровь."
   },
   {
     "key": "“No, no, no. ",
     "trx": "“Нет, нет, нет. ",
-    "val": "“No, no, no. "
+    "val": "“Нет, нет, нет. "
   },
   {
     "key": "Publisher and printer need to work in concert. ",
     "trx": "Издатель и печатник должны работать согласованно. ",
-    "val": "Publisher and printer need to work in concert. "
+    "val": "Издатель и печатник должны работать согласованно. "
   },
   {
     "key": "Perhaps my predecessor was the sort to delay the proofing deadline owing to your...circumstances here. ",
     "trx": "Возможно, мой предшественник был из тех, кто откладывал срок проверки из-за ваших... обстоятельств здесь. ",
-    "val": "Perhaps my predecessor was the sort to delay the proofing deadline owing to your...circumstances here. "
+    "val": "Возможно, мой предшественник и откладывал срок передачи корректуры из-за ваших... обстоятельств. "
   },
   {
     "key": "But now I’m in charge, and I do not make exceptions. ",
     "trx": "Но теперь я главный, и я не делаю исключений. ",
-    "val": "But now I’m in charge, and I do not make exceptions. "
+    "val": "Но теперь за это отвечаю я, и я не делаю исключений. "
   },
   {
     "key": "The proofing deadline is 5:30 sharp, ",
     "trx": "Крайний срок проверки - ровно в 5:30, ",
-    "val": "The proofing deadline is 5:30 sharp, "
+    "val": "Крайний срок передачи корректуры — ровно в 17:30, "
   },
   {
     "key": "and I intend to keep it that way. ",
     "trx": "и я намерен продолжать в том же духе. ",
-    "val": "and I intend to keep it that way. "
+    "val": "и я буду настаивать на этом. "
   },
   {
     "key": "And while we’ve been having this discussion, you’re down to twelve minutes and thirty-two seconds.”",
     "trx": "И пока мы это обсуждаем, у вас осталось двенадцать минут и тридцать две секунды.”",
-    "val": "And while we’ve been having this discussion, you’re down to twelve minutes and thirty-two seconds.”"
+    "val": "И на данный момент у вас осталось двенадцать минут и тридцать две секунды.”"
   },
   {
     "key": "Katayama held out his pocket watch as if to emphasize the point.",
     "trx": "Катаяма протянул свои карманные часы, как бы подчеркивая это.",
-    "val": "Katayama held out his pocket watch as if to emphasize the point."
+    "val": "Катаяма протянул свои карманные часы, как бы подчеркивая свою мысль."
   },
   {
     "key": "“That’s ridiculous!” Minorikawa exclaimed. ",
     "trx": "“Это просто смешно!” - воскликнул Минорикава. ",
-    "val": "“That’s ridiculous!” Minorikawa exclaimed. "
+    "val": "“Это просто смешно!” воскликнул Минорикава. "
   },
   {
     "key": "“Just who the hell do you think you are?! ",
     "trx": "“Да кем ты, черт возьми, себя возомнил?! ",
-    "val": "“Just who the hell do you think you are?! "
+    "val": "“Да кем ты, черт возьми, себя возомнил?! "
   },
   {
     "key": "You guys are going to be printing a paper that ",
     "trx": "Вы, ребята, собираетесь печатать статью, которая ",
-    "val": "You guys are going to be printing a paper that "
+    "val": "Вы, ребята, будете печатать статью, которую написал "
   },
   {
     "key": "I",
     "trx": "Я",
-    "val": "I"
+    "val": "я"
   },
   {
     "key": " wrote! ",
     "trx": " написал! ",
-    "val": " wrote! "
+    "val": "! "
   },
   {
     "key": "Do you even know how lucky that makes you? ",
     "trx": "Ты хоть понимаешь, как тебе это повезло? ",
-    "val": "Do you even know how lucky that makes you? "
+    "val": "Вы хоть понимаете, как вам повезло? "
   },
   {
     "key": "So just wait, okay? ",
     "trx": "Так что просто подожди, хорошо? ",
-    "val": "So just wait, okay? "
+    "val": "Так что просто подожди, хорошо? "
   },
   {
     "key": "Just give us...” ",
     "trx": "Просто дай нам...” ",
-    "val": "Just give us...” "
+    "val": "Просто подожди...” "
   },
   {
     "key": "“Just give us until eight o’clock!”",
     "trx": "“Просто дайте нам время до восьми часов!”",
-    "val": "“Just give us until eight o’clock!”"
+    "val": "“Просто подожди до восьми часов!”"
   },
   {
     "key": "“Just give us three more days!”",
     "trx": "“Просто дай нам еще три дня!”",
-    "val": "“Just give us three more days!”"
+    "val": "“Просто подожди еще три дня!”"
   },
   {
     "key": "“Just give us till we’re done!”",
     "trx": "“Просто дай нам время, пока мы не закончим!”",
-    "val": "“Just give us till we’re done!”"
+    "val": "“Просто подожди, пока мы не закончим!”"
   },
   {
     "key": "“Just give us until eight o’clock!”",
     "trx": "“Просто дайте нам время до восьми часов!”",
-    "val": "“Just give us until eight o’clock!”"
+    "val": "“Просто подожди до восьми часов!”"
   },
   {
     "key": "That was the original understanding; it was unfair to change it now.",
     "trx": "Таково было первоначальное понимание; было несправедливо менять его сейчас.",
-    "val": "That was the original understanding; it was unfair to change it now."
+    "val": "Такова была первоначальная договоренность; было несправедливо менять ее сейчас."
   },
   {
     "key": "“Eight o’clock, hmm? ",
     "trx": "“Восемь часов, хм? ",
-    "val": "“Eight o’clock, hmm? "
+    "val": "“Восемь часов, хм? "
   },
   {
     "key": "And where’s your guarantee that you’ll finish by then?”",
     "trx": "И где ваша гарантия, что вы закончите к тому времени?”",
-    "val": "And where’s your guarantee that you’ll finish by then?”"
+    "val": "И где ваша гарантия, что вы закончите к этому времени?”"
   },
   {
     "key": "“We will! Just trust me!”",
     "trx": "“Мы сделаем это! Просто доверься мне!”",
-    "val": "“We will! Just trust me!”"
+    "val": "“Мы сделаем это! Просто доверься мне!”"
   },
   {
     "key": "“Hmph. ",
     "trx": "“Хм. ",
-    "val": "“Hmph. "
+    "val": "“Хм. "
   },
   {
     "key": "I’m supposed to heedlessly trust the word of a man I’ve just met?” Katayama mused.",
     "trx": "Я должна безрассудно доверять слову человека, которого только что встретила?” Катаяма задумался.",
-    "val": "I’m supposed to heedlessly trust the word of a man I’ve just met?” Katayama mused."
+    "val": "Я должен безрассудно довериться слову человека, которого только что встретил?” в задумчивости пробормотал Катаяма."
   },
   {
     "key": "“We’re down to ten minutes and forty-six seconds, by the way.”",
     "trx": "- Между прочим, у нас осталось десять минут сорок шесть секунд.",
-    "val": "“We’re down to ten minutes and forty-six seconds, by the way.”"
+    "val": "“Кстати, у нас осталось десять минут сорок шесть секунд."
   },
   {
     "key": "“You son of a bitch! ",
     "trx": "“Ты сукин сын! ",
-    "val": "“You son of a bitch! "
+    "val": "“Ты сукин сын! "
   },
   {
     "key": "Don’t get all high and mighty just because you work for the printer!”",
     "trx": "Не становись таким высокомерным и могущественным только потому, что ты работаешь на печатника!”",
-    "val": "Don’t get all high and mighty just because you work for the printer!”"
+    "val": "Не будь таким высокомерным и могущественным только потому, что ты работаешь на печатника!”"
   },
   {
     "key": "“High and mighty? ",
     "trx": "“Высокий и могущественный? ",
-    "val": "“High and mighty? "
+    "val": "“Высокомерным и могущественным? "
   },
   {
     "key": "I’d say it’s the people on the publishing side of the things that act high and mighty. ",
     "trx": "Я бы сказал, что это люди, занимающиеся издательской деятельностью, которые действуют высоко и могущественно. ",
-    "val": "I’d say it’s the people on the publishing side of the things that act high and mighty. "
+    "val": "Я бы сказал, что высокомерны и могущественны скорее издатели. "
   },
   {
     "key": "Whatever high-minded claims you might make, without us, you’d have nothing to put on the store shelves. ",
     "trx": "Какие бы возвышенные заявления вы ни делали, без нас вам нечего было бы выставлять на полки магазинов. ",
-    "val": "Whatever high-minded claims you might make, without us, you’d have nothing to put on the store shelves. "
+    "val": "Какие бы возвышенные заявления вы ни делали, без нас вам нечего было бы выставить на полки магазинов. "
   },
   {
     "key": "Forgetting that and blithely ignoring your proofing deadline makes for more work on our end. ",
     "trx": "Забывая об этом и беспечно игнорируя ваш крайний срок проверки, мы делаем больше работы с нашей стороны. ",
-    "val": "Forgetting that and blithely ignoring your proofing deadline makes for more work on our end. "
+    "val": "Забывая об этом и беспечно игнорируя крайний срок передачи корректуры, мы берем больше работы на себя. "
   },
   {
     "key": "Just what ",
     "trx": "Просто что ",
-    "val": "Just what "
+    "val": "К "
   },
   {
     "key": "are",
     "trx": "являются",
-    "val": "are"
+    "val": "чему"
   },
   {
     "key": " you getting at, I wonder? ",
     "trx": " интересно, к чему ты клонишь? ",
-    "val": " you getting at, I wonder? "
+    "val": " вы, интересно, клоните? "
   },
   {
     "key": "Now it’s ten minutes and twenty seconds.”",
     "trx": "Сейчас десять минут и двадцать секунд.”",
-    "val": "Now it’s ten minutes and twenty seconds.”"
+    "val": "У вас осталось десять минут и двадцать секунд.”"
   },
   {
     "key": "Minorikawa ground his teeth so hard he could hear it.",
     "trx": "Минорикава так сильно стиснул зубы, что это было слышно.",
-    "val": "Minorikawa ground his teeth so hard he could hear it."
+    "val": "Минорикава так сильно стиснул зубы, что они заскрипели."
   },
   {
     "key": "His usual tactics were useless here.",
     "trx": "Его обычная тактика здесь была бесполезна.",
-    "val": "His usual tactics were useless here."
+    "val": "Его обычная тактика здесь была бесполезна."
   },
   {
     "key": "Katayama was simply too unflappable to be browbeaten.",
     "trx": "Катаяма был просто слишком невозмутим, чтобы его можно было запугать.",
-    "val": "Katayama was simply too unflappable to be browbeaten."
+    "val": "Катаяма был просто слишком невозмутим, чтобы его получилось запугать."
   },
   {
     "key": "If he backed down now, though, it was game over.",
     "trx": "Однако, если бы он сейчас отступил, игра была бы окончена.",
-    "val": "If he backed down now, though, it was game over."
+    "val": "Однако, если он сейчас отступит, игра будет окончена."
   },
   {
     "key": "“Ten minutes and seven seconds remaining. ",
     "trx": "“Осталось десять минут и семь секунд. ",
-    "val": "“Ten minutes and seven seconds remaining. "
+    "val": "“Осталось десять минут и семь секунд. "
   },
   {
     "key": "I realize there’s little point, but I’ll wait until the designated time. ",
     "trx": "Я понимаю, что в этом мало смысла, но я подожду до назначенного времени. ",
-    "val": "I realize there’s little point, but I’ll wait until the designated time. "
+    "val": "Я понимаю, что в этом мало смысла, но я подожду до назначенного времени. "
   },
   {
     "key": "That’s just common decency",
     "trx": "Это просто обычная порядочность",
-    "val": "That’s just common decency"
+    "val": "Это всего лишь обычная порядочность"
   },
   {
     "key": ".” ",
@@ -1562,352 +1562,352 @@
   {
     "key": "Katayama’s eyes were once again locked on his pocket watch.",
     "trx": "Взгляд Катаямы снова был прикован к его карманным часам.",
-    "val": "Katayama’s eyes were once again locked on his pocket watch."
+    "val": "Взгляд Катаямы снова был прикован к карманным часам."
   },
   {
     "key": "It was no use.",
     "trx": "Это было бесполезно.",
-    "val": "It was no use."
+    "val": "Это было бесполезно."
   },
   {
     "key": "Minorikawa couldn’t find a way to talk this guy around.",
     "trx": "Минорикава не мог найти способа разговорить этого парня.",
-    "val": "Minorikawa couldn’t find a way to talk this guy around."
+    "val": "Минорикава не мог найти способа уговорить этого парня."
   },
   {
     "key": "“Um...” ",
     "trx": "“Эм...” ",
-    "val": "“Um...” "
+    "val": "“Эм...” "
   },
   {
     "key": "Chiaki held her hand up. ",
     "trx": "Чиаки подняла руку вверх. ",
-    "val": "Chiaki held her hand up. "
+    "val": "Чиаки подняла руку вверх. "
   },
   {
     "key": "“May I say something?”",
     "trx": "“Могу я кое-что сказать?”",
-    "val": "“May I say something?”"
+    "val": "“Могу я кое-что сказать?”"
   },
   {
     "key": "“Isn’t it also common decency not to break a promise once it’s been made?”",
     "trx": "“Разве это не обычная порядочность - не нарушать обещание, как только оно было дано?”",
-    "val": "“Isn’t it also common decency not to break a promise once it’s been made?”"
+    "val": "“Разве держать данное обещание — это не обычная порядочность?”"
   },
   {
     "key": "“If you’re referring to the eight o’clock deadline, I was not the one who promised that.”",
     "trx": "“Если вы имеете в виду крайний срок в восемь часов, то я не был тем, кто это обещал”.",
-    "val": "“If you’re referring to the eight o’clock deadline, I was not the one who promised that.”"
+    "val": "“Если вы имеете в виду крайний срок до восьми часов, то его обещал не я.”"
   },
   {
     "key": "“Maybe not, ",
     "trx": "“Может быть, и нет, ",
-    "val": "“Maybe not, "
+    "val": "“Может быть и нет, "
   },
   {
     "key": "but I believe your predecessor’s responsibilities become your responsibilities.”",
     "trx": "но я верю, что обязанности вашего предшественника становятся вашими обязанностями”.",
-    "val": "but I believe your predecessor’s responsibilities become your responsibilities.”"
+    "val": "но я верю в то, что обещания вашего предшественника становятся и вашими обещаниями.”"
   },
   {
     "key": "Katayama crossed his arms and gave her a bemused look. ",
     "trx": "Катаяма скрестил руки на груди и бросил на нее озадаченный взгляд. ",
-    "val": "Katayama crossed his arms and gave her a bemused look. "
+    "val": "Катаяма скрестил руки на груди и бросил на нее озадаченный взгляд. "
   },
   {
     "key": "“What’s your name, miss?”",
     "trx": "“Как вас зовут, мисс?”",
-    "val": "“What’s your name, miss?”"
+    "val": "“Как вас зовут, мисс?”"
   },
   {
     "key": "“Chiaki,” she said bashfully. ",
     "trx": "“Чиаки\", ” сказала она застенчиво. ",
-    "val": "“Chiaki,” she said bashfully. "
+    "val": "“Чиаки,” сказала она застенчиво. "
   },
   {
     "key": "“Chiaki Iso.”",
     "trx": "“Чиаки Исо”.",
-    "val": "“Chiaki Iso.”"
+    "val": "“Чиаки Исо.”"
   },
   {
     "key": "The printer’s expression brightened visibly.",
     "trx": "Выражение лица печатника заметно просветлело.",
-    "val": "The printer’s expression brightened visibly."
+    "val": "Выражение лица печатника заметно просветлело."
   },
   {
     "key": "“Good. ",
     "trx": "\"хорошо. ",
-    "val": "“Good. "
+    "val": "“Хорошо. "
   },
   {
     "key": "That timid hesitation of yours is just splendid. ",
     "trx": "Эта твоя робкая нерешительность просто великолепна. ",
-    "val": "That timid hesitation of yours is just splendid. "
+    "val": "Эта ваша робкая нерешительность просто великолепна. "
   },
   {
     "key": "You have none of the arrogance so typical among publishers.”",
     "trx": "В вас нет ни капли высокомерия, столь типичного для издателей”.",
-    "val": "You have none of the arrogance so typical among publishers.”"
+    "val": "В вас нет ни капли высокомерия, столь типичного для издателей.”"
   },
   {
     "key": "“Huh?” ",
     "trx": "\"Хм?\" ",
-    "val": "“Huh?” "
+    "val": "“Что?\" "
   },
   {
     "key": "Chiaki was taken rather aback.",
     "trx": "Чиаки была несколько озадачена.",
-    "val": "Chiaki was taken rather aback."
+    "val": "Чиаки была несколько озадачена."
   },
   {
     "key": "“In deference to your polite demeanor, I shall wait until seven o’clock. ",
     "trx": "“Из уважения к вашему вежливому поведению я подожду до семи часов. ",
-    "val": "“In deference to your polite demeanor, I shall wait until seven o’clock. "
+    "val": "“Из уважения к вашему вежливому поведению я подожду до семи часов. "
   },
   {
     "key": "That is the latest I can possibly allow.”",
     "trx": "Это последнее, что я могу себе позволить.”",
-    "val": "That is the latest I can possibly allow.”"
+    "val": "Это крайний срок, который я могу себе позволить.”"
   },
   {
     "key": "“All right!” Minorikawa shouted, practically in Katayama’s face. ",
     "trx": "“Хорошо!” - крикнул Минорикава практически в лицо Катаяме. ",
-    "val": "“All right!” Minorikawa shouted, practically in Katayama’s face. "
+    "val": "“Хорошо!” крикнул Минорикава практически в лицо Катаяме. "
   },
   {
     "key": "“We agree to those terms!”",
     "trx": "“Мы согласны с этими условиями!”",
-    "val": "“We agree to those terms!”"
+    "val": "“Мы согласны на это условие!”"
   },
   {
     "key": "“No, I—",
     "trx": "“Нет, я—",
-    "val": "“No, I—"
+    "val": "“Нет, я — "
   },
   {
     "key": "I wasn’t talking to y—”",
     "trx": "Я не разговаривал с тобой...”",
-    "val": "I wasn’t talking to y—”"
+    "val": "я разговаривал не с вами...”"
   },
   {
     "key": "“But we’ve got terms of our own!”",
     "trx": "“Но у нас есть свои условия!”",
-    "val": "“But we’ve got terms of our own!”"
+    "val": "“Но у нас есть свои условия!”"
   },
   {
     "key": "Katayama reeled ever so slightly. ",
     "trx": "Катаяма слегка пошатнулся. ",
-    "val": "Katayama reeled ever so slightly. "
+    "val": "Катаяма слегка пошатнулся. "
   },
   {
     "key": "“I’m not certain you’re in any position to set terms, here.”",
     "trx": "“Я не уверен, что вы в том положении, чтобы устанавливать здесь условия”.",
-    "val": "“I’m not certain you’re in any position to set terms, here.”"
+    "val": "“Не думаю, что вы в том положении, чтобы выдвигать условия.”"
   },
   {
     "key": "“Just shut up and listen! ",
     "trx": "“Просто заткнись и слушай! ",
-    "val": "“Just shut up and listen! "
+    "val": "“Просто заткнись и слушай! "
   },
   {
     "key": "From here on out, you’re coming with us.”",
     "trx": "С этого момента ты пойдешь с нами.”",
-    "val": "From here on out, you’re coming with us.”"
+    "val": "С этого момента ты пойдешь с нами.”"
   },
   {
     "key": "“What? Why?”",
     "trx": "«Что? Почему?”",
-    "val": "“What? Why?”"
+    "val": "“Что? Почему?”"
   },
   {
     "key": "“We’re going to finish up our copy on site, then burn the data onto CD and hand it over to you there. ",
     "trx": "“Мы собираемся закончить нашу копию на месте, затем записать данные на компакт-диск и передать их вам там. ",
-    "val": "“We’re going to finish up our copy on site, then burn the data onto CD and hand it over to you there. "
+    "val": "“Мы закончим журнал на месте, затем запишем данные на компакт-диск и передадим их вам там. "
   },
   {
     "key": "That’s why.”",
     "trx": "Вот почему.”",
-    "val": "That’s why.”"
+    "val": "Вот почему.”"
   },
   {
     "key": "Katayama let out a sigh of resignation. ",
     "trx": "Катаяма обреченно вздохнул. ",
-    "val": "Katayama let out a sigh of resignation. "
+    "val": "Катаяма обреченно вздохнул. "
   },
   {
     "key": "“Oh, very well. ",
     "trx": "“О, очень хорошо. ",
-    "val": "“Oh, very well. "
+    "val": "“Что ж, хорошо. "
   },
   {
     "key": "I suppose I’d simply be waiting here, anyway.”",
     "trx": "Я полагаю, что в любом случае я бы просто ждал здесь.”",
-    "val": "I suppose I’d simply be waiting here, anyway.”"
+    "val": "Я полагаю, что в любом случае я бы просто ждал здесь.”"
   },
   {
     "key": "Minorikawa pumped his fists in victory.",
     "trx": "Минорикава победно сжал кулаки.",
-    "val": "Minorikawa pumped his fists in victory."
+    "val": "Минорикава победно сжал кулаки."
   },
   {
     "key": "“All right, Chiaki. ",
     "trx": "“Хорошо, Чиаки. ",
-    "val": "“All right, Chiaki. "
+    "val": "“Хорошо, Чиаки. "
   },
   {
     "key": "Go and copy the DTP data we’ve got so far onto your computer.”",
     "trx": "Идите и скопируйте данные DTP, которые мы получили до сих пор, на свой компьютер”.",
-    "val": "Go and copy the DTP data we’ve got so far onto your computer.”"
+    "val": "Скопируй из DTP те материалы, которые у нас сейчас есть, на свой ноутбук.”"
   },
   {
     "key": "“Sure thing, Mr. Mino.”",
     "trx": "“Конечно, мистер Мино”.",
-    "val": "“Sure thing, Mr. Mino.”"
+    "val": "“Конечно, мистер Мино.”"
   },
   {
     "key": "Chiaki quickly set about copying the data from the editing department’s desktop. ",
     "trx": "Чиаки быстро приступила к копированию данных с рабочего стола отдела редактирования. ",
-    "val": "Chiaki quickly set about copying the data from the editing department’s desktop. "
+    "val": "Чиаки быстро начала копировать данные с компьютера редакторского отдела. "
   },
   {
     "key": "“Okay, done!”",
     "trx": "“Хорошо, готово!”",
-    "val": "“Okay, done!”"
+    "val": "“Хорошо, готово!”"
   },
   {
     "key": "“Then let’s go!”",
     "trx": "“Тогда поехали!”",
-    "val": "“Then let’s go!”"
+    "val": "“Тогда выходим!”"
   },
   {
     "key": "With the others in tow, Minorikawa headed for the café where Toyama would be waiting.",
     "trx": "С остальными на буксире Минорикава направился в кафе, где его должен был ждать Тояма.",
-    "val": "With the others in tow, Minorikawa headed for the café where Toyama would be waiting."
+    "val": "Таща остальных за собой, Минорикава направился в кафе, в котором должен был ждать Тояма."
   },
   {
     "key": "They reached Cafe Lautrec without incident, and Minorikawa promptly spotted the publisher.",
     "trx": "Они добрались до кафе Лотрек без происшествий, и Минорикава быстро заметил издателя.",
-    "val": "They reached Cafe Lautrec without incident, and Minorikawa promptly spotted the publisher."
+    "val": "Они добрались до кафе Лотрек без происшествий, и Минорикава быстро заметил издателя."
   },
   {
     "key": "“Over here!” Toyama hissed, ",
     "trx": "“Сюда!” Прошипел Тояма, ",
-    "val": "“Over here!” Toyama hissed, "
+    "val": "“Сюда!” прошипел Тояма, "
   },
   {
     "key": "eyeing his surroundings with obvious unease.",
     "trx": "оглядываясь по сторонам с явным беспокойством.",
-    "val": "eyeing his surroundings with obvious unease."
+    "val": "оглядываясь по сторонам с явным беспокойством."
   },
   {
     "key": "Hana sat by his side, sullenly sipping on some juice.",
     "trx": "Хана сидела рядом с ним, угрюмо потягивая сок.",
-    "val": "Hana sat by his side, sullenly sipping on some juice."
+    "val": "Хана сидела рядом с ним, угрюмо потягивая сок."
   },
   {
     "key": "The waitress came over as Minorikawa joined them. ",
     "trx": "Официантка подошла, когда Минорикава присоединился к ним. ",
-    "val": "The waitress came over as Minorikawa joined them. "
+    "val": "Официантка подошла, когда Минорикава присоединился к ним. "
   },
   {
     "key": "“May I take your order?” she asked.",
     "trx": "“Могу я принять ваш заказ?” она спросила.",
-    "val": "“May I take your order?” she asked."
+    "val": "“Что закажете?” спросила она."
   },
   {
     "key": "“Water.”",
     "trx": "“Вода”.",
-    "val": "“Water.”"
+    "val": "“Воду.”"
   },
   {
     "key": "“Just water, sir?”",
     "trx": "“Просто воды, сэр?”",
-    "val": "“Just water, sir?”"
+    "val": "“Простую воду, сэр?”"
   },
   {
     "key": "“Fine. Make it a double!”",
     "trx": "\"отлично. Сделай его двойным!”",
-    "val": "“Fine. Make it a double!”"
+    "val": "“Ладно. Давайте двойную!”"
   },
   {
     "key": "Exasperated, the waitress headed back to the kitchen.",
     "trx": "Раздраженная официантка направилась обратно на кухню.",
-    "val": "Exasperated, the waitress headed back to the kitchen."
+    "val": "Раздраженная официантка направилась обратно на кухню."
   },
   {
     "key": "Toyama looked over at Katayama. ",
     "trx": "Тояма посмотрел на Катаяму. ",
-    "val": "Toyama looked over at Katayama. "
+    "val": "Тояма посмотрел на Катаяму. "
   },
   {
     "key": "“Who’s this guy?”",
     "trx": "“Кто этот парень?”",
-    "val": "“Who’s this guy?”"
+    "val": "“А это кто?”"
   },
   {
     "key": "“I’m Koichiro Katayama, from Cho-Nippon Printing.” ",
     "trx": "“Я Коитиро Катаяма, из типографии \"Чо-Ниппон”\". ",
-    "val": "“I’m Koichiro Katayama, from Cho-Nippon Printing.” "
+    "val": "“Я Коитиро Катаяма, из типографии Cho-Nippon.” "
   },
   {
     "key": "Katayama presented his business card.",
     "trx": "Катаяма предъявил свою визитную карточку.",
-    "val": "Katayama presented his business card."
+    "val": "Катаяма протянул свою визитную карточку."
   },
   {
     "key": "Toyama turned to Minorikawa with a quizzical look. ",
     "trx": "Тояма повернулся к Минорикаве с вопросительным взглядом. ",
-    "val": "Toyama turned to Minorikawa with a quizzical look. "
+    "val": "Тояма повернулся к Минорикаве с вопросительным взглядом. "
   },
   {
     "key": "“What’s someone from the printer doing with you?”",
     "trx": "“Что с тобой делает кто-то из типографии?”",
-    "val": "“What’s someone from the printer doing with you?”"
+    "val": "“Что здесь делает человек из типографии?”"
   },
   {
     "key": "“I’ll explain later. ",
     "trx": "“Я объясню позже. ",
-    "val": "“I’ll explain later. "
+    "val": "“Я объясню позже. "
   },
   {
     "key": "There’s no time for that right now,” Minorikawa replied.",
     "trx": "Сейчас на это нет времени, - ответил Минорикава.",
-    "val": "There’s no time for that right now,” Minorikawa replied."
+    "val": "Сейчас на это нет времени,” ответил Минорикава."
   },
   {
     "key": "“First, I need you to answer some questions. ",
     "trx": "“Сначала мне нужно, чтобы вы ответили на несколько вопросов. ",
-    "val": "“First, I need you to answer some questions. "
+    "val": "“Сначала мне нужно, чтобы вы ответили на несколько вопросов. "
   },
   {
     "key": "Does the name Kenji Osawa ring any bells?”",
     "trx": "Вам что-нибудь говорит имя Кэндзи Осава?”",
-    "val": "Does the name Kenji Osawa ring any bells?”"
+    "val": "Вам что-нибудь говорит имя Кэндзи Осава?”"
   },
   {
     "key": "“Osawa?” ",
     "trx": "“Осава?” ",
-    "val": "“Osawa?” "
+    "val": "“Осава?” "
   },
   {
     "key": "Toyama closed his eyes in thought.",
     "trx": "Тояма закрыл глаза в раздумье.",
-    "val": "Toyama closed his eyes in thought."
+    "val": "Тояма закрыл глаза в раздумье."
   },
   {
     "key": "“He heads up a laboratory at Okoshi Pharmaceutical. ",
     "trx": "“Он возглавляет лабораторию в \"Окоши Фармасьютикал\". ",
-    "val": "“He heads up a laboratory at Окоши Фармасьютикал. "
+    "val": "“Он возглавляет лабораторию в Окоши Фармасьютикал. "
   },
   {
     "key": "You ran a piece on him in the first ever issue of ",
     "trx": "Вы опубликовали статью о нем в первом номере журнала ",
-    "val": "You ran a piece on him in the first ever issue of "
+    "val": "Вы опубликовали о нем статью в первом номере "
   },
   {
     "key": "Four-Star General Gossip",
     "trx": "Четырехзвездочная Общая сплетня",
-    "val": "Four-Star General Gossip"
+    "val": "Четырехзвездочных сплетен"
   },
   {
     "key": ".”",
@@ -1917,212 +1917,212 @@
   {
     "key": "Toyama’s face lit up with recognition.",
     "trx": "Лицо Тоямы озарилось узнаванием.",
-    "val": "Toyama’s face lit up with recognition."
+    "val": "Лицо Тоямы просияло."
   },
   {
     "key": "“Ah, yes, that political marriage piece!”",
     "trx": "“Ах, да, эта статья о политическом браке!”",
-    "val": "“Ah, yes, that political marriage piece!”"
+    "val": "“Ах, да, это та статья о политическом браке!”"
   },
   {
     "key": "“Yeah, that one. ",
     "trx": "“Да, этот. ",
-    "val": "“Yeah, that one. "
+    "val": "“Да, она. "
   },
   {
     "key": "Do you remember the details from that article?”",
     "trx": "Вы помните подробности из той статьи?”",
-    "val": "Do you remember the details from that article?”"
+    "val": "Вы помните подробности из этой статьи?”"
   },
   {
     "key": "“Of course. ",
     "trx": "\"конечно. ",
-    "val": "“Of course. "
+    "val": "“Конечно. "
   },
   {
     "key": "Who do you think I am?” ",
     "trx": "За кого ты меня принимаешь?” ",
-    "val": "Who do you think I am?” "
+    "val": "За кого ты меня принимаешь?” "
   },
   {
     "key": "Toyama puffed himself up proudly. ",
     "trx": "Тояма гордо распрямился. ",
-    "val": "Toyama puffed himself up proudly. "
+    "val": "Тояма гордо выпрямился. "
   },
   {
     "key": "“I used to be local news copy editor for the Central Times. ",
     "trx": "“Раньше я был редактором местных новостей в \"Сентрал таймс\". ",
-    "val": "“I used to be local news copy editor for the Central Times. "
+    "val": "“Раньше я был редактором местных новостей в Централ Таймс. "
   },
   {
     "key": "I’ve got the details for all the stuff I’ve ever covered here in my head.”",
     "trx": "У меня в голове есть детали всего, что я когда-либо рассматривал здесь.”",
-    "val": "I’ve got the details for all the stuff I’ve ever covered here in my head.”"
+    "val": "У меня в голове хранятся детали всего, что я когда-либо написал.”"
   },
   {
     "key": "“In that case, ",
     "trx": "“В таком случае, ",
-    "val": "“In that case, "
+    "val": "“В таком случае, "
   },
   {
     "key": "do you know who Kenji Osawa’s wife was dating before they got married?”",
     "trx": "вы знаете, с кем встречалась жена Кэндзи Осавы до того, как они поженились?”",
-    "val": "do you know who Kenji Osawa’s wife was dating before they got married?”"
+    "val": "вы знаете, с кем встречалась жена Кэндзи Осавы до того, как они поженились?”"
   },
   {
     "key": "Toyama blinked his eyes vacantly.",
     "trx": "Тояма рассеянно моргнул глазами.",
-    "val": "Toyama blinked his eyes vacantly."
+    "val": "Тояма рассеянно моргнул глазами."
   },
   {
     "key": "“Hey, what’s the matter?” Minorikawa asked.",
     "trx": "“Эй, в чем дело?” - спросил Минорикава.",
-    "val": "“Hey, what’s the matter?” Minorikawa asked."
+    "val": "“Эй, что такое?” спросил Минорикава."
   },
   {
     "key": "“This, ah, ",
     "trx": "“Это, ах, ",
-    "val": "“This, ah, "
+    "val": "“Да, ах, "
   },
   {
     "key": "this is a pretty tough ",
     "trx": "это довольно сложная задача ",
-    "val": "this is a pretty tough "
+    "val": "ты устраиваешь мне непростую "
   },
   {
     "key": "pop quiz",
     "trx": "поп-викторина",
-    "val": "pop quiz"
+    "val": "поп-викторину"
   },
   {
     "key": " you’re giving me.”",
     "trx": " ты даешь мне.”",
-    "val": " you’re giving me.”"
+    "val": ".”"
   },
   {
     "key": "“Cut the crap, man. ",
     "trx": "“Прекрати нести чушь, чувак. ",
-    "val": "“Cut the crap, man. "
+    "val": "“Прекратите нести чушь. "
   },
   {
     "key": "You just said you have all the details inside your head.”",
     "trx": "Ты только что сказал, что у тебя в голове есть все детали.”",
-    "val": "You just said you have all the details inside your head.”"
+    "val": "Вы только что сказали, что у вас в голове есть все детали.”"
   },
   {
     "key": "“Oh, they’re in there all right. ",
     "trx": "“О, они там в порядке. ",
-    "val": "“Oh, they’re in there all right. "
+    "val": "“О, да-да, они там, внутри. "
   },
   {
     "key": "They’re just not coming out.”",
     "trx": "Они просто не выходят\".",
-    "val": "They’re just not coming out.”"
+    "val": "Просто их оттуда не достать.”"
   },
   {
     "key": "Minorikawa slumped. ",
     "trx": "Минорикава обмяк. ",
-    "val": "Minorikawa slumped. "
+    "val": "Минорикава обмяк. "
   },
   {
     "key": "“Mr. Toyama, please. ",
     "trx": "“Мистер Тояма, пожалуйста. ",
-    "val": "“Mr. Toyama, please. "
+    "val": "“Мистер Тояма, пожалуйста. "
   },
   {
     "key": "Whether or not you’ll be able to pay off your debts depends on your memory, here.”",
     "trx": "Сможете ли вы расплатиться со своими долгами или нет, зависит здесь от вашей памяти.”",
-    "val": "Whether or not you’ll be able to pay off your debts depends on your memory, here.”"
+    "val": "От вашей памяти зависит, сможете ли вы расплатиться со своими долгами или нет.”"
   },
   {
     "key": "Hearing this, Hana cast a cold glare up at her father.",
     "trx": "Услышав это, Хана бросила холодный взгляд на своего отца.",
-    "val": "Hearing this, Hana cast a cold glare up at her father."
+    "val": "Услышав это, Хана бросила холодный взгляд на своего отца."
   },
   {
     "key": "“All right. ",
     "trx": "“Хорошо. ",
-    "val": "“All right. "
+    "val": "“Хорошо. "
   },
   {
     "key": "I can remember. ",
     "trx": "Я могу вспомнить. ",
-    "val": "I can remember. "
+    "val": "Я могу вспомнить. "
   },
   {
     "key": "Or I can at least try.” ",
     "trx": "Или я могу, по крайней мере, попытаться.” ",
-    "val": "Or I can at least try.” "
+    "val": "Ну или я могу по крайней мере попытаться.” "
   },
   {
     "key": "Toyama folded his arms and hummed to himself, his gaze turned inward. ",
     "trx": "Тояма сложил руки на груди и что-то напевал себе под нос, его взгляд был обращен внутрь себя. ",
-    "val": "Toyama folded his arms and hummed to himself, his gaze turned inward. "
+    "val": "Тояма сложил руки на груди и что-то напевал себе под нос, его взгляд был обращен внутрь себя. "
   },
   {
     "key": "“Hmm...",
     "trx": "“Хм...",
-    "val": "“Hmm..."
+    "val": "“Хм... "
   },
   {
     "key": "so...",
     "trx": "так...",
-    "val": "so..."
+    "val": "так... "
   },
   {
     "key": "I feel like it was a really common name.”",
     "trx": "Я чувствую, что это было действительно распространенное имя\".",
-    "val": "I feel like it was a really common name.”"
+    "val": "кажется, это было распространенное имя.”"
   },
   {
     "key": "“Sato!” Chiaki chirped. ",
     "trx": "“Сато!” Чиаки защебетала. ",
-    "val": "“Sato!” Chiaki chirped. "
+    "val": "“Сато!” защебетала Чиаки. "
   },
   {
     "key": "“Yamada! ",
     "trx": "“Ямада! ",
-    "val": "“Yamada! "
+    "val": "“Ямада! "
   },
   {
     "key": "Was it either of those? ",
     "trx": "Было ли это что-то из этого? ",
-    "val": "Was it either of those? "
+    "val": "Может, одно из них? "
   },
   {
     "key": "They’re pretty common names.”",
     "trx": "Это довольно распространенные имена.”",
-    "val": "They’re pretty common names.”"
+    "val": "Это довольно распространенные имена.”"
   },
   {
     "key": "But Toyama shook his head.",
     "trx": "Но Тояма покачал головой.",
-    "val": "But Toyama shook his head."
+    "val": "Но Тояма покачал головой."
   },
   {
     "key": "Minorikawa offered a guess of his own.",
     "trx": "Минорикава высказал собственное предположение.",
-    "val": "Minorikawa offered a guess of his own."
+    "val": "Минорикава высказал собственное предположение."
   },
   {
     "key": "“Suzuki.”",
     "trx": "“Сузуки”.",
-    "val": "“Suzuki.”"
+    "val": "“Судзуки.”"
   },
   {
     "key": "“Takahashi.”",
     "trx": "“Такахаси”.",
-    "val": "“Takahashi.”"
+    "val": "“Такахаси.”"
   },
   {
     "key": "“Endo.”",
     "trx": "“Эндо”.",
-    "val": "“Endo.”"
+    "val": "“Эндо.”"
   },
   {
     "key": "“Tanaka.”",
     "trx": "“Танака”.",
-    "val": "“Tanaka.”"
+    "val": "“Танака.”"
   },
   {
     "key": "“",
@@ -2132,7 +2132,7 @@
   {
     "key": "Endo",
     "trx": "Эндо",
-    "val": "Endo"
+    "val": "Эндо"
   },
   {
     "key": "!”",
@@ -2142,892 +2142,892 @@
   {
     "key": "Toyama furrowed his brow and muttered under his breath.",
     "trx": "Тояма нахмурил брови и что-то пробормотал себе под нос.",
-    "val": "Toyama furrowed his brow and muttered under his breath."
+    "val": "Тояма нахмурил брови и что-то пробормотал себе под нос."
   },
   {
     "key": "“Hmm...",
     "trx": "“Хм...",
-    "val": "“Hmm..."
+    "val": "“Хм... "
   },
   {
     "key": "no, ",
     "trx": "нет, ",
-    "val": "no, "
+    "val": "нет, "
   },
   {
     "key": "that’s not right.”",
     "trx": "это неправильно\".",
-    "val": "that’s not right.”"
+    "val": "не то.”"
   },
   {
     "key": "“Yamamoto.”",
     "trx": "“Ямамото”.",
-    "val": "“Yamamoto.”"
+    "val": "“Ямамото.”"
   },
   {
     "key": "“Nakamura.”",
     "trx": "“Накамура”.",
-    "val": "“Nakamura.”"
+    "val": "“Накамура.”"
   },
   {
     "key": "“Tanaka.”",
     "trx": "“Танака”.",
-    "val": "“Tanaka.”"
+    "val": "“Танака.”"
   },
   {
     "key": "“Chiyotanda.”",
     "trx": "“Чиотанда”.",
-    "val": "“Chiyotanda.”"
+    "val": "“Чиотанда.”"
   },
   {
     "key": "“Yamamoto!”",
     "trx": "“Ямамото!”",
-    "val": "“Yamamoto!”"
+    "val": "“Ямамото!”"
   },
   {
     "key": "“Nooo....",
     "trx": "“Нееет....",
-    "val": "“Nooo...."
+    "val": "“Нееет.... "
   },
   {
     "key": "but I feel like we’re on the right track.”",
     "trx": "но я чувствую, что мы на правильном пути”.",
-    "val": "but I feel like we’re on the right track.”"
+    "val": "но я чувствую, что мы на правильном пути.”"
   },
   {
     "key": "Just then, the television inside the café switched over to a news report on the Shibuya explosion.",
     "trx": "Как раз в этот момент телевизор в кафе переключился на репортаж о взрыве в Сибуе.",
-    "val": "Just then, the television inside the café switched over to a news report on the Shibuya explosion."
+    "val": "Как раз в этот момент по телевизору в кафе начался репортаж о взрыве в Сибуе."
   },
   {
     "key": "“...the remains of the individual discovered within the minivan itself, ",
     "trx": "“...останки человека, обнаруженные внутри самого микроавтобуса, ",
-    "val": "“...the remains of the individual discovered within the minivan itself, "
+    "val": "“...человек, останки которого обнаружены внутри фургона, "
   },
   {
     "key": "who has since been identified as pharmaceutical company executive, ",
     "trx": "который с тех пор был назначен исполнительным директором фармацевтической компании, ",
-    "val": "who has since been identified as pharmaceutical company executive, "
+    "val": "был идентифицирован как исполнительный директор фармацевтической компании, "
   },
   {
     "key": "Mamoru Tanaka...” ",
     "trx": "Мамору Танака...” ",
-    "val": "Mamoru Tanaka...” "
+    "val": "Мамору Танака...” "
   },
   {
     "key": "“Mamoru Tanaka?” ",
     "trx": "“Мамору Танака?” ",
-    "val": "“Mamoru Tanaka?” "
+    "val": "“Мамору Танака?” "
   },
   {
     "key": "Toyama turned around to look at the TV.",
     "trx": "Тояма повернулся, чтобы посмотреть на телевизор.",
-    "val": "Toyama turned around to look at the TV."
+    "val": "Тояма повернулся, чтобы посмотреть на телевизор."
   },
   {
     "key": "An image of the victim’s face appeared on the screen.",
     "trx": "На экране появилось изображение лица жертвы.",
-    "val": "An image of the victim’s face appeared on the screen."
+    "val": "На экране появилось изображение лица жертвы."
   },
   {
     "key": "“Bwuh?!” the publisher blurted, ",
     "trx": "“Бвух?!” - выпалил издатель, ",
-    "val": "“Bwuh?!” the publisher blurted, "
+    "val": "“Бвух?!” выпалил издатель, "
   },
   {
     "key": "nearly falling out of his seat. ",
     "trx": "чуть не свалился со своего места. ",
-    "val": "nearly falling out of his seat. "
+    "val": "чуть не упав со стула. "
   },
   {
     "key": "“That’s it! It was him, right there! ",
     "trx": "“Вот и все! Это был он, прямо там! ",
-    "val": "“That’s it! It was him, right there! "
+    "val": "“Вот он! Это был он, вон там! "
   },
   {
     "key": "Mamoru Tanaka!”",
     "trx": "Мамору Танака!”",
-    "val": "Mamoru Tanaka!”"
+    "val": "Мамору Танака!”"
   },
   {
     "key": "His voice nearly cracked as he pointed emphatically at the TV.",
     "trx": "Его голос почти надломился, когда он выразительно указал на телевизор.",
-    "val": "His voice nearly cracked as he pointed emphatically at the TV."
+    "val": "Его голос почти надломился, когда он выразительно указал на телевизор."
   },
   {
     "key": "“That’s who Kenji Osawa’s wife was dating before they got married—",
     "trx": "“Вот с кем встречалась жена Кэндзи Осавы до того, как они поженились—",
-    "val": "“That’s who Kenji Osawa’s wife was dating before they got married—"
+    "val": "“Вот с кем встречалась жена Кэндзи Осавы до того, как они поженились — "
   },
   {
     "key": "Mamoru Tanaka!”",
     "trx": "Мамору Танака!”",
-    "val": "Mamoru Tanaka!”"
+    "val": "с Мамору Танакой!”"
   },
   {
     "key": "Minorikawa felt himself getting goosebumps.",
     "trx": "Минорикава почувствовал, как у него по коже побежали мурашки.",
-    "val": "Minorikawa felt himself getting goosebumps."
+    "val": "Минорикава почувствовал, как у него по коже побежали мурашки."
   },
   {
     "key": "The victim of the terrorist bombing in Shibuya was also linked to the researcher who was key to a terrorist viral scare.",
     "trx": "Жертва теракта в Сибуе также была связана с исследователем, который сыграл ключевую роль в террористической вирусной угрозе.",
-    "val": "The victim of the terrorist bombing in Shibuya was also linked to the researcher who was key to a terrorist viral scare."
+    "val": "Жертва теракта в Сибуе была также связана с исследователем, сыгравшем ключевую роль в вирусной угрозе от террористов."
   },
   {
     "key": "His reporter’s hunch was now a certainty.",
     "trx": "Его репортерская догадка теперь превратилась в уверенность.",
-    "val": "His reporter’s hunch was now a certainty."
+    "val": "Его репортерская догадка теперь превратилась в уверенность."
   },
   {
     "key": "Right now, Shibuya was at the center of some massive conspiracy.",
     "trx": "Прямо сейчас Сибуя был в центре какого-то масштабного заговора.",
-    "val": "Right now, Shibuya was at the center of some massive conspiracy."
+    "val": "Прямо сейчас Сибуя находилась в эпицентре какого-то масштабного заговора."
   },
   {
     "key": "This went far beyond even a major scoop.",
     "trx": "Это выходило далеко за рамки даже крупной сенсации.",
-    "val": "This went far beyond even a major scoop."
+    "val": "Это выходило далеко за рамки какой-то крупной сенсации."
   },
   {
     "key": "“Mr. Toyama, ",
     "trx": "“Мистер Тояма, ",
-    "val": "“Mr. Toyama, "
+    "val": "“Мистер Тояма, "
   },
   {
     "key": "we ",
     "trx": "мы ",
-    "val": "we "
+    "val": "мы "
   },
   {
     "key": "need",
     "trx": "необходимость",
-    "val": "need"
+    "val": "обязаны"
   },
   {
     "key": " to make sure that next month’s issue hits shelves.”",
     "trx": " чтобы убедиться, что выпуск в следующем месяце попадет на полки магазинов\".",
-    "val": " to make sure that next month’s issue hits shelves.”"
+    "val": " добиться, чтобы выпуск за следующий месяц попал на полки магазинов.”"
   },
   {
     "key": "Minorikawa called up ",
     "trx": "Минорикава позвонил ",
-    "val": "Minorikawa called up "
+    "val": "Минорикава позвонил "
   },
   {
     "key": "Kenji Osawa",
     "trx": "Кэндзи Осава",
-    "val": "Kenji Osawa"
+    "val": "Кэндзи Осаве"
   },
   {
     "key": " to let him know the results of his little investigation.",
     "trx": " чтобы сообщить ему о результатах своего маленького расследования.",
-    "val": " to let him know the results of his little investigation."
+    "val": " чтобы сообщить ему о результатах своего маленького расследования."
   },
   {
     "key": "The man didn’t seem terribly surprised; probably he’d had his suspicions all along.",
     "trx": "Мужчина не казался сильно удивленным; вероятно, у него с самого начала были свои подозрения.",
-    "val": "The man didn’t seem terribly surprised; probably he’d had his suspicions all along."
+    "val": "Мужчина не казался сильно удивленным; вероятно, у него с самого начала были подозрения на этот счет."
   },
   {
     "key": "Osawa told him that there was something he needed to do before he was ready to give details on the big scoop, but that he would call back later.",
     "trx": "Осава сказал ему, что ему нужно кое-что сделать, прежде чем он будет готов рассказать подробности о большой сенсации, но что он перезвонит позже.",
-    "val": "Osawa told him that there was something he needed to do before he was ready to give details on the big scoop, but that he would call back later."
+    "val": "Осава сказал ему, что ему нужно кое-что сделать, прежде чем он будет готов рассказать подробности о большой сенсации, но обещал перезвонить позже."
   },
   {
     "key": "In the meantime, Minorikawa knew, he’d have his hands full getting the current issue of the ",
     "trx": "Тем временем, Минорикава знал, что у него будет полно дел с текущим выпуском ",
-    "val": "In the meantime, Minorikawa knew, he’d have his hands full getting the current issue of the "
+    "val": "Минорикава знал, что у него будет пока и так будет полно дел, чтобы завершить текущий выпуск "
   },
   {
     "key": "Gossip",
     "trx": "Сплетня",
-    "val": "Gossip"
+    "val": "Сплетен"
   },
   {
     "key": " wrapped up for the seven o’clock deadline.",
     "trx": " закончили к крайнему сроку в семь часов.",
-    "val": " wrapped up for the seven o’clock deadline."
+    "val": " к семи часам."
   },
   {
     "key": "He slapped his hands down on the table. ",
     "trx": "Он хлопнул ладонями по столу. ",
-    "val": "He slapped his hands down on the table. "
+    "val": "Он хлопнул ладонями по столу. "
   },
   {
     "key": "“All right—emergency editing meeting, right here!” he announced.",
     "trx": "“Хорошо— экстренное совещание по редактированию, прямо здесь!” - объявил он.",
-    "val": "“All right—emergency editing meeting, right here!” he announced."
+    "val": "“Хорошо — мы проведем экстренное редакторское совещание прямо здесь!” объявил он."
   },
   {
     "key": "“We need to get a lead-in on the Shibuya terrorist bombing into the next issue. ",
     "trx": "“Нам нужно включить информацию о террористическом взрыве в Сибуе в следующий выпуск. ",
-    "val": "“We need to get a lead-in on the Shibuya terrorist bombing into the next issue. "
+    "val": "“Нам нужно включить в этот выпуск информацию о террористической атаке в Сибуе. "
   },
   {
     "key": "The article about the twins winning the beauty contest can be dropped for that. ",
     "trx": "Статья о близнецах, победивших в конкурсе красоты, может быть удалена из-за этого. ",
-    "val": "The article about the twins winning the beauty contest can be dropped for that. "
+    "val": "Статьей о близнецах, победивших в конкурсе красоты, можно для этого пожертвовать. "
   },
   {
     "key": "We’ll use the info from Kenji Osawa as the basis for our big scoop in the issue after that. ",
     "trx": "После этого мы будем использовать информацию от Кэндзи Осавы в качестве основы для нашей большой сенсации в этом выпуске. ",
-    "val": "We’ll use the info from Kenji Osawa as the basis for our big scoop in the issue after that. "
+    "val": "После этого мы используем информацию, полученную от Кэндзи Осавы, в качестве основы для большой сенсации в выпуске, который выйдет после него. "
   },
   {
     "key": "Mr. Toyama, any problems with that?”",
     "trx": "Мистер Тояма, какие-нибудь проблемы с этим?”",
-    "val": "Mr. Toyama, any problems with that?”"
+    "val": "Мистер Тояма, с этим есть какие-то проблемы?”"
   },
   {
     "key": "“No, that should be fine. ",
     "trx": "“Нет, это должно быть прекрасно. ",
-    "val": "“No, that should be fine. "
+    "val": "“Нет, никаких проблем. "
   },
   {
     "key": "But what about the remaining pages for next month’s issue?”",
     "trx": "Но как насчет оставшихся страниц для выпуска за следующий месяц?”",
-    "val": "But what about the remaining pages for next month’s issue?”"
+    "val": "Но что насчет оставшихся страниц для этого выпуска?”"
   },
   {
     "key": "Minorikawa opened the file on his computer.",
     "trx": "Минорикава открыл файл на своем компьютере.",
-    "val": "Minorikawa opened the file on his computer."
+    "val": "Минорикава открыл файл на своем компьютере."
   },
   {
     "key": "The layout built in the DTP came up on the monitor.",
     "trx": "Макет, встроенный в DTP, появился на мониторе.",
-    "val": "The layout built in the DTP came up on the monitor."
+    "val": "Макет, построенный в DTP, появился на мониторе."
   },
   {
     "key": "The report on the Burning Hammer sales demo.",
     "trx": "Отчет о демо-версии продаж Burning Hammer.",
-    "val": "The report on the Burning Hammer sales demo."
+    "val": "Отчет о демонстрации Жгучего молота."
   },
   {
     "key": "The surveillance camera opinion piece.",
     "trx": "Фрагмент заключения камеры наблюдения.",
-    "val": "The surveillance camera opinion piece."
+    "val": "Статья с опросом о камерах видеонаблюдения."
   },
   {
     "key": "The interview with Oarai.",
     "trx": "Интервью с Оараи.",
-    "val": "The interview with Oarai."
+    "val": "Интервью с Оараи."
   },
   {
     "key": "Those three were finished, the copy already incorporated into the layout.",
     "trx": "Эти три были закончены, копия уже была включена в макет.",
-    "val": "Those three were finished, the copy already incorporated into the layout."
+    "val": "Эти три статьи были уже закончены и включены в макет."
   },
   {
     "key": "Once Chiaki’s street interview piece was loaded in, that one could be checked off, as well.",
     "trx": "Как только статья Чиаки об уличном интервью была загружена, ее тоже можно было проверить.",
-    "val": "Once Chiaki’s street interview piece was loaded in, that one could be checked off, as well."
+    "val": "Как только Чиаки загрузит статью с уличными интервью, ее тоже можно будет там разместить."
   },
   {
     "key": "“Chiaki, how’s your copy coming along?”",
     "trx": "“Чиаки, как продвигается твоя копия?”",
-    "val": "“Chiaki, how’s your copy coming along?”"
+    "val": "“Чиаки, как продвигается твоя статья?”"
   },
   {
     "key": "“I’m sorry. ",
     "trx": "\"мне жаль. ",
-    "val": "“I’m sorry. "
+    "val": "“Мне жаль. "
   },
   {
     "key": "I just need a little bit longer.”",
     "trx": "Мне просто нужно еще немного времени.”",
-    "val": "I just need a little bit longer.”"
+    "val": "Мне нужно еще немного времени.”"
   },
   {
     "key": "The writing seemed to still be giving her a fair bit of trouble.",
     "trx": "Почерк, казалось, все еще доставлял ей изрядные неприятности.",
-    "val": "The writing seemed to still be giving her a fair bit of trouble."
+    "val": "Написание статьи, казалось, все еще доставляло ей изрядные неприятности."
   },
   {
     "key": "The article on S.O.S. was still just a placeholder in the layout.",
     "trx": "Статья о S.O.S. все еще была просто заполнителем в макете.",
-    "val": "The article on S.O.S. was still just a placeholder in the layout."
+    "val": "Статья о S.O.S. была пока лишь заполнителем в макете."
   },
   {
     "key": "And Minorikawa hadn’t even gotten any material for that, putting it even further behind than Chiaki’s street interviews.",
     "trx": "А Минорикава даже не получил для этого никаких материалов, что еще больше отставало от уличных интервью Чиаки.",
-    "val": "And Minorikawa hadn’t even gotten any material for that, putting it even further behind than Chiaki’s street interviews."
+    "val": "А Минорикава даже не получил для нее никаких материалов, из-за чего она отставала еще больше, чем уличные интервью Чиаки."
   },
   {
     "key": "Still, he’d at least learned where Shibuya’s legendary street gang made their hangout.",
     "trx": "Тем не менее, он, по крайней мере, узнал, где обосновалась легендарная уличная банда Сибуи.",
-    "val": "Still, he’d at least learned where Shibuya’s legendary street gang made their hangout."
+    "val": "Тем не менее, он, по крайней мере, узнал, где обосновалась легендарная уличная банда Сибуи."
   },
   {
     "key": "He’d just have to take the risk of dropping in on them unannounced to ambush them with some interview questions.",
     "trx": "Ему просто придется рискнуть и нагрянуть к ним без предупреждения, чтобы устроить им засаду с несколькими вопросами для интервью.",
-    "val": "He’d just have to take the risk of dropping in on them unannounced to ambush them with some interview questions."
+    "val": "Ему придется рискнуть и нагрянуть к ним без предупреждения, неожиданно устроив интервью."
   },
   {
     "key": "And then there was the lead-in for Shibuya bombing.",
     "trx": "А потом была подготовка к взрыву в Сибуе.",
-    "val": "And then there was the lead-in for Shibuya bombing."
+    "val": "Далее шла заготовка о взрыве в Сибуе."
   },
   {
     "key": "That wasn’t even in the layout yet.",
     "trx": "Этого еще даже не было в макете.",
-    "val": "That wasn’t even in the layout yet."
+    "val": "Ее даже даже не было еще в макете."
   },
   {
     "key": "It was a completely blank slate.",
     "trx": "Это был совершенно чистый лист.",
-    "val": "It was a completely blank slate."
+    "val": "Это был совершенно чистый лист."
   },
   {
     "key": "Against all odds, they were going to need to put that article together from nothing with just an hour and change.",
     "trx": "Несмотря ни на что, им нужно было собрать эту статью из ничего всего за час и внести изменения.",
-    "val": "Against all odds, they were going to need to put that article together from nothing with just an hour and change."
+    "val": "Им нужно было любой ценой создать эту статью с нуля за час и внести соответствующие изменения."
   },
   {
     "key": "It was an impossible amount of work for just him and Chiaki to do.",
     "trx": "Это был непосильный объем работы только для него и Чиаки.",
-    "val": "It was an impossible amount of work for just him and Chiaki to do."
+    "val": "Это был непосильный объем работы для него и Чиаки."
   },
   {
     "key": "“Well, well, well. ",
     "trx": "“Так, так, так. ",
-    "val": "“Well, well, well. "
+    "val": "“Так, так, так. "
   },
   {
     "key": "And how are things coming along?”",
     "trx": "И как продвигаются дела?”",
-    "val": "And how are things coming along?”"
+    "val": "И как продвигаются ваши дела?”"
   },
   {
     "key": "Katayama rose and came closer, trying to peer at the monitor.",
     "trx": "Катаяма встал и подошел ближе, пытаясь заглянуть в монитор.",
-    "val": "Katayama rose and came closer, trying to peer at the monitor."
+    "val": "Катаяма встал и подошел ближе, пытаясь заглянуть в монитор."
   },
   {
     "key": "Minorikawa hurried to cover the screen. ",
     "trx": "Минорикава поспешил закрыть экран. ",
-    "val": "Minorikawa hurried to cover the screen. "
+    "val": "Минорикава поспешил закрыть экран. "
   },
   {
     "key": "“Don’t look.”",
     "trx": "“Не смотри\".",
-    "val": "“Don’t look.”"
+    "val": "“Не смотри.”"
   },
   {
     "key": "If the printer rep saw all the blank pages, he might decide to stop waiting.",
     "trx": "Если бы представитель типографии увидел все пустые страницы, он мог бы решить перестать ждать.",
-    "val": "If the printer rep saw all the blank pages, he might decide to stop waiting."
+    "val": "Если бы представитель типографии увидел все эти пустые страницы, он мог бы решить перестать ждать."
   },
   {
     "key": "“Would you mind telling me roughly what percent of the total you have completed thus far?”",
     "trx": "“Не могли бы вы сказать мне примерно, какой процент от общего числа вы выполнили на данный момент?”",
-    "val": "“Would you mind telling me roughly what percent of the total you have completed thus far?”"
+    "val": "“Вы не могли бы мне сказать примерно, на сколько процентов вы завершили работу на данный момент?”"
   },
   {
     "key": "“What percent? ",
     "trx": "“Какой процент? ",
-    "val": "“What percent? "
+    "val": "“На сколько процентов? "
   },
   {
     "key": "Come off it, man. ",
     "trx": "Перестань, чувак. ",
-    "val": "Come off it, man. "
+    "val": "Ты что, чувак. "
   },
   {
     "key": "We’re at one hundred percent.”",
     "trx": "Мы на сто процентов готовы\".",
-    "val": "We’re at one hundred percent.”"
+    "val": "Мы готовы на сто процентов.”"
   },
   {
     "key": "“If you’re one hundred percent done, that implies that you’re all finished. ",
     "trx": "“Если вы закончили на сто процентов, это означает, что вы все закончили. ",
-    "val": "“If you’re one hundred percent done, that implies that you’re all finished. "
+    "val": "“Если вы готовы на сто процентов, это значит, что вы все закончили. "
   },
   {
     "key": "Could I please have the data, then?”",
     "trx": "Тогда не мог бы я, пожалуйста, получить эти данные?”",
-    "val": "Could I please have the data, then?”"
+    "val": "Тогда не могли бы вы, пожалуйста, передать мне данные?”"
   },
   {
     "key": "“No, no. ",
     "trx": "“Нет, нет. ",
-    "val": "“No, no. "
+    "val": "“Нет, нет. "
   },
   {
     "key": "I’m saying our willpower is at one hundred percent.”",
     "trx": "Я говорю, что наша сила воли на сто процентов\".",
-    "val": "I’m saying our willpower is at one hundred percent.”"
+    "val": "Я говорю, что духом мы готовы на сто процентов.”"
   },
   {
     "key": "“I’m not even going to pretend I understand what you mean by that.” ",
     "trx": "“Я даже не собираюсь притворяться, что понимаю, что ты имеешь в виду”. ",
-    "val": "“I’m not even going to pretend I understand what you mean by that.” "
+    "val": "“Не буду даже притворяться, что понимаю, что вы имеете в виду.” "
   },
   {
     "key": "Shaking his head, Katayama sat back down in his chair.",
     "trx": "Покачав головой, Катаяма откинулся на спинку стула.",
-    "val": "Shaking his head, Katayama sat back down in his chair."
+    "val": "Покачав головой, Катаяма откинулся на спинку стула."
   },
   {
     "key": "“Minorikawa,” Toyama asked, his expression uneasy, ",
     "trx": "“Минорикава\", - спросил Тояма с беспокойным выражением лица, ",
-    "val": "“Minorikawa,” Toyama asked, his expression uneasy, "
+    "val": "“Минорикава,” спросил Тояма с беспокойным выражением лица, "
   },
   {
     "key": "“so I know I asked before, ",
     "trx": "“так что я знаю, что спрашивал раньше, ",
-    "val": "“so I know I asked before, "
+    "val": "“я, помню, что уже это спрашивал, "
   },
   {
     "key": "but why is someone from the printer here again?”",
     "trx": "но почему здесь снова кто-то из типографии?”",
-    "val": "but why is someone from the printer here again?”"
+    "val": "но что здесь делает человек из типографии, еще раз?”"
   },
   {
     "key": "Katayama promptly chimed in. ",
     "trx": "Катаяма тут же вмешался. ",
-    "val": "Katayama promptly chimed in. "
+    "val": "Катаяма тут же вмешался. "
   },
   {
     "key": "“The long and short of it is that your proofing deadline has been changed to seven o’clock,” he said.",
     "trx": "“Короче говоря, ваш крайний срок проверки был изменен на семь часов”, - сказал он.",
-    "val": "“The long and short of it is that your proofing deadline has been changed to seven o’clock,” he said."
+    "val": "“Если вкратце, то ваш крайний срок сдачи материалов сдвинут на семь часов,” сказал он."
   },
   {
     "key": "“What?! But that’s impossible! ",
     "trx": "“Что?! Но это невозможно! ",
-    "val": "“What?! But that’s impossible! "
+    "val": "“Что?! Но это невозможно! "
   },
   {
     "key": "Who’s doing the lead-in for the Shibuya bombing?” ",
     "trx": "Кто ведет подготовку к взрыву в Сибуе?” ",
-    "val": "Who’s doing the lead-in for the Shibuya bombing?” "
+    "val": "Кто готовит материалы о взрыве в Сибуе?” "
   },
   {
     "key": "Toyama eyed Minorikawa and then Chiaki; both stared back noncommittally.",
     "trx": "Тояма посмотрел на Минорикаву, а затем на Чиаки; оба ответили уклончивым взглядом.",
-    "val": "Toyama eyed Minorikawa and then Chiaki; both stared back noncommittally."
+    "val": "Тояма посмотрел на Минорикаву, а затем на Чиаки; оба ответили уклончивым взглядом."
   },
   {
     "key": "“Then it really ",
     "trx": "“Тогда это действительно ",
-    "val": "“Then it really "
+    "val": "“Тогда это "
   },
   {
     "key": "is",
     "trx": "является",
-    "val": "is"
+    "val": "действительно"
   },
   {
     "key": " impossible. ",
     "trx": " невозможно. ",
-    "val": " impossible. "
+    "val": " невозможно. "
   },
   {
     "key": "We’ll never meet that deadline. ",
     "trx": "Мы никогда не уложимся в этот срок. ",
-    "val": "We’ll never meet that deadline. "
+    "val": "Мы ни за что не уложимся в этот срок. "
   },
   {
     "key": "We don’t have enough people.”",
     "trx": "У нас не хватает людей\".",
-    "val": "We don’t have enough people.”"
+    "val": "У нас не хватает людей.”"
   },
   {
     "key": "“No. ",
     "trx": "\"Нет. ",
-    "val": "“No. "
+    "val": "“Нет. "
   },
   {
     "key": "We ",
     "trx": "Мы ",
-    "val": "We "
+    "val": "Людей у нас "
   },
   {
     "key": "do",
     "trx": "делать",
-    "val": "do"
+    "val": "достаточно"
   },
   {
     "key": " have enough.”",
     "trx": " имей достаточно.”",
-    "val": " have enough.”"
+    "val": ".”"
   },
   {
     "key": "Minorikawa thrust out his finger. ",
     "trx": "Минорикава выставил палец. ",
-    "val": "Minorikawa thrust out his finger. "
+    "val": "Минорикава выставил палец. "
   },
   {
     "key": "“Mr. Toyama, ",
     "trx": "“Мистер Тояма, ",
-    "val": "“Mr. Toyama, "
+    "val": "“Мистер Тояма, вы "
   },
   {
     "key": "you’re",
     "trx": "Ты",
-    "val": "you’re"
+    "val": "сами"
   },
   {
     "key": " going to write that one, and handle the layout.”",
     "trx": " собираюсь написать это и разобраться с макетом.”",
-    "val": " going to write that one, and handle the layout.”"
+    "val": " напишете эту статью и займетесь макетом.”"
   },
   {
     "key": "“What?!”",
     "trx": "“Что?!”",
-    "val": "“What?!”"
+    "val": "“Что?!”"
   },
   {
     "key": "“Heaven Publishing is your company. ",
     "trx": "“Издательство \"Хевен Паблишинг\" - это ваша компания. ",
-    "val": "“Heaven Publishing is your company. "
+    "val": "“Издательство \"Небеса\" — это ваша компания. "
   },
   {
     "key": "Won’t you step up in order to protect it?”",
     "trx": "Разве ты не сделаешь шаг вперед, чтобы защитить его?”",
-    "val": "Won’t you step up in order to protect it?”"
+    "val": "Разве вы не должны что-то сделать, чтобы защитить ее?”"
   },
   {
     "key": "Toyama hung his head.",
     "trx": "Тояма опустил голову.",
-    "val": "Toyama hung his head."
+    "val": "Тояма опустил голову."
   },
   {
     "key": "“Even if I headed to the scene right now, ",
     "trx": "“Даже если бы я направился на место происшествия прямо сейчас, ",
-    "val": "“Even if I headed to the scene right now, "
+    "val": "“Даже если я прямо сейчас отправлюсь на место происшествия, "
   },
   {
     "key": "I’m sure the other outlets have already gotten their coverage. ",
     "trx": "Я уверен, что другие сми уже получили свое освещение. ",
-    "val": "I’m sure the other outlets have already gotten their coverage. "
+    "val": "уверен, что другие СМИ уже собрали там всю информацию. "
   },
   {
     "key": "I wouldn’t be able to find anything new to write about.”",
     "trx": "Я бы не смог найти ничего нового, о чем можно было бы написать”.",
-    "val": "I wouldn’t be able to find anything new to write about.”"
+    "val": "Я бы не смог найти ничего нового, о чем можно было бы написать.”"
   },
   {
     "key": "“And so you’re just going to give up?!”",
     "trx": "“И поэтому ты просто собираешься сдаться?!”",
-    "val": "“And so you’re just going to give up?!”"
+    "val": "“И поэтому вы просто собираетесь сдаться?!”"
   },
   {
     "key": "A moment later, Toyama was on the floor, Minorikawa glaring down at him. ",
     "trx": "Мгновение спустя Тояма оказался на полу, Минорикава пристально смотрел на него сверху вниз. ",
-    "val": "A moment later, Toyama was on the floor, Minorikawa glaring down at him. "
+    "val": "Мгновение спустя Тояма оказался на полу, Минорикава пристально смотрел на него сверху. "
   },
   {
     "key": "“You’ve always said you wanted to tell the world about the things the mass media can’t or won’t write about! ",
     "trx": "“Вы всегда говорили, что хотите рассказать миру о вещах, о которых средства массовой информации не могут или не хотят писать! ",
-    "val": "“You’ve always said you wanted to tell the world about the things the mass media can’t or won’t write about! "
+    "val": "“Вы всегда говорили, что хотите рассказать миру о вещах, о которых средства массовой информации не могут или не хотят писать! "
   },
   {
     "key": "So what the hell difference does it make if they’ve already gotten the sound bites ",
     "trx": "Так какая, черт возьми, разница, если они уже получили звуковые фрагменты ",
-    "val": "So what the hell difference does it make if they’ve already gotten the sound bites "
+    "val": "Так какая, к черту, разница, если они уже получили интересующую "
   },
   {
     "key": "they’re",
     "trx": "Они",
-    "val": "they’re"
+    "val": "их"
   },
   {
     "key": " after?!”",
     "trx": " после?!”",
-    "val": " after?!”"
+    "val": " информацию?!”"
   },
   {
     "key": "Minorikawa’s voice was raw with emotion.",
     "trx": "Голос Минорикавы был полон эмоций.",
-    "val": "Minorikawa’s voice was raw with emotion."
+    "val": "Голос Минорикавы был полон эмоций."
   },
   {
     "key": "“Don’t you dare give up! ",
     "trx": "“Не смей сдаваться! ",
-    "val": "“Don’t you dare give up! "
+    "val": "“Не смейте сдаваться! "
   },
   {
     "key": "Not that easily! ",
     "trx": "Не так-то просто! ",
-    "val": "Not that easily! "
+    "val": "Не так просто! "
   },
   {
     "key": "Get your ass out there! ",
     "trx": "Тащи свою задницу туда! ",
-    "val": "Get your ass out there! "
+    "val": "Тащите туда свою задницу! "
   },
   {
     "key": "Find something that only ",
     "trx": "Найти что-то, что только ",
-    "val": "Find something that only "
+    "val": "Найдите что-то такое, о чем можете написать только "
   },
   {
     "key": "you",
     "trx": "ты",
-    "val": "you"
+    "val": "вы"
   },
   {
     "key": " can write about!”",
     "trx": " могу написать об этом!”",
-    "val": " can write about!”"
+    "val": "!”"
   },
   {
     "key": "“Minorikawa...” ",
     "trx": "“Минорикава...” ",
-    "val": "“Minorikawa...” "
+    "val": "“Минорикава...” "
   },
   {
     "key": "Toyama began to object; then he glanced over at Hana.",
     "trx": "Тояма начал было возражать, но потом взглянул на Хану.",
-    "val": "Toyama began to object; then he glanced over at Hana."
+    "val": "Тояма начал было возражать, но потом взглянул на Хану."
   },
   {
     "key": "There was an imploring look in her eyes, as well.",
     "trx": "В ее глазах тоже был умоляющий взгляд.",
-    "val": "There was an imploring look in her eyes, as well."
+    "val": "В ее глазах тоже был умоляющий взгляд."
   },
   {
     "key": "“I get what you’re saying,” Toyama grumbled, ",
     "trx": "”Я понимаю, о чем ты говоришь\", - проворчал Тояма, ",
-    "val": "“I get what you’re saying,” Toyama grumbled, "
+    "val": "“Я понимаю, о чем ты говоришь,” проворчал Тояма, "
   },
   {
     "key": "“but still—you’re expecting a lot.” ",
     "trx": "“но все же... ты многого ожидаешь\". ",
-    "val": "“but still—you’re expecting a lot.” "
+    "val": "“но все же... ты многого ожидаешь.” "
   },
   {
     "key": "But then, despite his words, he flashed a broad grin.",
     "trx": "Но затем, несмотря на свои слова, он широко улыбнулся.",
-    "val": "But then, despite his words, he flashed a broad grin."
+    "val": "Но затем, несмотря на свои слова, он широко улыбнулся."
   },
   {
     "key": "“Yeah.” ",
     "trx": "“да”. ",
-    "val": "“Yeah.” "
+    "val": "“Да.” "
   },
   {
     "key": "Minorikawa let out a quiet chuckle. ",
     "trx": "Минорикава издал тихий смешок. ",
-    "val": "Minorikawa let out a quiet chuckle. "
+    "val": "Минорикава тихо усмехнулся. "
   },
   {
     "key": "“And it’s got you all fired up.”",
     "trx": "“И это тебя так заводит\".",
-    "val": "“And it’s got you all fired up.”"
+    "val": "“Вот вы и загорелись.”"
   },
   {
     "key": "“Yeah, ",
     "trx": "“Да, ",
-    "val": "“Yeah, "
+    "val": "“Да, "
   },
   {
     "key": "I’m fired up, all right.” ",
     "trx": "Я загорелся, все в порядке.” ",
-    "val": "I’m fired up, all right.” "
+    "val": "я загорелся, все в порядке.” "
   },
   {
     "key": "Toyama’s face shone with a resolve Minorikawa hadn’t seen in a long time.",
     "trx": "Лицо Тоямы сияло решимостью, которую Минорикава давно не видел.",
-    "val": "Toyama’s face shone with a resolve Minorikawa hadn’t seen in a long time."
+    "val": "Лицо Тоямы засияло решимостью, которой Минорикава давно не видел."
   },
   {
     "key": "“There we go—",
     "trx": "“Вот так мы и идем—",
-    "val": "“There we go—"
+    "val": "“Наконец-то — теперь вы "
   },
   {
     "key": "that’s",
     "trx": "Это",
-    "val": "that’s"
+    "val": "тот"
   },
   {
     "key": " the Toyama I know.”",
     "trx": " тот Тояма, которого я знаю.”",
-    "val": " the Toyama I know.”"
+    "val": " Тояма, которого я знаю.”"
   },
   {
     "key": "“You know—I’m really sorry. ",
     "trx": "“Ты знаешь — мне действительно жаль. ",
-    "val": "“You know—I’m really sorry. "
+    "val": "“Знаешь — я и правда сожалею. "
   },
   {
     "key": "Now I see the huge burden I put on you. ",
     "trx": "Теперь я вижу, какое огромное бремя я возложил на тебя. ",
-    "val": "Now I see the huge burden I put on you. "
+    "val": "Теперь я вижу, какое огромное бремя я возложил на тебя. "
   },
   {
     "key": "But dammit, it’s going to be all right.” ",
     "trx": "Но, черт возьми, все будет хорошо.” ",
-    "val": "But dammit, it’s going to be all right.” "
+    "val": "Но, черт возьми, все будет хорошо.” "
   },
   {
     "key": "Getting to his feet, Toyama took his daughter by the hand and strode boldly out of the café, looking like a changed man.",
     "trx": "Поднявшись на ноги, Тояма взял дочь за руку и смело вышел из кафе, выглядя совсем другим человеком.",
-    "val": "Getting to his feet, Toyama took his daughter by the hand and strode boldly out of the café, looking like a changed man."
+    "val": "Поднявшись на ноги, Тояма взял свою дочь за руку и смело вышел из кафе, выглядя совсем другим человеком."
   },
   {
     "key": "Minorikawa watched them go, glad the dithering was over.",
     "trx": "Минорикава смотрел им вслед, радуясь, что колебания закончились.",
-    "val": "Minorikawa watched them go, glad the dithering was over."
+    "val": "Минорикава смотрел им вслед, радуясь, что сомнения закончились."
   },
   {
     "key": "Even if Toyama were still in his prime, he’d be cutting it close to do that article in an hour.",
     "trx": "Даже если бы Тояма все еще был в расцвете сил, он был бы близок к тому, чтобы написать эту статью через час.",
-    "val": "Even if Toyama were still in his prime, he’d be cutting it close to do that article in an hour."
+    "val": "Даже если бы Тояма был сейчас в расцвете сил, ему было бы тяжело написать эту статью за час."
   },
   {
     "key": "But he would pull through somehow.",
     "trx": "Но он как-нибудь выкарабкается.",
-    "val": "But he would pull through somehow."
+    "val": "Но он как-нибудь выкарабкается."
   },
   {
     "key": "When it came to taking care of Hana, the man would rise to the occasion again and again.",
     "trx": "Когда дело доходило до заботы о Хане, этот мужчина снова и снова оказывался на высоте положения.",
-    "val": "When it came to taking care of Hana, the man would rise to the occasion again and again."
+    "val": "Когда дело доходило до заботы о Хане, он оказывался на высоте положения снова и снова."
   },
   {
     "key": "Father and daughter disappeared into the crowd, hand-in-hand.",
     "trx": "Отец и дочь исчезли в толпе, держась за руки.",
-    "val": "Father and daughter disappeared into the crowd, hand-in-hand."
+    "val": "Отец и дочь исчезли в толпе, держась за руки."
   },
   {
     "key": "Minorikawa shook himself out of his reverie. ",
     "trx": "Минорикава вытряхнул себя из задумчивости. ",
-    "val": "Minorikawa shook himself out of his reverie. "
+    "val": "Минорикава вышел из задумчивости. "
   },
   {
     "key": "“All right!” he cried.",
     "trx": "”Хорошо!“ - воскликнул он.",
-    "val": "“All right!” he cried."
+    "val": "“Хорошо!” воскликнул он."
   },
   {
     "key": "Despite the clear blue sky, an unexpected gust of wind blew across his cheek.",
     "trx": "Несмотря на ясное голубое небо, неожиданный порыв ветра ударил его по щеке.",
-    "val": "Despite the clear blue sky, an unexpected gust of wind blew across his cheek."
+    "val": "Несмотря на ясное голубое небо, неожиданный порыв ветра ударил его по щеке."
   },
   {
     "key": "“Come on, guys! We gotta get going, too!”",
     "trx": "“Давайте, ребята! Нам тоже пора идти!”",
-    "val": "“Come on, guys! We gotta get going, too!”"
+    "val": "“Давайте, ребята! Нам тоже пора идти!”"
   },
   {
     "key": "Things might look grim, but he wasn’t going to give up until the bitter end.",
     "trx": "Все могло выглядеть мрачно, но он не собирался сдаваться до самого горького конца.",
-    "val": "Things might look grim, but he wasn’t going to give up until the bitter end."
+    "val": "Все могло выглядеть мрачно, но он не собирался сдаваться до самого горького конца."
   },
   {
     "key": "It was time to head to the S.O.S. hangout: Inferno.",
     "trx": "Пришло время отправиться в притон S.O.S.: Инферно.",
-    "val": "It was time to head to the S.O.S. hangout: Inferno."
+    "val": "Пришло время отправиться в притон S.O.S.: Инферно."
   },
   {
     "key": "The three ran long and hard after leaving the café.",
     "trx": "Выйдя из кафе, все трое долго и упорно бежали.",
-    "val": "The three ran long and hard after leaving the café."
+    "val": "Выйдя из кафе, все трое долго и упорно бежали."
   },
   {
     "key": "If the proofing deadline was seven o’clock, then they needed to finish up with S.O.S. by 6:30 at the latest.",
     "trx": "Если крайний срок проверки был семь часов, то они должны были закончить с S.O.S. самое позднее к 6:30.",
-    "val": "If the proofing deadline was seven o’clock, then they needed to finish up with S.O.S. by 6:30 at the latest."
+    "val": "Раз крайним сроком сдачи материалов было семь часов, то они должны были закончить с S.O.S. самое позднее к 18:30."
   },
   {
     "key": "The gang’s hangout was in Ura-Harajuku.",
     "trx": "Притон банды находился в Ура-Харадзюку.",
-    "val": "The gang’s hangout was in Ura-Harajuku."
+    "val": "Притон этой банды находился в Ура-Харадзюку."
   },
   {
     "key": "Running all the way there on foot was going to eat into too much of their time.",
     "trx": "Пробежка туда пешком отнимет у них слишком много времени.",
-    "val": "Running all the way there on foot was going to eat into too much of their time."
+    "val": "Бежать туда бегом отняло бы у них слишком много времени."
   },
   {
     "key": "But traffic was at a near standstill for some reason, and there wasn’t a taxi in sight.",
     "trx": "Но движение по какой-то причине почти остановилось, и такси не было видно.",
-    "val": "But traffic was at a near standstill for some reason, and there wasn’t a taxi in sight."
+    "val": "Но движение по какой-то причине почти остановилось, и такси не было видно."
   },
   {
     "key": "“How long do you plan on running like this?” Katayama called out, panting.",
     "trx": "“Как долго ты планируешь так бегать?” - крикнул Катаяма, тяжело дыша.",
-    "val": "“How long do you plan on running like this?” Katayama called out, panting."
+    "val": "“Как долго вы собираетесь бежать?” крикнул Катаяма, тяжело дыша."
   },
   {
     "key": "“Just take a look at the road! ",
     "trx": "“Просто взгляни на дорогу! ",
-    "val": "“Just take a look at the road! "
+    "val": "“Посмотри на дорогу! "
   },
   {
     "key": "With this traffic, there’s no point in hailing a cab!”",
     "trx": "При таком движении нет смысла ловить такси!”",
-    "val": "With this traffic, there’s no point in hailing a cab!”"
+    "val": "При таком движении нет смысла ловить такси!”"
   },
   {
     "key": "Even Minorikawa was feeling the time pressure, now.",
     "trx": "Теперь даже Минорикава чувствовал нехватку времени.",
-    "val": "Even Minorikawa was feeling the time pressure, now."
+    "val": "Теперь даже Минорикава почувствовал нехватку времени."
   },
   {
     "key": "“We’re just gonna have to keep running until the roads clear!”",
     "trx": "“Нам просто придется продолжать бежать, пока дороги не расчистятся!”",
-    "val": "“We’re just gonna have to keep running until the roads clear!”"
+    "val": "“Нам придется продолжать бежать, пока дороги не расчистятся!”"
   },
   {
     "key": "“Whaaat?!” Katayama wailed.",
     "trx": "“Чтоааать?!” - взвыл Катаяма.",
-    "val": "“Whaaat?!” Katayama wailed."
+    "val": "“Чтооооо?!” взвыл Катаяма."
   },
   {
     "key": "“Stop your whining. ",
     "trx": "“Прекрати свое нытье. ",
-    "val": "“Stop your whining. "
+    "val": "“Прекрати ныть. "
   },
   {
     "key": "Just keep quiet and stick with me!”",
     "trx": "Просто молчи и держись со мной!”",
-    "val": "Just keep quiet and stick with me!”"
+    "val": "Просто молчи и держись рядом!”"
   },
   {
     "key": "He’d finally gotten Toyama to find his willpower again.",
     "trx": "Он наконец-то заставил Тояму снова обрести силу воли.",
-    "val": "He’d finally gotten Toyama to find his willpower again."
+    "val": "Он наконец-то заставил Тояму снова обрести силу воли."
   },
   {
     "key": "Next month’s issue ",
     "trx": "Выпуск за следующий месяц ",
-    "val": "Next month’s issue "
+    "val": "Следующий номер журнала "
   },
   {
     "key": "would",
     "trx": "было бы",
-    "val": "would"
+    "val": "выйдет"
   },
   {
     "key": " come out on time, and no way was some printer guy going to mess that up now.",
     "trx": " вышел вовремя, и ни за что бы какой-нибудь печатник не испортил это сейчас.",
-    "val": " come out on time, and no way was some printer guy going to mess that up now."
+    "val": " вовремя, и никакой печатник ни за что не испортит это сейчас."
   },
   {
     "key": "But the traffic showed no signs of abating.",
     "trx": "Но движение не проявляло никаких признаков ослабления.",
-    "val": "But the traffic showed no signs of abating."
+    "val": "Но движение продолжало быть напряженным."
   },
   {
     "key": "Catching a cab wasn’t going to be an option.",
     "trx": "Поймать такси было бы не вариант.",
-    "val": "Catching a cab wasn’t going to be an option."
+    "val": "Не было никаких шансов поймать такси."
   },
   {
     "key": "Fighting an ever-louder echo of despair, Minorikawa kept up his desperate ",
     "trx": "Борясь со все более громким эхом отчаяния, Минорикава продолжал свой отчаянный ",
-    "val": "Fighting an ever-louder echo of despair, Minorikawa kept up his desperate "
+    "val": "Пытаясь изо всех сил побороть отчаяние, Минорикава продолжал бежать "
   },
   {
     "key": "headlong rush",
     "trx": "стремительный бросок",
-    "val": "headlong rush"
+    "val": "сломя голову"
   },
   {
     "key": ".",
@@ -3037,42 +3037,42 @@
   {
     "key": "Still, there were limits to how far the mind could push the body before exhaustion set in.",
     "trx": "Тем не менее, существовали пределы тому, как далеко разум мог подтолкнуть тело, прежде чем наступит истощение.",
-    "val": "Still, there were limits to how far the mind could push the body before exhaustion set in."
+    "val": "Тем не менее, существовали пределы тому, насколько долго разум может подпитывать тело, прежде чем наступит истощение."
   },
   {
     "key": "“Eek!”",
     "trx": "“Ик!”",
-    "val": "“Eek!”"
+    "val": "“Иик!”"
   },
   {
     "key": "As they were running across a pedestrian overpass, Chiaki slipped and took a nasty fall.",
     "trx": "Когда они бежали по пешеходному переходу, Чиаки поскользнулась и сильно упала.",
-    "val": "As they were running across a pedestrian overpass, Chiaki slipped and took a nasty fall."
+    "val": "Когда они бежали по пешеходному переходу, Чиаки поскользнулась и сильно упала."
   },
   {
     "key": "She skinned her knee hard enough to draw blood.",
     "trx": "Она так сильно содрала кожу на колене, что пошла кровь.",
-    "val": "She skinned her knee hard enough to draw blood."
+    "val": "Она так сильно содрала кожу на колене, что пошла кровь."
   },
   {
     "key": "“Hey, you,” Minorikawa snapped at Katayama. ",
     "trx": "”Эй, ты\", - рявкнул Минорикава на Катаяму. ",
-    "val": "“Hey, you,” Minorikawa snapped at Katayama. "
+    "val": "“Эй, ты,” рявкнул Минорикава на Катаяму. "
   },
   {
     "key": "“Don’t just stand there! ",
     "trx": "“Не стой просто так! ",
-    "val": "“Don’t just stand there! "
+    "val": "“Не стой просто так! "
   },
   {
     "key": "Help the poor girl already!”",
     "trx": "Помогите уже бедной девочке!”",
-    "val": "Help the poor girl already!”"
+    "val": "Помоги уже бедной девушке!”"
   },
   {
     "key": "Katayama scurried over to Chiaki.",
     "trx": "Катаяма поспешил к Чиаки.",
-    "val": "Katayama scurried over to Chiaki."
+    "val": "Катаяма поспешил к Чиаки."
   },
   {
     "key": ",",
@@ -3082,62 +3082,62 @@
   {
     "key": "“I’m...",
     "trx": "“Я...",
-    "val": "“Мне..."
+    "val": "“Мне... "
   },
   {
     "key": "I’m sorry, Mr. Mino...",
     "trx": "Мне очень жаль, мистер Мино...",
-    "val": "Мне жаль, мистер Мино..."
+    "val": "мне жаль, мистер Мино... "
   },
   {
     "key": "I....” ",
     "trx": "Я....” ",
-    "val": "I....” "
+    "val": "я...” "
   },
   {
     "key": "Chiaki’s voice bubbled with suppressed tears.",
     "trx": "Голос Чиаки дрожал от сдерживаемых слез.",
-    "val": "Chiaki’s voice bubbled with suppressed tears."
+    "val": "Голос Чиаки дрожал от сдерживаемых слез."
   },
   {
     "key": "Maybe it was cruel to make her run with her computer all the way to Ura-Harajuku.",
     "trx": "Может быть, было жестоко заставлять ее бегать со своим компьютером всю дорогу до Ура-Харадзюку.",
-    "val": "Maybe it was cruel to make her run with her computer all the way to Ura-Harajuku."
+    "val": "Может быть, было жестоко заставлять ее бежать со своим ноутбуком всю дорогу до Ура-Харадзюку."
   },
   {
     "key": "But the copy for her interviews still needed to be looked over.",
     "trx": "Но копию для ее интервью все еще нужно было просмотреть.",
-    "val": "But the copy for her interviews still needed to be looked over."
+    "val": "Но статью про ее интервью все еще требовалось просмотреть."
   },
   {
     "key": "They couldn’t just leave her here.",
     "trx": "Они не могли просто оставить ее здесь.",
-    "val": "They couldn’t just leave her here."
+    "val": "Они не могли просто оставить ее здесь."
   },
   {
     "key": "Minorikawa hesitated, undecided.",
     "trx": "Минорикава колебался в нерешительности.",
-    "val": "Minorikawa hesitated, undecided."
+    "val": "Минорикава колебался в нерешительности."
   },
   {
     "key": "Even at a full run, they wouldn’t make it in time.",
     "trx": "Даже на полном ходу они не успели бы вовремя.",
-    "val": "Even at a full run, they wouldn’t make it in time."
+    "val": "Даже если бы они бежали изо всех сил, они не успели бы вовремя."
   },
   {
     "key": "And with traffic the way it was, there was nothing they could do.",
     "trx": "А при таком дорожном движении они ничего не могли поделать.",
-    "val": "And with traffic the way it was, there was nothing they could do."
+    "val": "А при таком дорожном движении они ничего не могли поделать."
   },
   {
     "key": "“You now have...” ",
     "trx": "“Теперь у вас есть...” ",
-    "val": "“You now have...” "
+    "val": "“У вас остается...” "
   },
   {
     "key": "Katayama consulted his pocket watch. ",
     "trx": "Катаяма посмотрел на свои карманные часы. ",
-    "val": "Katayama consulted his pocket watch. "
+    "val": "Катаяма посмотрел на свои карманные часы. "
   },
   {
     "key": "“...",
@@ -3147,21 +3147,21 @@
   {
     "key": "exactly",
     "trx": "именно так",
-    "val": "exactly"
+    "val": "ровно"
   },
   {
     "key": " one hour remaining.”",
     "trx": " остался один час.”",
-    "val": " one hour remaining.”"
+    "val": " один час.”"
   },
   {
     "key": "“Dammit!” Minorikawa raged. “What do we do?!”",
     "trx": "“Черт возьми!” Минорикава пришел в ярость. “Что нам делать?!”",
-    "val": "“Dammit!” Minorikawa raged. “What do we do?!”"
+    "val": "“Черт возьми!” Минорикава пришел в ярость. “Что нам делать?!”"
   },
   {
     "key": "Relentlessly, the clock ticked on.",
     "trx": "Неумолимо тикали часы.",
-    "val": "Relentlessly, the clock ticked on."
+    "val": "Часы неумолимо тикали."
   }
 ]

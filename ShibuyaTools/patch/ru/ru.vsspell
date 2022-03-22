@@ -24,9 +24,11 @@
     <Expression Match="\&quot;ndalous \&quot;" />
     <Expression Match="\&quot;sca\&quot;" />
     <Expression Match="\&quot;Нихон-го дэ дайджобу дэс\&quot;" />
+    <Expression Match="\\\&quot;Централ Таймс\\\&quot;" />
     <Expression Match="\b[Аа]а+х+!" />
     <Expression Match="\b[Аа]а+-чи\b" />
     <Expression Match="\b[Аа]йки-дзю-дзюцу\b" />
+    <Expression Match="\b[Аа]-ха+!" />
     <Expression Match="\b[Дд]а+\b" />
     <Expression Match="\b[Нн]ее+т!" />
     <Expression Match="\b[Оо]о*х\b" />
@@ -38,6 +40,7 @@
     <Expression Match="\b[Чч]тоо+!" />
     <Expression Match="\b[Ээ]э+й!" />
     <Expression Match="\b100%-ная\b" />
+    <Expression Match="\bCho-Nippon\b" />
     <Expression Match="\bА(ха)+\b" />
     <Expression Match="\bАа+!" />
     <Expression Match="\bаа+\b" Options="IgnoreCase" />
@@ -66,6 +69,7 @@
     <Expression Match="\bпомоги+те!" Options="IgnoreCase" />
     <Expression Match="\bпроиграа+ла?!" />
     <Expression Match="\bРр+ах+!" />
+    <Expression Match="\bУра-Хара\b" />
     <Expression Match="\bУф+!" Options="IgnoreCase" />
     <Expression Match="\bфан-страниц" Options="IgnoreCase" />
     <Expression Match="\bфуд-корт" Options="IgnoreCase" />
@@ -78,7 +82,7 @@
     <Expression Match="“Semper Fidelis,”" />
     <Expression Match="“Гррах!”" />
     <Expression Match="“покси\b" />
-    <Expression Match="\b[Аа]-ха+!" />
+    <Expression Match="\bЦентрал Таймс\b" />
   </ExclusionExpressions>
   <SpellCheckAsYouType>True</SpellCheckAsYouType>
   <IncludeInProjectSpellCheck>True</IncludeInProjectSpellCheck>
