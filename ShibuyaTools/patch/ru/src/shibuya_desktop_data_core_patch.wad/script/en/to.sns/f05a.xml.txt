@@ -3327,7 +3327,7 @@
   {
     "key": " give you my permission to use it in your magazine!”",
     "trx": " даю вам свое разрешение использовать его в вашем журнале!”",
-    "val": " использовать его в твоем журнале!”"
+    "val": " использовать это в твоем журнале!”"
   },
   {
     "key": "“You’re too late!”",
@@ -3447,7 +3447,7 @@
   {
     "key": "A favor?",
     "trx": "Одолжение?",
-    "val": "Одолжение?"
+    "val": "Одолжении?"
   },
   {
     "key": "Minorikawa thought back to his visit to the Osawa residence.",
@@ -3762,7 +3762,7 @@
   {
     "key": "Mr. Oar-Eye.”",
     "trx": "Мистер Весло-Глаз.”",
-    "val": "Мистер Оу Рай.”"
+    "val": "мистер Оу Рай.”"
   },
   {
     "key": "“It’s ‘Oarai.’”",

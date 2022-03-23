@@ -2402,7 +2402,7 @@
   {
     "key": "[Episode 5] At last, the climax of the play drew near. There was a whole string of troubles, but the cast soldiered on, and it looked like things were going to end all right. Then, backstage, Bando noticed that the dry ice machine was acting strangely; even after it had been turned off, the machine continued to churn out more dry ice. The producer, Sukozawa, demanded that the defective device be returned immediately, and so Tozuka, Bando, and Amo loaded it into their vehicle and left the theater. (Continued in Episode 6)",
     "trx": "[Эпизод 5] Наконец, кульминация пьесы приблизилась. Была целая череда неприятностей, но актерский состав держался стойко, и, похоже, все должно было закончиться хорошо. Затем, за кулисами, Бандо заметил, что машина для сухого льда ведет себя странно; даже после того, как ее выключили, машина продолжала производить больше сухого льда. Продюсер Сукодзава потребовал немедленно вернуть неисправное устройство, и поэтому Тодзука, Бандо и Амо загрузили его в свой автомобиль и покинули театр. (Продолжение в эпизоде 6)",
-    "val": "[Эпизод 5] Наконец приближалась кульминация пьесы. Была целая череда неприятностей, но актерский состав держался стойко, и, похоже, все должно было закончиться хорошо. Затем, за кулисами, Бандо заметил, что машина по производству сухого льда ведет себя странно; даже после выключения она продолжала производить сухой лед. Продюсер Сукодзава потребовал немедленно вернуть неисправное устройство, поэтому Тодзука, Бандо и Амо погрузили его в фургон и покинули театр. (Продолжение в эпизоде 6)"
+    "val": "[Эпизод 5] Наконец приближалась кульминация пьесы. Была целая череда неприятностей, но актерский состав держался стойко, и, похоже, все должно было закончиться хорошо. Затем, за кулисами, Бандо заметил, что машина по производству сухого льда ведет себя странно; даже после выключения она продолжала производить сухой лед. Продюсер Сукодзава потребовала немедленно вернуть неисправное устройство, поэтому Тодзука, Бандо и Амо погрузили его в фургон и покинули театр. (Продолжение в эпизоде 6)"
   },
   {
     "key": "Defamation of character",
@@ -3892,27 +3892,27 @@
   {
     "key": "CIA",
     "trx": "ЦРУ",
-    "val": "CIA"
+    "val": "ЦРУ"
   },
   {
     "key": "The U.S. Embassy in Akasaka functions as the headquarters for the CIA’s Japan branch. As the embassy building is not reliably secure, however, the agency carries out many of its activities in specially constructed embassy annex facilities, often under the guise of cultural exchange organizations. There are reportedly over one hundred CIA personnel active in Japan, but given the inherent secrecy involved, the exact number is not officially known.",
     "trx": "Посольство США в Акасаке функционирует как штаб-квартира японского отделения ЦРУ. Однако, поскольку здание посольства ненадежно охраняется, агентство осуществляет большую часть своей деятельности в специально построенных пристройках к посольству, часто под видом организаций по культурному обмену. По имеющимся сведениям, в Японии работает более ста сотрудников ЦРУ, но, учитывая присущую им секретность, точное число официально неизвестно.",
-    "val": "The U.S. Embassy in Akasaka functions as the headquarters for the CIA’s Japan branch. As the embassy building is not reliably secure, however, the agency carries out many of its activities in specially constructed embassy annex facilities, often under the guise of cultural exchange organizations. There are reportedly over one hundred CIA personnel active in Japan, but given the inherent secrecy involved, the exact number is not officially known."
+    "val": "Посольство США в Акасаке функционирует как штаб-квартира японского отделения ЦРУ. Однако, поскольку здание посольства охраняется недостаточно, агентство осуществляет большую часть своей деятельности в специально построенных пристройках к посольству, часто под видом организаций по культурному обмену. По имеющимся сведениям, в Японии работает более ста сотрудников ЦРУ, но, учитывая присущую им секретность, точное число официально неизвестно."
   },
   {
     "key": "PDA",
     "trx": "КПК",
-    "val": "PDA"
+    "val": "КПК"
   },
   {
     "key": "Personal Digital Assistant.",
     "trx": "Персональный Цифровой помощник.",
-    "val": "Personal Digital Assistant."
+    "val": "Карманный Персональный Компьютер."
   },
   {
     "key": "Refers to various types of small, portable devices for information management. Occasionally also referred to as a “handheld PC.”",
     "trx": "Относится к различным типам небольших портативных устройств для управления информацией. Иногда также упоминается как “карманный компьютер”.",
-    "val": "Refers to various types of small, portable devices for information management. Occasionally also referred to as a “handheld PC.”"
+    "val": "Включает в себя несколько различных типов портативных устройств для хранения информации. Иногда называется “наладонник.”"
   },
   {
     "key": "Brute-force",
@@ -3922,17 +3922,17 @@
   {
     "key": "A cryptanalysis technique that involves test input of all theoretically possible patterns; if time were unlimited, this would be the most reliable means of decipherment. However, in practice, the process takes massive amounts of time and computational power, and can be defeated by systems that prohibit access after a limited number of failed input attempts.",
     "trx": "Метод криптоанализа, который включает тестовый ввод всех теоретически возможных шаблонов; если бы время было неограниченным, это было бы наиболее надежным средством расшифровки. Однако на практике этот процесс занимает огромное количество времени и вычислительных мощностей и может быть нарушен системами, которые запрещают доступ после ограниченного числа неудачных попыток ввода.",
-    "val": "A cryptanalysis technique that involves test input of all theoretically possible patterns; if time were unlimited, this would be the most reliable means of decipherment. However, in practice, the process takes massive amounts of time and computational power, and can be defeated by systems that prohibit access after a limited number of failed input attempts."
+    "val": "Метод криптоанализа, который заключается в переборе всех теоретически возможных вариантов ввода; если бы время не было ограничено, это был бы самый надежный способ дешифровки. Однако на практике этот процесс занимает огромное количество времени и вычислительных мощностей и может быть затруднен в системах, которые блокируют доступ после ограниченного числа неудачных попыток ввода."
   },
   {
     "key": "Side-channel",
     "trx": "Боковой канал",
-    "val": "Атака по сторонним каналам"
+    "val": "Атака по стороннему каналу"
   },
   {
     "key": "Rather than trying to decipher the password itself, this method involves analyzing information from the device, such as processing time, power consumption, and electromagnetic leaks, and using these details to exploit the system. Isolating the run state of devices is a crucial element of countering side-channel attacks.",
     "trx": "Вместо того, чтобы пытаться расшифровать сам пароль, этот метод включает анализ информации с устройства, такой как время обработки, энергопотребление и электромагнитные утечки, и использование этих данных для использования системы. Изоляция состояния работы устройств является важнейшим элементом противодействия атакам по боковым каналам.",
-    "val": "Rather than trying to decipher the password itself, this method involves analyzing information from the device, such as processing time, power consumption, and electromagnetic leaks, and using these details to exploit the system. Isolating the run state of devices is a crucial element of countering side-channel attacks."
+    "val": "Вместо того, чтобы пытаться расшифровать сам пароль, этот метод заключается в анализе информации, поступающей с устройства, такой как время обработки, энергопотребление и электромагнитные утечки, и использовании полученных данных для взлома системы. Изоляция состояния работы устройств является важнейшим элементом противодействия атакам по стороннему каналу."
   },
   {
     "key": "Shortcut",
@@ -3942,27 +3942,27 @@
   {
     "key": "A cryptanalysis method that uses mathematical algorithms to carry out efficient bulk calculations against a block cypher that makes use of a shared key for encryption and decryption. Even when such calculations are theoretically possible, however, in practice the process requires large amounts of time, and the block cypher is seldom at real risk.",
     "trx": "Метод криптоанализа, который использует математические алгоритмы для выполнения эффективных массовых вычислений с блочным шифром, использующим общий ключ для шифрования и дешифрования. Однако даже тогда, когда такие вычисления теоретически возможны, на практике этот процесс требует большого количества времени, и блочный шифр редко подвергается реальному риску.",
-    "val": "A cryptanalysis method that uses mathematical algorithms to carry out efficient bulk calculations against a block cypher that makes use of a shared key for encryption and decryption. Even when such calculations are theoretically possible, however, in practice the process requires large amounts of time, and the block cypher is seldom at real risk."
+    "val": "Метод криптоанализа, который использует математические алгоритмы для выполнения эффективных массовых вычислений с блочным шифром, использующим общий ключ для шифрования и дешифровки. Однако даже тогда, когда такие вычисления теоретически возможны, на практике этот процесс требует большого количества времени, и блочный шифр редко подвергается реальному риску."
   },
   {
     "key": "Firewall",
     "trx": "Брандмауэр",
-    "val": "Firewall"
+    "val": "Брандмауэр"
   },
   {
     "key": "A security system for preventing unauthorized intrusion into a computer network. The term stems from a metaphorical reapplication of the concept of a wall meant to inhibit the spread of fire or other destructive forces.",
     "trx": "Система безопасности для предотвращения несанкционированного вторжения в компьютерную сеть. Этот термин происходит от метафорического повторного применения концепции стены, предназначенной для предотвращения распространения огня или других разрушительных сил.",
-    "val": "A security system for preventing unauthorized intrusion into a computer network. The term stems from a metaphorical reapplication of the concept of a wall meant to inhibit the spread of fire or other destructive forces."
+    "val": "Система безопасности, предназначенная для предотвращения несанкционированного вторжения в компьютерную сеть. Этот термин происходит от немецких слов Brand — “пожар” и Mauer — “стена” и является метафорой стены, используемой для предотвращения распространения огня или других разрушительных сил."
   },
   {
     "key": "Death toll",
     "trx": "Число погибших",
-    "val": "Death toll"
+    "val": "Число погибших"
   },
   {
     "key": "It is difficult to predict the scope of infection in the event of a bioterrorist attack employing a highly infectious viral agent in a city with a large and mobile population. In a worse-case scenario, some researchers estimate as many as several million infected in a matter of days.",
     "trx": "Трудно предсказать масштабы заражения в случае биотеррористической атаки с использованием высокоинфекционного вирусного агента в городе с большим и мобильным населением. В худшем случае, по оценкам некоторых исследователей, за считанные дни может быть заражено до нескольких миллионов человек.",
-    "val": "It is difficult to predict the scope of infection in the event of a bioterrorist attack employing a highly infectious viral agent in a city with a large and mobile population. In a worse-case scenario, some researchers estimate as many as several million infected in a matter of days."
+    "val": "Трудно предсказать масштабы заражения в случае биотеррористической атаки с использованием высокоинфекционного вирусного агента в городе с большим и мобильным населением. В худшем случае, по оценкам некоторых исследователей, за считанные дни может быть заражено до нескольких миллионов человек."
   },
   {
     "key": "Counter-NBC terrorism unit",
