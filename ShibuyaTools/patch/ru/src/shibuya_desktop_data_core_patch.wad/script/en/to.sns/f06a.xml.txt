@@ -2232,7 +2232,7 @@
   {
     "key": " was a yakuza syndicate that operated in Shibuya.",
     "trx": " был синдикатом якудза, действовавшим в Сибуе.",
-    "val": " — это синдикат якудза, который действовал в Сибуе."
+    "val": " — это синдикат якудзы, который действовал в Сибуе."
   },
   {
     "key": "These street kids were sure to be familiar with the name, if nothing else.",
@@ -2757,7 +2757,7 @@
   {
     "key": "He looked around and found a public bathroom upstairs on the alley side of the building.",
     "trx": "Он огляделся и нашел общественную ванную наверху, на стороне переулка здания.",
-    "val": "Он осмотрелся и нашел в наверху общественную уборную, окно которой выходило на переулок."
+    "val": "Он осмотрелся и нашел наверху общественную уборную, окно которой выходило на переулок."
   },
   {
     "key": "Hoping beyond hope, he slipped up to the bathroom window.",
