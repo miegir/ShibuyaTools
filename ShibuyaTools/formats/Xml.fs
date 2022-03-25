@@ -56,7 +56,7 @@ let translate path body =
         let i = index
         index <- i + 1
         let e = existing[i]
-        if e.Key = key then e.Val else
+        if e.Key = key then Text.compact e.Val else
         if showError then eprintfn "%s: wrong key [%d] '%s'; expected '%s'" path i e.Key key
         showError <- false
         key

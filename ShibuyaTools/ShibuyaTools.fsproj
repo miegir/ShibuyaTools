@@ -8,6 +8,7 @@
   <ItemGroup>
     <None Include="Properties\launchSettings.json" />
     <None Include="patch\**\*.*" />
+    <Compile Include="utils\Text.fs" />
     <Compile Include="utils\IO.fs" />
     <Compile Include="utils\Reader.fs" />
     <Compile Include="utils\Writer.fs" />
