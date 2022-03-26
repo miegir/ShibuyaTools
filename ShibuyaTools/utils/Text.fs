@@ -18,4 +18,5 @@ let compact = String.map (function
     | 'о' -> 'o'
     | 'р' -> 'p'
     | 'х' -> 'x'
+    | 'у' -> 'y'
     | c -> c)
