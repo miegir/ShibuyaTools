@@ -76,13 +76,14 @@
     <Expression Match="\bХи+-йа+!" />
     <Expression Match="\bхмм+\b" />
     <Expression Match="\bЦентр Гай\b" />
+    <Expression Match="\bЦентрал Таймс\b" />
     <Expression Match="\bЧее+рт!" Options="IgnoreCase" />
     <Expression Match="\bШш+!" />
     <Expression Match="\bЭэ+х\b" />
     <Expression Match="“Semper Fidelis,”" />
     <Expression Match="“Гррах!”" />
     <Expression Match="“покси\b" />
-    <Expression Match="\bЦентрал Таймс\b" />
+    <Expression Match="\bКияя+!" />
   </ExclusionExpressions>
   <SpellCheckAsYouType>True</SpellCheckAsYouType>
   <IncludeInProjectSpellCheck>True</IncludeInProjectSpellCheck>

@@ -41,25 +41,33 @@ let extract path body =
         let offset = scriptOffset + bookmark.Location
         registerBlock body[sourcePtr..offset-1]
 
+    registerBlock body[sourcePtr..]
+
     let updated = List.ofSeq translations
     let source = Json.read [] path
     if updated = source then () else
     Json.write updated path
 
 let translate path body =
-    let mutable index = 0
     let mutable existing = Json.read [||] path
+
+    if existing.Length = 0 then body else
+
+    let mutable index = 0
     let mutable showError = true
 
     let popval key =
-        if index >= existing.Length then key else
-        let i = index
-        index <- i + 1
-        let e = existing[i]
-        if e.Key = key then Text.compact e.Val else
-        if showError then eprintfn "%s: wrong key [%d] '%s'; expected '%s'" path i e.Key key
-        showError <- false
-        key
+        if index >= existing.Length then
+            eprintfn "%s: translation eos at key '%s'" path key
+            key
+        else
+            let i = index
+            index <- i + 1
+            let e = existing[i]
+            if e.Key = key then Text.compact e.Val else
+            if showError then eprintfn "%s: wrong key [%d] '%s'; expected '%s'" path i e.Key key
+            showError <- false
+            key
 
     use reader = Reader.fromByteArray body
     Reader.seekFromStart 1072 reader
@@ -91,6 +99,8 @@ let translate path body =
         registerBlock body[sourcePtr..offset-1]
         Writer.seekFromStart bookmark.LocationOffset bookmarkWriter
         Writer.writeInt32 (targetPtr - scriptOffset) bookmarkWriter
+
+    registerBlock body[sourcePtr..]
 
     let index = Array.findIndexBack ((=) 0xACuy) body
     registerBlock body[sourcePtr..index+1]
