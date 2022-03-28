@@ -152,12 +152,12 @@
   {
     "key": "If Maria goes symptomatic...” ",
     "trx": "Если у Марии появятся симптомы...” ",
-    "val": "Если у Марии появятся симптомы...” "
+    "val": "Если у Марии проявятся симптомы...” "
   },
   {
     "key": "If Maria goes symptomatic...",
     "trx": "Если у Марии появятся симптомы...",
-    "val": "Если у Марии появятся симптомы..."
+    "val": "Если у Марии проявятся симптомы..."
   },
   {
     "key": "That was still only an ‘if,’ but Osawa was reluctant to put his fears into words.",
@@ -167,7 +167,7 @@
   {
     "key": "“If she goes symptomatic, the Ua virus will sweep through all of Tokyo!”",
     "trx": "“Если у нее появятся симптомы, вирус Ua пронесется по всему Токио!”",
-    "val": "“Если у нее появятся симптомы, вирус Ua распространится по всему Токио!”"
+    "val": "“Если у нее проявятся симптомы, вирус Ua распространится по всему Токио!”"
   },
   {
     "key": "“I realize that,” Makino replied. ",

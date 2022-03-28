@@ -2777,32 +2777,32 @@
   {
     "key": "Ebullient",
     "trx": "Кипучий",
-    "val": "Ebullient"
+    "val": "Кипучий"
   },
   {
     "key": "Cheerful and full of energy.",
     "trx": "Жизнерадостный и полный энергии.",
-    "val": "Cheerful and full of energy."
+    "val": "Жизнерадостный и полный энергии."
   },
   {
     "key": "Originally the term indicated a state of bubbling or boiling, so it’s effectively a fancy way of describing someone as ‘bubbly.’",
     "trx": "Первоначально этот термин обозначал состояние бурления или кипения, так что это, по сути, причудливый способ описать кого-то как \"пузырящегося\".",
-    "val": "Originally the term indicated a state of bubbling or boiling, so it’s effectively a fancy way of describing someone as ‘bubbly.’"
+    "val": "В прямом смысле этот термин обозначает состояние бурления или кипения, так что это, по сути, причудливый способ описать кого-то как ‘пузырящегося.’"
   },
   {
     "key": "Futile",
     "trx": "Бесполезный",
-    "val": "Futile"
+    "val": "Бесполезно"
   },
   {
     "key": "Hopeless. Pointless. Ineffectual.",
     "trx": "Безнадежный. Бессмысленный. Безрезультатно.",
-    "val": "Hopeless. Pointless. Ineffectual."
+    "val": "Безнадежно. Бессмысленно. Безрезультатно."
   },
   {
     "key": "Not to be confused with ",
     "trx": "Не следует путать с ",
-    "val": "Not to be confused with "
+    "val": "Автор призывает не путать английское ‘futile’ с "
   },
   {
     "key": "feudal",
@@ -2812,32 +2812,32 @@
   {
     "key": ", which refers to the sociopolitical system of the Middle Ages involving lords and vassals and fiefdoms.",
     "trx": ", который относится к социально-политической системе средневековья, включающей лордов, вассалов и вотчины.",
-    "val": ", which refers to the sociopolitical system of the Middle Ages involving lords and vassals and fiefdoms."
+    "val": " — социально-политической системой средневековья, включающей лордов, вассалов и вотчины — но мы-то, русские, вряд ли это перепутаем."
   },
   {
     "key": "Labyrinth",
     "trx": "Лабиринт",
-    "val": "Labyrinth"
+    "val": "Лабиринт"
   },
   {
     "key": "A complex series of passageways designed to be difficult or confusing to navigate; a maze.",
     "trx": "Сложный ряд проходов, предназначенных для того, чтобы в них было трудно или запутанно ориентироваться; лабиринт.",
-    "val": "A complex series of passageways designed to be difficult or confusing to navigate; a maze."
+    "val": "Сложная сеть переходов, предназначенных для того, чтобы в них было сложно или неудобно ориентироваться."
   },
   {
     "key": "It will indeed by quite easy to get lost or disoriented in the place where Minorikawa is going (and where ",
     "trx": "Действительно, довольно легко заблудиться или дезориентироваться в том месте, куда направляется Минорикава (и где ",
-    "val": "It will indeed by quite easy to get lost or disoriented in the place where Minorikawa is going (and where "
+    "val": "Будет действительно легко заблудиться и дезориентироваться в том месте, куда направляется Минорикава (и "
   },
   {
     "key": "you’re",
     "trx": "Ты",
-    "val": "you’re"
+    "val": "Вы"
   },
   {
     "key": " going, too!)—but any maze can be solved with enough effort. All you need is perseverance and wit (though taking frequent notes wouldn’t hurt either). Best of luck!",
     "trx": " тоже иду!) — но любой лабиринт можно решить, приложив достаточно усилий. Все, что вам нужно, - это настойчивость и остроумие (хотя частые заметки тоже не повредят). Желаю удачи!",
-    "val": " going, too!)—but any maze can be solved with enough effort. All you need is perseverance and wit (though taking frequent notes wouldn’t hurt either). Best of luck!"
+    "val": " вместе с ним!) — но из любого лабиринта можно выбраться, приложив достаточно усилий. Все, что вам нужно, — это настойчивость и остроумие (хотя частые записи тоже не повредят). Удачи!"
   },
   {
     "key": "Bomb and Arson Squad",

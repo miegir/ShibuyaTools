@@ -55,6 +55,7 @@
     <Expression Match="\bЕе+сть!" Options="IgnoreCase" />
     <Expression Match="\bКа+к?" Options="IgnoreCase" />
     <Expression Match="\bКанто-Сираминэ-гуми\b" />
+    <Expression Match="\bКияя+!" />
     <Expression Match="\bлже-Альфард" />
     <Expression Match="\bМии-тян\b" />
     <Expression Match="\bМм+." />
@@ -83,7 +84,7 @@
     <Expression Match="“Semper Fidelis,”" />
     <Expression Match="“Гррах!”" />
     <Expression Match="“покси\b" />
-    <Expression Match="\bКияя+!" />
+    <Expression Match="\bУа(ха)+!" />
   </ExclusionExpressions>
   <SpellCheckAsYouType>True</SpellCheckAsYouType>
   <IncludeInProjectSpellCheck>True</IncludeInProjectSpellCheck>

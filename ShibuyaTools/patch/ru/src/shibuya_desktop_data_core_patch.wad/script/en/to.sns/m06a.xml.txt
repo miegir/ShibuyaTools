@@ -1412,7 +1412,7 @@
   {
     "key": "“Well—later then!”",
     "trx": "“Хорошо — тогда позже!”",
-    "val": "“Хорошо — тогда позже!”"
+    "val": "“Хорошо — увидимся!”"
   },
   {
     "key": "Further along Koen-Dori, I come across a car on the roadside that’s spectacularly aflame.",
@@ -1477,17 +1477,17 @@
   {
     "key": "Decaying roads.",
     "trx": "Разрушающиеся дороги.",
-    "val": "Рушащиеся дороги."
+    "val": "Разрушающиеся дороги."
   },
   {
     "key": "Decaying houses.",
     "trx": "Разрушающиеся дома.",
-    "val": "Рушащиеся дома."
+    "val": "Разрушающиеся дома."
   },
   {
     "key": "A decaying city.",
     "trx": "Разлагающийся город.",
-    "val": "Рушащийся город."
+    "val": "Разрушающийся город."
   },
   {
     "key": "...and the people who live there.",
@@ -1537,7 +1537,7 @@
   {
     "key": "“‘Ana ismi...”",
     "trx": "“Ана исми...”",
-    "val": "“‘Ana ismi...”"
+    "val": "“‘Ana ismi...’”"
   },
   {
     "key": "“...cat’s cradle.”",
