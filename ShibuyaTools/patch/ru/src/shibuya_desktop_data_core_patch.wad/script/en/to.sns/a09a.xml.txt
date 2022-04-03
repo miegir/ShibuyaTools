@@ -3207,12 +3207,12 @@
   {
     "key": "“Look out! ",
     "trx": "“Берегись! ",
-    "val": "“Берегитесь! "
+    "val": "“Осторожно! "
   },
   {
     "key": "Catch ‘em! Catch ‘em!”",
     "trx": "Лови их! Ловите их!”",
-    "val": "Ловите! Ловите!”"
+    "val": "Ловите их! Ловите их!”"
   },
   {
     "key": "Achi gestured for his comrades to fan out across the open space.",
@@ -3912,7 +3912,7 @@
   {
     "key": "Trusting someone really does make you blind. ",
     "trx": "Доверие кому-то действительно делает тебя слепым. ",
-    "val": "Доверие кому-то и правда делает тебя слепым. "
+    "val": "Доверие кому-то действительно ослепляет. "
   },
   {
     "key": "Such a simple, childish ruse—",
@@ -3947,7 +3947,7 @@
   {
     "key": "And that’s enough to blow this whole area to smithereens.”",
     "trx": "И этого достаточно, чтобы разнести всю эту местность вдребезги.”",
-    "val": "Ее здесь достаточно, чтобы разнести все это место к чертям.”"
+    "val": "Ее здесь хватит, чтобы разнести все это место к чертям.”"
   },
   {
     "key": "Blow the whole area to smithereens?",
@@ -4037,7 +4037,7 @@
   {
     "key": "“It’s not going to explode anymore, right?”",
     "trx": "“Он больше не взорвется, верно?”",
-    "val": "“Она теперь не взорвется, так?”"
+    "val": "“Она больше не взорвется, так?”"
   },
   {
     "key": "“Maybe. But I wouldn’t bet our lives on it.” ",
@@ -4172,7 +4172,7 @@
   {
     "key": "“Leave that thing and get out of here!”",
     "trx": "“Оставь эту штуку и убирайся отсюда!”",
-    "val": "“Бросай эту штуку и убирайся отсюда!”"
+    "val": "“Оставь эту штуку и убирайся отсюда!”"
   },
   {
     "key": "“No way.” ",
@@ -4197,12 +4197,12 @@
   {
     "key": "Detective, you need to get these people someplace safe right away. ",
     "trx": "Детектив, вам нужно немедленно доставить этих людей в безопасное место. ",
-    "val": "Детектив, вы должны немедленно доставить этих людей в безопасное место. "
+    "val": "Детектив, ты должен немедленно доставить этих людей в безопасное место. "
   },
   {
     "key": "Clear the area first—then I’ll go.”",
     "trx": "Сначала очистите территорию, а потом я уйду.”",
-    "val": "Сначала очистите территорию, а потом я уйду.”"
+    "val": "Сначала очисти территорию, а потом я уйду.”"
   },
   {
     "key": "“But there’s no way I can do that!”",
@@ -4212,7 +4212,7 @@
   {
     "key": "“Dammit, don’t you want to save these people?!” Achi snapped.",
     "trx": "“Черт возьми, разве ты не хочешь спасти этих людей?!” - огрызнулся Ачи.",
-    "val": "“Черт возьми, разве вы не хотите спасти этих людей?!” огрызнулся Ачи."
+    "val": "“Черт возьми, разве ты не хочешь спасти этих людей?!” огрызнулся Ачи."
   },
   {
     "key": "Kano bit his lower lip.",
@@ -4417,7 +4417,7 @@
   {
     "key": "Just run!”",
     "trx": "Просто беги!”",
-    "val": "Бегите!”"
+    "val": "Убегайте!”"
   },
   {
     "key": "Following his lead, Kano started directing nearby civilians to safety.",

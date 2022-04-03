@@ -1117,7 +1117,7 @@
   {
     "key": "“I often eat bananas when I go the park with my daughter,” ",
     "trx": "“Я часто ем бананы, когда гуляю в парке со своей дочерью”. ",
-    "val": "“Я часто ем бананы, когда гуляю в парке со своей дочерью.” "
+    "val": "“Я часто ем бананы, когда гуляю в парке со своей дочерью,” "
   },
   {
     "key": "Kajiwara muttered between mouthfuls.",

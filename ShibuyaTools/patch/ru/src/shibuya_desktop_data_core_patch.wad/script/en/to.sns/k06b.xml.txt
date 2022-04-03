@@ -107,7 +107,7 @@
   {
     "key": "Kano didn’t know when he’d wake back up, but he knew he needed to hear what the guy had to say.",
     "trx": "Кано не знал, когда он снова проснется, но он знал, что ему нужно услышать, что скажет этот парень.",
-    "val": "Кано не знал, когда он снова проснется, но он знал, что ему нужно услышать то, что скажет этот парень."
+    "val": "Кано не знал, когда он снова придет в себя, но он знал, что ему нужно услышать то, что скажет этот парень."
   },
   {
     "key": "He sensed that this stranger was the key to unlocking the entire case.",
@@ -117,7 +117,7 @@
   {
     "key": "But though Kano kept a lonely vigil, the man never woke again.",
     "trx": "Но хотя Кано нес одинокое бдение, мужчина больше никогда не просыпался.",
-    "val": "Но хотя Кано нес одинокое бдение, мужчина больше никогда не проснулся."
+    "val": "Но хотя Кано нес одинокое бдение, мужчина так и не пришел в себя."
   },
   {
     "key": "The antiviral that had been given to Hitomi.",

@@ -2937,7 +2937,7 @@
   {
     "key": "“It’s a cat, not a rabbit...” ",
     "trx": "“Это кошка, а не кролик...” ",
-    "val": "“Это кот, а не кролик...” "
+    "val": "“Это же кот, а не кролик...” "
   },
   {
     "key": "Continuing on his way, he soon came to another hole in the floor.",

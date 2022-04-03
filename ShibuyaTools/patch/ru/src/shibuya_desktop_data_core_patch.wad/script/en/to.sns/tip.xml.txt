@@ -957,7 +957,7 @@
   {
     "key": "Seiichi Saeki. Heart specialist and Suzune’s attending physician. A preeminent surgeon who has successfully performed the “Batista procedure,” wherein the left ventricle is reconstructed after a third of it has been removed.",
     "trx": "Сейичи Саэки. Кардиолог и лечащий врач Сузуне. Выдающийся хирург, успешно выполнивший “процедуру Батисты”, при которой восстанавливается левый желудочек после удаления его трети.",
-    "val": "Сейичи Саэки. Кардиолог и лечащий врач Сузуне. Выдающийся хирург, успешно выполнивший “процедуру Батисты”, при которой восстанавливается левый желудочек после удаления его трети."
+    "val": "Сейичи Саэки. Кардиолог и лечащий врач Сузуне. Выдающийся хирург, успешно выполнивший “процедуру Батисты,” при которой восстанавливается левый желудочек после удаления его трети."
   },
   {
     "key": "Shakedown",
@@ -3967,37 +3967,37 @@
   {
     "key": "Counter-NBC terrorism unit",
     "trx": "Подразделение по борьбе с терроризмом NBC",
-    "val": "Counter-NBC terrorism unit"
+    "val": "Группа по борьбе с ЯБХ-терроризмом"
   },
   {
     "key": "A Public Safety Mobile Investigation Unit belonging to the Tokyo Metropolitan Police Department Public Security Bureau. The acronym “NBC” refers to Nuclear, Biological, and Chemical threats. The unit not only gathers information and investigates terror incidents that make use of these means, but also deploys relief and safety restoration measures.",
     "trx": "Мобильное следственное подразделение общественной безопасности, принадлежащее Бюро общественной безопасности Департамента полиции Токио. Аббревиатура “NBC” относится к ядерным, биологическим и химическим угрозам. Подразделение не только собирает информацию и расследует террористические инциденты, в которых используются эти средства, но также принимает меры по оказанию чрезвычайной помощи и восстановлению безопасности.",
-    "val": "A Public Safety Mobile Investigation Unit belonging to the Tokyo Metropolitan Police Department Public Security Bureau. The acronym “NBC” refers to Nuclear, Biological, and Chemical threats. The unit not only gathers information and investigates terror incidents that make use of these means, but also deploys relief and safety restoration measures."
+    "val": "Мобильное следственное подразделение общественной безопасности, принадлежащее Бюро общественной безопасности Департамента полиции Токио. Аббревиатура “ЯБХ” относится к ядерным, биологическим и химическим угрозам. Подразделение не только собирает информацию и расследует террористические инциденты, в которых используются эти средства, но также принимает меры по оказанию чрезвычайной помощи и восстановлению безопасности."
   },
   {
     "key": "Quarantine",
     "trx": "Карантин",
-    "val": "Quarantine"
+    "val": "Карантин"
   },
   {
     "key": "The act of placing infectees in isolation, such as in a medical treatment facility, in order to prevent the spread of infection. For viruses capable of airborne transmission, an Airborne Infection Isolation Room (AIIR) is sometimes used, which employs negative air pressure to ensure that air from within the room does not leak outside.",
     "trx": "Акт помещения инфицированных в изоляцию, например, в лечебное учреждение, с целью предотвращения распространения инфекции. Для вирусов, способных передаваться воздушно-капельным путем, иногда используется изолятор воздушно-капельной инфекции (AIIR), в котором используется отрицательное давление воздуха для обеспечения того, чтобы воздух из помещения не просачивался наружу.",
-    "val": "The act of placing infectees in isolation, such as in a medical treatment facility, in order to prevent the spread of infection. For viruses capable of airborne transmission, an Airborne Infection Isolation Room (AIIR) is sometimes used, which employs negative air pressure to ensure that air from within the room does not leak outside."
+    "val": "Помещение инфицированных в изоляцию, например, в лечебное учреждение, с целью предотвращения распространения инфекции. Для вирусов, способных передаваться воздушно-капельным путем, иногда используется изолятор воздушно-капельной инфекции (AIIR) с повышенным давлением воздуха для обеспечения того, чтобы воздух из помещения не просачивался наружу."
   },
   {
     "key": "Explosive Ordnance Division",
     "trx": "Отдел по взрывоопасным боеприпасам",
-    "val": "Explosive Ordnance Division"
+    "val": "Подразделение по взрывоопасным боеприпасам"
   },
   {
     "key": "A team made up of the Tokyo Metropolitan Police Department Security Bureau’s First, Second, Third, and Sixth Riot Police Units, as well as the Support Vehicle Unit. Division members are trained in explosives disposal.",
     "trx": "Команда, состоящая из Первого, Второго, Третьего и Шестого подразделений спецназа Управления безопасности столичной полиции Токио, а также Подразделения вспомогательных транспортных средств. Члены подразделения проходят подготовку по обезвреживанию взрывчатых веществ.",
-    "val": "A team made up of the Tokyo Metropolitan Police Department Security Bureau’s First, Second, Third, and Sixth Riot Police Units, as well as the Support Vehicle Unit. Division members are trained in explosives disposal."
+    "val": "Команда, состоящая из Первого, Второго, Третьего и Шестого подразделений спецназа Столичного полицейского управления Токио, а также Подразделения вспомогательных транспортных средств. Члены подразделения проходят подготовку по обезвреживанию взрывчатых веществ."
   },
   {
     "key": "Typically, a dangerous explosive is frozen with liquid nitrogen, then moved away from the site via support vehicle. The bomb is then detonated in a safe location. Explosives are almost never dismantled on-site.",
     "trx": "Как правило, опасное взрывчатое вещество замораживается жидким азотом, а затем вывозится с места на вспомогательном транспортном средстве. Затем бомба взрывается в безопасном месте. Взрывчатые вещества почти никогда не демонтируются на месте.",
-    "val": "Typically, a dangerous explosive is frozen with liquid nitrogen, then moved away from the site via support vehicle. The bomb is then detonated in a safe location. Explosives are almost never dismantled on-site."
+    "val": "Как правило, опасное взрывчатое вещество замораживается жидким азотом, а затем вывозится на вспомогательном транспортном средстве. Затем бомба взрывается в безопасном месте. Взрывчатые вещества почти никогда не уничтожаются на месте."
   },
   {
     "key": "C-4",
@@ -4007,27 +4007,27 @@
   {
     "key": "A plastic explosive created for military use. The chief component is RDX (Trimethylenetrinitramine), which is combined with a plasticizer such as diocytl sebacate. Is it highly reliable, and is used by many military forces around the world, most notably the U.S. Armed Forces.",
     "trx": "Пластиковая взрывчатка, созданная для военного применения. Основным компонентом является гексоген (триметилентринитрамин), который сочетается с пластификатором, таким как диокитлсебакат. Он обладает высокой надежностью и используется многими вооруженными силами по всему миру, в первую очередь Вооруженными силами США.",
-    "val": "A plastic explosive created for military use. The chief component is RDX (Trimethylenetrinitramine), which is combined with a plasticizer such as diocytl sebacate. Is it highly reliable, and is used by many military forces around the world, most notably the U.S. Armed Forces."
+    "val": "Пластиковая взрывчатка, созданная для военного применения. Основным компонентом является гексоген (триметилентринитрамин), который объединяется с пластификатором, таким как диоктилсебацинат. Он обладает высокой надежностью и используется многими вооруженными силами по всему миру, в первую очередь Вооруженными силами США."
   },
   {
     "key": "Liquid nitrogen",
     "trx": "Жидкий азот",
-    "val": "Liquid nitrogen"
+    "val": "Жидкий азот"
   },
   {
     "key": "Nitrogen that has been cooled to a liquid state, with a temperature below -195.8° C. It can be poured onto explosives to stop the function of components such as the battery cell for the detonator. However, in situations where the surrounding area can be safely secured, it is preferable to destroy the explosive via detonation rather than simply arrest its function.",
     "trx": "Азот, охлажденный до жидкого состояния, с температурой ниже -195,8°C. Его можно налить на взрывчатые вещества, чтобы остановить работу таких компонентов, как батарейный элемент для детонатора. Однако в ситуациях, когда окружающая территория может быть надежно защищена, предпочтительнее уничтожить взрывчатое вещество путем детонации, а не просто прекратить его действие.",
-    "val": "Nitrogen that has been cooled to a liquid state, with a temperature below -195.8° C. It can be poured onto explosives to stop the function of components such as the battery cell for the detonator. However, in situations where the surrounding area can be safely secured, it is preferable to destroy the explosive via detonation rather than simply arrest its function."
+    "val": "Азот, охлажденный до жидкого состояния, с температурой ниже -195,8°C. Им поливают взрывчатые вещества, чтобы остановить работу таких компонентов, как элемент питания для детонатора. Однако в ситуациях, когда окружающая территория может быть надежно защищена, предпочтительнее уничтожить взрывчатое вещество путем детонации, а не остановкой его работы."
   },
   {
     "key": "Dry ice",
     "trx": "Сухой лед",
-    "val": "Dry ice"
+    "val": "Сухой лед"
   },
   {
     "key": "Carbon dioxide in its solid state. Because it evaporates at -79°C at standard atmospheric pressure, it must be kept refrigerated or it rapidly dissipates into mist—thus its use in smoke/fog machines. The odds of dry ice being able to stop the detonator of a bomb are quite low; battery cells do lose electromotive force in a subzero environment, but there is no guarantee that this would actually work.",
     "trx": "Двуокись углерода в твердом состоянии. Поскольку он испаряется при температуре -79 ° C при стандартном атмосферном давлении, его необходимо хранить в холодильнике, иначе он быстро рассеивается в виде тумана — таким образом, он используется в машинах для дыма / тумана. Вероятность того, что сухой лед сможет остановить детонатор бомбы, довольно мала; элементы батареи действительно теряют электродвижущую силу в условиях ниже нуля, но нет никакой гарантии, что это действительно сработает.",
-    "val": "Carbon dioxide in its solid state. Because it evaporates at -79°C at standard atmospheric pressure, it must be kept refrigerated or it rapidly dissipates into mist—thus its use in smoke/fog machines. The odds of dry ice being able to stop the detonator of a bomb are quite low; battery cells do lose electromotive force in a subzero environment, but there is no guarantee that this would actually work."
+    "val": "Диоксид углерода в твердом состоянии. Поскольку он испаряется при температуре -79°C при нормальном атмосферном давлении, его необходимо хранить в холодильнике, иначе он быстро рассеивается в виде тумана — поэтому он используется в машинах для производства дыма/тумана. Вероятность того, что сухой лед сможет остановить детонатор бомбы, довольно мала; ячейки батарей действительно теряют электродвижущую силу при температуре ниже нуля, но нет никакой гарантии, что это на самом деле сработает."
   },
   {
     "key": "Wandering Angels",
@@ -4052,32 +4052,32 @@
   {
     "key": "Promise",
     "trx": "Обещать",
-    "val": "Promise"
+    "val": "Обещание"
   },
   {
     "key": "The promise these two made just now mirrors another made by a certain pair of brothers in the past.",
     "trx": "Обещание, которое эти двое дали только что, отражает другое обещание, данное определенной парой братьев в прошлом.",
-    "val": "The promise these two made just now mirrors another made by a certain pair of brothers in the past."
+    "val": "Только что данное этими двоими обещание отражает другое обещание, данное друг другу в прошлом двумя братьями."
   },
   {
     "key": "“Once this is all tidied up, I’m gonna need a drink. Let’s you and me have a beer together.”",
     "trx": "“Как только все это будет убрано, мне понадобится выпить. Давай мы с тобой выпьем пива вместе.”",
-    "val": "“Once this is all tidied up, I’m gonna need a drink. Let’s you and me have a beer together.”"
+    "val": "“Как только это закончится, мне нужно будет выпить. Давай мы с тобой выпьем пива вместе.”"
   },
   {
     "key": "That was what the younger brother said, and the ",
     "trx": "Это было то, что сказал младший брат, и ",
-    "val": "That was what the younger brother said, and the "
+    "val": "Младший брат сказал это, а его "
   },
   {
     "key": "older brother",
     "trx": "старший брат",
-    "val": "older brother"
+    "val": "старший брат"
   },
   {
     "key": " still feels the pain of that promise going unfulfilled.",
     "trx": " все еще чувствует боль от того, что это обещание осталось невыполненным.",
-    "val": " still feels the pain of that promise going unfulfilled."
+    "val": " до сих пор чувствует боль от того, что обещание осталось невыполненным."
   },
   {
     "key": "Free sample",

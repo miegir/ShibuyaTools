@@ -222,7 +222,7 @@
   {
     "key": "Once this is all tidied up, I’m gonna need a drink. Let’s you and me have a beer together.”",
     "trx": "Как только здесь все будет убрано, мне понадобится выпить. Давай мы с тобой выпьем пива вместе.”",
-    "val": "Once this is all tidied up, I’m gonna need a drink. Let’s you and me have a beer together.”"
+    "val": "Как только это закончится, мне нужно будет выпить. Давай мы с тобой выпьем пива вместе.”"
   },
   {
     "key": "“Sure. ",
@@ -2632,7 +2632,7 @@
   {
     "key": "Once this is all tidied up, I’m gonna need a drink. Let’s you and me have a beer together.”",
     "trx": "Как только здесь все будет убрано, мне понадобится выпить. Давай мы с тобой выпьем пива вместе.”",
-    "val": "Once this is all tidied up, I’m gonna need a drink. Let’s you and me have a beer together.”"
+    "val": "Как только это закончится, мне нужно будет выпить. Давай мы с тобой выпьем пива вместе.”"
   },
   {
     "key": "“Sure. ",

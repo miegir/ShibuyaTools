@@ -7,7 +7,7 @@
   {
     "key": "Catch ‘em! Catch ‘em!”",
     "trx": "Лови их! Ловите их!”",
-    "val": "Ловите! Ловите!”"
+    "val": "Ловите их! Ловите их!”"
   },
   {
     "key": "Achi gestured for his comrades to fan out across the open space.",
@@ -357,7 +357,7 @@
   {
     "key": "I just need to search you real quick.”",
     "trx": "Мне просто нужно очень быстро тебя обыскать.”",
-    "val": "Мне просто нужно очень быстро вас обыскать.”"
+    "val": "Мне нужно очень быстро вас обыскать.”"
   },
   {
     "key": "Wait—had Hitomi been planted with a bomb?",
@@ -472,7 +472,7 @@
   {
     "key": "“Stop! Don’t turn that thing on!”",
     "trx": "“Остановись! Не включай эту штуку!”",
-    "val": "“Стойте! Не включайте его!”"
+    "val": "“Стой! Не включай его!”"
   },
   {
     "key": "Kano froze at Achi’s sudden shout.",
