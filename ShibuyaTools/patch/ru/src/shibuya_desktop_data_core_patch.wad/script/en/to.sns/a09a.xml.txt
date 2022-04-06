@@ -3507,7 +3507,7 @@
   {
     "key": "“A bomb?”\u00A0",
     "trx": "“Бомба?”\u00A0",
-    "val": "“Бомба?”\u00A0"
+    "val": "“Бомба?” "
   },
   {
     "key": "Achi’s voice squeaked into falsetto.",

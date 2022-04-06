@@ -2842,52 +2842,52 @@
   {
     "key": "Bomb and Arson Squad",
     "trx": "Отдел по взрывам и поджогам",
-    "val": "Bomb and Arson Squad"
+    "val": "Отдел по взрывам и поджогам"
   },
   {
     "key": "Subsection of the Chicago Police Department’s Bureau of Investigative Services (BIS) that handles investigation of bomb- and arson-related cases.",
     "trx": "Подразделение Бюро следственных служб Департамента полиции Чикаго (BIS), которое занимается расследованием дел, связанных с бомбами и поджогами.",
-    "val": "Subsection of the Chicago Police Department’s Bureau of Investigative Services (BIS) that handles investigation of bomb- and arson-related cases."
+    "val": "Подразделение Бюро следственных служб Департамента полиции Чикаго, которое занимается расследованием преступлений, связанных с бомбами и поджогами."
   },
   {
     "key": "State of high alert",
     "trx": "Состояние повышенной готовности",
-    "val": "State of high alert"
+    "val": "Режим повышенной готовности"
   },
   {
     "key": "Modern-day Japan lacks both the infrastructure and the legal framework to properly deal with a large-scale bioterrorist threat; coordination between the police, Japan Self-Defense Force (JSDF), health centers, and so forth would be a monumental task. In all likelihood, if a bioweapon was ever unleashed there, the target site would fall into chaos.",
     "trx": "В современной Японии отсутствует как инфраструктура, так и правовая база для надлежащего противодействия крупномасштабной биотеррористической угрозе; координация между полицией, Силами самообороны Японии (JSDF), медицинскими центрами и т. Д. Была бы монументальной задачей. По всей вероятности, если бы там когда-нибудь было применено биологическое оружие, на целевом объекте воцарился бы хаос.",
-    "val": "Modern-day Japan lacks both the infrastructure and the legal framework to properly deal with a large-scale bioterrorist threat; coordination between the police, Japan Self-Defense Force (JSDF), health centers, and so forth would be a monumental task. In all likelihood, if a bioweapon was ever unleashed there, the target site would fall into chaos."
+    "val": "В современной Японии отсутствует как инфраструктура, так и правовая база для надлежащего противодействия крупномасштабной биотеррористической угрозе; координация между полицией, Силами самообороны Японии, медицинскими центрами и т.д. была бы грандиозной задачей. По всей вероятности, если бы в Японии когда-нибудь было применено биологическое оружие, на месте происшествия воцарился бы хаос."
   },
   {
     "key": "University of Chicago",
     "trx": "Чикагский университет",
-    "val": "University of Chicago"
+    "val": "Чикагский университет"
   },
   {
     "key": "A private university in Chicago, Illinois. Lauded as one of the foremost research institutions in the U.S.; more than ninety alumni have been awarded the Nobel Prize. The school has made a number of major contributions to the world beyond simple academics, including the construction of the world’s first artificial nuclear reactor, Chicago Pile-1, and the Chicago school of economics, a school of economic thought that stresses monetarism.",
     "trx": "Частный университет в Чикаго, штат Иллинойс. Признанный одним из ведущих исследовательских институтов в США; более девяноста выпускников были удостоены Нобелевской премии. Школа внесла ряд важных вкладов в мир, выходящий за рамки простых ученых, включая строительство первого в мире искусственного ядерного реактора Chicago Pile-1 и Чикагской школы экономики, школы экономической мысли, которая подчеркивает монетаризм.",
-    "val": "A private university in Chicago, Illinois. Lauded as one of the foremost research institutions in the U.S.; more than ninety alumni have been awarded the Nobel Prize. The school has made a number of major contributions to the world beyond simple academics, including the construction of the world’s first artificial nuclear reactor, Chicago Pile-1, and the Chicago school of economics, a school of economic thought that stresses monetarism."
+    "val": "Частный университет в Чикаго, штат Иллинойс. Признан одним из ведущих исследовательских институтов в США; более девяноста его выпускников были удостоены Нобелевской премии. Внес важный вклад в сферы, выходящие за рамки чисто академических, включая строительство первого в мире искусственного ядерного реактора “Чикагская поленница-1” и чикагской школы экономики, направления в экономической теории, одним из составляющих которого является монетаризм."
   },
   {
     "key": "Protective gear",
     "trx": "Защитное снаряжение",
-    "val": "Protective gear"
+    "val": "Защитное снаряжение"
   },
   {
     "key": "Explosive Ordnance Disposal (EOD) suits. Also commonly called “bomb suits” or “blast suits.” Worn during bomb disposal operations to protect the wearer from the shock of a blast, or from any hurled fragments an explosion may produce. Such a suit is, however, wholly inadequate to protect the wearer from a large, powerful explosive (such as several hundred grams of C-4) detonated at close range.",
     "trx": "Костюмы для обезвреживания взрывоопасных боеприпасов (EOD). Также обычно называемые “бомбовыми костюмами” или “взрывными костюмами”. Надевается во время операций по обезвреживанию бомб для защиты владельца от удара при взрыве или от любых осколков, которые могут образоваться при взрыве. Однако такой костюм совершенно недостаточен для защиты владельца от большого, мощного взрывчатого вещества (такого как несколько сотен граммов C-4), взорванного с близкого расстояния.",
-    "val": "Explosive Ordnance Disposal (EOD) suits. Also commonly called “bomb suits” or “blast suits.” Worn during bomb disposal operations to protect the wearer from the shock of a blast, or from any hurled fragments an explosion may produce. Such a suit is, however, wholly inadequate to protect the wearer from a large, powerful explosive (such as several hundred grams of C-4) detonated at close range."
+    "val": "Костюмы для обезвреживания взрывоопасных боеприпасов. Также часто называются “бомбовыми костюмами” или “взрывными костюмами.” Надеваются при обезвреживании бомб для защиты от удара при взрыве или от осколков, которые могут при этом образоваться. Однако такой костюм не сможет защитить от большого, мощного взрывчатого вещества (как, например, несколько сотен граммов C-4), взорванного на близком расстоянии."
   },
   {
     "key": "Remote control",
     "trx": "Дистанционное управление",
-    "val": "Remote control"
+    "val": "Дистанционное управление"
   },
   {
     "key": "When electrical detonators capable of triggering an explosion with electrical current were invented, they quickly rendered old-style fuses obsolete. In the modern day, many terrorists use small electronics such as cellular phones and keyless entry remotes for cars as explosive triggers.",
     "trx": "Когда были изобретены электрические детонаторы, способные вызвать взрыв с помощью электрического тока, они быстро сделали предохранители старого образца устаревшими. В наши дни многие террористы используют небольшую электронику, такую как сотовые телефоны и пульты дистанционного управления для автомобилей, в качестве взрывных устройств.",
-    "val": "When electrical detonators capable of triggering an explosion with electrical current were invented, they quickly rendered old-style fuses obsolete. In the modern day, many terrorists use small electronics such as cellular phones and keyless entry remotes for cars as explosive triggers."
+    "val": "Когда были изобретены электрические детонаторы, способные вызвать взрыв с помощью электрического тока, запалы старого образца быстро устарели. В наши дни многие террористы используют в качестве взрывных устройств небольшую электронику, такую как мобильные телефоны и пульты дистанционного управления для автомобилей."
   },
   {
     "key": "Desert Eagle",
@@ -2897,7 +2897,7 @@
   {
     "key": "A semi-automatic handgun designed by Minnesota-based Magnum Research Inc. and manufactured by Israeli Weapon Industries. There are various models chambered for different rounds; the largest, the .50 Action Express (.50AE), is exceptionally powerful by semiautomatic handgun standards.",
     "trx": "Полуавтоматический пистолет, разработанный компанией Magnum Research Inc. из Миннесоты и изготовленный израильской оружейной промышленностью. Существуют различные модели с патронниками для разных патронов; самый большой, .50 Action Express (.50AE), исключительно мощный по стандартам полуавтоматического пистолета.",
-    "val": "A semi-automatic handgun designed by Minnesota-based Magnum Research Inc. and manufactured by Israeli Weapon Industries. There are various models chambered for different rounds; the largest, the .50 Action Express (.50AE), is exceptionally powerful by semiautomatic handgun standards."
+    "val": "Переводится как “Пустынный орёл.” Полуавтоматический пистолет, разработанный компанией Magnum Research Inc. из Миннесоты и выпускаемый израильской оружейной промышленностью. Существуют различные модели с магазинами для разных патронов; самый большой из них, .50 Action Express (.50AE), является исключительно мощным по стандартам полуавтоматического пистолета."
   },
   {
     "key": "Shibuya Precinct",
