@@ -6127,31 +6127,31 @@
   {
     "key": "Riot squad",
     "trx": "Отряд спецназа",
-    "val": "Riot squad"
+    "val": "Отряд спецназа"
   },
   {
     "key": "A police squad that carries out security and control activities in order to maintain or restore public order in the event of an emergency. The Tokyo Metropolitan Police Department has nine Riot Police Units, along with a Support Vehicle Unit, for a total of ten such squads. These also comprise teams that carry out certain specific functions, such as the Explosive Ordnance Division and Chemical Defense Unit.",
     "trx": "Полицейский наряд, который осуществляет мероприятия по обеспечению безопасности и контролю в целях поддержания или восстановления общественного порядка в случае чрезвычайной ситуации. Департамент столичной полиции Токио располагает девятью подразделениями спецназа, а также Подразделением вспомогательных транспортных средств, в общей сложности десятью такими подразделениями. В их состав также входят группы, выполняющие определенные специфические функции, такие как Отдел взрывоопасных боеприпасов и Подразделение химической защиты.",
-    "val": "A police squad that carries out security and control activities in order to maintain or restore public order in the event of an emergency. The Tokyo Metropolitan Police Department has nine Riot Police Units, along with a Support Vehicle Unit, for a total of ten such squads. These also comprise teams that carry out certain specific functions, such as the Explosive Ordnance Division and Chemical Defense Unit."
+    "val": "Полицейский отряд, осуществляющий мероприятия по обеспечению безопасности и контролю в целях поддержания или восстановления общественного порядка в случае чрезвычайной ситуации. Департамент столичной полиции Токио располагает девятью подразделениями спецназа, а также Подразделением вспомогательных транспортных средств — в общей сложности десятью такими подразделениями. В их состав также входят группы, выполняющие определенные специфические функции, такие как Подразделение по взрывоопасным боеприпасам и Подразделение химической защиты."
   },
   {
     "key": "Criminal",
     "trx": "Преступный",
-    "val": "Criminal"
+    "val": "Преступник"
   },
   {
     "key": "In Japan, a charge of plotting to commit the crime of murder carries a prison term with labor of not more than two years.",
     "trx": "В Японии обвинение в заговоре с целью совершения убийства влечет за собой тюремный срок с исправительными работами на срок не более двух лет.",
-    "val": "In Japan, a charge of plotting to commit the crime of murder carries a prison term with labor of not more than two years."
+    "val": "В Японии обвинение в заговоре с целью совершения убийства влечет за собой тюремное заключение с исправительными работами на срок не более двух лет."
   },
   {
     "key": "Wife",
     "trx": "Жена",
-    "val": "Wife"
+    "val": "Жена"
   },
   {
     "key": "After Osawa left home, Ai had a change of heart. Even if it meant losing everything, she decided she wanted to save Maria’s life. Although Maria was not Ai’s real daughter, it turned out that the time they’d spent living together had sowed the first seeds of a familial bond.",
     "trx": "После того, как Осава ушел из дома, Ай изменила свое мнение. Даже если это означало потерять все, она решила, что хочет спасти жизнь Марии. Хотя Мария не была настоящей дочерью Ай, оказалось, что время, проведенное ими вместе, посеяло первые семена семейных уз.",
-    "val": "After Osawa left home, Ai had a change of heart. Even if it meant losing everything, she decided she wanted to save Maria’s life. Although Maria was not Ai’s real daughter, it turned out that the time they’d spent living together had sowed the first seeds of a familial bond."
+    "val": "После того, как Осава ушел из дома, Ай изменила свое мнение. Даже если это означало потерять все, она решила, что хочет спасти жизнь Марии. Хоть Мария и не была настоящей дочерью Ай, оказалось, что время, проведенное ими вместе, посеяло первые семена семейных уз."
   }
 ]
