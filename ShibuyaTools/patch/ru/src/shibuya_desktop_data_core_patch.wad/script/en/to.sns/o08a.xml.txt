@@ -1272,7 +1272,7 @@
   {
     "key": "It would only take about an hour for Osawa to go get her and bring her home.",
     "trx": "Осаве потребуется всего около часа, чтобы забрать ее и привезти домой.",
-    "val": "Осаве потребуется примерно час, чтобы забрать ее и привезти домой."
+    "val": "Осаве потребуется примерно час, чтобы забрать ее и привести домой."
   },
   {
     "key": "But an hour was more than he could afford to spare right now.",
@@ -1832,7 +1832,7 @@
   {
     "key": "I realize you’re upset about Tanaka’s death, but...” ",
     "trx": "Я понимаю, что ты расстроен смертью Танаки, но...” ",
-    "val": "Я понимаю, что ты расстроена смертью Танаки, но...” "
+    "val": "Я понимаю, что ты расстроена из-за смерти Танаки, но...” "
   },
   {
     "key": "At the mention of Tanaka’s name, Ai slowly shook her head. ",
@@ -1877,7 +1877,7 @@
   {
     "key": "There was something Osawa needed to hear for himself, before this went any further. ",
     "trx": "Было кое-что, что Осава должен был услышать сам, прежде чем это зайдет дальше. ",
-    "val": "Осава хотел кое-что услышать, прежде чем продолжать этот разговор."
+    "val": "Осава хотел кое-что услышать, прежде чем продолжать этот разговор. "
   },
   {
     "key": "“Were you...",
@@ -2007,7 +2007,7 @@
   {
     "key": "“And you were okay with marrying someone for something like that?”",
     "trx": "“И ты не возражала против того, чтобы выйти замуж за кого-то из-за чего-то подобного?”",
-    "val": "“И ты не возражала против того, чтобы выйти за замуж из-за чего-то подобного?”"
+    "val": "“И ты не возражала против того, чтобы выйти замуж из-за чего-то подобного?”"
   },
   {
     "key": "“For something like that? ",
