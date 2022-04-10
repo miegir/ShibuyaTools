@@ -2752,7 +2752,7 @@
   {
     "key": "They are on their way to return the dry ice machine they used in their performance to Endo Electronics. The machine is malfunctioning, continually spitting out white plumes of carbon dioxide. The troupe members inside the van are beginning to suffer from oxygen deprivation, and are driving around Shibuya in a daze. Will they be able to make it to Endo Electronics in the end???",
     "trx": "Они находятся на пути к возвращению машины для сухого льда, которую они использовали в своем выступлении, в компанию Endo Electronics. Машина работает со сбоями, постоянно выплевывая белые струи углекислого газа. Члены труппы внутри фургона начинают страдать от недостатка кислорода и разъезжают по Сибуе в оцепенении. Смогут ли они в конце концов добраться до Endo Electronics???",
-    "val": "Сейчас они возвращают в Эндо Электроникс машину про производству сухого льда, которую они использовали во время представления. Машина работает неправильно, постоянно выпуская белые струи углекислого газа. Члены труппы внутри фургона начинают страдать от недостатка кислорода и разъезжают по Сибуе в полубессознательном состоянии. Смогут ли они в конце концов добраться до Эндо Электроникс???"
+    "val": "Сейчас они возвращают в Эндо Электроникс машину для сухого льда, которую они использовали во время представления. Машина работает неправильно, постоянно выпуская белые струи углекислого газа. Члены труппы внутри фургона начинают страдать от недостатка кислорода и разъезжают по Сибуе в полубессознательном состоянии. Смогут ли они в конце концов добраться до Эндо Электроникс???"
   },
   {
     "key": "Answer",
@@ -3982,7 +3982,7 @@
   {
     "key": "The act of placing infectees in isolation, such as in a medical treatment facility, in order to prevent the spread of infection. For viruses capable of airborne transmission, an Airborne Infection Isolation Room (AIIR) is sometimes used, which employs negative air pressure to ensure that air from within the room does not leak outside.",
     "trx": "Акт помещения инфицированных в изоляцию, например, в лечебное учреждение, с целью предотвращения распространения инфекции. Для вирусов, способных передаваться воздушно-капельным путем, иногда используется изолятор воздушно-капельной инфекции (AIIR), в котором используется отрицательное давление воздуха для обеспечения того, чтобы воздух из помещения не просачивался наружу.",
-    "val": "Помещение инфицированных в изоляцию, например, в лечебное учреждение, с целью предотвращения распространения инфекции. Для вирусов, способных передаваться воздушно-капельным путем, иногда используется изолятор воздушно-капельной инфекции (AIIR) с повышенным давлением воздуха для обеспечения того, чтобы воздух из помещения не просачивался наружу."
+    "val": "Помещение инфицированных в изоляцию, например, в лечебное учреждение, с целью предотвращения распространения инфекции. Для вирусов, способных передаваться воздушно-капельным путем, иногда используется изолятор воздушно-капельной инфекции (AIIR) с пониженным давлением воздуха для обеспечения того, чтобы воздух из помещения не просачивался наружу."
   },
   {
     "key": "Explosive Ordnance Division",
@@ -6032,97 +6032,97 @@
   {
     "key": "Wilson’s disease",
     "trx": "Болезнь Вильсона",
-    "val": "Wilson’s disease"
+    "val": "Болезнь Вильсона"
   },
   {
     "key": "Also known as hepatolenticular degeneration.",
     "trx": "Также известна как гепатолентикулярная дегенерация.",
-    "val": "Also known as hepatolenticular degeneration."
+    "val": "Также известна как гепатолентикулярная дегенерация."
   },
   {
     "key": "A congenital abnormality of the liver cells, in which the cells’ ability to eliminate excess copper from the body is impaired, leading to copper accumulation in the liver, basal ganglia, corneas, and kidneys.",
     "trx": "Врожденная аномалия клеток печени, при которой нарушается способность клеток выводить избыток меди из организма, что приводит к накоплению меди в печени, базальных ганглиях, роговице и почках.",
-    "val": "A congenital abnormality of the liver cells, in which the cells’ ability to eliminate excess copper from the body is impaired, leading to copper accumulation in the liver, basal ganglia, corneas, and kidneys."
+    "val": "Врожденная аномалия клеток печени, при которой нарушается способность клеток выводить избыток меди из организма, что приводит к накоплению меди в печени, базальных ганглиях, роговице и почках."
   },
   {
     "key": "The disease can cause difficulties with movement and neurological problems, and often leads to further complications such as acute hepatitis and cirrhosis of the liver.",
     "trx": "Заболевание может вызывать трудности с передвижением и неврологические проблемы, а также часто приводит к дальнейшим осложнениям, таким как острый гепатит и цирроз печени.",
-    "val": "The disease can cause difficulties with movement and neurological problems, and often leads to further complications such as acute hepatitis and cirrhosis of the liver."
+    "val": "Заболевание может вызывать трудности с передвижением и неврологические проблемы, а также часто приводит к дальнейшим осложнениям, таким как острый гепатит и цирроз печени."
   },
   {
     "key": "Pale brown ring",
     "trx": "Бледно-коричневое кольцо",
-    "val": "Pale brown ring"
+    "val": "Бледно-коричневое кольцо"
   },
   {
     "key": "Abnormal buildup of copper can cause brownish rings to appear along the edge of the cornea; these are known as Kayser-Fleischer rings.",
     "trx": "Аномальное накопление меди может привести к появлению коричневатых колец по краю роговицы; они известны как кольца Кайзера-Флейшера.",
-    "val": "Abnormal buildup of copper can cause brownish rings to appear along the edge of the cornea; these are known as Kayser-Fleischer rings."
+    "val": "Аномальное накопление меди может привести к появлению коричневатых колец по краю роговицы; они известны как кольца Кайзера-Флейшера."
   },
   {
     "key": "Dilated cardiomyopathy",
     "trx": "Дилатационная кардиомиопатия",
-    "val": "Dilated cardiomyopathy"
+    "val": "Дилатационная кардиомиопатия"
   },
   {
     "key": "A condition where a structural change in heart muscle cells causes the ventricle walls to become thin and distended. This decreases heart function, and as the condition progresses, it can lead to heart failure, arrhythmia, and other issues. Victims of the disease have a high probability of sudden death at a young age. At present, a heart transplant is the only ‘cure’ for the disease.",
     "trx": "Состояние, при котором структурные изменения в клетках сердечной мышцы приводят к истончению и растяжению стенок желудочка. Это снижает функцию сердца, и по мере прогрессирования заболевания это может привести к сердечной недостаточности, аритмии и другим проблемам. Жертвы этого заболевания имеют высокую вероятность внезапной смерти в молодом возрасте. В настоящее время пересадка сердца является единственным \"лекарством\" от этой болезни.",
-    "val": "A condition where a structural change in heart muscle cells causes the ventricle walls to become thin and distended. This decreases heart function, and as the condition progresses, it can lead to heart failure, arrhythmia, and other issues. Victims of the disease have a high probability of sudden death at a young age. At present, a heart transplant is the only ‘cure’ for the disease."
+    "val": "Состояние, при котором структурные изменения в клетках сердечной мышцы приводят к истончению и растяжению стенок желудочка. Это снижает функцию сердца, и по мере прогрессирования заболевания может привести к сердечной недостаточности, аритмии и другим проблемам. Жертвы этого заболевания имеют высокую вероятность внезапной смерти в молодом возрасте. В настоящее время пересадка сердца является единственным ‘лекарством’ от этой болезни."
   },
   {
     "key": "Implanted defibrillator",
     "trx": "Имплантированный дефибриллятор",
-    "val": "Implanted defibrillator"
+    "val": "Имплантированный дефибриллятор"
   },
   {
     "key": "A device implanted within the body that delivers an electrical shock to a heart that has gone into cardiac arrest due to arrhythmia caused by ventricular fibrillation or ventricular tachycardia. These implants are an effective defense against cardiac arrest, but when triggered they can also cause intense pain in some patients due to the electrical energy involved.",
     "trx": "Устройство, имплантированное в организм, которое поражает электрическим током сердце, у которого произошла остановка сердца из-за аритмии, вызванной фибрилляцией желудочков или желудочковой тахикардией. Эти имплантаты являются эффективной защитой от остановки сердца, но при срабатывании они также могут вызывать сильную боль у некоторых пациентов из-за задействованной электрической энергии.",
-    "val": "A device implanted within the body that delivers an electrical shock to a heart that has gone into cardiac arrest due to arrhythmia caused by ventricular fibrillation or ventricular tachycardia. These implants are an effective defense against cardiac arrest, but when triggered they can also cause intense pain in some patients due to the electrical energy involved."
+    "val": "Имплантированное в организм устройство, посылающее электрический ток в сердце, когда произошла его остановка из-за аритмии, вызванной фибрилляцией желудочков или желудочковой тахикардией. Такие устройства являются эффективной защитой от остановки сердца, но при срабатывании они также могут вызывать у некоторых пациентов сильную боль из-за использования электрической энергии."
   },
   {
     "key": "Hemofiltration machine",
     "trx": "Машина для гемофильтрации",
-    "val": "Hemofiltration machine"
+    "val": "Аппарат для гемофильтрации"
   },
   {
     "key": "A machine that regulates electrolytes and removes waste products from the blood in lieu of the kidneys; used to assist patients with decreased kidney function. Purifying the blood too quickly can, however, result in a collapse of the body’s electrolyte balance, leading to headaches or muscle spasms.",
     "trx": "Машина, которая регулирует электролиты и удаляет отходы жизнедеятельности из крови вместо почек; используется для оказания помощи пациентам со сниженной функцией почек. Однако слишком быстрое очищение крови может привести к нарушению электролитного баланса организма, что приведет к головным болям или мышечным спазмам.",
-    "val": "A machine that regulates electrolytes and removes waste products from the blood in lieu of the kidneys; used to assist patients with decreased kidney function. Purifying the blood too quickly can, however, result in a collapse of the body’s electrolyte balance, leading to headaches or muscle spasms."
+    "val": "Аппарат, предназначенный для регулирования уровня электролитов и удаления отходов жизнедеятельности из крови вместо почек; используется для оказания помощи пациентам со сниженной функцией почек. Однако слишком быстрое очищение крови может привести к нарушению электролитного баланса организма, что может вызвать головную боль или мышечные спазмы."
   },
   {
     "key": "ICU",
     "trx": "ОТДЕЛЕНИЕ интенсивной терапии",
-    "val": "ICU"
+    "val": "ОИТ"
   },
   {
     "key": "Intensive Care Unit",
     "trx": "Отделение Интенсивной терапии",
-    "val": "Intensive Care Unit"
+    "val": "Отделение Интенсивной Терапии"
   },
   {
     "key": "A clinical facility that allows for focused, around-the-clock treatment and monitoring for patients with severe and life-threatening illnesses or injuries. Also used for patients whose conditions might potentially become critical, or for patients requiring an extreme degree of care following surgery.",
     "trx": "Клиническое учреждение, которое позволяет проводить целенаправленное круглосуточное лечение и наблюдение за пациентами с тяжелыми и опасными для жизни заболеваниями или травмами. Также используется для пациентов, состояние которых потенциально может стать критическим, или для пациентов, нуждающихся в особой степени ухода после операции.",
-    "val": "A clinical facility that allows for focused, around-the-clock treatment and monitoring for patients with severe and life-threatening illnesses or injuries. Also used for patients whose conditions might potentially become critical, or for patients requiring an extreme degree of care following surgery."
+    "val": "Клиническое учреждение, которое позволяет проводить целенаправленное круглосуточное лечение и наблюдение за пациентами с тяжелыми и опасными для жизни заболеваниями или травмами. В него помещают также пациентов, состояние которых потенциально может стать критическим, или пациентов, нуждающихся в особом уходе после операции."
   },
   {
     "key": "Artificial liver system",
     "trx": "Система искусственной печени",
-    "val": "Artificial liver system"
+    "val": "Система искусственной печени"
   },
   {
     "key": "Although a liver dialysis machine can be thought of as a sort of artificial liver, an actual liver carries out much more complicated metabolic reactions that dialysis cannot completely replace. For this reason, biohybrid liver replacements combining mechanical functions with active live liver cells from pigs are currently under research; with clinical tests have been conducted in the United States. The hope is that these bioartificial devices will some day be able to keep those with failed livers alive until the necessary transplants are available.",
     "trx": "Хотя аппарат для диализа печени можно рассматривать как своего рода искусственную печень, настоящая печень осуществляет гораздо более сложные метаболические реакции, которые диализ не может полностью заменить. По этой причине в настоящее время исследуются биогибридные заменители печени, сочетающие механические функции с активными живыми клетками печени свиней; в Соединенных Штатах были проведены клинические испытания. Есть надежда, что эти биоискусственные устройства когда-нибудь смогут поддерживать жизнь людей с отказавшей печенью до тех пор, пока не будут доступны необходимые трансплантации.",
-    "val": "Although a liver dialysis machine can be thought of as a sort of artificial liver, an actual liver carries out much more complicated metabolic reactions that dialysis cannot completely replace. For this reason, biohybrid liver replacements combining mechanical functions with active live liver cells from pigs are currently under research; with clinical tests have been conducted in the United States. The hope is that these bioartificial devices will some day be able to keep those with failed livers alive until the necessary transplants are available."
+    "val": "Хотя аппарат для диализа можно считать своего рода искусственной печенью, настоящая печень осуществляет гораздо более сложные метаболические реакции, которые диализ не может полностью заменить. По этой причине в настоящее время исследуются биогибридные заменители печени, сочетающие механические функции с активными живыми клетками печени свиней; в США были проведены их клинические испытания. Есть надежда, что эти биогибридные устройства когда-нибудь смогут поддерживать жизнь людей с отказавшей печенью до получения материала для трансплантации."
   },
   {
     "key": "Intense heartbeat",
     "trx": "Интенсивное сердцебиение",
-    "val": "Intense heartbeat"
+    "val": "Интенсивное сердцебиение"
   },
   {
     "key": "A type of abnormal heartbeat known as a ‘gallop rhythm.’ Instead of the normal two-beat ‘lub-dub’ rhythm of a healthy heart, it consists of three beats, resembling the sound of a galloping horse. An indication of potential heart failure.",
     "trx": "Тип аномального сердцебиения, известный как \"ритм галопа\". Вместо обычного двухтактного ритма \"луб-даб\" здорового сердца он состоит из трех ударов, напоминающих звук скачущей лошади. Признак потенциальной сердечной недостаточности.",
-    "val": "A type of abnormal heartbeat known as a ‘gallop rhythm.’ Instead of the normal two-beat ‘lub-dub’ rhythm of a healthy heart, it consists of three beats, resembling the sound of a galloping horse. An indication of potential heart failure."
+    "val": "Тип аномального сердцебиения, известный как ‘ритм галопа.’ Вместо обычного двухтактного ритма ‘тук-тук’ здорового сердца он состоит из трех ударов, напоминающих звук скачущей лошади. Признак потенциальной сердечной недостаточности."
   },
   {
     "key": "Riot squad",

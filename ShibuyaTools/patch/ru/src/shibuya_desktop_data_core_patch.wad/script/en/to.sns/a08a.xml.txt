@@ -2462,7 +2462,7 @@
   {
     "key": "this",
     "trx": "этот",
-    "val": "это"
+    "val": "этого"
   },
   {
     "key": " is what she’d want you to do?”",

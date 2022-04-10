@@ -202,7 +202,7 @@
   {
     "key": "I can help Chiaki work through her emotional struggles later.",
     "trx": "Я могу помочь Чиаки справиться с ее эмоциональной борьбой позже.",
-    "val": "Я помогу Чиаки справиться с ее эмоциями потом."
+    "val": "Потом я помогу Чиаки справиться с ее эмоциями."
   },
   {
     "key": "“Chiaki, that’s enough!”",
@@ -372,7 +372,7 @@
   {
     "key": "Minorikawa pointed down the street.",
     "trx": "Минорикава указал вниз по улице.",
-    "val": "Минорикава указал вдоль по улице."
+    "val": "Минорикава указал направление вдоль улицы."
   },
   {
     "key": "“Take us to Bride, in Ura-Harajuku!”",
@@ -802,7 +802,7 @@
   {
     "key": " sped past, an eerily cold breeze wafted over the taxi.",
     "trx": " пронесшись мимо, над такси пронесся жутко холодный ветерок.",
-    "val": " пролетал мимо, через окно донесся очень холодный ветер."
+    "val": " пролетал мимо, такси обдало волной холода."
   },
   {
     "key": "“What the heck was that?” Minorikawa asked.",

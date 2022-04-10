@@ -1637,7 +1637,7 @@
   {
     "key": "this",
     "trx": "этот",
-    "val": "это"
+    "val": "этого"
   },
   {
     "key": " is what she’d want you to do?”",
@@ -2367,7 +2367,7 @@
   {
     "key": "see that Hitomi Osawa is waiting at the scramble intersection outside Shibuya Station, just like this morning. ",
     "trx": "смотри, чтобы Хитоми Осава ждала на перекрестке возле станции Сибуя, как и сегодня утром. ",
-    "val": "Хитоми Осава должна ждать на перекрестке возле станции Сибуя, так же, как и сегодня утром. "
+    "val": "Хитоми Осава должна ждать на площади у станции Сибуя, так же, как и сегодня утром. "
   },
   {
     "key": "Unless, of course, you’re feeling particularly confident. ",
