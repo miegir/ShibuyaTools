@@ -1562,7 +1562,7 @@
   {
     "key": "But he’d need his partner Tanaka in order to access the storage facility—and Tanaka was dead.",
     "trx": "Но ему понадобился бы его напарник Танака, чтобы получить доступ к хранилищу — а Танака был мертв.",
-    "val": "Но, чтобы получить доступ к хранилищу, ей понадобится его партнер Танака — а Танака был мертв."
+    "val": "Но, чтобы получить доступ к хранилищу, ему понадобится его партнер, Танака — а Танака был мертв."
   },
   {
     "key": "That was why Alphard had been masquerading as Canaan.",
@@ -2092,7 +2092,7 @@
   {
     "key": "Stanley wasn’t sure who they might have gotten to help, but Kano was certain to put them to good use.",
     "trx": "Стэнли не был уверен, кого они могли бы попросить помочь, но Кано был уверен, что найдет им хорошее применение.",
-    "val": "Стэнли не знал, кого они могли приведут себе в помощь, но Кано определенно найдет им хорошее применение."
+    "val": "Стэнли не знал, кого они приведут себе в помощь, но Кано определенно найдет им хорошее применение."
   },
   {
     "key": "Please, stay safe.",
@@ -2372,7 +2372,7 @@
   {
     "key": "But he ",
     "trx": "Но он ",
-    "val": "Но он мог позвонить"
+    "val": "Но он мог позвонить "
   },
   {
     "key": "could",
@@ -2627,7 +2627,7 @@
   {
     "key": "“Hey Jack. ",
     "trx": "“Привет, Джек. ",
-    "val": "“Привет, Джек. "
+    "val": "“Эй, Джек. "
   },
   {
     "key": "Once this is all tidied up, I’m gonna need a drink. Let’s you and me have a beer together.”",
@@ -2822,7 +2822,7 @@
   {
     "key": "He could never hope to latch his jaws onto his quarry’s throat if he behaved like prey himself.",
     "trx": "Он никогда не мог надеяться сомкнуть челюсти на горле своей жертвы, если бы сам вел себя как добыча.",
-    "val": "Он никогда сможет сомкнуть челюсти на горле своей жертвы, если сам будет вести себя как добыча."
+    "val": "Он никогда не сможет сомкнуть челюсти на горле своей жертвы, если сам будет вести себя как добыча."
   },
   {
     "key": "He must be the greater predator.",
@@ -2867,12 +2867,12 @@
   {
     "key": "If I do get my revenge, what would Frank think?",
     "trx": "Если я все-таки отомщу, что подумает Фрэнк?",
-    "val": "Если я буду мстить, что подумает Фрэнк?"
+    "val": "Если я буду мстить, что подумал бы Фрэнк?"
   },
   {
     "key": "If I do get my revenge, what would Frank think?",
     "trx": "Если я все-таки отомщу, что подумает Фрэнк?",
-    "val": "Если я буду мстить, что подумает Фрэнк?"
+    "val": "Если я буду мстить, что подумал бы Фрэнк?"
   },
   {
     "key": "When Stanley pictured his younger brother, it wasn’t with a smile on his face. ",

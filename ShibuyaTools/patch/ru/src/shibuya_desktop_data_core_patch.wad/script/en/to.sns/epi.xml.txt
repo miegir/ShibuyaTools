@@ -1517,7 +1517,7 @@
   {
     "key": "Just how long had they been there, staring one another down?",
     "trx": "Как долго они простояли там, глядя друг на друга сверху вниз?",
-    "val": "Как долго они простояли там, глядя друг на друга?"
+    "val": "Как долго они простояли так, глядя друг на друга?"
   },
   {
     "key": "The passage of time seemed to slow, seconds drawn into hours.",
@@ -2267,7 +2267,7 @@
   {
     "key": "Stanley spoke under his breath, ",
     "trx": "Стенли говорил вполголоса, ",
-    "val": "говорил Стэнли вполголоса, "
+    "val": "Стэнли говорил вполголоса, "
   },
   {
     "key": "his gaze locked on the car taking Alphard away.",
@@ -2762,7 +2762,7 @@
   {
     "key": "“C’mon guys!” Susumu shouted. “Let’s lift Achi up where everyone can see ‘im!”",
     "trx": "“Давайте, ребята!” - крикнул Сусуму. “Давайте поднимем Ачи так, чтобы его все могли видеть!”",
-    "val": "“Эй, ребята!” крикнул Сусуму. “Давайте подбросим Ачи, чтобы его все могли его видеть!”"
+    "val": "“Эй, ребята!” крикнул Сусуму. “Давайте подбросим Ачи, чтобы все могли его видеть!”"
   },
   {
     "key": "The members of S.O.S. let out another roar.",

@@ -527,7 +527,7 @@
   {
     "key": "As skilled as Canaan was, she was no match for an entire armed police squad.",
     "trx": "Какой бы опытной ни была Ханаан, она не могла сравниться с целым вооруженным полицейским отрядом.",
-    "val": "Какой бы опытной ни была Ханаан, она одна не могла сравниться с вооруженным полицейским отрядом."
+    "val": "Какой бы опытной ни была Ханаан, в одиночку она не могла сравниться с вооруженным полицейским отрядом."
   },
   {
     "key": "“I’m not going to take all of them on,” she murmured. ",
@@ -1047,7 +1047,7 @@
   {
     "key": "Slipping past the riot squad, he and Canaan headed for the parking lot.",
     "trx": "Проскользнув мимо отряда спецназа, он и Канаан направились к стоянке.",
-    "val": "Проскользнув мимо отряда спецназа, они вместе с Канаан направились к парковке."
+    "val": "Проскользнув мимо отряда спецназа, они вместе с Ханаан направились к парковке."
   },
   {
     "key": "Several members of Kuze’s team hurried to chase after them.",
@@ -2512,7 +2512,7 @@
   {
     "key": "Canaan shook her head, then put her phone away.",
     "trx": "Канаан покачала головой, затем убрала телефон.",
-    "val": "Канаан покачала головой, затем убрала телефон."
+    "val": "Ханаан покачала головой, затем убрала телефон."
   },
   {
     "key": "“If you’re really Alphard, then you don’t actually need to hack the password,” Tateno said. ",

@@ -212,7 +212,7 @@
   {
     "key": "Whatever you do, do ",
     "trx": "Что бы ты ни делал, делай ",
-    "val": "Что бы вы ни делали "
+    "val": "Что бы вы ни делали, "
   },
   {
     "key": "not",
@@ -647,7 +647,7 @@
   {
     "key": "“There’s a very slight difference in power consumption from the device when it processes a correct password compared to an incorrect one. ",
     "trx": "“Существует очень небольшая разница в энергопотреблении устройства, когда оно обрабатывает правильный пароль по сравнению с неправильным. ",
-    "val": "“Существует очень небольшая разница в энергопотреблении устройства, обрабатывающего правильный пароль по сравнению с неправильным. "
+    "val": "“Существует очень небольшая разница в энергопотреблении устройства, обрабатывающего правильный пароль, по сравнению с неправильным. "
   },
   {
     "key": "There’s a miniscule difference in the time it takes to run the process, as well. ",
@@ -1067,7 +1067,7 @@
   {
     "key": "“There’s a very slight difference in power consumption from the device when it processes a correct password compared to an incorrect one. ",
     "trx": "“Существует очень небольшая разница в энергопотреблении устройства, когда оно обрабатывает правильный пароль по сравнению с неправильным. ",
-    "val": "“Существует очень небольшая разница в энергопотреблении устройства, обрабатывающего правильный пароль по сравнению с неправильным. "
+    "val": "“Существует очень небольшая разница в энергопотреблении устройства, обрабатывающего правильный пароль, по сравнению с неправильным. "
   },
   {
     "key": "There’s a miniscule difference in the time it takes to run the process, as well. ",
@@ -1412,7 +1412,7 @@
   {
     "key": "Canaan shook her head, then put her phone away.",
     "trx": "Канаан покачала головой, затем убрала телефон.",
-    "val": "Канаан покачала головой, затем убрала телефон."
+    "val": "Ханаан покачала головой, затем убрала телефон."
   },
   {
     "key": "“If you’re really Alphard, then you don’t actually need to hack the password,” Tateno said. ",

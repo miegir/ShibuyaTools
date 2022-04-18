@@ -1132,257 +1132,257 @@
   {
     "key": "Halva",
     "trx": "Халва",
-    "val": "Halva"
+    "val": "Халва"
   },
   {
     "key": "Also known by other names, including “halawa” and “haleweh.” A popular confection throughout the Arab world, typically made with ingredients such as sesame, apricots, or grains kneaded together with sugar and some type of oil or fat. It is said to have originated in Ancient Mesopotamia.",
     "trx": "Также известен под другими названиями, в том числе “халава” и “халевех”. Популярное кондитерское изделие во всем арабском мире, обычно приготовляемое из таких ингредиентов, как кунжут, абрикосы или зерна, смешанные с сахаром и некоторым типом масла или жира. Говорят, что он возник в Древней Месопотамии.",
-    "val": "Also known by other names, including “halawa” and “haleweh.” A popular confection throughout the Arab world, typically made with ingredients such as sesame, apricots, or grains kneaded together with sugar and some type of oil or fat. It is said to have originated in Ancient Mesopotamia."
+    "val": "Также известна под названиями “халава” и “халавех.” Популярное кондитерское изделие в арабском мире, изготавливаемое обычно из таких ингредиентов, как кунжут, абрикосы или зерна, смешанные с сахаром и определенным типом масла или жира. Говорят, что она появилась в Древней Месопотамии."
   },
   {
     "key": "Dollar",
     "trx": "Доллар",
-    "val": "Dollar"
+    "val": "Доллар"
   },
   {
     "key": "The dollar is the unit of currency in several countries, including Canada and Australia, but here it refers to the United States dollar, controlled by the Federal Reserve Bank. At the time of the story, it is frequently used, alongside the euro, as a standard currency for international transactions.",
     "trx": "Доллар является денежной единицей в нескольких странах, включая Канаду и Австралию, но здесь он относится к доллару Соединенных Штатов, контролируемому Федеральным резервным банком. На момент написания этой статьи он часто использовался наряду с евро в качестве стандартной валюты для международных транзакций.",
-    "val": "The dollar is the unit of currency in several countries, including Canada and Australia, but here it refers to the United States dollar, controlled by the Federal Reserve Bank. At the time of the story, it is frequently used, alongside the euro, as a standard currency for international transactions."
+    "val": "Доллар является денежной единицей нескольких стран, таких, как Канада и Австралия, но здесь речь идет о долларе Соединенных Штатов, контролируемом Федеральным резервным банком. На момент написания этой истории он часто используется наряду с евро в качестве стандартной валюты для международных транзакций."
   },
   {
     "key": "Cell",
     "trx": "Клетка",
-    "val": "Cell"
+    "val": "Ячейка"
   },
   {
     "key": "In order to avoid being compromised, antigovernment organizations that carry out illegal activities, as well as terrorist groups, frequently organize themselves into smaller subgroups known as “cells.” Typically only the leader of each cell knows how to contact the upper echelons. Thus, rank-and-file members who are exposed and arrested are incapable of leaking information about the larger organization to outsiders. The name “cell” is taken from the biological structure.",
     "trx": "Чтобы избежать компрометации, антиправительственные организации, осуществляющие незаконную деятельность, а также террористические группы часто объединяются в более мелкие подгруппы, известные как “ячейки”. Как правило, только лидер каждой ячейки знает, как связаться с высшими эшелонами. Таким образом, рядовые члены, которые разоблачены и арестованы, не способны передавать информацию о более крупной организации посторонним. Название “клетка” взято из биологической структуры.",
-    "val": "In order to avoid being compromised, antigovernment organizations that carry out illegal activities, as well as terrorist groups, frequently organize themselves into smaller subgroups known as “cells.” Typically only the leader of each cell knows how to contact the upper echelons. Thus, rank-and-file members who are exposed and arrested are incapable of leaking information about the larger organization to outsiders. The name “cell” is taken from the biological structure."
+    "val": "Чтобы избежать компрометации, антиправительственные организации, осуществляющие незаконную деятельность, а также террористические группы часто объединяются в более мелкие подгруппы, известные как “ячейки”. Как правило, только лидер ячейки знает, как связаться с высшими эшелонами. Таким образом, рядовые члены, которые могут быть разоблачены и арестованы, не смогут передать информацию о всей организации посторонним."
   },
   {
     "key": "Sympathizers",
     "trx": "Сочувствующие",
-    "val": "Sympathizers"
+    "val": "Сочувствующие"
   },
   {
     "key": "Groups or individual activists who favor a particular political organization or ideology, and who demonstrate support without directly participating in the faction’s activities.",
     "trx": "Группы или отдельные активисты, которые поддерживают определенную политическую организацию или идеологию и которые демонстрируют поддержку, не участвуя непосредственно в деятельности фракции.",
-    "val": "Groups or individual activists who favor a particular political organization or ideology, and who demonstrate support without directly participating in the faction’s activities."
+    "val": "Группы или отдельные активисты, которые благосклонны к определенной политической организации или идеологии и которые демонстрируют свою поддержку, не участвуя непосредственно в деятельности фракции."
   },
   {
     "key": "Women-only carriages",
     "trx": "Вагоны только для женщин",
-    "val": "Women-only carriages"
+    "val": "Вагоны только для женщин"
   },
   {
     "key": "In some Islamic countries, where men and women are prohibited from sitting together for religious reasons, women-only train cars are common. Depending on the country, the sexual segregation may be so strict as to apply even to children; sometimes even young boys must separate from their mothers in order to ride in men-only carriages.",
     "trx": "В некоторых исламских странах, где мужчинам и женщинам запрещено сидеть вместе по религиозным соображениям, вагоны поездов, предназначенные только для женщин, являются обычным явлением. В зависимости от страны сексуальная сегрегация может быть настолько строгой, что распространяется даже на детей; иногда даже маленьким мальчикам приходится разлучаться со своими матерями, чтобы ездить в экипажах только для мужчин.",
-    "val": "In some Islamic countries, where men and women are prohibited from sitting together for religious reasons, women-only train cars are common. Depending on the country, the sexual segregation may be so strict as to apply even to children; sometimes even young boys must separate from their mothers in order to ride in men-only carriages."
+    "val": "В некоторых исламских странах, где мужчинам и женщинам запрещено сидеть вместе по религиозным соображениям, вагоны поездов, предназначенные только для женщин, являются обычным явлением. В зависимости от страны сексуальная сегрегация может быть настолько строгой, что распространяется даже на детей; иногда даже маленьким мальчикам приходится ехать отдельно от своих матерей в вагонах только для мужчин."
   },
   {
     "key": "Mossad",
     "trx": "Моссад",
-    "val": "Mossad"
+    "val": "Моссад"
   },
   {
     "key": "The Israeli Institute for Intelligence and Special Operations. Mossad conducts foreign intelligence-gathering and counterterrorist operations along with covert infiltration and the like. It is one of the arms of the Israeli intelligence community, along with entities such as the Shabak (Israel Security Agency), which handles domestic counterintelligence; historically, the director of Mossad has acted as the governing chairperson of these agencies. Mossad is regarded as one of the premier intelligence agencies in the world.",
     "trx": "Израильский институт разведки и специальных операций. Моссад проводит операции по сбору иностранной разведки и борьбе с терроризмом, а также тайное проникновение и тому подобное. Это одно из подразделений израильского разведывательного сообщества, наряду с такими организациями, как Шабак (Агентство безопасности Израиля), которое занимается внутренней контрразведкой; исторически директор Моссада выступал в качестве руководящего председателя этих агентств. Моссад считается одним из ведущих разведывательных агентств в мире.",
-    "val": "The Israeli Institute for Intelligence and Special Operations. Mossad conducts foreign intelligence-gathering and counterterrorist operations along with covert infiltration and the like. It is one of the arms of the Israeli intelligence community, along with entities such as the Shabak (Israel Security Agency), which handles domestic counterintelligence; historically, the director of Mossad has acted as the governing chairperson of these agencies. Mossad is regarded as one of the premier intelligence agencies in the world."
+    "val": "Израильский институт разведки и специальных операций. Моссад проводит операции по сбору иностранных разведданных и борьбе с терроризмом, а также операции под прикрытием и тому подобное. Это одно из подразделений израильского разведывательного сообщества, наряду с такими организациями, как Шабак (Агентство безопасности Израиля), которое занимается внутренней контрразведкой; исторически директор Моссада являлся руководящим председателем этих агентств. Моссад считается одним из ведущих разведывательных агентств в мире."
   },
   {
     "key": "Standard gauge",
     "trx": "Стандартный калибр",
-    "val": "Standard gauge"
+    "val": "Стандартная колея"
   },
   {
     "key": "Railway track with a 1435mm (4 ft. 8.5 in.) space between the rails.",
     "trx": "Железнодорожный путь с расстоянием между рельсами 1435 мм (4 фута 8,5 дюйма).",
-    "val": "Railway track with a 1435mm (4 ft. 8.5 in.) space between the rails."
+    "val": "Железнодорожный путь с расстоянием между рельсами 1435 мм (4 фута 8,5 дюйма)."
   },
   {
     "key": "It is the standard in the United Kingdom, where it originated, and due to internationalization, an estimated sixty percent or more of the world’s railways use standard gauge.",
     "trx": "Это стандарт в Соединенном Королевстве, где он возник, и благодаря интернационализации, по оценкам, шестьдесят или более процентов железных дорог мира используют стандартную колею.",
-    "val": "It is the standard in the United Kingdom, where it originated, and due to internationalization, an estimated sixty percent or more of the world’s railways use standard gauge."
+    "val": "Этот стандарт появился в Соединенном Королевстве, и, благодаря интернационализации, не менее шестидесяти процентов железных дорог во всем мире сейчас используют стандартную колею."
   },
   {
     "key": "Broad gauge",
     "trx": "Широкая колея",
-    "val": "Broad gauge"
+    "val": "Широкая колея"
   },
   {
     "key": "Railway with track spaced farther apart than standard gauge. The broader gauge offers some advantages, such as improved stability for cars and better resistance to crosswinds. Russia, India, and Finland are among the countries that use broad gauge, along with some parts of Spain.",
     "trx": "Железная дорога с колеями, расположенными дальше друг от друга, чем стандартная колея. Более широкая колея дает некоторые преимущества, такие как улучшенная устойчивость автомобилей и лучшая устойчивость к боковому ветру. Россия, Индия и Финляндия входят в число стран, использующих широкую колею, наряду с некоторыми районами Испании.",
-    "val": "Railway with track spaced farther apart than standard gauge. The broader gauge offers some advantages, such as improved stability for cars and better resistance to crosswinds. Russia, India, and Finland are among the countries that use broad gauge, along with some parts of Spain."
+    "val": "Железная дорога с более широкой колеей, чем стандартная. Более широкая колея дает некоторые преимущества, такие как улучшенная стабильность вагонов и лучшая устойчивость к боковому ветру. Широкая колея используется такими странами, как Россия, Индия и Финляндия, а также некоторыми районами Испании."
   },
   {
     "key": "Semtex",
     "trx": "Семтекс",
-    "val": "Semtex"
+    "val": "Семтекс"
   },
   {
     "key": "A plastic explosive developed in Czechoslovakia. It is claylike and easily formed into different shapes. A similar type of explosive, Composition 4 (C-4), used by the U.S. Armed Forces, is perhaps more famous. It is used by many military organizations due to its durability and ease of transport.",
     "trx": "Пластиковая взрывчатка, разработанная в Чехословакии. Он похож на глину и легко формируется в различные формы. Аналогичный тип взрывчатого вещества, состав 4 (C-4), используемый Вооруженными силами США, возможно, более известен. Он используется многими военными организациями благодаря своей долговечности и простоте транспортировки.",
-    "val": "A plastic explosive developed in Czechoslovakia. It is claylike and easily formed into different shapes. A similar type of explosive, Composition 4 (C-4), used by the U.S. Armed Forces, is perhaps more famous. It is used by many military organizations due to its durability and ease of transport."
+    "val": "Пластиковая взрывчатка, разработанная в Чехословакии. Она похожа на глину и из нее легко можно сформировать различные формы. Самым известным аналогом, вероятно, является Composition C-4 (или просто C-4), используемая Вооруженными силами США. Семтекс используется многими военными организациями благодаря своей долговечности и простоте транспортировки."
   },
   {
     "key": "Gun",
     "trx": "Пушка",
-    "val": "Gun"
+    "val": "Оружие"
   },
   {
     "key": "The FN Five-seveN. A semi-automatic pistol produced by Belgian manufacturer FN Herstal.",
     "trx": "ФН Пять-Семь. Полуавтоматический пистолет бельгийского производителя FN Herstal.",
-    "val": "The FN Five-seveN. A semi-automatic pistol produced by Belgian manufacturer FN Herstal."
+    "val": "FN Five-seveN. Полуавтоматический пистолет бельгийского производителя FN Herstal."
   },
   {
     "key": "Uses 5.7×28mm cartridge with high penetration power. Typically sold only to law enforcement and military agencies; however, there are less-powerful versions that have been made available to the civilian market .",
     "trx": "Использует патрон 5,7 × 28 мм с высокой проникающей способностью. Обычно продается только правоохранительным и военным ведомствам; однако существуют менее мощные версии, которые были доступны для гражданского рынка.",
-    "val": "Uses 5.7×28mm cartridge with high penetration power. Typically sold only to law enforcement and military agencies; however, there are less-powerful versions that have been made available to the civilian market ."
+    "val": "Использует патроны 5.7×28mm с высокой проникающей способностью. Обычно продается только правоохранительным и военным ведомствам; однако существовали менее мощные версии, доступные для гражданского рынка."
   },
   {
     "key": "Sheik",
     "trx": "Шейх",
-    "val": "Sheik"
+    "val": "Шейх"
   },
   {
     "key": "An Arabic word denoting the leader of a tribe, or a wise man. An honorary term of respect for someone who commands trust. In the modern day, it is often used to refer to scholars, community representatives, and people in high-ranking management positions. ",
     "trx": "Арабское слово, обозначающее вождя племени или мудреца. Почетный термин уважения для того, кто пользуется доверием. В наши дни он часто используется для обозначения ученых, представителей общественности и людей, занимающих высокопоставленные руководящие должности. ",
-    "val": "An Arabic word denoting the leader of a tribe, or a wise man. An honorary term of respect for someone who commands trust. In the modern day, it is often used to refer to scholars, community representatives, and people in high-ranking management positions. "
+    "val": "Арабское слово, обозначающее вождя племени или мудреца. Почетный титул человека, который пользуется доверием. В наши дни он часто используется для обозначения ученых, представителей общественности и людей, занимающих высокопоставленные руководящие должности."
   },
   {
     "key": "Liberation movement",
     "trx": "Освободительное движение",
-    "val": "Liberation movement"
+    "val": "Освободительное движение"
   },
   {
     "key": "Refers here to the Palestinian liberation movement, a political movement formed in response to the conflict arising between the newly resettled Jewish people and the preexisting Arab Palestinian residents, advocating freedom of the Palestinian people from Israeli rule. There has been a long, recurring cycle of terrorism and revolt followed by periods of peace, but to this day, the issue remains fundamentally unresolved.",
     "trx": "Относится здесь к палестинскому освободительному движению, политическому движению, сформированному в ответ на конфликт, возникший между недавно переселенным еврейским народом и ранее существовавшими арабскими палестинскими жителями, выступающими за свободу палестинского народа от израильского правления. Существовал длительный повторяющийся цикл терроризма и восстаний, за которыми следовали периоды мира, но по сей день этот вопрос остается принципиально нерешенным.",
-    "val": "Refers here to the Palestinian liberation movement, a political movement formed in response to the conflict arising between the newly resettled Jewish people and the preexisting Arab Palestinian residents, advocating freedom of the Palestinian people from Israeli rule. There has been a long, recurring cycle of terrorism and revolt followed by periods of peace, but to this day, the issue remains fundamentally unresolved."
+    "val": "Здесь означает палестинское освободительное движение — политическое движение, сформированное в ответ на конфликт, возникший между недавно переселенным еврейским народом и ранее населявшими территорию арабскими палестинскими жителями, выступающими за свободу палестинского народа от израильского правления. В течение долгого времени периоды терроризма и восстаний сменялись периодами перемирия, но и по сей день этот вопрос остается принципиально нерешенным."
   },
   {
     "key": "Three-round burst",
     "trx": "Очередь из трех патронов",
-    "val": "Three-round burst"
+    "val": "Очередь из трех патронов"
   },
   {
     "key": "Some modern automatic weapons are equipped with a switch that allows the option of firing three bullets each time the trigger is pulled. Compared to full auto mode, in which the weapon will fire continuously for as long as the trigger is held down, firing three round bursts allows for better conservation of ammunition and control of the weapon.",
     "trx": "Некоторые современные автоматические виды оружия оснащены переключателем, который позволяет выпускать три пули при каждом нажатии на спусковой крючок. По сравнению с полностью автоматным режимом, в котором оружие будет стрелять непрерывно до тех пор, пока спусковой крючок удерживается нажатым, стрельба тремя очередями обеспечивает лучшую экономию боеприпасов и контроль над оружием.",
-    "val": "Some modern automatic weapons are equipped with a switch that allows the option of firing three bullets each time the trigger is pulled. Compared to full auto mode, in which the weapon will fire continuously for as long as the trigger is held down, firing three round bursts allows for better conservation of ammunition and control of the weapon."
+    "val": "Некоторые современные автоматические виды оружия оснащены переключателем, который позволяет выпускать три патрона при каждом нажатии на спусковой крючок. По сравнению с полностью автоматным режимом, в котором оружие будет стрелять непрерывно до тех пор, пока спусковой крючок удерживается нажатым, стрельба тремя очередью из трех патронов позволяет обеспечить экономию боеприпасов и контроль над оружием."
   },
   {
     "key": "Machine pistol",
     "trx": "Пистолет-пулемет",
-    "val": "Machine pistol"
+    "val": "Автоматический пистолет"
   },
   {
     "key": "Typically refers to a handgun capable of automatic or semi-automatic fire, though frequently also denotes a weapon between the size of a pistol and a submachine gun. Because of their comparatively limited magazine capacity, such weapons are not, however, capable of the high volume of fire of a full size machine gun. Famous models include the Beretta M93R and Glock 18.",
     "trx": "Обычно относится к пистолету, способному вести автоматический или полуавтоматический огонь, хотя часто также обозначает оружие размером от пистолета до пистолета-пулемета. Однако из-за сравнительно ограниченной емкости магазина такое оружие не способно вести огонь с такой же интенсивностью, как полноразмерный пулемет. Известные модели включают Beretta M93R и Glock 18.",
-    "val": "Typically refers to a handgun capable of automatic or semi-automatic fire, though frequently also denotes a weapon between the size of a pistol and a submachine gun. Because of their comparatively limited magazine capacity, such weapons are not, however, capable of the high volume of fire of a full size machine gun. Famous models include the Beretta M93R and Glock 18."
+    "val": "Обычно этот термин относится к пистолету, способному вести автоматический или полуавтоматический огонь, но часто также обозначает оружие размером больше пистолета, но меньше пистолета-пулемета. Однако из-за сравнительно небольшой емкости магазина такое оружие не способно вести огонь с такой же интенсивностью, как у полноразмерного пулемета. Известные модели — Беретта M93R и Глок 18."
   },
   {
     "key": "Sadaqah",
     "trx": "Садака",
-    "val": "Sadaqah"
+    "val": "Са́дака"
   },
   {
     "key": "In Islam, this refers to the act of giving spontaneous, voluntary charity to the needy. It is distinct from ",
     "trx": "В исламе это относится к акту спонтанной, добровольной благотворительности нуждающимся. Это отличается от ",
-    "val": "In Islam, this refers to the act of giving spontaneous, voluntary charity to the needy. It is distinct from "
+    "val": "В исламе так называется акт спонтанной, добровольной благотворительности по отношению к нуждающимся. Противоположно термину "
   },
   {
     "key": "Zakat",
     "trx": "Закят",
-    "val": "Zakat"
+    "val": "Закя́т"
   },
   {
     "key": ", a form of obligatory almsgiving.",
     "trx": ", форма обязательной милостыни.",
-    "val": ", a form of obligatory almsgiving."
+    "val": ", означающему обязательную милостыню."
   },
   {
     "key": "First Arab-Israeli War",
     "trx": "Первая арабо-израильская война",
-    "val": "First Arab-Israeli War"
+    "val": "Первая арабо-израильская война"
   },
   {
     "key": "In response to the Israeli Declaration of Independence of 1948, the five nations of Lebanon, Syria, Transjordan, Iraq, and Egypt (later joined by Saudi Arabia, Yemen, and Morocco) declared war and marched on Palestine. Armistice agreements were signed in 1949, with the ultimately triumphant Israel taking control of most of Palestine.",
     "trx": "В ответ на израильскую декларацию независимости 1948 года пять наций Ливана, Сирии, Трансиордании, Ирака и Египта (позже к ним присоединились Саудовская Аравия, Йемен и Марокко) объявили войну и двинулись на Палестину. Соглашения о перемирии были подписаны в 1949 году, и в конечном счете победивший Израиль взял под свой контроль большую часть Палестины.",
-    "val": "In response to the Israeli Declaration of Independence of 1948, the five nations of Lebanon, Syria, Transjordan, Iraq, and Egypt (later joined by Saudi Arabia, Yemen, and Morocco) declared war and marched on Palestine. Armistice agreements were signed in 1949, with the ultimately triumphant Israel taking control of most of Palestine."
+    "val": "В ответ на израильскую декларацию независимости 1948 года пять наций Ливана, Сирии, Трансиордании, Ирака и Египта (позже к ним присоединились Саудовская Аравия, Йемен и Марокко) объявили войну и двинулись на Палестину. Соглашения о перемирии были подписаны в 1949 году, и в конечном счете победивший Израиль взял под свой контроль большую часть Палестины."
   },
   {
     "key": "Tripartite Aggression",
     "trx": "Трехсторонняя агрессия",
-    "val": "Tripartite Aggression"
+    "val": "Трехсторонняя агрессия"
   },
   {
     "key": "In 1956, Egyptian President Gamal Abdel Nasser declared the nationalization of the Suez Canal; opposing this move, the United Kingdom and France backed Israel in an invasion of the Sinai Peninsula, leading to a violent conflict with Egypt. In 1957, the United States and Soviet Union intervened, arranging a ceasefire.",
     "trx": "В 1956 году президент Египта Гамаль Абдель Насер объявил о национализации Суэцкого канала; выступая против этого шага, Соединенное Королевство и Франция поддержали Израиль во вторжении на Синайский полуостров, что привело к жестокому конфликту с Египтом. В 1957 году Соединенные Штаты и Советский Союз вмешались, договорившись о прекращении огня.",
-    "val": "In 1956, Egyptian President Gamal Abdel Nasser declared the nationalization of the Suez Canal; opposing this move, the United Kingdom and France backed Israel in an invasion of the Sinai Peninsula, leading to a violent conflict with Egypt. In 1957, the United States and Soviet Union intervened, arranging a ceasefire."
+    "val": "В 1956 году президент Египта Гамаль Абдель Насер объявил о национализации Суэцкого канала; выступая против этого шага, Соединенное Королевство и Франция поддержали Израиль во вторжении на Синайский полуостров, что привело к жестокому конфликту с Египтом. В 1957 году вмешались Соединенные Штаты и Советский Союз, договорившись о прекращении огня."
   },
   {
     "key": "Palestinian Liberation Organization",
     "trx": "Организация освобождения Палестины",
-    "val": "Palestinian Liberation Organization"
+    "val": "Организация Освобождения Палестины"
   },
   {
     "key": "An umbrella organization with the goal of the liberation of Palestine from Israeli control. Abbreviated “PLO.” After Yasser Arafat, founder of the PLO’s dominating faction, Fatah, became chairman, the organization took on the de-facto role of the Palestinian government-in-exile. The Oslo Accords of 1993 saw governance centralized into the interim Palestinian National Authority. Following the death of Arafat in 2004, Mahmoud Abbas assumed the position of Chairman of the PLO (as well as President of the Palestinian National Authority), the peace process still ongoing.",
     "trx": "Зонтичная организация с целью освобождения Палестины от израильского контроля. Сокращенно “ООП\". После того, как Ясир Арафат, основатель доминирующей фракции ООП, ФАТХ, стал председателем, организация де-факто взяла на себя роль палестинского правительства в изгнании. В соответствии с соглашениями Осло 1993 года управление было централизовано во временной палестинской национальной администрации. После смерти Арафата в 2004 году Махмуд Аббас занял пост председателя ООП (а также президента Палестинской национальной администрации), мирный процесс все еще продолжается.",
-    "val": "An umbrella organization with the goal of the liberation of Palestine from Israeli control. Abbreviated “PLO.” After Yasser Arafat, founder of the PLO’s dominating faction, Fatah, became chairman, the organization took on the de-facto role of the Palestinian government-in-exile. The Oslo Accords of 1993 saw governance centralized into the interim Palestinian National Authority. Following the death of Arafat in 2004, Mahmoud Abbas assumed the position of Chairman of the PLO (as well as President of the Palestinian National Authority), the peace process still ongoing."
+    "val": "Головная организация, имеющая целью освобождение Палестины от израильского контроля. Сокращенно “ООП.” После того, как Ясир Арафат, основатель доминирующей в ООП фракции, ФАТХ, стал председателем, организация де-факто взяла на себя роль палестинского правительства в изгнании. В соответствии с соглашениями Осло 1993 года управление было централизовано во временной палестинской национальной администрации. После смерти Арафата в 2004 году пост председателя ООП (а также президента Палестинской национальной администрации) занял Махмуд Аббас, мирный процесс все еще продолжается."
   },
   {
     "key": "Colonel Gaddafi",
     "trx": "Полковник Каддафи",
-    "val": "Colonel Gaddafi"
+    "val": "Полковник Каддафи"
   },
   {
     "key": "The former supreme leader of Libya. Seizing power in a 1969 coup d’état, he is perhaps best known for his radical anti-Western rhetoric during the 1970s and 1980s, as well as rumored backing of various terrorist groups. In the latter part of his life, his relationship with the West gradually improved; he played a leadership role in the formation of the African Union (AU) in 2002, becoming its chairman in 2009. Gaddafi was deposed and killed in 2011 by rebel forces in the Libyan Civil War.",
     "trx": "Бывший верховный лидер Ливии. Захватив власть в результате государственного переворота 1969 года, он, пожалуй, наиболее известен своей радикальной антизападной риторикой в 1970-х и 1980-х годах, а также слухами о поддержке различных террористических группировок. В последние годы своей жизни его отношения с Западом постепенно улучшались; он сыграл ведущую роль в формировании Африканского союза (АС) в 2002 году, став его председателем в 2009 году. Каддафи был свергнут и убит в 2011 году силами повстанцев в ходе гражданской войны в Ливии.",
-    "val": "The former supreme leader of Libya. Seizing power in a 1969 coup d’état, he is perhaps best known for his radical anti-Western rhetoric during the 1970s and 1980s, as well as rumored backing of various terrorist groups. In the latter part of his life, his relationship with the West gradually improved; he played a leadership role in the formation of the African Union (AU) in 2002, becoming its chairman in 2009. Gaddafi was deposed and killed in 2011 by rebel forces in the Libyan Civil War."
+    "val": "Бывший верховный лидер Ливии. Захватив власть в результате государственного переворота 1969 года, он, пожалуй, наиболее известен своей радикальной антизападной риторикой в 1970-х и 1980-х годах, ходили также слухи о поддержке им различных террористических группировок. В последние годы жизни его отношения с Западом постепенно улучшались; он сыграл ведущую роль в формировании Африканского союза (АС) в 2002 году, став его председателем в 2009. Каддафи был свергнут и убит в 2011 году силами повстанцев в ходе гражданской войны в Ливии."
   },
   {
     "key": "Lebanon War",
     "trx": "Ливанская война",
-    "val": "Lebanon War"
+    "val": "Ливанская война"
   },
   {
     "key": "1982 war in which Israeli forces invaded the neighboring country of Lebanon to retaliate against PLO forces present there. PLO leadership moved to Tunisia, and a multinational force was installed in Lebanon, with the United States providing its core constituents.",
     "trx": "Война 1982 года, в ходе которой израильские войска вторглись в соседнюю страну Ливан, чтобы нанести ответный удар присутствующим там силам ООП. Руководство ООП переехало в Тунис, а в Ливане были развернуты многонациональные силы, в состав которых входили Соединенные Штаты.",
-    "val": "1982 war in which Israeli forces invaded the neighboring country of Lebanon to retaliate against PLO forces present there. PLO leadership moved to Tunisia, and a multinational force was installed in Lebanon, with the United States providing its core constituents."
+    "val": "Война 1982 года, в ходе которой израильские войска вторглись в соседнюю страну Ливан, чтобы нанести ответный удар присутствующим там силам ООП. Руководство ООП переехало в Тунис, а в Ливане были развернуты многонациональные силы, в состав которых входили Соединенные Штаты."
   },
   {
     "key": "Islamic volunteer soldiers",
     "trx": "Исламские солдаты-добровольцы",
-    "val": "Islamic volunteer soldiers"
+    "val": "Исламские солдаты-добровольцы"
   },
   {
     "key": "When the Soviet Union invaded Afghanistan in 1979, Muslims from all over the world joined up as volunteer soldiers to fight the Soviets in the name of ",
     "trx": "Когда Советский Союз вторгся в Афганистан в 1979 году, мусульмане со всего мира вступили в ряды солдат-добровольцев, чтобы сражаться с Советами во имя ",
-    "val": "When the Soviet Union invaded Afghanistan in 1979, Muslims from all over the world joined up as volunteer soldiers to fight the Soviets in the name of "
+    "val": "Когда Советский Союз вторгся в Афганистан в 1979 году, мусульмане со всего мира вступили в ряды солдат-добровольцев, чтобы сражаться с Советами во имя "
   },
   {
     "key": "jihad",
     "trx": "джихад",
-    "val": "jihad"
+    "val": "джихада"
   },
   {
     "key": ". After the withdrawal of Soviet forces, these volunteer soldiers did not completely lose ties with one another; some of them went on to form international networks such as al-Qaeda.",
     "trx": ". После вывода советских войск эти солдаты-добровольцы не полностью утратили связи друг с другом; некоторые из них продолжили формировать международные сети, такие как Аль-Каида.",
-    "val": ". After the withdrawal of Soviet forces, these volunteer soldiers did not completely lose ties with one another; some of them went on to form international networks such as al-Qaeda."
+    "val": ". После вывода советских войск эти солдаты-добровольцы не полностью утратили связи друг с другом; некоторые из них продолжили формировать международные сети, такие как Аль-Каида."
   },
   {
     "key": "Fort Detrick",
     "trx": "Форт Детрик",
-    "val": "Fort Detrick"
+    "val": "Форт-Детрик"
   },
   {
     "key": "A United States Army installation in Frederick, Maryland. The five-square-kilometer grounds are dotted with various biological and medical research and development facilities.",
     "trx": "База армии Соединенных Штатов во Фредерике, штат Мэриленд. Территория площадью пять квадратных километров усеяна различными объектами биологических и медицинских исследований и разработок.",
-    "val": "A United States Army installation in Frederick, Maryland. The five-square-kilometer grounds are dotted with various biological and medical research and development facilities."
+    "val": "База армии Соединенных Штатов во Фредерике, штат Мэриленд. Территория площадью пять квадратных километров усеяна различными объектами биологических и медицинских исследований и разработок."
   },
   {
     "key": "The name is sometimes used to refer specifically to the U.S. Army Medical Research Institute of Infectious Diseases (USAMRIID), a key institution in U.S. efforts to protect against naturally occurring microbes and diseases as well as biological weapons.",
     "trx": "Это название иногда используется специально для обозначения Медицинского исследовательского института инфекционных заболеваний армии США (USAMRIID), ключевого учреждения в усилиях США по защите от естественных микробов и болезней, а также биологического оружия.",
-    "val": "The name is sometimes used to refer specifically to the U.S. Army Medical Research Institute of Infectious Diseases (USAMRIID), a key institution in U.S. efforts to protect against naturally occurring microbes and diseases as well as biological weapons."
+    "val": "Это название иногда используется специально для обозначения Медицинского научно-исследовательского института инфекционных заболеваний армии США (USAMRIID), который является основным учреждением США для исследований защиты от естественных микробов и болезней, а также биологического оружия."
   },
   {
     "key": "Pentium M",
@@ -1392,172 +1392,172 @@
   {
     "key": "A CPU released by the Intel Corporation, originally developed in Israel. Its design focused on power conservation for use in laptop computers, its compact size and brand appeal making it popular in many countries, including Japan.",
     "trx": "Процессор, выпущенный корпорацией Intel, первоначально разработанный в Израиле. Его дизайн был ориентирован на энергосбережение для использования в портативных компьютерах, его компактные размеры и привлекательность бренда делают его популярным во многих странах, включая Японию.",
-    "val": "A CPU released by the Intel Corporation, originally developed in Israel. Its design focused on power conservation for use in laptop computers, its compact size and brand appeal making it popular in many countries, including Japan."
+    "val": "Процессор, выпущенный корпорацией Intel, первоначально разработанный в Израиле. Разрабатывался с упором на энергосбережение для использования в портативных компьютерах, его компактные размеры и привлекательность бренда делают его популярным во многих странах, включая Японию."
   },
   {
     "key": "CDC",
     "trx": "CDC",
-    "val": "CDC"
+    "val": "ЦКЗ"
   },
   {
     "key": "Abbreviation of \"Centers for Disease Control and Prevention,\" a multidisciplinary research institution under the jurisdiction of the United States Department of Health and Human Services (HHS). Headquartered in Atlanta, Georgia, it is known as one of the world’s foremost organizations in the field of virus and infectious agent research.",
     "trx": "Аббревиатура \"Центров по контролю и профилактике заболеваний\", многопрофильного исследовательского учреждения, находящегося под юрисдикцией Министерства здравоохранения и социальных служб США (HHS). Штаб-квартира компании находится в Атланте, штат Джорджия, и известна как одна из ведущих мировых организаций в области исследований вирусов и инфекционных агентов.",
-    "val": "Abbreviation of \"Centers for Disease Control and Prevention,\" a multidisciplinary research institution under the jurisdiction of the United States Department of Health and Human Services (HHS). Headquartered in Atlanta, Georgia, it is known as one of the world’s foremost organizations in the field of virus and infectious agent research."
+    "val": "Аббревиатура агентства “Центры по контролю и профилактике заболеваний,” многопрофильного исследовательского учреждения, находящегося под юрисдикцией Министерства здравоохранения и социальных служб США (HHS). Расположена в Атланте, штат Джорджия, и известна как одна из ведущих мировых организаций в области исследований вирусов и возбудителей инфекций."
   },
   {
     "key": "Drakensberg",
     "trx": "Дракенсберг",
-    "val": "Drakensberg"
+    "val": "Драконовы горы"
   },
   {
     "key": "A mountain range in South Africa that takes its name from the Afrikaans word for “the Mountains of Dragons”; part of the range forms the national border of the Kingdom of Lesotho. The highest peak, at 3842m, is Thabana Ntlenyana, which means “Beautiful Little Mountain” in the Sesotho language.",
     "trx": "Горный хребет в Южной Африке, который получил свое название от слова африкаанс, означающего “Горы драконов”; часть хребта образует национальную границу Королевства Лесото. Самая высокая вершина, высотой 3842 м, - Табана Нтленьяна, что на языке сесото означает “Красивая маленькая гора”.",
-    "val": "A mountain range in South Africa that takes its name from the Afrikaans word for “the Mountains of Dragons”; part of the range forms the national border of the Kingdom of Lesotho. The highest peak, at 3842m, is Thabana Ntlenyana, which means “Beautiful Little Mountain” in the Sesotho language."
+    "val": "Горный хребет в Южной Африке, который получил свое английское название Drakensberg от слова на африкаанс, означающего “Горы драконов”; часть хребта образует национальную границу Королевства Лесото. Самая высокая вершина, высотой 3842 м, называется Тхабана-Нтленьяна, что на языке сесото означает “Красивая маленькая гора”."
   },
   {
     "key": "Retrovirus",
     "trx": "Ретровирус",
-    "val": "Retrovirus"
+    "val": "Ретровирус"
   },
   {
     "key": "A type of virus that reads genetic data and uses reverse transcriptase in order to copy its own RNA. Put more simply, it uses the cells of other organisms to make copies of itself. Because the retrovirus genome is made of RNA, retroviruses are thought to be more unstable and prone to sudden mutations than DNA viruses.",
     "trx": "Тип вируса, который считывает генетические данные и использует обратную транскриптазу для копирования своей собственной РНК. Проще говоря, он использует клетки других организмов для создания собственных копий. Поскольку геном ретровируса состоит из РНК, считается, что ретровирусы более нестабильны и подвержены внезапным мутациям, чем ДНК-вирусы.",
-    "val": "A type of virus that reads genetic data and uses reverse transcriptase in order to copy its own RNA. Put more simply, it uses the cells of other organisms to make copies of itself. Because the retrovirus genome is made of RNA, retroviruses are thought to be more unstable and prone to sudden mutations than DNA viruses."
+    "val": "Тип вируса, который считывает генетические данные и использует обратную транскриптазу для копирования своей собственной РНК. Проще говоря, он использует клетки других организмов для создания собственных копий. Поскольку геном ретровируса состоит из РНК, что ретровирусы считаются более нестабильными и подверженными внезапным мутациям, чем ДНК-вирусы."
   },
   {
     "key": "Short recoil operation",
     "trx": "Короткая операция отдачи",
-    "val": "Short recoil operation"
+    "val": "Короткий ход ствола"
   },
   {
     "key": "A type of operating system used in most autoloading pistols (as well as some machine guns). The mechanism uses recoil generated by the weapon’s firing to quickly load the next round into position.",
     "trx": "Тип операционной системы, используемой в большинстве пистолетов с автоматической загрузкой (а также в некоторых пулеметах). Механизм использует отдачу, создаваемую выстрелом оружия, для быстрой загрузки следующего патрона в нужное положение.",
-    "val": "A type of operating system used in most autoloading pistols (as well as some machine guns). The mechanism uses recoil generated by the weapon’s firing to quickly load the next round into position."
+    "val": "Вариант автоматики оружия, использующийся в большинстве пистолетов с автоматической загрузкой (а также в некоторых пулеметах). Механизм использует отдачу, создаваемую выстрелом оружия, для быстрой загрузки следующего патрона в нужное положение."
   },
   {
     "key": "Trigger control",
     "trx": "Управление триггером",
-    "val": "Trigger control"
+    "val": "Управление спусковым крючком"
   },
   {
     "key": "“Trigger control” is a shooter’s ability to precisely manipulate a firearm’s trigger. Although ostensibly a simple movement, it takes considerable skill to break a shot cleanly and quickly reset for a follow-up shot; good technique is essential for shooting accurately at speed. ",
     "trx": "“Управление спусковым крючком” - это способность стрелка точно управлять спусковым крючком огнестрельного оружия. Несмотря на кажущуюся простоту движения, требуется значительное мастерство, чтобы четко прервать выстрел и быстро сбросить его для последующего выстрела; хорошая техника необходима для точной стрельбы на скорости. ",
-    "val": "“Trigger control” is a shooter’s ability to precisely manipulate a firearm’s trigger. Although ostensibly a simple movement, it takes considerable skill to break a shot cleanly and quickly reset for a follow-up shot; good technique is essential for shooting accurately at speed. "
+    "val": "Способность стрелка точно управлять спусковым крючком огнестрельного оружия. Несмотря на кажущуюся простоту движения, требуется значительное мастерство, чтобы четко завершить выстрел и быстро приготовиться к следующему выстрелу; для точной стрельбы на скорости необходима хорошая техника. "
   },
   {
     "key": "Suppressing fire",
     "trx": "Подавление огня",
-    "val": "Suppressing fire"
+    "val": "Подавляющий огонь"
   },
   {
     "key": "Gunfire intended to prevent the enemy from moving. Frequently used when the opponent is behind cover, it can be an effective means of gaining a tactical advantage by forcing a foe to remain in a given position.",
     "trx": "Орудийный огонь, предназначенный для того, чтобы помешать врагу двигаться. Часто используемый, когда противник находится в укрытии, он может быть эффективным средством получения тактического преимущества, заставляя противника оставаться на заданной позиции.",
-    "val": "Gunfire intended to prevent the enemy from moving. Frequently used when the opponent is behind cover, it can be an effective means of gaining a tactical advantage by forcing a foe to remain in a given position."
+    "val": "Орудийный огонь, предназначенный для того, чтобы помешать врагу двигаться. Он часто используется для получения тактического преимущества, если противник находится в укрытии, вынуждая его оставаться на заданной позиции."
   },
   {
     "key": "Fundamentalist",
     "trx": "Фундаменталист",
-    "val": "Fundamentalist"
+    "val": "Фундаменталист"
   },
   {
     "key": "One who believes absolutely in a particular religious doctrine. Used here to refer to “Islamic fundamentalists.” These include radical anti-American and anti-Israeli factions, who have repeatedly come into armed conflict with the Israeli military.",
     "trx": "Тот, кто абсолютно верит в определенную религиозную доктрину. Используется здесь для обозначения “исламских фундаменталистов”. К ним относятся радикальные антиамериканские и антиизраильские группировки, которые неоднократно вступали в вооруженный конфликт с израильскими военными.",
-    "val": "One who believes absolutely in a particular religious doctrine. Used here to refer to “Islamic fundamentalists.” These include radical anti-American and anti-Israeli factions, who have repeatedly come into armed conflict with the Israeli military."
+    "val": "Тот, кто абсолютно верит в определенную религиозную доктрину. Здесь этот термин используется применительно к “исламским фундаменталистам”. К ним относятся радикальные антиамериканские и антиизраильские группировки, которые неоднократно вступали в вооруженный конфликт с израильскими военными."
   },
   {
     "key": "Qur’an",
     "trx": "Коран",
-    "val": "Qur’an"
+    "val": "Коран"
   },
   {
     "key": "The central religious text of Islam, consisting of 114 chapters. Also frequently Romanized as “Koran” in English. It is the most important source for Islamic law, taken as the revelations of Allah to the Prophet Muhammad, compiled by his companions after his death.",
     "trx": "Центральный религиозный текст ислама, состоящий из 114 глав. Также часто латинизируется как “Коран” на английском языке. Это важнейший источник исламского права, взятый как откровения Аллаха пророку Мухаммеду, составленные его сподвижниками после его смерти.",
-    "val": "The central religious text of Islam, consisting of 114 chapters. Also frequently Romanized as “Koran” in English. It is the most important source for Islamic law, taken as the revelations of Allah to the Prophet Muhammad, compiled by his companions after his death."
+    "val": "Центральный религиозный текст ислама, состоящий из 114 глав. Это важнейший источник исламского права, составленный в виде как откровений Аллаха пророку Мухаммеду, записанных его сподвижниками после его смерти."
   },
   {
     "key": "Instigator",
     "trx": "Подстрекатель",
-    "val": "Instigator"
+    "val": "Подстрекатель"
   },
   {
     "key": "One who controls and dispenses information in order to achieve political or military goals. As skillfully executed agitation can sometimes be more effective than deploying a major force, both military and political organizations around the world regularly employ such methods.",
     "trx": "Тот, кто контролирует и распространяет информацию для достижения политических или военных целей. Поскольку умело проведенная агитация иногда может быть более эффективной, чем развертывание крупных сил, как военные, так и политические организации по всему миру регулярно используют такие методы.",
-    "val": "One who controls and dispenses information in order to achieve political or military goals. As skillfully executed agitation can sometimes be more effective than deploying a major force, both military and political organizations around the world regularly employ such methods."
+    "val": "Тот, кто контролирует и распространяет информацию для достижения политических или военных целей. Поскольку умело проведенная агитация иногда может быть более эффективной, чем развертывание крупных сил, военные и политические организации по всему миру регулярно используют такие методы."
   },
   {
     "key": "Black Hawk",
     "trx": "Черный ястреб",
-    "val": "Black Hawk"
+    "val": "Блэк хоук"
   },
   {
     "key": "An assault helicopter manufactured by Sikorsky Aircraft. First saw combat with the U.S. Army during the invasion of Grenada in 1983, and in more recent years has seen service in the Iraq War. It is used by over twenty nation states, including Japan, Australia, Egypt, and Israel.",
     "trx": "Штурмовой вертолет производства Sikorsky Aircraft. Впервые участвовал в боях с армией США во время вторжения в Гренаду в 1983 году, а в последние годы участвовал в войне в Ираке. Он используется более чем двадцатью национальными государствами, включая Японию, Австралию, Египет и Израиль.",
-    "val": "An assault helicopter manufactured by Sikorsky Aircraft. First saw combat with the U.S. Army during the invasion of Grenada in 1983, and in more recent years has seen service in the Iraq War. It is used by over twenty nation states, including Japan, Australia, Egypt, and Israel."
+    "val": "Штурмовой вертолет производства Sikorsky Aircraft. Впервые участвовал в боях с армией США во время вторжения в Гренаду в 1983 году, а позже — в войне в Ираке. Он используется более чем двадцатью национальными государствами, включая Японию, Австралию, Египет и Израиль."
   },
   {
     "key": "Automatic air brake",
     "trx": "Автоматический воздушный тормоз",
-    "val": "Automatic air brake"
+    "val": "Автоматический воздушный тормоз"
   },
   {
     "key": "A style of brake used by railway cars that utilizes air pressure. All of the train cars include sections of a “brake pipe,” linked to each other down the center of the train’s undercarriage. The brakes on the cars are structured so that they activate when air is removed from the pipe. If two cars become separated, this releases the air, causing the brakes to kick in automatically.",
     "trx": "Тип тормоза, используемый железнодорожными вагонами, который использует давление воздуха. Все вагоны поезда включают секции “тормозной трубы”, соединенные друг с другом по центру ходовой части поезда. Тормоза на автомобилях устроены таким образом, что они срабатывают при удалении воздуха из трубы. Если два автомобиля разделяются, это высвобождает воздух, в результате чего автоматически срабатывают тормоза.",
-    "val": "A style of brake used by railway cars that utilizes air pressure. All of the train cars include sections of a “brake pipe,” linked to each other down the center of the train’s undercarriage. The brakes on the cars are structured so that they activate when air is removed from the pipe. If two cars become separated, this releases the air, causing the brakes to kick in automatically."
+    "val": "Тип тормоза в железнодорожных вагонах, использующий давление воздуха. Через все вагоны поезда проходят секции “тормозной магистрали,” соединенные друг с другом по центру ходовой части поезда. Тормоза вагонов устроены таким образом, что они срабатывают при удалении воздуха из трубы. Если два вагона разделяются, это высвобождает воздух, в результате чего тормоза срабатывают автоматически."
   },
   {
     "key": "Helium",
     "trx": "Гелий",
-    "val": "Helium"
+    "val": "Гелий"
   },
   {
     "key": "A buoyant gas that makes up 0.0005% of the Earth’s atmosphere, used to provide lift in balloons, blimps and dirigibles. Hydrogen gas is more buoyant, but helium is far safer because it is not flammable. Some have attributed the 1937 Hindenburg disaster to the fact that American-sourced helium was rejected in favor of the hydrogen gas used in the doomed craft.",
     "trx": "Плавучий газ, составляющий 0,0005% земной атмосферы, используемый для обеспечения подъемной силы в воздушных шарах, дирижаблях и дирижаблях. Газообразный водород более плавуч, но гелий гораздо безопаснее, потому что он не воспламеняется. Некоторые связывают катастрофу Гинденбурга 1937 года с тем фактом, что гелий американского производства был отвергнут в пользу газообразного водорода, используемого в обреченном корабле.",
-    "val": "A buoyant gas that makes up 0.0005% of the Earth’s atmosphere, used to provide lift in balloons, blimps and dirigibles. Hydrogen gas is more buoyant, but helium is far safer because it is not flammable. Some have attributed the 1937 Hindenburg disaster to the fact that American-sourced helium was rejected in favor of the hydrogen gas used in the doomed craft."
+    "val": "Легкий газ, составляющий 0,0005% земной атмосферы, используемый для обеспечения подъемной силы в воздушных шарах, аэростатах и дирижаблях. Газообразный водород еще легче, но гелий гораздо безопаснее, потому что он не воспламеняется. Некоторые связывают катастрофу Гинденбурга 1937 года с тем фактом, что гелий американского производства был отвергнут в пользу газообразного водорода, используемого в обреченном корабле."
   },
   {
     "key": "Ethylene",
     "trx": "Этилен",
-    "val": "Ethylene"
+    "val": "Этилен"
   },
   {
     "key": "A gaseous hydrocarbon composed of two carbon atoms joined by a double bond. Used as a raw material for plastic, polyethylene, and the like. Lightweight and colorless, it gives off a sweet smell, and is flammable.",
     "trx": "Газообразный углеводород, состоящий из двух атомов углерода, соединенных двойной связью. Используется в качестве сырья для производства пластика, полиэтилена и тому подобного. Легкий и бесцветный, он издает сладкий запах и легко воспламеняется.",
-    "val": "A gaseous hydrocarbon composed of two carbon atoms joined by a double bond. Used as a raw material for plastic, polyethylene, and the like. Lightweight and colorless, it gives off a sweet smell, and is flammable."
+    "val": "Газообразный углеводород, состоящий из двух атомов углерода, соединенных двойной связью. Используется в качестве сырья для производства пластика, полиэтилена и тому подобного. Легкий и бесцветный, он обладает сладким запахом и легко воспламеняется."
   },
   {
     "key": "Propane",
     "trx": "Пропан",
-    "val": "Propane"
+    "val": "Пропан"
   },
   {
     "key": "A colorless, flammable gas, heavier than air. One of the components in natural gas, it is also one product of the petroleum refining process. It is often mixed with propylene and butane and sold as “LP (liquid petroleum) gas.”",
     "trx": "Бесцветный, легковоспламеняющийся газ, тяжелее воздуха. Один из компонентов природного газа, он также является одним из продуктов процесса переработки нефти. Его часто смешивают с пропиленом и бутаном и продают как “сжиженный нефтяной газ”.",
-    "val": "A colorless, flammable gas, heavier than air. One of the components in natural gas, it is also one product of the petroleum refining process. It is often mixed with propylene and butane and sold as “LP (liquid petroleum) gas.”"
+    "val": "Бесцветный, легковоспламеняющийся газ, тяжелее воздуха. Является одним из компонентов природного газа, а также одним из продуктов процесса переработки нефти. Его часто смешивают с пропиленом и бутаном и продают как “сжиженный нефтяной газ.”"
   },
   {
     "key": "Methane",
     "trx": "Метан",
-    "val": "Methane"
+    "val": "Метан"
   },
   {
     "key": "A colorless, odorless gas used as fuel for consumer and municipal applications. In addition to being found in natural gas deposits underground, it is also a byproduct of metabolic fermentation by methane-producing microorganisms, livestock, and other sources. ",
     "trx": "Бесцветный газ без запаха, используемый в качестве топлива для бытовых и коммунальных нужд. Помимо того, что он содержится в подземных залежах природного газа, он также является побочным продуктом метаболической ферментации микроорганизмами, продуцирующими метан, домашним скотом и другими источниками. ",
-    "val": "A colorless, odorless gas used as fuel for consumer and municipal applications. In addition to being found in natural gas deposits underground, it is also a byproduct of metabolic fermentation by methane-producing microorganisms, livestock, and other sources. "
+    "val": "Газ без цвета и запаха, используемый в качестве топлива для бытовых и коммунальных нужд. Помимо того, что он содержится в подземных залежах природного газа, он также является побочным продуктом метаболической ферментации микроорганизмами, продуцирующими метан, домашним скотом и другими источниками. "
   },
   {
     "key": "Widely recognized as a “greenhouse gas” contributing to global climate change, methane’s increased presence in the Earth’s atmosphere has been deemed a major problem by researchers.",
     "trx": "Широко признанный “парниковым газом”, способствующим глобальному изменению климата, повышенное присутствие метана в атмосфере Земли исследователи считают серьезной проблемой.",
-    "val": "Widely recognized as a “greenhouse gas” contributing to global climate change, methane’s increased presence in the Earth’s atmosphere has been deemed a major problem by researchers."
+    "val": "Считается одним из “парниковых газов,” способствующих глобальному изменению климата. Повышенную концентрацию метана в атмосфере Земли исследователи считают серьезной проблемой."
   },
   {
     "key": "Hydrogen sulfide",
     "trx": "Сероводород",
-    "val": "Hydrogen sulfide"
+    "val": "Сероводород"
   },
   {
     "key": "A gaseous compound formed of sulfur and hydrogen. It produces an unpleasant smell that irritates the mucous membranes of the eyes and nose. It is harmful to humans (breathing in too much can kill you), and has been designated a specified offensive odor substance under Japanese law. Prolonged inhalation can damage the olfactory senses, with a risk of permanent loss of smell.",
     "trx": "Газообразное соединение, состоящее из серы и водорода. Он издает неприятный запах, который раздражает слизистые оболочки глаз и носа. Это вредно для человека (вдыхание слишком большого количества может убить вас), и в соответствии с японским законодательством оно было отнесено к веществу с определенным неприятным запахом. Длительное вдыхание может привести к повреждению обонятельных органов с риском необратимой потери обоняния.",
-    "val": "A gaseous compound formed of sulfur and hydrogen. It produces an unpleasant smell that irritates the mucous membranes of the eyes and nose. It is harmful to humans (breathing in too much can kill you), and has been designated a specified offensive odor substance under Japanese law. Prolonged inhalation can damage the olfactory senses, with a risk of permanent loss of smell."
+    "val": "Газообразное соединение, состоящее из серы и водорода. Он издает неприятный запах, который раздражает слизистые оболочки глаз и носа. Он вреден для человека (если вдохнуть его слишком много, можно умереть), и в соответствии с японским законодательством классифицирован как вещество с определенным неприятным запахом. Длительное вдыхание может привести к повреждению органов обоняния с риском необратимой потери восприимчивости к запахам."
   },
   {
     "key": "Voices",

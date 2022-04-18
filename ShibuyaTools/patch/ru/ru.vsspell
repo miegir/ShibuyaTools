@@ -47,7 +47,9 @@
     <Expression Match="\bАбу-Грейб\b" />
     <Expression Match="\bАгаа+!" />
     <Expression Match="\bальтер-эго\b" Options="IgnoreCase" />
+    <Expression Match="\bБлэк хоука?\b" />
     <Expression Match="\bва-банк\b" />
+    <Expression Match="\bГамаль Абдель Насер\b" />
     <Expression Match="\bГва+х!" />
     <Expression Match="\bГваха+х!" />
     <Expression Match="\bГр+\." Options="IgnoreCase" />
@@ -55,8 +57,10 @@
     <Expression Match="\bЕе+сть!" Options="IgnoreCase" />
     <Expression Match="\bКа+к?" Options="IgnoreCase" />
     <Expression Match="\bКанто-Сираминэ-гуми\b" />
+    <Expression Match="\bКинг-Конг" />
     <Expression Match="\bКияя+!" />
     <Expression Match="\bлже-Альфард" />
+    <Expression Match="\bМахмуд Аббас\b" />
     <Expression Match="\bМии-тян\b" />
     <Expression Match="\bМм+." />
     <Expression Match="\bМя+у+\." Options="IgnoreCase" />
@@ -70,9 +74,12 @@
     <Expression Match="\bпомоги+те!" Options="IgnoreCase" />
     <Expression Match="\bпроиграа+ла?!" />
     <Expression Match="\bРр+ах+!" />
+    <Expression Match="\bТхабана-Нтленьяна\b" />
+    <Expression Match="\bУа(ха)+!" />
     <Expression Match="\bУра-Хара\b" />
     <Expression Match="\bУф+!" Options="IgnoreCase" />
     <Expression Match="\bфан-страниц" Options="IgnoreCase" />
+    <Expression Match="\bФорт-Детрик" />
     <Expression Match="\bфуд-корт" Options="IgnoreCase" />
     <Expression Match="\bХи+-йа+!" />
     <Expression Match="\bхмм+\b" />
@@ -80,11 +87,13 @@
     <Expression Match="\bЦентрал Таймс\b" />
     <Expression Match="\bЧее+рт!" Options="IgnoreCase" />
     <Expression Match="\bШш+!" />
+    <Expression Match="\bЭмпайр-стейт-билдинг\b" />
     <Expression Match="\bЭэ+х\b" />
+    <Expression Match="\bЯсир Арафат\b" />
     <Expression Match="“Semper Fidelis,”" />
     <Expression Match="“Гррах!”" />
     <Expression Match="“покси\b" />
-    <Expression Match="\bУа(ха)+!" />
+    <Expression Match="“халав(а|ех)\b" />
   </ExclusionExpressions>
   <SpellCheckAsYouType>True</SpellCheckAsYouType>
   <IncludeInProjectSpellCheck>True</IncludeInProjectSpellCheck>
