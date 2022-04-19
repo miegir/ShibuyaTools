@@ -37,17 +37,17 @@
   {
     "key": "She wanted to stop and sink into one of the sofas in the airport lounge, but she didn’t have time for that now.",
     "trx": "Она хотела остановиться и опуститься на один из диванов в зале ожидания аэропорта, но сейчас у нее не было на это времени.",
-    "val": "Она хотела остановиться и присесть на один из диванов в зале ожидания аэропорта, но сейчас у нее не было на это времени."
+    "val": "Она хотела остановиться и присесть на один из диванов в зале ожидания, но сейчас у нее не было на это времени."
   },
   {
     "key": "“Was that all just a diversion? Who the hell does she think she is, just tossing people away like that? ",
     "trx": "“Это все было просто отвлекающим маневром? Кем, черт возьми, она себя возомнила, вот так просто бросая людей? ",
-    "val": "“Было ли все это простым отвлекающим маневром? Кем, черт возьми, она себя возомнила, вот так просто бросая людей? "
+    "val": "“Было ли это отвлекающим маневром? Кем, черт возьми, она себя возомнила, вот так просто бросая людей? "
   },
   {
     "key": "Are the fringe groups—of her own organization—nothing more than ",
     "trx": "Являются ли маргинальные группы — ее собственной организации — не более чем ",
-    "val": "Разве маргинальные группы — из ее собственной организации — для нее не более, чем "
+    "val": "Неужели маргинальные группы — из ее собственной организации — для нее не более, чем "
   },
   {
     "key": "halva",
@@ -97,12 +97,12 @@
   {
     "key": "She was just going to have to acquire the gear she needed on-site.",
     "trx": "Ей просто нужно было приобрести необходимое снаряжение на месте.",
-    "val": "Ей придется приобрести все необходимое снаряжение на месте."
+    "val": "Все необходимое снаряжение она получит на месте."
   },
   {
     "key": "It galled her to be so under-equipped; the only consolation was that at least she’d been able to arrange for a boarding pass in time.",
     "trx": "Ее раздражало, что она так плохо экипирована; единственным утешением было то, что, по крайней мере, она смогла вовремя оформить посадочный талон.",
-    "val": "Ее раздражало, что она так плохо экипирована; единственным утешением было то, что, по крайней мере, она смогла вовремя оформить посадочный талон."
+    "val": "Ее раздражало, что она так плохо экипирована; единственным утешением было то, что, по крайней мере, она смогла вовремя договориться о посадочном талоне."
   },
   {
     "key": "“Al-aanisah?”",
@@ -172,12 +172,12 @@
   {
     "key": "A professional freelancer who took any requests, and who always carried out her mission.",
     "trx": "Профессиональный фрилансер, который принимал любые запросы и всегда выполнял свою миссию.",
-    "val": "Наемник-профессионал, который принимал любые запросы и всегда выполнял свою миссию."
+    "val": "Наемник-профессионал, принимающий любые запросы и всегда выполняющий свою миссию."
   },
   {
     "key": "A mere hour earlier, she’d taken out an armed syndicate thirty members strong, the red flowers of blood left in her wake a testament to her rumored capabilities.",
     "trx": "Всего час назад она уничтожила вооруженный синдикат численностью в тридцать человек, красные цветы крови, оставленные после нее, свидетельствуют о ее слухах о способностях.",
-    "val": "Всего час назад она уничтожила вооруженный синдикат численностью в тридцать человек, кровавые следы, которые она оставила после себя, подтверждают слухи о ее способностях."
+    "val": "Всего час назад она уничтожила вооруженный синдикат численностью в тридцать человек, и кровавые следы, которые она оставила после себя, подтверждают слухи о ее способностях."
   },
   {
     "key": "The man was dumbstruck. What kind of twisted fairy tale was this, with mercenaries who looked like sweet little girls? ",
@@ -252,7 +252,7 @@
   {
     "key": "And she hadn’t figured it out from his appearance—she’d just intuited it somehow.",
     "trx": "И она не поняла этого по его внешности — она просто каким-то образом интуитивно почувствовала это.",
-    "val": "И она поняла это не по его внешности — она просто каким-то образом интуитивно почувствовала это."
+    "val": "И она поняла это не по его внешности, а как-то интуитивно."
   },
   {
     "key": "She had also immediately sensed that he was ashamed, even though he’d kept his face a perfect blank.",
@@ -267,7 +267,7 @@
   {
     "key": "“That seems a little premature, seeing as how I haven’t killed it yet.”",
     "trx": "“Это кажется немного преждевременным, учитывая, что я еще не убил его”.",
-    "val": "“Это кажется немного преждевременным, учитывая, что я еще не убила его.”"
+    "val": "“Это кажется немного преждевременным, учитывая, что я еще не убила ее.”"
   },
   {
     "key": "First the girl had acted deliberately blasé; now she was being downright cynical.",
@@ -302,7 +302,7 @@
   {
     "key": "How many soldiers must she have killed, how many battlefields had she survived? Hers was the life of a professional assassin.",
     "trx": "Сколько солдат она, должно быть, убила, сколько полей сражений пережила? Ее жизнь была жизнью профессионального убийцы.",
-    "val": "Сколько солдат она, должно быть, убила, сколько полей сражений пережила? Она жила жизнью профессиональной убийцы."
+    "val": "Сколько солдат она, должно быть, убила, сколько полей сражений пережила? Она жила жизнью профессионального убийцы."
   },
   {
     "key": "The fact that she had retained apparent normalcy in the midst of such disorder was more than a little unsettling.",
@@ -342,7 +342,7 @@
   {
     "key": "Did you look into that story I asked you about?”",
     "trx": "Ты изучал ту историю, о которой я тебя спрашивал?”",
-    "val": "Вы разузнали о той истории, о которой я вас спрашивала?”"
+    "val": "Вы разузнали о том, о чем я вас спрашивала?”"
   },
   {
     "key": "“Yes. I was able to confirm it. The director of Okoshi Pharmaceutical, Osawa—his daughter has indeed been kidnapped. ",
@@ -362,7 +362,7 @@
   {
     "key": " activity on our end to be a mere diversion.”",
     "trx": " активность с нашей стороны будет просто отвлекающим маневром”.",
-    "val": " с нашей стороны как простой отвлекающий маневр.”"
+    "val": " на нашей стороне как простой отвлекающий маневр.”"
   },
   {
     "key": "Canaan gritted her teeth.",
@@ -372,7 +372,7 @@
   {
     "key": "Her latest mission—concluded just an hour ago—had been to meet with this armed group, ‘The Serpent.’",
     "trx": "Ее последняя миссия, завершенная всего час назад, состояла в том, чтобы встретиться с этой вооруженной группой \"Змей\".",
-    "val": "Ее последняя миссия, завершенная всего час назад, состояла в том, чтобы встретиться с этой вооруженной группой ‘Змея.’"
+    "val": "Ее последняя миссия, завершенная всего час назад, состояла в том, чтобы встретиться с этой вооруженной группой, ‘Змеей.’"
   },
   {
     "key": "That was fine. ",
@@ -387,7 +387,7 @@
   {
     "key": "The job had been even easier than she’d imagined. There was no cause to get bent out of shape.",
     "trx": "Работа оказалась даже проще, чем она себе представляла. Не было никаких причин выходить из формы.",
-    "val": "Работа оказалась даже проще, чем она себе представляла. Не было никаких причин, чтобы волноваться."
+    "val": "Работа оказалась даже проще, чем она себе представляла. Не было никаких причин волноваться."
   },
   {
     "key": "But the info she’d gotten her hands on had done quite a number on her mood.",
@@ -422,7 +422,7 @@
   {
     "key": "But of all places to set the stage...Japan?",
     "trx": "Но из всех мест, где можно было бы подготовить сцену...Япония?",
-    "val": "Но почему из всех возможных мест выбрана именно... Япония?"
+    "val": "Но почему из всех возможных мест именно... Япония?"
   },
   {
     "key": "CIA involvement could pose a problem. She wouldn’t be surprised if the Serpent had already coiled itself around the Americans.",
@@ -432,7 +432,7 @@
   {
     "key": "When it came to the Serpent, not even the U.S. government could be trusted to keep itself free of influence.",
     "trx": "Когда дело дошло до Змея, даже правительству США нельзя было доверять в том, что оно останется свободным от влияния.",
-    "val": "Когда речь идет о Змее, даже правительству США нельзя было доверять в том, что оно останется свободным от влияния."
+    "val": "Когда речь идет о Змее, даже правительству США нельзя доверять в том, что оно останется свободным от влияния."
   },
   {
     "key": "And the target was Okoshi Pharmaceutical.",
@@ -442,7 +442,7 @@
   {
     "key": "If that wasn’t a sign, she didn’t know what was.",
     "trx": "Если это не было знаком, то она не знала, что это было.",
-    "val": "И чем же это было, если не знаком."
+    "val": "Если это не было знаком, то чем же тогда."
   },
   {
     "key": "Was that just a coincidence? ",
@@ -482,7 +482,7 @@
   {
     "key": "She’d hurried to get the intel confirmed at once, and had quickly arranged a flight to Japan.",
     "trx": "Она поспешила немедленно подтвердить информацию и быстро организовала перелет в Японию.",
-    "val": "Она поспешила на стойку регистрации и быстро отправилась на посадку на рейс в Японию."
+    "val": "Она быстро прошла регистрацию и поспешила на посадку на рейс в Японию."
   },
   {
     "key": "Maybe she was a freelancer, not aligned with any particular organization, but she still had connections.",
@@ -642,7 +642,7 @@
   {
     "key": "The flight from Singapore to Japan was roughly seven hours.",
     "trx": "Перелет из Сингапура в Японию занял примерно семь часов.",
-    "val": "Перелет из Сингапура в Японию занимает примерно семь часов."
+    "val": "Перелет из Сингапура в Японию займет примерно семь часов."
   },
   {
     "key": "The Serpent had surely anticipated that her enemy would pursue her there.",
@@ -652,12 +652,12 @@
   {
     "key": "In all likelihood, there would be a minimal window between Canaan’s arrival in Japan and the Serpent’s plan coming to fruition.",
     "trx": "По всей вероятности, между прибытием Ханаана в Японию и осуществлением плана Змея будет минимальное время.",
-    "val": "Змея, по всей видимости, осуществит свой план вскоре после прибытия Ханаан в Японию."
+    "val": "По всей видимости, Змея осуществит свой план вскоре после прибытия Ханаан в Японию."
   },
   {
     "key": "“She really does love sinking to new lows.”",
     "trx": "“Она действительно любит опускаться до новых минимумов”.",
-    "val": "“Она действительно предпочитает опускаться все ниже.”"
+    "val": "“Ей действительно нравится опускаться все ниже.”"
   },
   {
     "key": "The Serpent wouldn’t be so clumsy as to let someone from back home in the Middle East—especially a foe like Canaan—find out about this by accident.",
@@ -672,7 +672,7 @@
   {
     "key": "It would seem she wanted to entice Canaan to risk hope, before trampling her underfoot.",
     "trx": "Похоже, она хотела побудить Ханаана рискнуть надеждой, прежде чем растоптать ее ногами.",
-    "val": "Похоже, она собиралась побудить Ханаан рисковать, прежде чем раздавить ее."
+    "val": "Похоже, она собиралась побудить Ханаан рисковать, прежде чем растоптать ее."
   },
   {
     "key": "“You won’t lay a finger on me.”",
@@ -682,7 +682,7 @@
   {
     "key": "The voice sneered at her, a backstage murmur in her mind.",
     "trx": "Голос насмехался над ней, закулисный шепот в ее голове.",
-    "val": "Голос насмехался над ней, шепот глубоко у нее в голове."
+    "val": "Голос насмехался над ней, шепча глубоко у нее в голове."
   },
   {
     "key": "She’d dealt with the enemy’s diversion, learned of the plan just in the nick of time, and rushed off to Japan without a second’s hesitation.",
@@ -692,7 +692,7 @@
   {
     "key": "Japan was where it would all be decided.",
     "trx": "Япония была тем местом, где все должно было решиться.",
-    "val": "Все должно было решиться в Японии."
+    "val": "В Японии все должно было решиться."
   },
   {
     "key": "If she didn’t do battle with the Serpent, she would lose yet another close friend.",
@@ -702,7 +702,7 @@
   {
     "key": "Had the Serpent engineered this situation simply to torment her?",
     "trx": "Неужели Змей подстроил эту ситуацию просто для того, чтобы помучить ее?",
-    "val": "Неужели Змея подстроила эту ситуацию только лишь для того, чтобы ее помучить?"
+    "val": "Неужели Змея подстроила все это только лишь для того, чтобы ее помучить?"
   },
   {
     "key": "“But things aren’t going to go how you think, this time. ",
@@ -772,12 +772,12 @@
   {
     "key": "She had obtained the intel just slightly earlier than Alphard might have anticipated, and had put speed above all else in arranging the trip to Japan.",
     "trx": "Она получила информацию чуть раньше, чем мог ожидать Альфард, и поставила скорость превыше всего при организации поездки в Японию.",
-    "val": "Она, вероятно, получила информацию чуть раньше, чем ожидала Альфард, и отправилась в Японию как можно быстрее."
+    "val": "Она, вероятно, получила информацию чуть раньше, чем ожидала Альфард, и отправилась в Японию как можно скорее."
   },
   {
     "key": "Right now, she could only hope that the single hour she’d bought herself would let her save her friend’s life.",
     "trx": "Прямо сейчас она могла только надеяться, что единственный час, который она купила себе, позволит ей спасти жизнь своей подруги.",
-    "val": "Сейчас ей оставалось лишь надеяться, что один единственный выигранный час, позволит ей спасти жизнь своей подруги."
+    "val": "Сейчас ей оставалось лишь надеяться, что один единственный выигранный час позволит ей спасти жизнь своей подруги."
   },
   {
     "key": "“Maria...” ",
@@ -787,7 +787,7 @@
   {
     "key": "A warm red flooded her mind.",
     "trx": "Теплый красный цвет затопил ее разум.",
-    "val": "Теплый красный наполнил ее разум."
+    "val": "Теплый красный цвет заполнил ее разум."
   },
   {
     "key": "They’d met two years ago.",
@@ -802,12 +802,12 @@
   {
     "key": "Canaan’s stash of her favorite snack had just run out, and it left her in an irritable mood.",
     "trx": "Запасы Ханаана с ее любимой закуской только что закончились, и это привело ее в раздражительное настроение.",
-    "val": "У Ханаан только что закончился запас ее любимой закуски, из-за чего она пребывала в раздраженном настроении."
+    "val": "У Ханаан только что закончился запас ее любимой закуски, из-за чего она пребывала в раздражении."
   },
   {
     "key": "Maybe that was why she’d stopped at the sight of the scuffle.",
     "trx": "Может быть, именно поэтому она остановилась при виде драки.",
-    "val": "Может быть поэтому она и заметила произошедшее нападение."
+    "val": "Может быть поэтому она и заметила, что произошло нападение."
   },
   {
     "key": "Not that she had any interest in helping.",
@@ -967,7 +967,7 @@
   {
     "key": "Her orders were simple: ",
     "trx": "Ее приказы были просты: ",
-    "val": "Ее приказы были просты: "
+    "val": "Отданные ей приказы были просты: "
   },
   {
     "key": "save her friend; capture the Serpent.",
@@ -1097,7 +1097,7 @@
   {
     "key": "Sundown would see the venerable old train’s service come to an end.",
     "trx": "На закате солнца служба почтенного старого поезда подошла бы к концу.",
-    "val": "На закате почтенные старые железнодорожные перевозки завершатся."
+    "val": "На закате почтенная старая железнодорожная перевозка подойдет к концу."
   },
   {
     "key": "The compartment where Canaan rode was boisterous with noise and human energy.",
@@ -1107,7 +1107,7 @@
   {
     "key": "Wind and the sound of chugging wheels rushed in together through windows with no glass.",
     "trx": "Ветер и звук пыхтящих колес врывались вместе через окна без стекол.",
-    "val": "Ветер и звук пыхтящих колес одновременно врывались через незастекленные окна."
+    "val": "Ветер и звук пыхтящих колес врывались одновременно через незастекленные окна."
   },
   {
     "key": "As the only rail service currently linking Iraq and Jordan, the new line drew passengers from all walks of life.",
@@ -1252,7 +1252,7 @@
   {
     "key": "The major powers touted peace while enforcing virtue—when they could be bothered.",
     "trx": "Крупные державы рекламировали мир, одновременно насаждая добродетель — когда их можно было побеспокоить.",
-    "val": "Крупные державы прославляли мир, одновременно насаждая добродетель — когда их это волновало."
+    "val": "Крупные державы прославляли мир, одновременно насаждая добродетель — когда это было им нужно."
   },
   {
     "key": "This railway was just one more example of their dubious policies; supposedly established to help foster “interpersonal exchange” and “economic revitalization,” it had originally been used for military transport until public travel was more useful for somebody’s agenda.",
@@ -1267,7 +1267,7 @@
   {
     "key": "“Don’t be so cynical,” her companion said. “Do you really distrust the intentions of others so much?”",
     "trx": "“Не будь такой циничной\", ” сказал ее спутник. “Ты действительно так сильно не доверяешь намерениям других?”",
-    "val": "“Не будь такой циничной,” сказал ее спутник. “Ты действительно так сильно не доверяешь намерениям других людей?”"
+    "val": "“Не будь такой циничной,” сказал ее спутник. “Ты и правда так сильно не доверяешь намерениям других людей?”"
   },
   {
     "key": "“The only one I trust is you.",
@@ -1407,7 +1407,7 @@
   {
     "key": "Harsh, yes, but it needed to be said.",
     "trx": "Грубо, да, но это нужно было сказать.",
-    "val": "Да, это грубо, но это нужно было сказать."
+    "val": "Грубо, да, но это нужно было сказать."
   },
   {
     "key": "Siam’s smile was a rare bird newly come to roost.",
@@ -1477,7 +1477,7 @@
   {
     "key": "The first was the ability she had been born with.",
     "trx": "Первой была способность, с которой она родилась.",
-    "val": "Первый раз еще при рождении, когда она получила свою способность."
+    "val": "Первый раз — еще при рождении, когда она получила свою способность."
   },
   {
     "key": "The second was that she’d met someone who taught her how to foster that ability.",
@@ -1557,7 +1557,7 @@
   {
     "key": "Siam was a mercenary who had been hired by those would-be liberators, but he paid no heed to the ideologies of either side.",
     "trx": "Сиам был наемником, которого наняли эти потенциальные освободители, но он не обращал внимания на идеологию ни одной из сторон.",
-    "val": "Сиам был наемником, которого наняли эти якобы освободители, но не интересовала идеология ни одной из сторон."
+    "val": "Сиам был наемником, которого наняли эти якобы освободители, но его не интересовала идеология ни одной из сторон."
   },
   {
     "key": "He was a soldier who lived to fight, knowing he was unlikely to see the conflict’s end during his lifetime.",
@@ -1692,17 +1692,17 @@
   {
     "key": "“So if this train is the transport, the objective must be something big, right?”",
     "trx": "“Итак, если этот поезд и есть транспорт, то цель должна быть чем-то большим, верно?”",
-    "val": "“Итак, если этот поезд является транспортом, то целью должно быть чем-то большое, верно?”"
+    "val": "“Итак, если этот поезд является транспортом, то целью должно быть что-то большое, верно?”"
   },
   {
     "key": "“No. What we’re after is apparently small enough to be carried on one’s person. ",
     "trx": "\"Нет. То, что нам нужно, очевидно, достаточно мало, чтобы его можно было носить на себе. ",
-    "val": "“Нет. То, что нам нужно, должно быть достаточно маленьким для того, чтобы его можно было носить на себе. "
+    "val": "“Нет. То, что нам нужно, должно быть достаточно маленьким для того, чтобы его мог нести один человек. "
   },
   {
     "key": "We’re not authorized to look at the contents. The first task is simply to confirm whether it’s really on board or not.”",
     "trx": "Мы не уполномочены просматривать содержимое. Первая задача - просто подтвердить, действительно ли он на борту или нет\".",
-    "val": "Мы не уполномочены осматривать содержимое. Первая задача — просто подтвердить, действительно ли это на борту или нет.”"
+    "val": "Мы не уполномочены осматривать содержимое. Первая задача — просто подтвердить, действительно ли это находится на борту или нет.”"
   },
   {
     "key": "“Well in that case the job’s done. We’ve both been looking around and I think it’s pretty clear. ",
@@ -2012,7 +2012,7 @@
   {
     "key": "“They’re soldiers disguised as passengers, and if they’re here with the freight car, it won’t be an issue. The contents of those cars will tell us if they’re Israeli soldiers or not.”",
     "trx": "“Это солдаты, переодетые пассажирами, и если они здесь с грузовым вагоном, это не будет проблемой. Содержимое этих машин скажет нам, являются ли они израильскими солдатами или нет”.",
-    "val": "“Это солдаты, переодетые пассажирами, и если грузовой вагон сопровождают они, это не будет проблемой. Содержимое этих вагонов подскажет нам, являются ли они израильскими солдатами или нет.”"
+    "val": "“Это солдаты, замаскированные под пассажиров, и если грузовой вагон сопровождают они, это не будет проблемой. Содержимое этих вагонов подскажет нам, являются ли они израильскими солдатами или нет.”"
   },
   {
     "key": "“I see. So all we know right now is that they’re not on to us? ",
@@ -2022,7 +2022,7 @@
   {
     "key": "It looks like they’ve decided that everything’s safe.”",
     "trx": "Похоже, они решили, что все в безопасности.”",
-    "val": "Похоже, они решили, что все в безопасности.”"
+    "val": "Похоже, они решили, что все безопасно.”"
   },
   {
     "key": "“Our only stroke of luck so far.”",
@@ -2112,7 +2112,7 @@
   {
     "key": " messed up in assigning this mission, Siam. This isn’t a job for two people. Given how black things are, we should just destroy the whole payload.  We should have planted some ",
     "trx": " напортачил с назначением этой миссии, Сиам. Это работа не для двоих. Учитывая, насколько все мрачно, мы должны просто уничтожить весь груз.  Мы должны были посадить немного ",
-    "val": " облажался, поручив нам эту миссию, Сиам. Это работа не для двоих. Учитывая, насколько все мрачно, мы нам бы следовало просто уничтожить весь груз. Нам нужно было установить несколько "
+    "val": " облажался, поручив нам эту миссию, Сиам. Это работа не для двоих. Учитывая, насколько все мрачно, нам бы следовало просто уничтожить весь груз. Нам нужно было установить несколько "
   },
   {
     "key": "Semtex",
@@ -2127,7 +2127,7 @@
   {
     "key": "“That would be dramatic, but effective. If annihilation was our job, I’d have leaned that way, too.”",
     "trx": "“Это было бы драматично, но эффективно. Если бы уничтожение было нашей работой, я бы тоже склонялся в ту сторону.”",
-    "val": "“Это было бы мощно, но эффективно. Если бы нашей работой было уничтожение, я бы тоже склонялся в эту сторону.”"
+    "val": "“Это было бы мощно, но эффективно. Если бы нашей работой было уничтожение, я бы тоже склонялся к этому.”"
   },
   {
     "key": "They had checked the cars pretty thoroughly before they departed.",
@@ -2267,7 +2267,7 @@
   {
     "key": "“Canaan, come sit next to me. This is one of our employers, the one who provided our intel. She’s an old friend of mine.”",
     "trx": "“Ханаан, иди, сядь рядом со мной. Это один из наших работодателей, тот, кто предоставил нам информацию. Она моя старая подруга.”",
-    "val": "“Ханаан, иди, сядь рядом со мной. Это одна из наших работодателей, та, кто предоставила нам информацию. Она моя старая подруга.”"
+    "val": "“Ханаан, давай, сядь рядом со мной. Это одна из наших работодателей, это она предоставила нам информацию. Она моя старая подруга.”"
   },
   {
     "key": "Canaan said nothing.",
@@ -2282,7 +2282,7 @@
   {
     "key": "She’d do as he asked, although she didn’t trust this woman.",
     "trx": "Она сделает так, как он просит, хотя и не доверяла этой женщине.",
-    "val": "Она сделала, как он просит, хотя и не доверяла этой женщине."
+    "val": "Она сделала, как он просил, хотя и не доверяла этой женщине."
   },
   {
     "key": "She didn’t like the way he’d said ‘old friend’; it brought up all her natural cynicism.",
@@ -2372,7 +2372,7 @@
   {
     "key": "Canaan did not reply.",
     "trx": "Ханаан не ответил.",
-    "val": "Ханаан не ответил."
+    "val": "Ханаан не ответила."
   },
   {
     "key": "“The silent treatment, huh? Hey, Siam. Which is it?”",
@@ -2402,7 +2402,7 @@
   {
     "key": "This stranger could read Siam’s silence better than anyone—better than his own partner.",
     "trx": "Этот незнакомец мог прочитать молчание Сиама лучше, чем кто—либо другой - лучше, чем его собственный партнер.",
-    "val": "Эта незнакомка могла прочитать молчание Сиама лучше, чем кто—либо другой — лучше, чем его собственный партнер."
+    "val": "Эта незнакомка могла прочитать молчание Сиама лучше, чем кто-либо другой — лучше, чем его собственный партнер."
   },
   {
     "key": "The woman’s stoic face grew just a shade brighter.",
@@ -2727,7 +2727,7 @@
   {
     "key": "It is simply a tale of sorrow giving way to resentment giving way to cold reason.",
     "trx": "Это просто рассказ о печали, уступающей место негодованию, уступающему место холодному разуму.",
-    "val": "Это простая история о печали, сменяющейся негодованием, которое в свою очередь сменяется на холодный расчет."
+    "val": "Это простая история о печали, сменяющейся негодованием, которое в свою очередь сменяется холодным расчетом."
   },
   {
     "key": "Was it odd that I never felt malice?",
@@ -2792,7 +2792,7 @@
   {
     "key": "sheiks",
     "trx": "шейхи",
-    "val": "шейхи"
+    "val": "шейхами"
   },
   {
     "key": ".",
@@ -3047,7 +3047,7 @@
   {
     "key": "I say this not out of any excess pride or self-confidence, but I was measurably the best of the soldiers other than Siam himself.",
     "trx": "Я говорю это не из-за чрезмерной гордости или самоуверенности, но я был, несомненно, лучшим из солдат, кроме самого Сиама.",
-    "val": "Не то, чтобы я был слишком самоуверенной или гордилась собой, но я, несомненно, была лучшим из солдат за исключением самого Сиама."
+    "val": "Не то, чтобы я была слишком самоуверенной или гордилась собой, но я, несомненно, была лучшим из солдат за исключением самого Сиама."
   },
   {
     "key": "After that, Siam and I began working jobs together.",
@@ -3137,12 +3137,12 @@
   {
     "key": "I could only make such small talk once his time as my protector had come to an end.",
     "trx": "Я мог вести такую светскую беседу только после того, как его время в качестве моего защитника подошло к концу.",
-    "val": "О таком я могла с ним побеседовать только после того, как его время в качестве моего защитника подошло к концу."
+    "val": "О таком я могла с ним побеседовать только после того, как его время в качестве моего защитника подошло бы к концу."
   },
   {
     "key": "And even then—up until this very moment—there’d never been a good time to ask.",
     "trx": "И даже тогда — вплоть до этого самого момента — никогда не было подходящего времени спросить.",
-    "val": "И даже тогда — вплоть до настоящего момента — никогда не было подходящего времени спросить."
+    "val": "Но даже тогда — вплоть до настоящего момента — никогда не было подходящего времени спросить."
   },
   {
     "key": "I had just wound up believing that Siam would never die—",
@@ -3152,7 +3152,7 @@
   {
     "key": "that no matter how many times people opened fire on him, he simply wouldn’t get hit where it really mattered.",
     "trx": "что независимо от того, сколько раз люди открывали по нему огонь, он просто не попадал туда, где это действительно имело значение.",
-    "val": "что сколько бы раз в него не стреляли, никто просто не мог попасть туда, куда действительно было опасно."
+    "val": "что сколько бы раз в него не стреляли, никто просто не мог попасть туда, куда это действительно было опасно."
   },
   {
     "key": "That was all probably a delusion on my part, of course, but the fact was that he just ",
@@ -3232,7 +3232,7 @@
   {
     "key": "On the battlefield, individual gear and skills can only carry a soldier so far. Death comes for us all, equally. My turn could be next; after that might it be you—you know? ",
     "trx": "На поле боя индивидуальное снаряжение и навыки могут нести солдата только до сих пор. Смерть приходит за всеми нами в равной степени. Моя очередь может быть следующей; после этого может быть ты — ты знаешь? ",
-    "val": "На поле боя солдат может положиться только на свое снаряжение и навыки. Смерть когда-нибудь придет за всеми нами. Может быть я в этой очереди следующий; а после меня можешь быть и ты, знаешь ли? "
+    "val": "На поле боя солдат может положиться только на свое снаряжение и навыки. Смерть когда-нибудь придет за всеми нами. Может быть я в этой очереди следующий; а следующей после меня можешь быть и ты, знаешь ли? "
   },
   {
     "key": "But in the midst of that sort of deadly equality there are monsters who can overturn the balance.”",
@@ -3317,7 +3317,7 @@
   {
     "key": "Experts who could fan the hammer, unloading five shots at a target in the span of a single second.",
     "trx": "Эксперты, которые могли бы размахивать молотком, производя пять выстрелов в цель за одну секунду.",
-    "val": "Эксперты, которые могли вращать молот, попадая в цель по пять раз за секунду."
+    "val": "Эксперты, которые так быстро нажимали на курок, что могли выстрелить в цель пять раз за одну секунду."
   },
   {
     "key": "Of course, simple rapid-fire alone wasn’t worth fearing; it had to be accompanied by the skill to put it on target.",
@@ -3327,7 +3327,7 @@
   {
     "key": "Siam had probably just been trying to offer an explicit example of a time when exceptional human skill could surpass the capabilities of the available hardware.",
     "trx": "Siam, вероятно, просто пытался предложить наглядный пример того времени, когда исключительное человеческое мастерство могло превзойти возможности доступного оборудования.",
-    "val": "Сиам, вероятно, пытался привести наглядный пример из тех времен, когда исключительное человеческое мастерство могло превзойти возможности доступного оборудования."
+    "val": "Сиам, вероятно, пытался привести наглядный пример того, как исключительное человеческое мастерство могло превзойти возможности доступного оборудования."
   },
   {
     "key": "It had all seemed too fantastical, but he had been dead serious.",
@@ -3357,7 +3357,7 @@
   {
     "key": "Soldiers far outside the norm, who can accomplish things no single soldier should be able to. When you meet an enemy like that, it’s like staring down a storm.”",
     "trx": "Солдаты, далеко выходящие за рамки нормы, которые могут делать то, на что не должен быть способен ни один солдат. Когда ты встречаешься с таким врагом, это все равно, что смотреть в шторм.”",
-    "val": "Солдаты, далеко выходящие за рамки нормы, которые могут делать то, на что, казалось, не способен ни один солдат. Когда ты встречаешься с таким врагом, это все равно, что попасть в шторм.”"
+    "val": "Солдаты, далеко выходящие за рамки нормы, которые могут делать то, на что, казалось, не способен ни один солдат. Когда ты встречаешься с таким врагом, это все равно, что оказаться посреди шторма.”"
   },
   {
     "key": "Still, even according to Siam, such supermen could only deal with three or four opponents within any given moment.",
@@ -3367,7 +3367,7 @@
   {
     "key": "So, assuming you had five or more to attack them in that moment, there’d be no problem taking them down.",
     "trx": "Так что, если предположить, что у вас было пятеро или больше, чтобы напасть на них в тот момент, не было бы никаких проблем с их уничтожением.",
-    "val": "Так что, если предположить, что в такой момент вы можете на напасть на них впятером, не было бы никаких проблем с их уничтожением."
+    "val": "Так что, если напасть на них по крайней мере впятером, не было бы никаких проблем с их уничтожением."
   },
   {
     "key": "I was relieved.",
@@ -3422,7 +3422,7 @@
   {
     "key": "It was an achievement to be proud of, to be seen as his sole peer as a combatant—perhaps even his better.",
     "trx": "Это было достижение, которым можно было гордиться, быть замеченным как его единственный ровесник в качестве бойца — возможно, даже лучше его.",
-    "val": "Таким достижением можно было гордиться — когда он считает тебя единственным равным ему бойцом, а возможно, даже лучше его."
+    "val": "Таким достижением можно было гордиться — когда он считает тебя единственным равным ему бойцом, а возможно, даже лучшим, чем он."
   },
   {
     "key": "More than anything, the esteem I held for Siam was a reflection of the esteem he showed me.",
@@ -3452,7 +3452,7 @@
   {
     "key": "Introductions were a simple affair.",
     "trx": "Знакомство было простым делом.",
-    "val": "Знакомство было простым делом."
+    "val": "Знакомство произошло просто."
   },
   {
     "key": "Siam had no need to give his name, ",
@@ -3467,12 +3467,12 @@
   {
     "key": " and the woman seemed satisfied with what she knew of the other two.",
     "trx": " и женщина, казалось, была удовлетворена тем, что знала о двух других.",
-    "val": "а женщина, казалось, была удовлетворена тем, что узнала о них двоих."
+    "val": "а женщина, казалось, была удовлетворена тем, что знала о них двоих."
   },
   {
     "key": "“Shall I just call you Siam and ‘young lady,’ then?” the newcomer asked.",
     "trx": "“Тогда мне просто называть вас Сиам и ”юная леди\"?\" - спросил новоприбывший.",
-    "val": "“Значит, мне просто называть вас Сиам и ‘юная леди’?” спросила новоприбывшая."
+    "val": "“Значит, мне просто называть вас Сиам и ‘юная леди?’” спросила новоприбывшая."
   },
   {
     "key": "Siam shrugged. “If you’re okay with that. What name are ",
@@ -3492,7 +3492,7 @@
   {
     "key": "“Hm? Ah, yes, I suppose we’ll need to that to coordinate. How does ‘Canaan’ work?”",
     "trx": "“Хм? Ах, да, я полагаю, нам это понадобится для координации. Как работает ”Ханаан\"?\"",
-    "val": "“Что? Ах, да, я полагаю, имя понадобится нам для координации. Может, ‘Ханаан’?”"
+    "val": "“Что? Ах, да, я полагаю, имя понадобится нам для координации. Может, ‘Ханаан?’”"
   },
   {
     "key": "Canaan couldn’t suppress a sound of irritation.",
@@ -3537,7 +3537,7 @@
   {
     "key": "Sadaqah explained how the job would unfold.",
     "trx": "Садака объяснил, как будет разворачиваться работа.",
-    "val": "Садака объяснила, как будет происходить работа."
+    "val": "Садака объяснила, что они будут делать."
   },
   {
     "key": "They’d wait until the train had traveled for an hour beyond the border before moving against their objective.",
@@ -3567,7 +3567,7 @@
   {
     "key": "“Our objective is in the freight car, number three,” Sadaqah explained. “Seven guards apiece are stationed in cars two and four to either side. It looks like two of the guards from car four leave to patrol the back end of the train at set intervals—",
     "trx": "“Наша цель - в грузовом вагоне номер три”, - объяснил Садака. “По семь охранников на каждого размещены во второй и четвертой машинах с каждой стороны. Похоже, двое охранников из четвертого вагона отправляются патрулировать заднюю часть поезда через определенные промежутки времени—",
-    "val": "“Наша цель — в грузовом вагоне номер три,” объяснила Садака. “По семь охранников размещены во втором и четвертом вагонах, с каждой стороны от грузового вагона. Похоже, двое охранников из четвертого вагона через определенные промежутки времени отправляются патрулировать заднюю часть поезда — "
+    "val": "“Наша цель — в грузовом вагоне номер три,” объяснила Садака. “По семь охранников размещены во втором и четвертом вагонах, с каждой стороны от грузового. Похоже, двое охранников из четвертого вагона через определенные промежутки времени отправляются патрулировать заднюю часть поезда — "
   },
   {
     "key": "and speak of the devil.”",
@@ -3647,7 +3647,7 @@
   {
     "key": "“The last car on the train is also a freight car, but everything in there is ordinary goods. If worse comes to worst, we could conceivably hole ourselves up in there,” Sadaqah said. ",
     "trx": "“Последний вагон в поезде тоже грузовой, но все, что там находится, - обычные товары. Если случится худшее, мы, возможно, сможем спрятаться там”, - сказал Садака. ",
-    "val": "“Последний вагон в поезде тоже грузовой, в нем всего лишь обычные товары. Если случится худшее, мы, возможно, сможем спрятаться там,” сказала Садака. "
+    "val": "“Последний вагон в поезде тоже грузовой, но в нем всего лишь обычные товары. Если случится худшее, мы, возможно, сможем спрятаться там,” сказала Садака. "
   },
   {
     "key": "“Of course, if someone were to toss in a tear gas grenade or something, we’d be done for.”",
@@ -3722,7 +3722,7 @@
   {
     "key": "If it turned out that they needed to take the payload by force, they’d been given permission to initiate combat.",
     "trx": "Если бы оказалось, что им нужно было забрать груз силой, им было бы дано разрешение начать бой.",
-    "val": "Если придется забирать груз силой, им было бы разрешено начать бой."
+    "val": "Если придется забирать груз силой, им было разрешено начать бой."
   },
   {
     "key": "Violence was definitely on the table.",
@@ -3787,7 +3787,7 @@
   {
     "key": "“Don’t be like that. She’s an expert at what she does. This’ll be a good experience for you.”",
     "trx": "“Не будь таким. Она эксперт в том, что делает. Это будет хорошим опытом для тебя\".",
-    "val": "“Не будь такой. Она эксперт в том, что делает. Для тебя это будет хорошим опытом.”"
+    "val": "“Не говори так. Она эксперт в том, что делает. Для тебя это будет хорошим опытом.”"
   },
   {
     "key": "“How not like you, Siam,” Sadaqah said. ",
@@ -3807,7 +3807,7 @@
   {
     "key": "Why, is that the sort of story that’s been going around?”",
     "trx": "А что, это такая история, которая ходит вокруг да около?”",
-    "val": "Так что, это, значит, обо мне говорят?”"
+    "val": "А что, вот так, значит, обо мне говорят?”"
   },
   {
     "key": "“No. We’d just heard that you’d picked up some extremely capable individual named Canaan. ",
@@ -3832,7 +3832,7 @@
   {
     "key": " was our sponsor,” Canaan replied. “Not that we’ve seen much of you over the past two years.”",
     "trx": " был нашим спонсором, - ответил Ханаан. “Не то чтобы мы часто виделись с вами за последние два года”.",
-    "val": ", окажется нашим спонсором,” ответила Ханаан. “Не то чтобы мы часто виделись с вами за последние два года.”"
+    "val": ", окажется нашим спонсором,” ответила Ханаан. “Не то чтобы мы часто виделись с тобой за последние два года.”"
   },
   {
     "key": "“You’ve got the wrong idea. I’m only one of many of your supporters. I’m not a mentor. I don’t have the time to play an individual part in every little scuffle.”",
@@ -3872,7 +3872,7 @@
   {
     "key": "“What do you mean by ‘another matter,’ Sadaqah?” Siam asked. “Were you here because there was some problem?”",
     "trx": "“Что ты подразумеваешь под ”другим вопросом\", Садака?\" - спросила Сиам. “Вы были здесь, потому что возникла какая-то проблема?”",
-    "val": "“Что ты подразумеваешь под ‘другим делом,’ Садака?” спросил Сиам. “Ты здесь, потому что возникла какая-то проблема?”"
+    "val": "“Что ты подразумеваешь под ‘другим делом,’ Садака?” спросил Сиам. “Ты здесь потому, что возникла какая-то проблема?”"
   },
   {
     "key": "“Oho?” Canaan was intrigued.",
@@ -3887,7 +3887,7 @@
   {
     "key": "Had he twigged something that might affect the mission?",
     "trx": "Неужели он натворил что-то такое, что могло повлиять на выполнение миссии?",
-    "val": "Неужели он натворил что-то такое, что могло повлиять на выполнение миссии?"
+    "val": "Понял ли он что-то такое, что могло иметь отношение к миссии?"
   },
   {
     "key": "Whatever the case, Sadaqah smiled pleasantly.",
@@ -3902,7 +3902,7 @@
   {
     "key": "I’ve been looking into the personnel involved, along with a flaw in a weapon. ",
     "trx": "Я изучал задействованный персонал, а также недостатки в оружии. ",
-    "val": "Я изучала задействованный персонал, а также недостатки в оружии. "
+    "val": "Я изучала задействованный персонал, а также недостатки оружия. "
   },
   {
     "key": "Here’s an example: how would you feel if you were dealing with a gun that you expected to be quite lethal, but which an observer claimed had no effect whatsoever?”",
@@ -4247,7 +4247,7 @@
   {
     "key": "Both of them had dressed for maximum freedom of movement.",
     "trx": "Оба они были одеты так, чтобы обеспечить максимальную свободу движений.",
-    "val": "Они были одеты так, чтобы обеспечить максимальную свободу движений."
+    "val": "Они были одеты так, чтобы обеспечить себе максимальную свободу движений."
   },
   {
     "key": "“No problems with the infiltration route,” Sadaqah reported. “We’re on the move.”",
@@ -4267,7 +4267,7 @@
   {
     "key": "The call cut out.",
     "trx": "Звонок прервался.",
-    "val": "Вызов прервался."
+    "val": "Вызов завершился."
   },
   {
     "key": "From here on, the team would retain radio silence except in cases of emergency.",
@@ -4287,7 +4287,7 @@
   {
     "key": "It would make him obvious, but that would at least draw the guards’ attention onto him for a time.",
     "trx": "Это сделало бы его очевидным, но это, по крайней мере, привлекло бы к нему внимание охранников на какое-то время.",
-    "val": "Так он бы себя выдал, но это, по крайней мере, на какое-то время переключило бы внимание охранников на него."
+    "val": "Так бы он себя выдал, но это, по крайней мере, на какое-то время переключило бы внимание охранников на него."
   },
   {
     "key": "He had no intention of trying to get into the freight car itself, of course.",
@@ -4332,12 +4332,12 @@
   {
     "key": "If the thing they were protecting was what Siam thought it was, these guards would be good. Any unusual action he took would provoke them, and only heighten their alertness.",
     "trx": "Если бы то, что они защищали, было тем, чем думал Сиам, эти охранники были бы хороши. Любое необычное действие, которое он предпримет, спровоцирует их и только усилит их бдительность.",
-    "val": "Если то, что они защищали, было тем, чем думал Сиам, это должны были быть подготовленные охранники. Любое необычное действие, которое он предпримет, спровоцирует их и только усилит их бдительность."
+    "val": "Если то, что они защищали, было тем, чем думал Сиам, это должны быть подготовленные охранники. Любое необычное действие, которое он предпримет, спровоцирует их и только усилит их бдительность."
   },
   {
     "key": "He didn’t want to do anything to complicate things for the girls.",
     "trx": "Он не хотел делать ничего, что могло бы усложнить жизнь девочкам.",
-    "val": "Он не хотел делать ничего, что могло бы усложнить ситуацию девушкам."
+    "val": "Он не хотел делать ничего, что могло бы усложнить девушкам ситуацию."
   },
   {
     "key": "He decided that his best course of action was just to stay ready in case things went bottoms-up.",
@@ -4372,7 +4372,7 @@
   {
     "key": "‘Those who are willing to rise above themselves can overcome any stroke of luck.’ß",
     "trx": "\"Те, кто готов подняться над собой, могут преодолеть любую удачу\".",
-    "val": "‘Тот, кто готов подняться над собой, может преодолеть любую удачу.’ß"
+    "val": "‘Тот, кто готов подняться над собой, может преодолеть любую удачу.’"
   },
   {
     "key": "He was reminded of a story he’d been told as a student, a fable involving a board game.",
@@ -4442,7 +4442,7 @@
   {
     "key": "To seek proof that you’d lived by achieving some hypothetical endpoint—that was a fool’s game.",
     "trx": "Искать доказательства того, что вы жили, достигнув какой—то гипотетической конечной точки, - это была дурацкая игра.",
-    "val": "Доказать, что ты жил, достигнув какой—то гипотетической конечной точки — это глупая игра."
+    "val": "Доказать, что ты жил, достигнув какой-то гипотетической конечной точки — это глупая игра."
   },
   {
     "key": "Siam’s ability to live without hunting for such proofs was one of the very few things on which he prided himself as a mercenary.",
@@ -4457,7 +4457,7 @@
   {
     "key": "Until now, he had been a lone soldier, put to use however his employers deemed necessary.",
     "trx": "До сих пор он был солдатом-одиночкой, которого использовали так, как считали нужным его работодатели.",
-    "val": "До сих пор он был солдатом-одиночкой, которого использовали так, как считали нужным его работодатели."
+    "val": "До сих пор он был солдатом-одиночкой, которого его работодатели использовали так, как считали нужным."
   },
   {
     "key": "He held no tenets, no opinions.",
@@ -4467,12 +4467,12 @@
   {
     "key": "He acknowledged that he was an instrument of war.",
     "trx": "Он признал, что был орудием войны.",
-    "val": "Он признал, что был орудием войны."
+    "val": "Он признавал, что был орудием войны."
   },
   {
     "key": "He acknowledged that this was an age where such instruments were necessary.",
     "trx": "Он признал, что в наше время такие инструменты необходимы.",
-    "val": "Он признал, что в наше время такие инструменты необходимы."
+    "val": "Он признавал, что в наше время такие инструменты необходимы."
   },
   {
     "key": "How many battlefields had he passed through?",
@@ -4492,7 +4492,7 @@
   {
     "key": "and those who would try to end it, ",
     "trx": "и те, кто попытается положить этому конец, ",
-    "val": "и те, кто попытается положить ей конец, "
+    "val": "и те, кто пытался положить ей конец, "
   },
   {
     "key": "and tools were necessary for both of those ends.",
@@ -4547,7 +4547,7 @@
   {
     "key": "A gulf of time for him to fill with his own rusting memories.",
     "trx": "Пропасть времени, которую он мог бы заполнить своими собственными ржавыми воспоминаниями.",
-    "val": "Пропасть времени, которую он мог бы заполнить своими собственными ржавеющими воспоминаниями."
+    "val": "Пропасть времени, которую он мог бы заполнить своими собственными ржавыми воспоминаниями."
   },
   {
     "key": "He had been born into an age of enduring conflict.",
@@ -4697,12 +4697,12 @@
   {
     "key": "A new name—",
     "trx": "Новое имя—",
-    "val": "Новое имя — "
+    "val": "Новое имя—"
   },
   {
     "key": "and when he accepted this new moniker, something that represented something other than himself, he had ceased to be the young man who’d sacrificed himself for his ideals.",
     "trx": "и когда он принял это новое прозвище, которое олицетворяло нечто иное, чем он сам, он перестал быть тем молодым человеком, который пожертвовал собой ради своих идеалов.",
-    "val": "когда он принял это новое прозвище, которое олицетворяло нечто иное, чем он сам, он перестал быть тем молодым человеком, который пожертвовал собой ради своих идеалов."
+    "val": "и когда он принял это новое прозвище, которое олицетворяло нечто иное, чем он сам, он перестал быть тем молодым человеком, который пожертвовал собой ради своих идеалов."
   },
   {
     "key": "At the request of some former acquaintances, he’d returned to the PLO in 1990.",
@@ -4757,7 +4757,7 @@
   {
     "key": "Eventually he had seen so much that he no longer felt the evil, ",
     "trx": "В конце концов он увидел так много, что больше не чувствовал зла, ",
-    "val": "В конце концов повидал так много, что больше не чувствовал зла, "
+    "val": "В конце концов он повидал так много, что больше не чувствовал зла, "
   },
   {
     "key": "and then, he no longer even felt the justice.",
@@ -4922,7 +4922,7 @@
   {
     "key": "In order for her to live, she would need to be reborn as a soldier.",
     "trx": "Чтобы она могла жить, ей нужно было бы переродиться в солдата.",
-    "val": "Чтобы она могла жить, ей нужно было бы переродиться в солдата."
+    "val": "Чтобы она могла жить, ей нужно было переродиться в солдата."
   },
   {
     "key": "“There probably isn’t anyone around with the patience to train a complete novice. ",
@@ -4977,7 +4977,7 @@
   {
     "key": "She called the sun “blue.”",
     "trx": "Она назвала солнце “голубым”.",
-    "val": "Она назвала солнце “синим.”"
+    "val": "Она называла солнце “синим.”"
   },
   {
     "key": "At first, Siam figured that she’d simply been taught the word ‘blue’ to refer to what most people acknowledged as ‘yellow.’",
@@ -5017,7 +5017,7 @@
   {
     "key": "She was still able to distinguish the color yellow from the color blue the same as anyone else.",
     "trx": "Она все еще могла отличать желтый цвет от синего, как и все остальные.",
-    "val": "Тем не менее, она желтый цвет от синего, как и все остальные."
+    "val": "Тем не менее, она отличала желтый цвет от синего, как и все остальные."
   },
   {
     "key": "But she had a very peculiar condition—very rare, but known to humankind for centuries:",
@@ -5197,7 +5197,7 @@
   {
     "key": " get into a gunfight, make sure the other guy never gets back up again.”",
     "trx": " ввяжись в перестрелку, убедись, что другой парень больше никогда не встанет на ноги.”",
-    "val": " в перестрелку, сделай всё, что твой оппонент больше никогда не встал на ноги.”"
+    "val": " в перестрелку, сделай всё, чтобы твой оппонент больше никогда не встал на ноги.”"
   },
   {
     "key": "She wanted it, that much was clear.",
@@ -5242,7 +5242,7 @@
   {
     "key": "Siam had to admit that she improved each and every day.",
     "trx": "Сиам должна была признать, что она совершенствовалась с каждым днем.",
-    "val": "Сиам должен была признать, что она совершенствовалась с каждым днем."
+    "val": "Сиам должен был признать, что она совершенствовалась с каждым днем."
   },
   {
     "key": "The almost daily change of pace was good for him, too, as a teacher.",
@@ -5292,7 +5292,7 @@
   {
     "key": "Don’t become a machine, stuck repeating the same motions. Take the easy way out—give yourself over to hatred—and you’ll die inside.”",
     "trx": "Не становитесь машиной, застрявшей в повторении одних и тех же движений. Выбери легкий путь — отдайся ненависти — и ты умрешь внутри\".",
-    "val": "Не становитесь машиной, застрявшей на повторении одних и тех же движений. Если выберешь легкий путь — отдашься своей ненависти — ты умрешь внутри.”"
+    "val": "Не становись машиной, застрявшей на повторении одних и тех же движений. Если выберешь легкий путь — отдашься своей ненависти — ты умрешь внутри.”"
   },
   {
     "key": "Maybe there were no more physical skills to teach her.",
@@ -5332,7 +5332,7 @@
   {
     "key": "And so he told her to harden her heart into something that could not be broken.",
     "trx": "И поэтому он сказал ей, чтобы она ожесточила свое сердце до такой степени, чтобы его нельзя было разбить.",
-    "val": "И поэтому он сказал ей, чтобы она укрепила свое сердце до такой степени, чтобы его нельзя было сломать."
+    "val": "И поэтому он сказал ей, чтобы она укрепила свое сердце так, чтобы его нельзя было сломать."
   },
   {
     "key": "He only hoped it was enough. ",
@@ -5342,7 +5342,7 @@
   {
     "key": "Even steel wore away over time, bit by bit.",
     "trx": "Даже сталь со временем постепенно изнашивалась.",
-    "val": "Даже сталь со временем постепенно изнашивалась."
+    "val": "Даже сталь со временем постепенно изнашивается."
   },
   {
     "key": "A year had passed since then.",
@@ -5467,7 +5467,7 @@
   {
     "key": "“If this doesn’t suit you, I guess you’ll just have to play King Kong next. You like the Empire State Building, yeah?”",
     "trx": "“Если это тебя не устраивает, я думаю, тебе просто придется поиграть в Кинг-Конга дальше. Тебе нравится Эмпайр Стейт Билдинг, да?”",
-    "val": "“Если тебя это не устраивает, я думаю, тебе дальше тебе нужно будет поиграть в Кинг-Конга. Тебе нравится Эмпайр-стейт-билдинг, а?”"
+    "val": "“Если тебя это не устраивает, я думаю, дальше тебе нужно будет поиграть в Кинг-Конга. Тебе нравится Эмпайр-стейт-билдинг, а?”"
   },
   {
     "key": "“I don’t know what you’re talking about,” Canaan said, “but you’re making fun of me, aren’t you?”",
@@ -5482,7 +5482,7 @@
   {
     "key": "Normal small talk is just a bother, but when you can mouth off in a situation like this, you’ll never be bored.”",
     "trx": "Обычная светская беседа - это просто досадно, но когда ты можешь высказаться в такой ситуации, как эта, тебе никогда не будет скучно”.",
-    "val": "Обычная светская беседа не всегда приятна, но когда можно поболтать в такой ситуации, как эта, скучно уж точно не будет.”"
+    "val": "Легкая беседа обычно отвлекает, но в такой ситуации болтать никогда не скучно.”"
   },
   {
     "key": "“Hmph.”",
@@ -5502,12 +5502,12 @@
   {
     "key": "The doors to the freight car were shut with combination locks.",
     "trx": "Двери грузового вагона были закрыты на кодовые замки.",
-    "val": "Двери грузового вагона были заперты на кодовые замки."
+    "val": "Дверь грузового вагона была заперта на кодовый замок."
   },
   {
     "key": "It seemed like an outdated technology for protecting the classified material the car was carrying; evidently the enemy had been forced to make use of what they had available.",
     "trx": "Это казалось устаревшей технологией защиты секретных материалов, которые перевозила машина; очевидно, враг был вынужден использовать то, что у них было в наличии.",
-    "val": "Это казалось слишком старой технологией для защиты секретных материалов, перевозящихся в этом вагоне; очевидно, враги был вынуждены использовать то, что было у них в наличии."
+    "val": "Это казалось слишком старой технологией для защиты секретных материалов, перевозящихся в этом вагоне; очевидно, враги были вынуждены использовать то, что было у них в наличии."
   },
   {
     "key": "Sadaqah quickly punched in a numerical sequence, and the lock opened.",
@@ -5557,7 +5557,7 @@
   {
     "key": "“Can you see it through the observation window?” Sadaqah said. “That’s what we’re after, in that case there. The object itself is small. It was made at ",
     "trx": "“Вы можете увидеть это через смотровое окно?” Сказала Садака. “В таком случае, это то, что нам нужно. Сам объект невелик. Это было сделано в ",
-    "val": "“Видишь его через смотровое окно?” спросила Садака. “В таком случае, это то, что нам нужно. Сам объект небольшой. Он был произведен в "
+    "val": "“Видишь его через смотровое окно?” спросила Садака. “То, что нам нужно, находится в том дипломате. Сам объект небольшой. Он был произведен в "
   },
   {
     "key": "Fort Detrick",
@@ -5577,7 +5577,7 @@
   {
     "key": "“Hmm,” Canaan mused. “So we just bust the door down and smash open the case?”",
     "trx": "“Хм\", ” задумчиво произнес Ханаан. “Значит, мы просто выломаем дверь и разобьем чемодан?”",
-    "val": "“Хм,” задумчиво произнес Ханаан. “Значит, мы просто выломаем дверь и вскроем дипломат?”"
+    "val": "“Хм,” задумчиво произнесла Ханаан. “Значит, мы просто выломаем дверь и вскроем дипломат?”"
   },
   {
     "key": "“I was advised not to break anything. ",
@@ -5602,7 +5602,7 @@
   {
     "key": " area of expertise.”",
     "trx": " область знаний\".",
-    "val": " области знаний.”"
+    "val": " компетенции.”"
   },
   {
     "key": "“You can work that console?”",
@@ -5617,7 +5617,7 @@
   {
     "key": "“Talk about a headache. Look at all these exposed cables? Is this someone’s idea of a joke? I was looking forward to a challenge but this, this is low-budget Internet café level.”",
     "trx": "“Поговорим о головной боли. Посмотрите на все эти оголенные кабели? Это чья-то идея пошутить? Я с нетерпением ждал вызова, но это, это уровень малобюджетного интернет-кафе\".",
-    "val": "“Ничего себе. Видишь все эти оголенные кабели? Кто-то хотел так пошутить? Я с нетерпением ждала вызова, но вот это всё — это уровень низкобюджетного интернет-кафе.”"
+    "val": "“Ничего себе. Видишь все эти оголенные кабели? Кто-то хотел так пошутить? Я с нетерпением ждала вызова, но это вот всё — это уровень низкобюджетного интернет-кафе.”"
   },
   {
     "key": "Sadaqah grumbled as she hooked up her laptop.",
@@ -5627,12 +5627,12 @@
   {
     "key": "The security here was laughable even considering how much of a rush the enemy had been in to arrange this weapon transfer.",
     "trx": "Безопасность здесь была смехотворной, даже учитывая, в какой спешке враг организовал эту передачу оружия.",
-    "val": "Безопасность здесь была смехотворной, даже учитывая, в какой спешке враг организовал эту передачу оружия."
+    "val": "Безопасность здесь была смехотворной, даже учитывая, в какой спешке враг организовал эту перевозку оружия."
   },
   {
     "key": "It looked like she’d need to do little more than input the password the sheik had given her into the terminal.",
     "trx": "Похоже, ей нужно было сделать немного больше, чем ввести пароль, который шейх дал ей в терминал.",
-    "val": "Похоже, не было никаких сложностей, кроме как ввести в терминал пароль, который дал ей шейх."
+    "val": "Похоже, ей всего-то нужно было ввести в терминал пароль, который дал ей шейх."
   },
   {
     "key": "“It’s like they’re not worried about counterintelligence at all! Are the Israelis seriously ",
@@ -5652,7 +5652,7 @@
   {
     "key": "You know, Israeli IT engineers are supposed to be better than this. How could this level of idiot strike a deal with the U.S. military? Or are ",
     "trx": "Вы знаете, израильские ИТ-инженеры должны быть лучше, чем это. Как мог такой идиот заключить сделку с американскими военными? Или являются ",
-    "val": "Как израильские ИТ-инженеры могут быть настолько глупыми? Как мог такой идиот заключить сделку с американскими военными? Или американцы "
+    "val": "Как израильские ИТ-инженеры могут быть настолько глупы? Как могли такие идиоты заключить сделку с американскими военными? Или американцы "
   },
   {
     "key": "both",
@@ -5667,7 +5667,7 @@
   {
     "key": "“Come now,” Canaan murmured. “You like the ",
     "trx": "”Ну же\", - пробормотал Ханаан. “Тебе нравится ",
-    "val": "“Ну же,” пробормотала Ханаан. “Тебе нравится "
+    "val": "“Признайся,” пробормотала Ханаан. “Тебе нравится "
   },
   {
     "key": "Pentium M",
@@ -5852,7 +5852,7 @@
   {
     "key": "Then I can use the research lead’s account to give me admin rights and—",
     "trx": "Затем я могу использовать учетную запись руководителя исследования, чтобы предоставить мне права администратора и—",
-    "val": "Затем я могу использовать учетную запись руководителя исследования, чтобы получить права администратора и — "
+    "val": "Затем я могу использовать учетную запись руководителя исследований, чтобы получить права администратора и — "
   },
   {
     "key": "What the...?”",
@@ -5892,7 +5892,7 @@
   {
     "key": "Already fifteen minutes had passed since they’d begun to operation; allowing for five minutes to get back to Siam’s car, they only had ten or so minutes left to work.",
     "trx": "Прошло уже пятнадцать минут с тех пор, как они приступили к работе; с учетом пяти минут, чтобы вернуться к машине Сиама, у них оставалось всего десять или около того минут для работы.",
-    "val": "Прошло уже пятнадцать минут с тех пор, как они приступили к работе; с учетом пяти минут, требовавшихся на то, чтобы вернуться в вагон к Сиаму, у них оставалось около десяти минут для работы."
+    "val": "Прошло уже пятнадцать минут с тех пор, как они приступили к работе; с учетом пяти минут, требовавшихся на то, чтобы вернуться в вагон к Сиаму, у них оставалось около десяти минут, чтобы завершить работу."
   },
   {
     "key": "“They up and changed the codes before loading, dammit. I should have known they’d mess up their update schedule along with everything else. Classic!”",
@@ -5927,7 +5927,7 @@
   {
     "key": "“Hmm,” Canaan murmured. “Can you open the program itself?”",
     "trx": "”Хм\", - пробормотал Ханаан. “Вы можете открыть саму программу?”",
-    "val": "“Хм,” пробормотала Ханаан. “Вы можете открыть саму программу?”"
+    "val": "“Хм,” пробормотала Ханаан. “Можешь открыть саму программу?”"
   },
   {
     "key": "“I can, but there wouldn’t be any point.”",
@@ -5947,7 +5947,7 @@
   {
     "key": "“Ah. This must be the sequence here,” Canaan said. ",
     "trx": "“Ах. Должно быть, здесь такая последовательность, - сказал Ханаан. ",
-    "val": "“Ах. Видимо, здесь вот какая последовательность,” сказала Ханаан. "
+    "val": "“Ах. Видимо, вот какая здесь последовательность,” сказала Ханаан. "
   },
   {
     "key": "“189a c455 5893 e5ae 888 312b c367 ab29. ",
@@ -6032,7 +6032,7 @@
   {
     "key": "A curious condition, found in people all over the world to varying degrees.",
     "trx": "Любопытное состояние, в разной степени встречающееся у людей во всем мире.",
-    "val": "Любопытное состояние, в разной степени встречающееся у некоторых людей во всем мире."
+    "val": "Любопытное состояние, в разной степени встречающееся среди людей во всем мире."
   },
   {
     "key": "It was defined as the tendency to experience the stimulation of one sense with additional perceptions in one or more other senses.",
@@ -6072,7 +6072,7 @@
   {
     "key": "There were many variations, each a unique way to perceive the world.",
     "trx": "Существовало множество вариаций, каждая из которых была уникальным способом восприятия мира.",
-    "val": "Существовало множество вариаций, каждая из которых была уникальным способом восприятия мира."
+    "val": "Существует множество вариаций, каждая из которых является уникальным способом восприятия мира."
   },
   {
     "key": "The condition was not generally an impairment.",
@@ -6187,7 +6187,7 @@
   {
     "key": "Once those features do become separate, ",
     "trx": "Как только эти функции станут отдельными, ",
-    "val": "Как только эти функции становятся разделены, "
+    "val": "Как только эти функции разделяются, "
   },
   {
     "key": "“knowledge” as we know it first comes into play.",
@@ -6212,7 +6212,7 @@
   {
     "key": "Such possibilities might include picking out the “meaning” of a sequence of digits that appears meaningless at first glance.",
     "trx": "Такие возможности могут включать определение “значения” последовательности цифр, которая на первый взгляд кажется бессмысленной.",
-    "val": "Например, определяя “значение” последовательности цифр, которая на первый взгляд кажется бессмысленной."
+    "val": "Такие возможности включают, например, определение “значения” последовательности цифр, которая на первый взгляд кажется бессмысленной."
   },
   {
     "key": "For one who did not know, intellectually, what part of a tree was the leaves and what part was the trunk, it would still be possible to tell them apart based on their different colors—their different shapes.",
@@ -6297,7 +6297,7 @@
   {
     "key": "“So did some kind of accident or treatment make yours stronger? ",
     "trx": "“Так какой-то несчастный случай или лечение сделали тебя сильнее? ",
-    "val": "“И что, какой-то несчастный случай или лечение сделали тебя сильнее? "
+    "val": "“Получается, какой-то несчастный случай или лечение сделали тебя сильнее? "
   },
   {
     "key": "You know, such as—”",
@@ -6392,7 +6392,7 @@
   {
     "key": "It was something all human creatures had once possessed—an early gift, taken away from them by the Serpent of primal knowledge.",
     "trx": "Это было то, чем когда—то обладали все человеческие существа - древний дар, отнятый у них Змеем первобытного знания.",
-    "val": "Это было то, чем когда—то обладали все человеческие существа — древний дар, отнятый у них Змеем первобытного знания."
+    "val": "Это было то, чем когда-то обладали все человеческие существа — древний дар, отнятый у них Змеем первобытного знания."
   },
   {
     "key": "Progress, not regression, had cost mankind this capability.",
@@ -6432,12 +6432,12 @@
   {
     "key": "To receive an answer without thinking—that was nothing more than the abandonment of thought.",
     "trx": "Получить ответ, не задумываясь, — это было не что иное, как отказ от мысли.",
-    "val": "Получить ответ, не задумываясь,” это было не что иное, как отказ от мысли."
+    "val": "Получить ответ, не задумываясь, — это было не что иное, как отказ от мысли."
   },
   {
     "key": "“You’re a primitive, basically.”",
     "trx": "“По сути, ты примитив\".",
-    "val": "“По сути, ты примитивен.”"
+    "val": "“По сути, ты примитивна.”"
   },
   {
     "key": "Sadaqah smirked inwardly at the thought.",
@@ -6582,7 +6582,7 @@
   {
     "key": "That was it.",
     "trx": "Вот и все.",
-    "val": "Вот и все."
+    "val": "Это был он."
   },
   {
     "key": "That was the name of that fragment of Hell that had brought ruin to her life two years earlier.",
@@ -6742,7 +6742,7 @@
   {
     "key": "Why was this thing here, now?",
     "trx": "Почему эта штука оказалась здесь, сейчас?",
-    "val": "Почему эта штука оказалась здесь и сейчас?"
+    "val": "Почему эта вещь оказалась здесь и сейчас?"
   },
   {
     "key": "She felt nothing. No grief, rage, or despair.",
@@ -6777,7 +6777,7 @@
   {
     "key": "She spoke, she moved mechanically, removing the case from its compartment.",
     "trx": "Она говорила, она двигалась механически, вынимая футляр из отделения.",
-    "val": "Она говорила и двигалась механически, забирая дипломат и отсека."
+    "val": "Она говорила и двигалась механически, забирая дипломат из отсека."
   },
   {
     "key": "Whatever free will she’d possessed a moment before had vanished.",
@@ -6842,7 +6842,7 @@
   {
     "key": "“Just listen. I’ll neutralize the guards in the rear car. While I do, keep pressure on the ones up front. ",
     "trx": "“Просто послушай. Я нейтрализую охранников в задней машине. Пока я это делаю, продолжайте давить на тех, кто впереди. ",
-    "val": "“Просто послушай. Я нейтрализую охранников в заднем вагоне. Пока я это делаю, продолжайте наступать на тех, кто в переднем. "
+    "val": "“Просто послушай. Я нейтрализую охранников в заднем вагоне. Пока я это делаю, продолжайте наступать на тех, кто находится в переднем. "
   },
   {
     "key": "Once I’ve secured the rear, I’ll give you the signal to fall back.”",
@@ -6872,7 +6872,7 @@
   {
     "key": "“I think this calls for a more...aggressive solution.”",
     "trx": "“Я думаю, что это требует более... агрессивного решения\".",
-    "val": "“Я думаю, что это требует более... агрессивного решения.”"
+    "val": "“Я думаю, что здесь нужно более... агрессивное решение.”"
   },
   {
     "key": "“Canaan, wait!”",
@@ -6947,12 +6947,12 @@
   {
     "key": "“Give me the case; I’ll get it to Siam. ",
     "trx": "“Отдай мне чемодан, я отвезу его в Сиам. ",
-    "val": "“Отдай мне чемодан, я передам его Сиаму. "
+    "val": "“Отдай мне дипломат, я передам его Сиаму. "
   },
   {
     "key": "I’m used to working with him. If we can catch the guards in a pincer attack we can end this quickly.”",
     "trx": "Я привык работать с ним. Если мы сможем поймать охранников в клещи, мы сможем быстро покончить с этим.”",
-    "val": "Я привыкла работать с ним. Если мы сможем поймать охранников в клещи, мы сможем быстро покончить с этим.”"
+    "val": "Я привыкла работать с ним. Если мы сможем поймать охранников в клещи, мы сможем быстро покончить с ними.”"
   },
   {
     "key": "Canaan paused.",
@@ -7002,12 +7002,12 @@
   {
     "key": "“if it was going to come to this, what did we even need her for anyway?”",
     "trx": "“если бы дело дошло до этого, зачем она нам вообще была нужна?”",
-    "val": "“раз дело дошло до этого, зачем она вообще была нам нужна?”"
+    "val": "“раз дело дошло до этого, зачем она вообще нам потребовалась?”"
   },
   {
     "key": "Sadaqah’s color bothered her far more than that of the forthcoming slaughter.",
     "trx": "Цвет Садаки беспокоил ее гораздо больше, чем предстоящая бойня.",
-    "val": "Цвет Садаки беспокоил ее гораздо больше, чем предстоящая бойня."
+    "val": "Цвет Садаки беспокоил ее гораздо больше, чем предстоящая битва."
   },
   {
     "key": "“Right, then,” Siam murmured.",
@@ -7032,22 +7032,22 @@
   {
     "key": "The soldiers bullying the passengers were Jordanian, Siam could tell, having come aboard during the freight car rearrangement.",
     "trx": "Солдаты, издевавшиеся над пассажирами, были иорданцами, Сиам мог сказать, что они поднялись на борт во время перестановки грузового вагона.",
-    "val": "Солдаты, пристававшие к пассажирам, были иорданцами, Сиам мог сказать, что они поднялись на борт во время добавления грузового вагона."
+    "val": "Солдаты, пристававшие к пассажирам, были иорданцами, Сиам мог сказать, что они поднялись на борт во время присоединения грузового вагона."
   },
   {
     "key": "He counted them among the fourteen hostiles.",
     "trx": "Он насчитал их среди четырнадцати противников.",
-    "val": "Они были из числа четырнадцати противников."
+    "val": "Он относил их к числу четырнадцати противников."
   },
   {
     "key": "It was only a matter of time before they realized that Canaan and Sadaqah were no longer in their seats.",
     "trx": "Это был только вопрос времени, когда они поймут, что Ханаан и Садака больше не сидят на своих местах.",
-    "val": "Было вопросом времени, когда они поймут, что Ханаан и Садака больше не сидят на своих местах."
+    "val": "Было вопросом времени, когда они поймут, что Ханаан и Садака больше не находятся на своих местах."
   },
   {
     "key": "“Guess it’s time to get started.” ",
     "trx": "“Думаю, пришло время начинать”. ",
-    "val": "“Думаю, пришло время начинать.” "
+    "val": "“Думаю, пора начинать.” "
   },
   {
     "key": "Siam let out a sigh of resignation.",
@@ -7092,7 +7092,7 @@
   {
     "key": "It was one against six now. If he played this by the book, Siam wouldn’t stand a chance.",
     "trx": "Теперь он был один против шести. Если бы он играл по правилам, у Сиама не было бы ни единого шанса.",
-    "val": "Теперь он был один против шести. Если бы он играл по правилам, у Сиама не было бы ни единого шанса."
+    "val": "Теперь он был один против шестерых. Если бы он играл по правилам, у Сиама не было бы ни единого шанса."
   },
   {
     "key": "Rule -->1 was “always shoot from cover.” ",
@@ -7107,7 +7107,7 @@
   {
     "key": "“Rules were made to be broken.”",
     "trx": "“Правила были созданы для того, чтобы их нарушали\".",
-    "val": "“Правила были созданы для того, чтобы их нарушали.”"
+    "val": "“Правила были созданы для того, чтобы их нарушать.”"
   },
   {
     "key": "So much for playing it by the book. Fastening the top button on his custom bulletproof coat, he strode forward. ",
@@ -7312,12 +7312,12 @@
   {
     "key": "“They’re heading for the engine! Cut them off!”",
     "trx": "“Они направляются к двигателю! Отрежьте их!”",
-    "val": "“Они направляются к локомотиву! Отрежьте их!”"
+    "val": "“Они направляются к локомотиву! Отрежьте им путь!”"
   },
   {
     "key": "The soldiers sprang into action.",
     "trx": "Солдаты бросились в бой.",
-    "val": "Солдаты бросились в бой."
+    "val": "Солдаты бросились исполнять."
   },
   {
     "key": "One of the gangway doors opened.",
@@ -7402,7 +7402,7 @@
   {
     "key": "Or maybe instead of blaming herself, she owed her enemy some respect. They moved well.",
     "trx": "Или, может быть, вместо того, чтобы винить себя, она должна была проявить немного уважения к своему врагу. Они хорошо двигались.",
-    "val": "Или, может быть, вместо того, чтобы винить себя, она должна была проявить немного уважения к своему врагу. Они хорошо двигались."
+    "val": "Или, может быть, вместо того, чтобы винить себя, она должна была проявить немного уважения к своим врагам. Они хорошо двигались."
   },
   {
     "key": "“...”",
@@ -7432,7 +7432,7 @@
   {
     "key": "And if she tried to rush them instead, the instant she emerged from behind her seat, she’d fall victim to a hail of bullets.",
     "trx": "И если бы она вместо этого попыталась броситься на них, то в тот момент, когда она вышла из-за своего сиденья, она стала бы жертвой града пуль.",
-    "val": "И если бы она вместо этого попыталась броситься на них, то в тот момент, когда она выйдет из  своего укрытия, она станет жертвой града пуль."
+    "val": "И если бы она вместо этого попыталась броситься на них, то в тот момент, когда она выйдет из своего укрытия, она станет жертвой града пуль."
   },
   {
     "key": "\u001A",
@@ -7452,7 +7452,7 @@
   {
     "key": "For the moment it was a stalemate; she couldn’t see the enemy, and they couldn’t see her.",
     "trx": "На данный момент ситуация была безвыходной; она не могла видеть врага, а они не могли видеть ее.",
-    "val": "На данный момент ситуация была патовой; она не могла видеть врага, а они не могли видеть ее."
+    "val": "На данный момент ситуация была патовой; она не могла видеть врагов, а они не могли видеть ее."
   },
   {
     "key": "But then she heard one of the soldiers:",
@@ -7662,7 +7662,7 @@
   {
     "key": "The leader of the guards cried out.",
     "trx": "Закричал предводитель стражников.",
-    "val": "закричал предводитель стражников."
+    "val": "Это закричал предводитель стражников."
   },
   {
     "key": "The subsequent barrage was too uncontrolled to be called ",
@@ -7757,7 +7757,7 @@
   {
     "key": "“Now that’s what ",
     "trx": "“Теперь вот что ",
-    "val": "“Вот это-то "
+    "val": "“Это то, что "
   },
   {
     "key": "I",
@@ -7767,7 +7767,7 @@
   {
     "key": " call a circus.”",
     "trx": " позвони в цирк.”",
-    "val": " и называю цирком.”"
+    "val": " называю цирком.”"
   },
   {
     "key": "She landed with a flourish back inside the train car.",
@@ -7782,7 +7782,7 @@
   {
     "key": "She had cleared out all the soldiers stationed in the forward compartment.",
     "trx": "Она убрала всех солдат, находившихся в переднем отсеке.",
-    "val": "Она устранила всех солдат, находившихся в переднем отсеке."
+    "val": "Она устранила всех солдат, находившихся в переднем вагоне."
   },
   {
     "key": "They’d successfully recovered the payload and wiped out the enemy force; now her task was to evacuate ASAP.",
@@ -7872,7 +7872,7 @@
   {
     "key": "Only after confirming that all the guards had been neutralized did Siam finally let his mindset shift from combat readiness to simple high alert.",
     "trx": "Только убедившись, что все охранники нейтрализованы, Сиам наконец позволил своему мышлению перейти от боевой готовности к простой повышенной готовности.",
-    "val": "Только после того, как он убедился, что все охранники нейтрализованы, Сиам наконец позволил своему мышлению перейти от боевой к просто повышенной готовности."
+    "val": "Только после того, как Сиам убедился, что все охранники нейтрализованы, он наконец позволил своему мышлению перейти от боевой к просто повышенной готовности."
   },
   {
     "key": "“I only did as much as was necessary,” he said. “I knew you’d show up. ",
@@ -7932,7 +7932,7 @@
   {
     "key": "“If you say so,” Sadaqah said. “So...this was all over the Ua. Which means this little spate of bloodshed is on the Israelis, for trying to get their hands on some weaponized virus? ",
     "trx": "“Если ты так говоришь”, - сказала Садака. “Итак... это было по всей Ua. А это значит, что этот небольшой всплеск кровопролития - вина израильтян за попытку заполучить в свои руки какой-то оружейный вирус? ",
-    "val": "“Ну, раз ты так говоришь,” сказала Садака. “Итак... это был Ua. А это значит, что этот небольшой всплеск кровопролития произошел по вине израильтян за их попытку заполучить в свои руки какой-то оружейный вирус? "
+    "val": "“Ну, раз ты так говоришь,” сказала Садака. “Итак... это был Ua. Что означает, что этот небольшой всплеск кровопролития произошел по вине израильтян за их попытку заполучить в свои руки какой-то оружейный вирус? "
   },
   {
     "key": "And we’re just meting out punishment to the thieves? ",
@@ -7957,17 +7957,17 @@
   {
     "key": "And look at all the trouble I’ve put you through.”",
     "trx": "И посмотри на все неприятности, через которые я тебя заставил пройти.”",
-    "val": "И посмотри на все неприятности, через которые я заставил тебя пройти.”"
+    "val": "И посмотри на все неприятности, через которые я заставила тебя пройти.”"
   },
   {
     "key": "“All right, Siam. I’m going to tell you two things. ",
     "trx": "“Хорошо, Сиам. Я собираюсь сказать тебе две вещи. ",
-    "val": "“Хорошо, Сиам. Я скажу тебе две вещи. "
+    "val": "“Ладно, Сиам. Я скажу тебе две вещи. "
   },
   {
     "key": "First, I’m going to be taking this case. ",
     "trx": "Во-первых, я собираюсь заняться этим делом. ",
-    "val": "Во-первых, я забрать этот дипломат. "
+    "val": "Во-первых, я собираюсь забрать этот дипломат. "
   },
   {
     "key": "Second, I’m not going to leave anyone alive to know about it. ",
@@ -8077,7 +8077,7 @@
   {
     "key": "And I can’t have that. After all, I’m the one who prompted the U.S. military to sell it off in the first place.”",
     "trx": "И я не могу этого допустить. В конце концов, я тот, кто побудил американских военных продать его в первую очередь”.",
-    "val": "И я не могу этого допустить. В конце концов, это я изначально подтолкнула американских военных его продать.”"
+    "val": "А я не могу этого допустить. В конце концов, это я изначально подтолкнула американских военных его продать.”"
   },
   {
     "key": "Siam let out a hoarse gasp.",
@@ -8087,7 +8087,7 @@
   {
     "key": "What I want is rumors,” Sadaqah continued. “",
     "trx": "Чего я хочу, так это слухов, - продолжала Садака. ”",
-    "val": "Чего я хочу, так это слухов,” продолжала Садака.”"
+    "val": "“Чего я хочу, так это слухов,” продолжала Садака. “"
   },
   {
     "key": "Dangerous",
@@ -8122,7 +8122,7 @@
   {
     "key": "Neither the side transporting the weapon nor the side attempting to steal it would know where it had gone; suspicion would beget suspicion, plunging the Middle East further into chaos.",
     "trx": "Ни сторона, перевозящая оружие, ни сторона, пытающаяся его украсть, не будут знать, куда оно делось; подозрения породят подозрения, еще больше погрузив Ближний Восток в хаос.",
-    "val": "Ни сторона, перевозящая оружие, ни сторона, пытающаяся его украсть, не будут знать, куда оно делось; подозрения породят новые подозрения, еще больше погрузив Ближний Восток в хаос."
+    "val": "Ни сторона, перевозящая оружие, ни сторона, пытающаяся его украсть, не будут знать, куда оно делось; подозрения породят новые подозрения, еще больше погружая Ближний Восток в хаос."
   },
   {
     "key": "“Do the Israelis not know about this?” Siam asked. ",
@@ -8192,12 +8192,12 @@
   {
     "key": "“There’s no need for this. You want to fan the flames of confrontation? Even without a third party pouring on more gas, the fires here aren’t going to go out.”",
     "trx": "“В этом нет необходимости. Вы хотите раздуть пламя конфронтации? Даже без того, чтобы третья сторона подлила больше газа, пожары здесь не погаснут\".",
-    "val": "“В этом нет необходимости. Ты хочешь раздуть пламя конфронтации? Даже если третья сторона не будет подливать бензин, пожары здесь не погаснут.”"
+    "val": "“В этом нет необходимости. Ты хочешь раздуть пламя конфронтации? Даже если третья сторона не будет подливать масло в огонь, пожары здесь не погаснут.”"
   },
   {
     "key": "“You’re right. Accomplishing that much wouldn’t require my direct intervention. But I have other reasons for getting personally involved, in this case: ",
     "trx": "“Ты прав. Выполнение этого не потребовало бы моего прямого вмешательства. Но у меня есть и другие причины для личного участия в этом деле: ",
-    "val": "“Ты прав. Достижение этого не потребовало бы моего прямого вмешательства. Но у меня есть другие причины для личного участия в этом деле: "
+    "val": "“Ты прав. Чтобы этого достичь, мое прямое вмешательство не требуется. Но у меня есть другие причины для личного участия в этом деле: "
   },
   {
     "key": "getting control of Ua, and getting rid of you.",
@@ -8212,7 +8212,7 @@
   {
     "key": "You blame yourself for not stopping the Ua experiment two years ago. I knew you’d take the bait this time if you knew the virus was involved.",
     "trx": "Вы вините себя за то, что не остановили эксперимент Ua два года назад. Я знал, что на этот раз ты заглотишь наживку, если узнаешь, что в этом замешан вирус.",
-    "val": "Ты винишь себя за то, что не остановили эксперимент Ua два года назад. Я знала, что на этот раз ты заглотишь наживку, если узнаешь, что в этом деле участвует вирус."
+    "val": "Ты винишь себя за то, что не остановил эксперимент Ua два года назад. Я знала, что на этот раз ты заглотишь наживку, если узнаешь, что в этом деле участвует вирус."
   },
   {
     "key": "And if anyone was going to be able to get rid of you, it was going to be me, right? ",
@@ -8227,7 +8227,7 @@
   {
     "key": "“So this is all just to a scheme to protect your secrets?” Siam said. “And I’m an obstacle to concealing the existence of the weaponized Ua?”",
     "trx": "“Значит, все это просто схема защиты ваших секретов?” - сказала Сиам. “И я являюсь препятствием для сокрытия существования вооруженной Ua?”",
-    "val": "“Значит, все это просто схема защиты твоих секретов?” сказала Сиам. “И я являюсь препятствием для сокрытия существования превращенного в оружие Ua?”"
+    "val": "“Значит, все это просто схема защиты твоих секретов?” сказал Сиам. “И я являюсь препятствием для сокрытия существования превращенного в оружие Ua?”"
   },
   {
     "key": "“Yes. Though I didn’t decide that just now. I’d been thinking about getting rid of you since the very beginning.”",
@@ -8257,7 +8257,7 @@
   {
     "key": "And she sees herself as a weapon. She’ll kill me to maintain her effectiveness.",
     "trx": "И она видит себя в качестве оружия. Она убьет меня, чтобы сохранить свою эффективность.",
-    "val": "И она видит себя в качестве оружия. Она убьет меня, чтобы сохранить свою эффективность."
+    "val": "И она считает себя оружием. Она убьет меня, чтобы сохранить свою эффективность."
   },
   {
     "key": "“Sounds like...I underestimated your need for privacy,” he said. ",
@@ -8287,7 +8287,7 @@
   {
     "key": "Now it was clear that what she’d meant was that she wanted to gather information about an Ua survivor and how the weapon had affected her.",
     "trx": "Теперь было ясно, что она имела в виду, что хотела собрать информацию о выжившем в США и о том, как оружие повлияло на нее.",
-    "val": "Теперь было ясно, что она имела в виду — она хотела собрать информацию о выжившей после Ua и о том, как оружие повлияло на нее."
+    "val": "Теперь было ясно, что она имела в виду — она хотела собрать информацию о выжившей после применения Ua и о том, как оружие повлияло на нее."
   },
   {
     "key": "From the start, this job had been about nothing more than getting the most she could out of Ua.",
@@ -8297,7 +8297,7 @@
   {
     "key": "“So—you want to use the virus, and you wanted to personally examine the one person who’s survived it?” Siam asked. “Is that really all there is to this?”",
     "trx": "“Итак, вы хотите использовать вирус, и вы хотели лично осмотреть одного человека, который пережил его?” - спросила Сиам. “Это действительно все, что нужно для этого?”",
-    "val": "“Итак — ты хочешь использовать вирус, а также хотела лично осмотреть человека, пережившего его?” спросил Сиам. “Это действительно все, что тебе нужно?”"
+    "val": "“Итак — ты собиралась использовать вирус, а также хотела лично осмотреть человека, пережившего его?” спросил Сиам. “Это действительно все, что тебе нужно?”"
   },
   {
     "key": "“That’s it,” Sadaqah said. ",
@@ -8337,7 +8337,7 @@
   {
     "key": "“Negative—hold off on that for now. Our people in the forward section are late for the rendezvous. Contact the helicopter and let them know.”",
     "trx": "“Отрицательно — пока воздержитесь от этого. Наши люди в переднем отсеке опаздывают на рандеву. Свяжитесь с вертолетом и дайте им знать.”",
-    "val": "“Отрицательно — пока воздержитесь от этого. Наши люди из переднего отсека опаздывают на рандеву. Свяжитесь с вертолетом и дайте им знать.”"
+    "val": "“Отрицательно — пока воздержитесь от этого. Наши люди из передней секции опаздывают на рандеву. Свяжитесь с вертолетом и дайте им знать.”"
   },
   {
     "key": "The sound of gunfire told of more passengers being cut down.",
@@ -8367,7 +8367,7 @@
   {
     "key": "A crash might not completely destroy the train, but it would be enough to eliminate any remaining passengers.",
     "trx": "Авария может не полностью уничтожить поезд, но этого будет достаточно, чтобы уничтожить всех оставшихся пассажиров.",
-    "val": "Авария может не полностью уничтожить поезд, но его будет достаточно, чтобы уничтожить всех оставшихся пассажиров."
+    "val": "Авария может не полностью уничтожить поезд, но ее будет достаточно, чтобы уничтожить всех оставшихся пассажиров."
   },
   {
     "key": "If the engine wasn’t stopped before it was derailed, there would be no hope of saving anyone who remained alive on board.",
@@ -8377,7 +8377,7 @@
   {
     "key": "“So anyone at all involved with Ua—the people who helped you steal it, even anyone who happened to be on board this train—they’re all going to die. Thorough, if a bit excessive,” Siam said. ",
     "trx": "“Так что все, кто хоть как—то связан с Ua — люди, которые помогли вам его украсть, даже те, кто случайно оказался на борту этого поезда, - все они умрут. Тщательный, хотя и немного чрезмерный, ” сказал Сиам. ",
-    "val": "“Выходит, что все, кто хоть как—то связан с Ua — люди, которые помогли тебе его украсть, даже те, кто случайно оказался на борту этого поезда — все они умрут. Тщательно, хотя и немного чрезмерно,” сказал Сиам. "
+    "val": "“Выходит, что все, кто хоть как-то связан с Ua — люди, которые помогли тебе его украсть, даже те, кто случайно оказался на борту этого поезда — все они умрут. Тщательно, хотя и немного чрезмерно,” сказал Сиам. "
   },
   {
     "key": "“But can you actually pull it off?”",
@@ -8497,7 +8497,7 @@
   {
     "key": "She listened, saying nothing, as she had often done so long ago.",
     "trx": "Она слушала, ничего не говоря, как часто делала давным-давно.",
-    "val": "Она слушала, ничего не говоря, как часто делала давным-давно."
+    "val": "Она слушала молча, как часто делала давным-давно."
   },
   {
     "key": "G",
@@ -8562,7 +8562,7 @@
   {
     "key": "“It’s not a miracle,” he said. “Not getting shot in the head is just...why I’m still alive. You and I—we’re both just ordinary soldiers.”",
     "trx": "“Это не чудо”, - сказал он. “То, что я не получил пулю в голову, просто... почему я все еще жив. Ты и я — мы оба просто обычные солдаты.”",
-    "val": "“Это не чудо,” сказал он. “Просто я еще жив только потому... что еще не получил пулю в голову. Мы с тобой — мы оба просто обычные солдаты.”"
+    "val": "“Это не чудо,” сказал он. “Наоборот, я еще жив только потому... что еще не получил пулю в голову. Мы с тобой — мы оба просто обычные солдаты.”"
   },
   {
     "key": "“I know that,” Sadaqah replied. ",
@@ -8687,7 +8687,7 @@
   {
     "key": "Right now, she needed to stop the engine.",
     "trx": "Прямо сейчас ей нужно было заглушить двигатель.",
-    "val": "Прямо сейчас ей нужно было остановить двигатель."
+    "val": "Прямо сейчас ей нужно было остановить локомотив."
   },
   {
     "key": "She followed the enemy who’d shot at her all the way into the driver’s cab.",
@@ -8742,7 +8742,7 @@
   {
     "key": "If she’d had a better understanding of how the train functioned, she might have found some way to stop it by force by destroying something in the engine room.",
     "trx": "Если бы она лучше понимала, как работает поезд, она могла бы найти какой-нибудь способ остановить его силой, уничтожив что-нибудь в машинном отделении.",
-    "val": "Если бы она лучше понимала, как работает поезд, она могла бы найти какой-нибудь способ принудительно остановить, уничтожив что-нибудь в машинном отделении."
+    "val": "Если бы она лучше понимала, как работает поезд, она могла бы найти какой-нибудь способ принудительно остановить его, уничтожив что-нибудь в машинном отделении."
   },
   {
     "key": "But she had no time to ponder such things now; her instincts spurred her into motion.",
@@ -8817,7 +8817,7 @@
   {
     "key": "Violent emotion surged through her as she cut loose with a wild barrage.",
     "trx": "Сильные эмоции захлестнули ее, когда она вырвалась с диким шквалом.",
-    "val": "Ее захлестнули сильные эмоции, когда она вырвалась туда с диким шквалом."
+    "val": "Ее захлестнули сильные эмоции, когда она врывалась туда с диким шквалом."
   },
   {
     "key": "It was the first time since she’d first picked up a gun that she’d fired without certainty that she’d hit her mark.",
@@ -8932,7 +8932,7 @@
   {
     "key": "She knelt, still shaking her head as Siam calmly told her what had happened.",
     "trx": "Она опустилась на колени, все еще качая головой, когда Сиам спокойно рассказала ей, что произошло.",
-    "val": "Она опустилась на колени, все еще качая головой, когда Сиам спокойно рассказала ей, что произошло."
+    "val": "Она опустилась на колени, все еще качая головой, когда Сиам спокойно рассказал ей, что произошло."
   },
   {
     "key": "Sadaqah had betrayed them; she had stabbed him and had stolen the case with the bioweapon.",
@@ -9007,7 +9007,7 @@
   {
     "key": "He had recovered enough emotion to feel guilt at what she said, at least.",
     "trx": "Он уже достаточно пришел в себя, чтобы почувствовать вину, по крайней мере, за то, что она сказала.",
-    "val": "Он уже достаточно пришел в себя, чтобы почувствовать вину, по крайней мере, за то, что она сказала."
+    "val": "Он уже достаточно пришел в себя, чтобы по крайней мере почувствовать вину за то, что она сказала."
   },
   {
     "key": "Though that hardly made him human.",
@@ -9052,7 +9052,7 @@
   {
     "key": "“I took down all the guards. The engineer was one of that woman’s companions, and he wrecked the control panel, so now we can’t use it to stop the train. We’ll have to destroy the engine room itself, or maybe use the brakes on each of the individual cars.”",
     "trx": "“Я снял всех охранников. Машинист был одним из спутников этой женщины, и он разбил панель управления, так что теперь мы не можем использовать ее, чтобы остановить поезд. Нам придется уничтожить само машинное отделение или, может быть, использовать тормоза на каждой из отдельных машин.”",
-    "val": "“Я уничтожила всех охранников. Машинист был одним из спутников этой женщины, и он разбил панель управления, так что теперь мы не можем использовать ее, чтобы остановить поезд. Нам придется уничтожить само машинное отделение или, может быть, использовать тормоза на на каждом из вагонов.”"
+    "val": "“Я уничтожила всех охранников. Машинист был одним из спутников этой женщины, и он разбил панель управления, так что теперь мы не можем использовать ее, чтобы остановить поезд. Нам придется уничтожить само машинное отделение или, может быть, использовать тормоза на каждом из вагонов.”"
   },
   {
     "key": "“Were there any other survivors?”",
@@ -9217,7 +9217,7 @@
   {
     "key": "“Canaan...",
     "trx": "“Ханаан...",
-    "val": "“Ханаан..."
+    "val": "“Ханаан... "
   },
   {
     "key": "You were victimized, your past stolen from you by war. She was defeated, her past swallowed up by power struggles beyond her control. ",
@@ -9352,7 +9352,7 @@
   {
     "key": "The scenery, a uniform brown for much of the journey, was now dotted with green in places.",
     "trx": "Пейзаж, на протяжении большей части путешествия остававшийся однообразно коричневым, теперь местами был усеян зеленью.",
-    "val": "Пейзаж, остававшийся на протяжении большей части путешествия однообразно коричневым, теперь местами был усеян зеленым."
+    "val": "Пейзаж, остававшийся на протяжении большей части путешествия однообразно коричневым, теперь местами был усеян зеленью."
   },
   {
     "key": "They were drawing close to their destination—the destination ",
@@ -9377,7 +9377,7 @@
   {
     "key": "There were less than two minutes to go before the rendezvous with the ",
     "trx": "До встречи с ",
-    "val": "Оставалось меньше двух минут до прибытия "
+    "val": "Оставалось меньше двух минут до прилета "
   },
   {
     "key": "Black Hawk",
@@ -9412,7 +9412,7 @@
   {
     "key": "The helicopter pilot was highly skilled; he would lower a ladder to her at her position, and she would simply ride it right on up.",
     "trx": "Пилот вертолета был высококвалифицированным специалистом; он опускал ей лестницу на ее месте, и она просто поднималась по ней прямо вверх.",
-    "val": "Пилот вертолета обладал высокой квалификацией; он опустит ей лестницу, и ей всего лишь останется подняться по ней вверх."
+    "val": "Пилот вертолета обладал высокой квалификацией; он спустит лестницу, и ей всего лишь останется подняться по ней вверх."
   },
   {
     "key": "She’d accomplished most of what she’d wanted, and now her retreat would be swift.",
@@ -9427,12 +9427,12 @@
   {
     "key": "Of course, that would have been the case regardless of the results she’d obtained.",
     "trx": "Конечно, это было бы так, независимо от результатов, которые она получила.",
-    "val": "Конечно, это было бы так, независимо от результатов, которых она достигла."
+    "val": "Конечно, так было бы независимо от результатов, которых она достигла."
   },
   {
     "key": "It was not in her nature to ever be content; only by striking out at the world around her could she even keep herself sane.",
     "trx": "Не в ее характере было когда-либо быть довольной; только бросаясь на окружающий мир, она могла сохранить рассудок.",
-    "val": "Быть довольной не было в ее характере; только бросаясь на окружающий мир, она могла сохранить рассудок."
+    "val": "Быть довольной не было в ее характере; только бросаясь на окружающий мир она могла сохранить рассудок."
   },
   {
     "key": "And now, her thirst for vengeance was worse than ever.",
@@ -9462,7 +9462,7 @@
   {
     "key": "If she were to go down, the case would fall down with her.",
     "trx": "Если бы она пошла ко дну, дело рухнуло бы вместе с ней.",
-    "val": "Если бы она упала, дипломат рухнул бы вместе с ней."
+    "val": "Если бы она упала, дипломат упал бы вместе с ней."
   },
   {
     "key": "And if the case were damaged, the Ua virus would very likely be released.",
@@ -9472,12 +9472,12 @@
   {
     "key": "Which meant that the little lady couldn’t shoot at her until she got the case away—whereas Sadaqah was free to unload on her as much as she wanted.",
     "trx": "Это означало, что маленькая леди не могла стрелять в нее, пока она не заберет чемодан, в то время как Садака была вольна стрелять в нее столько, сколько хотела.",
-    "val": "Это означало, что маленькая леди не могла стрелять в нее, пока она не заберет дипломат, в то время как Садака была вольна стрелять в нее столько, сколько хотела."
+    "val": "Это означало, что маленькая леди не могла стрелять в нее, пока не заберет у нее дипломат, в то время как Садака была вольна стрелять в нее столько, сколько хотела."
   },
   {
     "key": "The kill was certain to be hers.",
     "trx": "Убийство наверняка принадлежало ей.",
-    "val": "Убить получится у нее наверняка."
+    "val": "Убить она сможет наверняка."
   },
   {
     "key": "How could she help but smile?",
@@ -9487,17 +9487,17 @@
   {
     "key": "She’d stolen the Ua, stirred up both sides of an international conflict, and would soon eliminate the last witness to her scheme.",
     "trx": "Она украла Ua, возбудила обе стороны международного конфликта и вскоре устранит последнего свидетеля своего плана.",
-    "val": "Она украла Ua, стравила обе стороны международного конфликта, и вскоре устранит последнего свидетеля своего плана."
+    "val": "Она украла Ua, стравила между собой обе стороны международного конфликта, и вскоре устранит последнего свидетеля своего плана."
   },
   {
     "key": "It had been quite some time since she’d last scored such a coup.",
     "trx": "Прошло довольно много времени с тех пор, как она в последний раз совершала такой переворот.",
-    "val": "Прошло довольно много времени с тех пор, как она в последний раз одерживала такую удачу."
+    "val": "Прошло довольно много времени с тех пор, когда ей в последний раз улыбалась такая удача."
   },
   {
     "key": "I suppose I owe the little lady a little thanks for contributing to my success.",
     "trx": "Полагаю, я должен немного поблагодарить маленькую леди за то, что она способствовала моему успеху.",
-    "val": "Полагаю, мне нужно немного поблагодарить маленькую леди за то, что она способствовала моему успеху."
+    "val": "Полагаю, мне нужно поблагодарить маленькую леди за то, что она способствовала моему успеху."
   },
   {
     "key": "Her target was three cars away. Knowing her pistol’s effective range, Sadaqah gave herself an eighty percent chance of hitting.",
@@ -9532,7 +9532,7 @@
   {
     "key": "She needs to understand that a step closer to me is a step into certain death.",
     "trx": "Она должна понять, что шаг ближе ко мне - это шаг навстречу верной смерти.",
-    "val": "Она должна понять, что шаг по направлению ко мне — это шаг навстречу верной смерти."
+    "val": "Она должна понять, что шаг в мою сторону — это шаг навстречу верной смерти."
   },
   {
     "key": "“All right, little lady. Let’s see how well you dance.”",
@@ -9607,7 +9607,7 @@
   {
     "key": "There was a time when I saw hope in a girl who made nihilism her reason to live.",
     "trx": "Было время, когда я видел надежду в девушке, которая сделала нигилизм своим смыслом жизни.",
-    "val": "Было время, когда я видел надежду в девушке, которая сделала нигилизм своим смыслом жизни."
+    "val": "Было время, когда я видел надежду в девушке, сделавшей нигилизм смыслом своей жизни."
   },
   {
     "key": "After that, I found hope in another girl’s weakness as she clung to her desire to live.",
@@ -9652,7 +9652,7 @@
   {
     "key": "But he still remembered both—",
     "trx": "Но он все еще помнил и то, и другое—",
-    "val": "Но он все еще помнил и то, и другое — "
+    "val": "Но он все еще помнил и ту, и другую — "
   },
   {
     "key": "just as he remembered the faith that had driven him long before he met either girl.",
@@ -9662,7 +9662,7 @@
   {
     "key": "That was decades ago, now. How naïve he had been, an unsophisticated firebrand clinging to blind belief.",
     "trx": "Это было десятилетия назад, сейчас. Каким наивным он был, бесхитростный зачинщик, цепляющийся за слепую веру.",
-    "val": "Это было уже несколько десятилетий назад. Каким наивным он тогда был, бесхитростный зачинщик, цепляющийся за слепую веру."
+    "val": "Это было уже несколько десятилетий назад. Каким наивным он тогда был, бесхитростным зачинщиком, цеплявшимся за слепую веру."
   },
   {
     "key": "Three wounded passengers. Three people to save.",
@@ -9672,7 +9672,7 @@
   {
     "key": "The thought drove him on. Two years earlier, he’d been unable to save anyone; he had been nothing but a killer.",
     "trx": "Эта мысль гнала его вперед. Два года назад он не смог никого спасти; он был никем иным, как убийцей.",
-    "val": "Эта мысль гнала его вперед. Два года назад он не смог никого спасти; он был никем иным, как убийцей."
+    "val": "Эта мысль гнала его вперед. Два года назад он не смог бы никого спасти; он был никем иным, как убийцей."
   },
   {
     "key": "Did that make him a hypocrite now?",
@@ -9697,7 +9697,7 @@
   {
     "key": "he was paying at last for the sin of casting aside his beliefs so long ago.",
     "trx": "наконец-то он расплачивался за грех, когда так давно отказался от своих убеждений.",
-    "val": "он наконец-то расплачивался за грех, что так давно отказался от своих убеждений."
+    "val": "он наконец-то расплачивался за свой грех, что так давно отказался от своих убеждений."
   },
   {
     "key": "Did he have the stamina to keep going?",
@@ -9782,12 +9782,12 @@
   {
     "key": "“You’re such a liar, Siam. You said it wasn’t going to hurt at all. I had no idea it was going to be this painful.”",
     "trx": "“Ты такая лгунья, Сиам. Ты сказал, что это совсем не повредит. Я понятия не имел, что это будет так больно\".",
-    "val": "“Ты такой лгун, Сиам. Ты сказал, что это совсем не больно. Я понятия не имела, что будет так сильно болеть.”"
+    "val": "“Ты такой лгун, Сиам. Ты сказал, что это совсем не больно. Я понятия не имела, что будет такая сильная боль.”"
   },
   {
     "key": "Perhaps, at the time, Siam had simply forgotten how painful it was; he’d been good at that, after all.",
     "trx": "Возможно, в то время Сиам просто забыл, как это больно; в конце концов, он был хорош в этом.",
-    "val": "Возможно, Сиам к этому времени просто забыл, как это было больно; в конце концов, в этом он был хорош."
+    "val": "Возможно, Сиам к этому времени просто забыл, как это было больно; ведь, в этом он был хорош."
   },
   {
     "key": "He asked her if the pain from her new tattoo would impair her for the upcoming job, and she shook her head.",
@@ -9817,7 +9817,7 @@
   {
     "key": "A tattoo was a small price to pay for that.",
     "trx": "Татуировка была небольшой платой за это.",
-    "val": "Татуировка была за это небольшой платой."
+    "val": "Татуировка была небольшой платой за это."
   },
   {
     "key": "This girl was quite probably the strangest person he’d ever known.",
@@ -9847,7 +9847,7 @@
   {
     "key": "“This shows that we’re family, Siam. For as long as I have it, I’ll never forget what you’ve taught me.”",
     "trx": "“Это показывает, что мы семья, Сиам. Пока он у меня есть, я никогда не забуду, чему ты меня научил.”",
-    "val": "“Это показывает, что мы семья, Сиам. Пока она у меня есть, я никогда не забуду, чему ты меня научил.”"
+    "val": "“Она показывает, что мы семья, Сиам. Пока она у меня есть, я никогда не забуду, чему ты меня научил.”"
   },
   {
     "key": "Remembering it now, he felt a vague sense of fulfillment.",
@@ -9897,7 +9897,7 @@
   {
     "key": "In a matter of moments the chopper would arrive, lowering the ladder Sadaqah would then ascend in triumph.",
     "trx": "Через несколько мгновений прилетит вертолет, опустит лестницу, и Садака с триумфом поднимется наверх.",
-    "val": "Через несколько мгновений вертолет подлетит, опустит лестницу, и Садака с триумфом поднимется вверх."
+    "val": "Через несколько мгновений вертолет подлетит, опустит лестницу, и Садака с триумфом поднимется наверх."
   },
   {
     "key": "“What are you waiting for?” she called out. ",
@@ -9922,7 +9922,7 @@
   {
     "key": "but Sadaqah would need only one of those seconds to aim and fire.",
     "trx": "но Садаке понадобится всего одна из этих секунд, чтобы прицелиться и выстрелить.",
-    "val": "но Садаке понадобится всего одна из этих секунд, чтобы прицелиться и выстрелить."
+    "val": "но Садаке понадобится всего одна секунда, чтобы прицелиться и выстрелить."
   },
   {
     "key": "Canaan would be killed five times over if she charged.",
@@ -9982,7 +9982,7 @@
   {
     "key": "That would give too much of an edge to her opponent.",
     "trx": "Это дало бы слишком большое преимущество ее противнику.",
-    "val": "Это дало бы слишком большое преимущество ее противнику."
+    "val": "Это дало бы слишком большое преимущество ее противнице."
   },
   {
     "key": "“This is such a let-down,” Sadaqah said. “But no matter—whatever you do, I’ll be able to put the contents of this case to good use. ",
@@ -10277,7 +10277,7 @@
   {
     "key": "The girl was dodging bullets.",
     "trx": "Девушка уворачивалась от пуль.",
-    "val": "Девушка уклонилась от пуль."
+    "val": "Девушка уворачивалась от пуль."
   },
   {
     "key": "For a master markswoman like Alphard, it was a nightmare come to life.",
@@ -10352,7 +10352,7 @@
   {
     "key": "That simply wasn’t possible. Was it?",
     "trx": "Это просто было невозможно. Было ли это?",
-    "val": "Это было просто невозможно. Или нет?"
+    "val": "Это было просто невозможно. Или все-таки возможно?"
   },
   {
     "key": "Alphard’s mind raced; she fought a rising wave of panic.",
@@ -10377,7 +10377,7 @@
   {
     "key": "Alphard would just have to kill her before that. It was simple; just pull the trigger! ",
     "trx": "Альфарду просто придется убить ее до этого. Это было просто; просто нажми на спусковой крючок! ",
-    "val": "Альфарду всего лишь нужно убить ее до этого. Это было просто; всего-то нажать на спусковой крючок! "
+    "val": "Альфарду всего лишь нужно убить ее раньше. Это было просто; всего-то нажать на спусковой крючок! "
   },
   {
     "key": "C",
@@ -10627,7 +10627,7 @@
   {
     "key": "She would find a color of determination that Canaan could not see.",
     "trx": "Она обнаружила бы цвет решимости, который Ханаан не мог видеть.",
-    "val": "Она обнаружит цвет решимости, который Ханаан не могла видеть."
+    "val": "Она найдет цвет решимости, который Ханаан не могла видеть."
   },
   {
     "key": "And yet even those shots failed to strike home.",
@@ -10642,7 +10642,7 @@
   {
     "key": "She would need to discard her hate, to divorce even her will to win from her actions.",
     "trx": "Ей нужно было бы отбросить свою ненависть, отделить даже свою волю к победе от своих действий.",
-    "val": "Ей нужно отбросить свою ненависть, отделить даже свою волю к победе от своих действий."
+    "val": "Ей нужно было отбросить свою ненависть, отделить от своих действий даже свою волю к победе."
   },
   {
     "key": "Only then would she be able to slay this superperson.",
@@ -10667,7 +10667,7 @@
   {
     "key": "Throwing away the bioweapon had been a split-second decision on Alphard’s part.",
     "trx": "Выбросить биологическое оружие было решением Альфарда за долю секунды.",
-    "val": "Решение выбросить биологическое оружие Альфарда приняла за долю секунды."
+    "val": "Решение выбросить биологическое оружие Альфард приняла за долю секунды."
   },
   {
     "key": "She hadn’t spared an iota of consideration for the thousands who might die if the case broke open.",
@@ -10682,7 +10682,7 @@
   {
     "key": "There she saw not another woman, but an angel of death—inorganic destruction made flesh.",
     "trx": "Там она увидела не другую женщину, а ангела смерти — неорганическое разрушение, ставшее плотью.",
-    "val": "Там она увидела не другую женщину, а ангела смерти — неорганическое разрушение, ставшее плотью."
+    "val": "Она видела там не женщину, а ангела смерти — неорганическое разрушение, ставшее плотью."
   },
   {
     "key": "3",
@@ -10747,7 +10747,7 @@
   {
     "key": "The wheels threw up a shower of sparks along the rails as the train receded.",
     "trx": "Колеса выбрасывали сноп искр вдоль рельсов, когда поезд удалялся.",
-    "val": "Колеса выбрасывали сноп искр вдоль рельсов, когда поезд удалялся."
+    "val": "Колеса выбрасывали сноп искр вдоль рельсов, пока поезд удалялся."
   },
   {
     "key": "Already the last battlefield they had shared was withdrawing into the unreachable.",
@@ -10802,7 +10802,7 @@
   {
     "key": "Never had she been so defeated.",
     "trx": "Никогда еще она не была так разбита.",
-    "val": "Никогда еще она не была так разбита."
+    "val": "Никогда еще она не была так побеждена."
   },
   {
     "key": "She had killed Siam and stoked the flames of conflict between two opposing camps, but those achievements didn’t change the fact that the operation had been a failure.",
@@ -10887,12 +10887,12 @@
   {
     "key": "—that for whosoever killeth a human being, it shall be as if he had killed all mankind.",
     "trx": "— что для всякого, кто убьет человека, это будет так, как если бы он убил все человечество.",
-    "val": " — что для всякого, кто убьет человека, будет так, как если бы он убил все человечество."
+    "val": " — что каждый, кто убьет невинного человека, словно бы убил все человечество."
   },
   {
     "key": "He’d refused to continue being a tool to that very end.",
     "trx": "Он отказался продолжать быть инструментом для достижения этой самой цели.",
-    "val": "Он отказался продолжать быть инструментом для достижения этой цели."
+    "val": "Из-за этого он отказался продолжать быть инструментом для достижения цели."
   },
   {
     "key": "Destroying him was no betrayal.",
@@ -10972,7 +10972,7 @@
   {
     "key": "“Alphard...you’re unstoppable.",
     "trx": "“Альфард... тебя не остановить.",
-    "val": "“Альфард... тебя не остановить."
+    "val": "“Альфард... тебя не остановить. "
   },
   {
     "key": "But if, instead of striving for some empty goal, you could find something that truly matters to ",
@@ -11007,7 +11007,7 @@
   {
     "key": " was what mattered to her; that was her driving force.",
     "trx": " это было то, что имело для нее значение; это было ее движущей силой.",
-    "val": " был для нее важен; он был ее движущей силой."
+    "val": " был важен для нее; он был ее движущей силой."
   },
   {
     "key": "She’d lost her family and discarded her past, retaining only what enabled her to survive.",
@@ -11027,7 +11027,7 @@
   {
     "key": "Now her eyes were like fire as she stared down at the girl below.",
     "trx": "Теперь ее глаза горели огнем, когда она смотрела вниз на девушку внизу.",
-    "val": "Теперь ее глаза горели огнем, когда она смотрела на девушку внизу."
+    "val": "Ее глаза горели огнем, когда она смотрела на девушку внизу."
   },
   {
     "key": "Canaan might still be in range of the right kind of weapon.",
@@ -11037,7 +11037,7 @@
   {
     "key": "“Hey—do we have any automatic rifles on board?”",
     "trx": "“Эй, у нас на борту есть какие—нибудь автоматические винтовки?”",
-    "val": "“Эй, у нас на борту есть автоматические винтовки?”"
+    "val": "“Эй — у нас на борту есть автоматические винтовки?”"
   },
   {
     "key": "“Negative. There was no mention of rifles in our orders...” ",
@@ -11067,7 +11067,7 @@
   {
     "key": "“Fine, pull out. Head west.”",
     "trx": "“Хорошо, выезжай. Направляйся на запад.”",
-    "val": "“Хорошо, уходите. Направляйтесь на запад.”"
+    "val": "“Хорошо, улетаем. Направляемся на запад.”"
   },
   {
     "key": "The helicopter circled around and headed westward, ",
@@ -11107,7 +11107,7 @@
   {
     "key": "Their origins were so similar.",
     "trx": "Их происхождение было так похоже.",
-    "val": "Их происхождение было так похоже."
+    "val": "Их происхождение было таким схожим."
   },
   {
     "key": "Two serpents, born from the same twisted nest, guided by the same mentor; and yet they had followed very different paths.",
@@ -11117,7 +11117,7 @@
   {
     "key": "They had no familial ties, yet they were sisters all the same, bound by a fate thicker than any blood.",
     "trx": "У них не было семейных уз, но все равно они были сестрами, связанными судьбой сильнее, чем любая кровь.",
-    "val": "У них не было семейных уз, но все равно они были сестрами, связанными судьбой сильнее, чем какой-то кровью."
+    "val": "У них не было семейных уз, но все равно они были сестрами, связанными судьбой сильнее, чем какой-либо кровью."
   },
   {
     "key": "Canaan didn’t take her eyes off of the helicopter until it had disappeared over the horizon.",
@@ -11162,7 +11162,7 @@
   {
     "key": "Please ensure that your seatbelt is fastened and that any electronic devices have been powered off—”",
     "trx": "Пожалуйста, убедитесь, что ваш ремень безопасности пристегнут и что все электронные устройства отключены...”",
-    "val": "Пожалуйста, застегните ремни безопасности и отключите все электронные устройства—”"
+    "val": "Пожалуйста, пристегните ремни безопасности и отключите все электронные устройства—”"
   },
   {
     "key": "Canaan stirred.",
@@ -11442,7 +11442,7 @@
   {
     "key": "—the color of danger would stand out clear as day.",
     "trx": "— цвет опасности будет выделяться ясно, как божий день.",
-    "val": " — цвет опасности будет выделяться та же ясно, как божий день."
+    "val": " — цвет опасности будет выделяться так же ясно, как божий день."
   },
   {
     "key": "“All right,” she said once Maria was back on the line. “Leave the rest to me.",
@@ -11487,7 +11487,7 @@
   {
     "key": "All right.",
     "trx": "Все в порядке.",
-    "val": "Хорошо."
+    "val": "Хорошо. "
   },
   {
     "key": "If that’s how she’s going to do things, I’ll just have to pay her back in full.",
@@ -11502,7 +11502,7 @@
   {
     "key": "Maria and her companions had been played like puppets. It was time to return the favor.",
     "trx": "Марией и ее спутниками играли, как марионетками. Пришло время отплатить ему тем же.",
-    "val": "Марией и ее спутниками играли, как марионетками. Пришло время отплатить тем же."
+    "val": "Марией и ее спутниками играли, как марионетками. Пришло время отплатить им тем же."
   },
   {
     "key": "The sound of propeller blades cut the air.",
@@ -11542,7 +11542,7 @@
   {
     "key": "“That’s right. Are we ready to go?”",
     "trx": "“Это верно. Мы готовы идти?”",
-    "val": "“Это верно. Мы готовы вылетать?”"
+    "val": "“Это так. Мы готовы вылетать?”"
   },
   {
     "key": "“Ah, yes, of course! ",
@@ -11722,7 +11722,7 @@
   {
     "key": "Not if her plan was going to work, anyhow.",
     "trx": "Во всяком случае, если ее план сработает.",
-    "val": "Если ее план сработает, во всяком случае."
+    "val": "Во всяком случае, если ее план сработает."
   },
   {
     "key": "Maria and the others had slipped through Alphard’s fangs, unexpectedly providing Canaan with one last chance. ",
@@ -11742,7 +11742,7 @@
   {
     "key": "She shrugged off a momentary twinge of self-doubt.",
     "trx": "Она стряхнула с себя мгновенный укол неуверенности в себе.",
-    "val": "Она стряхнула с себя кратковременный приступ неуверенности."
+    "val": "Она стряхнула с себя кратковременный приступ неуверенности. "
   },
   {
     "key": "Maria had survived so far without Canaan’s help; it did seem a bit outrageous for her to get involved now.",
@@ -11842,7 +11842,7 @@
   {
     "key": "There in the prop wash of the waiting helicopter, Canaan giggled despite herself.",
     "trx": "Там, в пропеллере ожидающего вертолета, Ханаан невольно хихикнула.",
-    "val": "Здесь, у ожидающего вертолета, Ханаан невольно хихикнула."
+    "val": "Теперь, у ожидающего вертолета, Ханаан невольно хихикнула."
   },
   {
     "key": "She felt ridiculous for only realizing something like this now, but she was glad that it had happened nonetheless.",
@@ -11927,7 +11927,7 @@
   {
     "key": "She would not be something hollow like the Serpent.",
     "trx": "Она не была бы чем-то пустым, как Змея.",
-    "val": "Она не была бы чем-то пустым, как Змея."
+    "val": "Она не будет пустой, как Змея."
   },
   {
     "key": "She would hold her head high, strive to meet Siam’s ideal, and fight for her future.",

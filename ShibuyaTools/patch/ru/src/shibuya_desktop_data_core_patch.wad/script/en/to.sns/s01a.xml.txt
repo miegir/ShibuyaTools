@@ -282,7 +282,7 @@
   {
     "key": "He recognized the voice of a familiar nurse calling out from behind him, but he ignored her and jammed his thumb on the ‘Close’ button.",
     "trx": "Он узнал голос знакомой медсестры, зовущей его сзади, но проигнорировал ее и нажал большим пальцем на кнопку \"Закрыть\".",
-    "val": "Он узнал голос окликнувшей его знакомой медсестры, но проигнорировал ее и нажал большим пальцем на кнопку ‘Закрыть.’."
+    "val": "Он узнал голос окликнувшей его знакомой медсестры, но проигнорировал ее и нажал большим пальцем на кнопку ‘Закрыть.’"
   },
   {
     "key": "Once he was down on the first floor, he made his way to the courtyard exit, slipped on some sandals, and headed outside.",
@@ -1467,7 +1467,7 @@
   {
     "key": "For some of us it just happens earlier than for others.”",
     "trx": "Для некоторых из нас это просто происходит раньше, чем для других”.",
-    "val": "Просто для некоторых из нас это просто происходит раньше, чем для других.”"
+    "val": "Просто для некоторых из нас это происходит раньше, чем для других.”"
   },
   {
     "key": "“You can’t just give up like that!” Takuya cried. ",
