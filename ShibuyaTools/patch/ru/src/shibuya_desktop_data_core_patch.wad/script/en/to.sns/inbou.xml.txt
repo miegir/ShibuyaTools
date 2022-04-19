@@ -107,7 +107,7 @@
   {
     "key": "I got wind of his plan a long while back. It was summer, several years ago. He had hidden a message in a game he’d developed back at the time. Later, while out drinking with a friend who plays games, the subject of this secret message came up. My friend had played the game, and had seen the message; but he said there was no phone number included.",
     "trx": "Я узнал о его плане давным-давно. Это было летом, несколько лет назад. Он спрятал сообщение в игре, которую разработал в то время. Позже, когда мы выпивали с другом, который играет в игры, всплыла тема этого секретного послания. Мой друг играл в эту игру и видел сообщение; но он сказал, что в нем не было номера телефона.",
-    "val": "Я узнал о его плане давным-давно. Это было летом, несколько лет назад. Он спрятал сообщение в игре, которую тогда разрабатывал. Позже, когда мы выпивали с другом, который играет в игры, мы заговорили об этом секретном послании. Мой друг играл в эту игру и видел сообщение; но он сказал, что в нем не было номера телефона."
+    "val": "Я узнал о его плане давным-давно. Это было летом, несколько лет назад. Он спрятал сообщение в игре, которую тогда разрабатывал. Позже, когда мы выпивали с другом, который играет в игры, мы заговорили об этом секретном послании. Мой друг играл в ту игру и видел сообщение; но он сказал, что в нем не было номера телефона."
   },
   {
     "key": "The message I saw, however, definitely included a phone number. I thought it was strange, but I was curious enough to give it a call. A man answered. He spoke in a low, hushed voice.",
@@ -137,7 +137,7 @@
   {
     "key": "They had both been kidnapped the same way, locked up, and forced to write game scenarios. Nasu had been brought in relatively recently, but it sounded like Abiko had been locked in there for over a decade. (Right now, the people operating as myself, Abiko, and Nasu are not the real us, but fakes employed by Nakamura.)",
     "trx": "Их обоих похитили одним и тем же способом, заперли и заставили писать игровые сценарии. Насу привезли сравнительно недавно, но, похоже, Абико была заперта там больше десяти лет. (Прямо сейчас люди, действующие как я, Абико и Насу, - это не настоящие мы, а подделки, нанятые Накамурой.)",
-    "val": "Их обоих похитили тем же способом, заперли и заставили писать игровые сценарии. Насу привезли сравнительно недавно, но, похоже, Абико был заперт там больше десяти лет. (Люди, притворяющиеся сейчас мной, Абико и Насу, — это не настоящие мы, а фальшивки, нанятые Накамурой.)"
+    "val": "Их обоих похитили тем же способом, заперли и заставили писать игровые сценарии. Насу привезли сравнительно недавно, но Абико был, похоже, заперт там больше десяти лет. (Люди, притворяющиеся сейчас мной, Абико и Насу, — это не настоящие мы, а фальшивки, нанятые Накамурой.)"
   },
   {
     "key": "The details of my imprisonment naturally began to slip into my writing.",
@@ -167,7 +167,7 @@
   {
     "key": "I couldn’t believe what I heard. They said they had programmed the game to emit some kind of electromagnetic waves? (I couldn’t really hear that well) from the game’s screen, which would let them know who had purchased it.",
     "trx": "Я не мог поверить в то, что услышал. Они сказали, что запрограммировали игру на излучение каких-то электромагнитных волн? (Я не очень хорошо это расслышал) с экрана игры, что позволило бы им узнать, кто ее купил.",
-    "val": "Я не мог поверить в то, что услышал. Они сказали, что запрограммировали игру на излучение каких-то электромагнитных волн? (Я не очень хорошо это расслышал) с экрана игры, что позволило бы им узнать, кто ее купил."
+    "val": "Я не мог поверить в то, что услышал. Они сказали, что запрограммировали игру на излучение каких-то электромагнитных волн? (я не очень хорошо это расслышал) с экрана игры, что позволило бы им узнать, кто ее купил."
   },
   {
     "key": "If the game console connected to the Internet, things got even more sinister.",
@@ -177,7 +177,7 @@
   {
     "key": "It would send a signal to them online, giving them the user’s name and address.",
     "trx": "Он отправит им сигнал в режиме онлайн, сообщив имя и адрес пользователя.",
-    "val": "Она отправляла им сигнал в режиме онлайн, сообщая имя и адрес пользователя."
+    "val": "Она отправляла им сигнал в режиме реального времени, сообщая имя и адрес пользователя."
   },
   {
     "key": "I couldn’t make out all the finer details, but their conversation was peppered with words like “abduction,” “brainwashing,” and “submission,” so it’s clear they had some kind of nefarious plan in the works.",
@@ -202,7 +202,7 @@
   {
     "key": "Has anyone moved into your neighborhood lately? Did the clerk at the nearby convenience store get replaced by someone else? If you live with parents or siblings, take a good, close look at their faces. It’s not inconceivable that they’ve been swapped out with convincing fakes.",
     "trx": "Кто-нибудь переезжал в ваш район в последнее время? Неужели продавца в соседнем круглосуточном магазине заменил кто-то другой? Если вы живете с родителями или братьями и сестрами, внимательно посмотрите на их лица. Не исключено, что их заменили убедительными подделками.",
-    "val": "Переезжал ли кто-то в ваш район в последнее время? Может, продавца в соседнем магазине заменил кто-то другой? Если вы живете с родителями или братьями и сестрами, внимательно всмотритесь в их лица. Не исключено, что их заменили убедительными подделками."
+    "val": "Переезжал ли кто-то в ваш район в последнее время? Может, продавца в соседнем магазине заменил кто-то другой? Если вы живете с родителями, братьями или сестрами, внимательно всмотритесь в их лица. Не исключено, что их заменили убедительными подделками."
   },
   {
     "key": "You don’t feel like there’s someone watching over your shoulder right now...do you?",
@@ -222,7 +222,7 @@
   {
     "key": " sense a watcher, don’t just turn around. If you do, “they” will notice, and you’ll become their prey on the spot.",
     "trx": " почувствуй наблюдателя, не оборачивайся просто так. Если вы это сделаете, “они” заметят, и вы тут же станете их добычей.",
-    "val": ", что за вами кто-то наблюдает, не оборачивайтесь явно. Если вы это сделаете, “они” заметят, и вы тут же станете их добычей."
+    "val": ", что за вами кто-то наблюдает, не оборачивайтесь. Если вы это сделаете, “они” заметят, и вы тут же станете их добычей."
   },
   {
     "key": "Just act like you’re enjoying the game and haven’t noticed anything unusual.",
@@ -232,12 +232,12 @@
   {
     "key": "Maybe you don’t believe me, but this is all true.",
     "trx": "Может быть, вы мне не верите, но все это правда.",
-    "val": "Может быть, вы мне не верите, но все это правда."
+    "val": "Может быть, вы мне не верите, но это все правда."
   },
   {
     "key": "The conspiracy is getting bigger. It’s spread throughout Japan, throughout the rest of the world. Now it’s on your very doorstep.",
     "trx": "Заговор становится все больше. Она распространилась по всей Японии, по всему остальному миру. Теперь он у самого вашего порога.",
-    "val": "Заговор становится все больше. Он распространяется по всей Японии, по всему миру. Теперь он у самого вашего порога."
+    "val": "Заговор становится все масштабнее. Он распространяется по всей Японии, даже по всему миру. Теперь он уже у вашего порога."
   },
   {
     "key": "This is not the first time I’ve included a message like this in a game.",
