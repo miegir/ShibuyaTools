@@ -227,7 +227,7 @@
   {
     "key": "You’re the man I spoke to on the phone outside, right?” Canaan asked.",
     "trx": "Вы тот человек, с которым я разговаривал по телефону снаружи, верно?” - спросил Ханаан.",
-    "val": "Вы тот человек, с которым я разговаривал по телефону снаружи, верно?” спросила Ханаан."
+    "val": "Вы тот человек, с которым я разговаривала по телефону снаружи, верно?” спросила Ханаан."
   },
   {
     "key": "“That was quite the feat. ",
@@ -547,7 +547,7 @@
   {
     "key": "amir",
     "trx": "амир",
-    "val": "амир"
+    "val": "эмир"
   },
   {
     "key": " holds such respect and fondness for you, ",
@@ -847,7 +847,7 @@
   {
     "key": "Canaan wasn’t the kind to hold that against her, or rail against the unfairness of the world.",
     "trx": "Ханаан был не из тех, кто обижается на нее за это или возмущается несправедливостью мира.",
-    "val": "Ханаан был не из тех, кто мог бы обидеться на нее за это или возмутиться из-за несправедливости мира."
+    "val": "Ханаан была не из тех, кто мог бы обидеться на нее за это или возмутиться из-за несправедливости мира."
   },
   {
     "key": "It didn’t mean she wanted to put up with it, either.",
@@ -1012,7 +1012,7 @@
   {
     "key": "—f sand.",
     "trx": "— f песок.",
-    "val": "— песка."
+    "val": " — песка."
   },
   {
     "key": "A dangerous blue, a gentle red, a painful yellow.",
@@ -1247,7 +1247,7 @@
   {
     "key": "Supposedly this limitation of the military presence was all out of concern for the complicated political situation, but she couldn’t help but wonder if it was more a concern for saving money on soldiers’ pay.",
     "trx": "Предположительно, это ограничение военного присутствия было вызвано заботой о сложной политической ситуации, но она не могла не задаться вопросом, не было ли это больше заботой об экономии денег на жалованье солдатам.",
-    "val": "Предположительно, ограничение военного присутствия было вызвано сложной политической ситуацией, но она не могла не задаться вопросом, не было ли это вызвано больше желанием сэкономить деньги на жалованье солдатам."
+    "val": "Предположительно, ограничение военного присутствия было вызвано сложной политической ситуацией, но она не могла не задаться вопросом, не было ли это вызвано больше желанием сэкономить деньги на жаловании солдатам."
   },
   {
     "key": "The major powers touted peace while enforcing virtue—when they could be bothered.",
