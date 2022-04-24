@@ -47,6 +47,7 @@
     <Expression Match="\bАбу-Грейб\b" />
     <Expression Match="\bАгаа+!" />
     <Expression Match="\bальтер-эго\b" Options="IgnoreCase" />
+    <Expression Match="\bАлюми-Мама\b" />
     <Expression Match="\bБлэк хоука?\b" />
     <Expression Match="\bва-банк\b" />
     <Expression Match="\bГамаль Абдель Насер\b" />
@@ -74,6 +75,7 @@
     <Expression Match="\bпомоги+те!" Options="IgnoreCase" />
     <Expression Match="\bпроиграа+ла?!" />
     <Expression Match="\bРр+ах+!" />
+    <Expression Match="\bстарина Скрапс\b" />
     <Expression Match="\bТхабана-Нтленьяна\b" />
     <Expression Match="\bУа(ха)+!" />
     <Expression Match="\bУра-Хара\b" />
@@ -94,6 +96,7 @@
     <Expression Match="“Гррах!”" />
     <Expression Match="“покси\b" />
     <Expression Match="“халав(а|ех)\b" />
+    <Expression Match="\bсеконд-хенд" />
   </ExclusionExpressions>
   <SpellCheckAsYouType>True</SpellCheckAsYouType>
   <IncludeInProjectSpellCheck>True</IncludeInProjectSpellCheck>
