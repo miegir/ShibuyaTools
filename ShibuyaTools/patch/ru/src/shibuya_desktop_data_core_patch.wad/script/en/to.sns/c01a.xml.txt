@@ -2782,7 +2782,7 @@
   {
     "key": "My family, my father—people I should have been proud of—had too many flaws.",
     "trx": "Моя семья, мой отец — люди, которыми я должен был гордиться, — имели слишком много недостатков.",
-    "val": "Моя семья, мой отец — люди, которыми я должна был гордиться — имели слишком много недостатков."
+    "val": "Моя семья, мой отец — люди, которыми я должна была гордиться — имели слишком много недостатков."
   },
   {
     "key": "People of conscience, who esteemed a righteous society, who embraced complicated and contradictory things, who tried to become good ",
@@ -3132,7 +3132,7 @@
   {
     "key": "I’d wanted to ask him, secretly, but there was no allowance for questions while he was my shield.",
     "trx": "Я хотел спросить его тайно, но не было возможности задавать вопросы, пока он был моим щитом.",
-    "val": "Я хотела по секрету спросить его об этом, но пока он был моим щитом, возможности задавать вопросы у меня но не было."
+    "val": "Я хотела по секрету спросить его об этом, но пока он был моим щитом, возможности задавать вопросы у меня не было."
   },
   {
     "key": "I could only make such small talk once his time as my protector had come to an end.",
@@ -3977,7 +3977,7 @@
   {
     "key": "“Take it easy, Canaan,” Siam said. “I know you’re under a lot of stress—”",
     "trx": "“Успокойся, Ханаан\", ” сказала Сиам. ”Я знаю, что ты испытываешь сильный стресс...\"",
-    "val": "“Успокойся, Ханаан,” сказала Сиам. “Я знаю, что ты испытываешь сильный стресс—”"
+    "val": "“Успокойся, Ханаан,” сказал Сиам. “Я знаю, что ты испытываешь сильный стресс—”"
   },
   {
     "key": "“Siam,” Sadaqah interjected, “do you mind if I interrupt real quick?”",
@@ -4737,7 +4737,7 @@
   {
     "key": "The fighting had honed him on every level.",
     "trx": "Боевые действия отточили его на всех уровнях.",
-    "val": "Боевые действия отточили его на кадом уровне."
+    "val": "Боевые действия отточили его на каждом уровне."
   },
   {
     "key": "Much of it had been purely mercenary, to secure funding to keep his organization afloat, but he recognized that as being meaningful in its own way.",
@@ -5987,7 +5987,7 @@
   {
     "key": "“Synesthesia,” she said. “I read about it in the report. Is that how you did that just now?”",
     "trx": "”Синестезия\", - сказала она. “Я читал об этом в отчете. Вот как ты только что это сделал?”",
-    "val": "“Синестезия,” сказала она. “Я читала об этом в отчете. Так ты только это это сделала?”"
+    "val": "“Синестезия,” сказала она. “Я читала об этом в отчете. Вот как ты только что это сделала?”"
   },
   {
     "key": "“It’s just...a different way of understanding things. I can see what colors the numbers and letters are.”",
@@ -6097,7 +6097,7 @@
   {
     "key": "It went beyond vision and hearing simply working as a “combined sense”; it created a new form of perception in its own right.",
     "trx": "Он вышел за рамки зрения и слуха, просто работая как “комбинированное чувство”; он создал новую форму восприятия сам по себе.",
-    "val": "Это выходит рамки зрения и слуха, работая как “комбинированное чувство”; оно создает новую форму восприятия само по себе."
+    "val": "Это выходит за рамки зрения и слуха, работая как “комбинированное чувство”; оно создает новую форму восприятия само по себе."
   },
   {
     "key": "The senses themselves didn’t ",
@@ -6892,7 +6892,7 @@
   {
     "key": "This was no time for hesitation. This was time for battle.",
     "trx": "Сейчас не было времени для колебаний. Это было время для битвы.",
-    "val": "Сейчас не было времени для колебаний. Это было время битвы."
+    "val": "Сейчас не было времени для колебаний. Настало время битвы."
   },
   {
     "key": "“You? Alone?” Sadaqah was incredulous. “Are you out of your mind? Having confidence in your skills is one thing, but be realistic. There are ",
