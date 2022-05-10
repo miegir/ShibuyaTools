@@ -26,9 +26,11 @@
     <Expression Match="\&quot;Нихон-го дэ дайджобу дэс\&quot;" />
     <Expression Match="\\\&quot;Централ Таймс\\\&quot;" />
     <Expression Match="\b([Аа]йки-)?дзюдзюцу\b" />
+    <Expression Match="\b(Канто-)?Сираминэ-гуми\b" />
     <Expression Match="\b[Аа]а+х+\b" />
     <Expression Match="\b[Аа]а+-чи\b" />
     <Expression Match="\b[Аа]-ха+!" />
+    <Expression Match="\b[Вв]а+у\b" />
     <Expression Match="\b[Дд]а+\b" />
     <Expression Match="\b[Нн]ее+т!" />
     <Expression Match="\b[Оо]о*х\b" />
@@ -50,6 +52,8 @@
     <Expression Match="\bальтер-эго\b" Options="IgnoreCase" />
     <Expression Match="\bАлюми-Мама\b" />
     <Expression Match="\bАнти-К\b" />
+    <Expression Match="\bБва(ха)+!" />
+    <Expression Match="\bБваа+\b" />
     <Expression Match="\bБлэк хоука?\b" />
     <Expression Match="\bва-банк\b" />
     <Expression Match="\bГамаль Абдель Насер\b" />
@@ -62,7 +66,6 @@
     <Expression Match="\bИи+\b" />
     <Expression Match="\bИи+п+\b" />
     <Expression Match="\bКа+к?" Options="IgnoreCase" />
-    <Expression Match="\bКанто-Сираминэ-гуми\b" />
     <Expression Match="\bКинг-Конг" />
     <Expression Match="\bКияя+!" />
     <Expression Match="\bкорнуоллского Слэша\b" />
@@ -77,26 +80,35 @@
     <Expression Match="\bНагата-Тё\b" />
     <Expression Match="\bНега-Чоу\b" />
     <Expression Match="\bнесправедлии+во!" />
+    <Expression Match="\bНи хао!" />
+    <Expression Match="\bНуу+..." />
     <Expression Match="\bОо+х+\b" />
     <Expression Match="\bО-оу\b" />
     <Expression Match="\bОу+!" />
     <Expression Match="\bПинпо-кун\b" />
     <Expression Match="\bПожаа+луйста!" />
     <Expression Match="\bпомоги+те!" Options="IgnoreCase" />
+    <Expression Match="\bпо-пекински\b" />
     <Expression Match="\bпроиграа+ла?!" />
+    <Expression Match="\bПфф+\b" />
     <Expression Match="\bРр+ах+!" />
     <Expression Match="\bРру(-рру)+\b" />
     <Expression Match="\bсеконд-хенд" />
     <Expression Match="\bстарина Скрапс\b" />
     <Expression Match="\bТхабана-Нтленьяна\b" />
     <Expression Match="\bУа(ха)+!" />
+    <Expression Match="\bУи, Марсель\b" />
     <Expression Match="\bУра-Хара\b" />
+    <Expression Match="\bУу+\b" />
     <Expression Match="\bУф+!" Options="IgnoreCase" />
+    <Expression Match="\bУхх+\b" />
     <Expression Match="\bфан-страниц" Options="IgnoreCase" />
     <Expression Match="\bФорт-Детрик" />
     <Expression Match="\bфуд-корт" Options="IgnoreCase" />
     <Expression Match="\bХи+-йа+!" />
     <Expression Match="\bхмм+\b" />
+    <Expression Match="\bхрр+уст(ом)?\b" />
+    <Expression Match="\bХу Цзяо\b" />
     <Expression Match="\bЦентр Гай\b" />
     <Expression Match="\bЦентрал Таймс\b" />
     <Expression Match="\bЧее+рт!" Options="IgnoreCase" />
@@ -112,7 +124,7 @@
     <Expression Match="“покси\b" />
     <Expression Match="“Уыа+" />
     <Expression Match="“халав(а|ех)\b" />
-    <Expression Match="\bБва(ха)+!" />
+    <Expression Match="\bМагнифико!" />
   </ExclusionExpressions>
   <SpellCheckAsYouType>True</SpellCheckAsYouType>
   <IncludeInProjectSpellCheck>True</IncludeInProjectSpellCheck>
