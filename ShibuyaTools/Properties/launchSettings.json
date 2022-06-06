@@ -6,7 +6,7 @@
     },
     "Patch [ru]": {
       "commandName": "Project",
-      "commandLineArgs": "p -s \"D:\\dev\\shibuya\\bak\" -r \"D:\\dev\\windows\\repos\\ShibuyaTools\\ShibuyaTools\\patch\\ru\\src\" -t \"D:\\games\\Steam\\steamapps\\common\\428_shibuya_scramble_en\" --launch"
+      "commandLineArgs": "p -s \"D:\\dev\\shibuya\\bak\" -r \"..\\..\\..\\patch\\ru\\src\" -t \"D:\\games\\Steam\\steamapps\\common\\428_shibuya_scramble_en\" --launch"
     }
   }
 }
