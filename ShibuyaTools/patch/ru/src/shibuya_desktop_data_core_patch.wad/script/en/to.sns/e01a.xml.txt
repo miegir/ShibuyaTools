@@ -1992,7 +1992,7 @@
   {
     "key": "So what happened, you see, is that flammable methane from here was ignited by flames from the minivan explosion, triggering a second explosion.”",
     "trx": "Итак, вы видите, что произошло, так это то, что горючий метан отсюда воспламенился пламенем от взрыва микроавтобуса, вызвав второй взрыв.”",
-    "val": "Поэтому, произошедший здесь второй взрыв произошел из-за воспламенения горючего метана, вызванного пламенем от взрыва фургона.”"
+    "val": "Поэтому, произошедший здесь второй взрыв случился из-за воспламенения горючего метана, вызванного пламенем от взрыва фургона.”"
   },
   {
     "key": "The others just stood there, staring at him even ",
@@ -2247,7 +2247,7 @@
   {
     "key": "“Old man, what happened to you...?” ",
     "trx": "“Старик, что с тобой случилось?..” ",
-    "val": "“Старик, что с тобой случилось?..” "
+    "val": "“Старик, что с тобой случилось...?” "
   },
   {
     "key": "Most of his jar was gone; the roots of the plant that had been potted within him now barely managed to cling to his face, holding it together.",
