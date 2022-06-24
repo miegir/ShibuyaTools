@@ -5,3 +5,5 @@ obj
 
 *.ivf
 ~*.docx
+
+launchSettings.json

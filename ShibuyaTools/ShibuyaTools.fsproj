@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Include="Properties\launchSettings.json" />
+    <None Include="Properties\**\*.*" />
     <None Include="patch\**\*.*" />
     <Compile Include="utils\IO.fs" />
     <Compile Include="utils\Reader.fs" />
