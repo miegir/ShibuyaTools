@@ -4472,7 +4472,7 @@
   {
     "key": "It was ready to blow itself up.",
     "trx": "Он был готов взорвать сам себя.",
-    "val": "Оно был готово взорвать само себя."
+    "val": "Оно было готово взорвать само себя."
   },
   {
     "key": "Shorting out the lines would send up a shower of sparks.",
