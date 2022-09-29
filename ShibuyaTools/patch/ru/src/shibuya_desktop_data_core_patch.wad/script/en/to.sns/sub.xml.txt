@@ -1802,7 +1802,7 @@
   {
     "key": "The pink bunny costume is one the company has on hand for rental.",
     "trx": "Костюм розового кролика - один из тех, что компания имеет в наличии для проката.",
-    "val": "Костюм розового кролика был одним из тех костюмов, которые компания напрокат."
+    "val": "Костюм розового кролика был одним из тех костюмов, которые компания сдает напрокат."
   },
   {
     "key": "Fukuma lets out a sigh of relief.",
@@ -2207,7 +2207,7 @@
   {
     "key": "Now’s my chance!",
     "trx": "Теперь у меня есть шанс!",
-    "val": "Теперь у меня есть шанс!"
+    "val": "Это мой шанс!"
   },
   {
     "key": "Fukuma’s eyes snap back open, and he drinks in the sight of the young woman’s back.",
