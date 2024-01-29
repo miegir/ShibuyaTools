@@ -4,6 +4,9 @@ bin
 obj
 
 *.ivf
+!*.ru.ivf
+
+*.zip
 ~*.docx
 
 launchSettings.json
