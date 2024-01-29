@@ -1,3 +1,10 @@
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.userprefs
+
 .vs
 
 bin
