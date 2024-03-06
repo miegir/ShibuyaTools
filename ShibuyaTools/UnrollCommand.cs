@@ -5,16 +5,16 @@ using ShibuyaTools.Games;
 
 namespace ShibuyaTools;
 
-[Command("unroll")]
+[Command("unroll", Description = "Restores game files from a backup.")]
 internal class UnrollCommand(ILogger<UnrollCommand> logger)
 {
 #nullable disable
     [Required]
     [FileExists]
-    [Option("-g|--game-path")]
+    [Option("-g|--game-path", Description = "Game executable path.")]
     public string GamePath { get; }
 
-    [Option("-b|--backup-directory")]
+    [Option("-b|--backup-directory", Description = "Game backup directory. Defaults to the game directory.")]
     public string BackupDirectory { get; }
 #nullable restore
 

@@ -6,27 +6,27 @@ using ShibuyaTools.Games;
 
 namespace ShibuyaTools;
 
-[Command("export")]
+[Command("export", Description = "Exports game assets.")]
 internal class ExportCommand(ILogger<ExportCommand> logger)
 {
 #nullable disable
     [Required]
     [FileExists]
-    [Option("-g|--game-path")]
+    [Option("-g|--game-path", Description = "Game executable path.")]
     public string GamePath { get; }
 
     [Required]
     [LegalFilePath]
-    [Option("-e|--export-directory")]
+    [Option("-e|--export-directory", Description = "Directory to place exported assets into.")]
     public string ExportDirectory { get; }
 
-    [Option("-b|--backup-directory")]
+    [Option("-b|--backup-directory", Description = "Game backup directory. Defaults to the game directory.")]
     public string BackupDirectory { get; }
 
-    [Option("-f|--force")]
+    [Option("-f|--force", Description = "Overwrite existing files.")]
     public bool Force { get; }
 
-    [Option("--force-export")]
+    [Option("--force-export", Description = "Overwrite exported assets.")]
     public bool ForceExport { get; }
 #nullable restore
 

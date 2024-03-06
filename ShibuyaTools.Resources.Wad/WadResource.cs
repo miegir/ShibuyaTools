@@ -116,7 +116,11 @@ public class WadResource(ILogger logger, FileSource source) : IResource
             yield return () =>
             {
                 logger.LogInformation("unrolling {name}...", name);
-                source.Unroll();
+                using (logger.BeginScope("unrolling {name}", name))
+                {
+                    var progressReporter = new ProgressReporter(logger);
+                    source.Unroll(progressReporter.ReportProgress);
+                }
             };
         }
     }

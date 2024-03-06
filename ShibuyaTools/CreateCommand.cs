@@ -6,40 +6,40 @@ using ShibuyaTools.Games;
 
 namespace ShibuyaTools;
 
-[Command("create")]
+[Command("create", Description = "Creates asset .zip bundle.")]
 internal class CreateCommand(ILogger<CreateCommand> logger)
 {
 #nullable disable
     [Required]
     [FileExists]
-    [Option("-g|--game-path")]
+    [Option("-g|--game-path", Description = "Game executable path.")]
     public string GamePath { get; }
 
     [Required]
     [DirectoryExists]
-    [Option("-s|--source-directory")]
+    [Option("-s|--source-directory", Description = "Directory containing source assets.")]
     public string SourceDirectory { get; }
 
     [Required]
     [LegalFilePath]
-    [Option("-j|--object-directory")]
+    [Option("-j|--object-directory", Description = "Intermediate output directory.")]
     public string ObjectDirectory { get; }
 
-    [Option("-b|--backup-directory")]
+    [Option("-b|--backup-directory", Description = "Game backup directory. Defaults to the game directory.")]
     public string BackupDirectory { get; }
 
     [Required]
     [LegalFilePath]
-    [Option("-a|--archive-path")]
+    [Option("-a|--archive-path", Description = "Path to the created asset bundle.")]
     public string ArchivePath { get; }
 
-    [Option("-f|--force")]
+    [Option("-f|--force", Description = "Overwrite unchanged files.")]
     public bool Force { get; }
 
-    [Option("--force-objects")]
+    [Option("--force-objects", Description = "Overwrite unchanged intermediate files.")]
     public bool ForceObjects { get; }
 
-    [Option("--force-pack")]
+    [Option("--force-pack", Description = "Overwrite unchanged bundle.")]
     public bool ForcePack { get; }
 #nullable restore
 

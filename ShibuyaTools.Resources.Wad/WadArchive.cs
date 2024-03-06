@@ -92,9 +92,9 @@ internal sealed class WadArchive : IDisposable
         Close();
 
         logger.LogInformation("creating target...");
-        var stopwatch = Stopwatch.StartNew();
         var scope = logger.BeginScope("creating target");
-        using var target = source.CreateTarget(ReportProgress);
+        var progressReporter = new ProgressReporter(logger);
+        using var target = source.CreateTarget(progressReporter.ReportProgress);
         scope?.Dispose();
         logger.LogInformation("writing header...");
 
@@ -106,7 +106,7 @@ internal sealed class WadArchive : IDisposable
 
         logger.LogInformation("writing content...");
         scope = logger.BeginScope("writing content");
-        stopwatch.Restart();
+        progressReporter.Restart();
 
         foreach (var file in targetFileSourceList)
         {
@@ -130,44 +130,16 @@ internal sealed class WadArchive : IDisposable
                     break;
             }
 
-            if (stopwatch.Elapsed.TotalSeconds > 1)
-            {
-                ReportProgress(new ProgressPayload<long>(
+            progressReporter.ReportProgress(
+                progress: new ProgressPayload<long>(
                     Total: totalLength,
                     Position: target.Stream.Position));
-
-                stopwatch.Restart();
-            }
         }
 
         scope?.Dispose();
         logger.LogDebug("writing wad done.");
         Close();
         target.Commit();
-
-        void ReportProgress(ProgressPayload<long> progress)
-        {
-            if (stopwatch.Elapsed.TotalSeconds > 1)
-            {
-                logger.LogDebug(
-                    "written {count} of {total} ({progress:0.00}%)",
-                    FormatLength(progress.Position),
-                    FormatLength(progress.Total),
-                    progress.Position * 100.0 / progress.Total);
-
-                stopwatch.Restart();
-            }
-        }
-    }
-
-    private static string FormatLength(float length)
-    {
-        if (length < 1024) return $"{length:0.00}B";
-        length /= 1024;
-        if (length < 1024) return $"{length:0.00}KB";
-        length /= 1024;
-        if (length < 1024) return $"{length:0.00}MB";
-        return $"{length:0.00}GB";
     }
 
     private Stream EnsureStream() => stream ??= source.OpenRead();

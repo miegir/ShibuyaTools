@@ -24,12 +24,7 @@ public sealed class FileSource(string sourcePath, string backupPath)
 
             if (sourceDir != backupDir)
             {
-                using var target = new FileTarget(backupPath);
-                using var source = File.OpenRead(sourcePath);
-                source.CopyTo(target.Stream, callback);
-                target.CopyFileInfo(sourcePath);
-                target.Commit();
-
+                Copy(sourcePath, backupPath, callback);
                 createBackupIfNotExists = false; // already backed up
             }
         }
@@ -37,11 +32,31 @@ public sealed class FileSource(string sourcePath, string backupPath)
         return new(sourcePath, createBackupIfNotExists);
     }
 
-    public void Unroll()
+    public void Unroll(ProgressCallback<long> callback)
     {
         if (File.Exists(backupPath))
         {
-            File.Move(backupPath, sourcePath, overwrite: true);
+            var sourceDir = Path.GetDirectoryName(sourcePath);
+            var backupDir = Path.GetDirectoryName(backupPath);
+
+            // Only copy backup if the directory is different
+            if (sourceDir == backupDir)
+            {
+                File.Move(backupPath, sourcePath, overwrite: true);
+            }
+            else
+            {
+                Copy(backupPath, sourcePath, callback);
+            }
         }
+    }
+
+    private static void Copy(string sourcePath, string targetPath, ProgressCallback<long> callback)
+    {
+        using var target = new FileTarget(targetPath);
+        using var source = File.OpenRead(sourcePath);
+        source.CopyTo(target.Stream, callback);
+        target.CopyFileInfo(sourcePath);
+        target.Commit();
     }
 }

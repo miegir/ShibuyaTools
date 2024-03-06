@@ -6,41 +6,41 @@ using ShibuyaTools.Games;
 
 namespace ShibuyaTools;
 
-[Command("import")]
+[Command("import", Description = "Imports source files into the game assets.")]
 internal class ImportCommand(ILogger<ImportCommand> logger)
 {
 #nullable disable
     [Required]
     [FileExists]
-    [Option("-g|--game-path")]
+    [Option("-g|--game-path", Description = "Game executable path.")]
     public string GamePath { get; }
 
     [Required]
     [DirectoryExists]
-    [Option("-s|--source-directory")]
+    [Option("-s|--source-directory", Description = "Directory containing source assets.")]
     public string SourceDirectory { get; }
 
     [Required]
     [LegalFilePath]
-    [Option("-j|--object-directory")]
+    [Option("-j|--object-directory", Description = "Intermediate output directory.")]
     public string ObjectDirectory { get; }
 
-    [Option("-b|--backup-directory")]
+    [Option("-b|--backup-directory", Description = "Game backup directory. Defaults to the game directory.")]
     public string BackupDirectory { get; }
 
-    [Option("-f|--force")]
+    [Option("-f|--force", Description = "Overwrite unchanged files.")]
     public bool Force { get; }
 
-    [Option("--force-objects")]
+    [Option("--force-objects", Description = "Overwrite unchanged intermediate files.")]
     public bool ForceObjects { get; }
 
-    [Option("--force-targets")]
+    [Option("--force-targets", Description = "Overwrite unchanged game files.")]
     public bool ForceTargets { get; }
 
-    [Option("-d|--debug")]
+    [Option("-d|--debug", Description = "Include debug information.")]
     public bool Debug { get; }
 
-    [Option("-l|--launch")]
+    [Option("-l|--launch", Description = "Launch the game after import.")]
     public bool Launch { get; }
 #nullable restore
 
