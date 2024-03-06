@@ -13,14 +13,21 @@ internal class UnrollCommand(ILogger<UnrollCommand> logger)
     [FileExists]
     [Option("-g|--game-path")]
     public string GamePath { get; }
+
+    [Option("-b|--backup-directory")]
+    public string BackupDirectory { get; }
 #nullable restore
 
     public void OnExecute()
     {
         logger.LogInformation("executing...");
 
-        new ShibuyaGame(logger, GamePath)
-            .Unroll();
+        var game = new ShibuyaGame(
+            logger: logger,
+            gamePath: GamePath,
+            backupDirectory: BackupDirectory);
+
+        game.Unroll();
 
         logger.LogInformation("executed.");
     }

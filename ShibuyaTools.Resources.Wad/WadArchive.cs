@@ -1,6 +1,6 @@
 ﻿using System.Collections.Frozen;
 using System.Diagnostics;
-using System.Reflection.PortableExecutable;
+using System.Text;
 using Microsoft.Extensions.Logging;
 using ShibuyaTools.Core;
 
@@ -9,18 +9,17 @@ namespace ShibuyaTools.Resources.Wad;
 internal sealed class WadArchive : IDisposable
 {
     private readonly FileSource source;
-    private readonly Stream stream;
-    private readonly BinaryReader reader;
     private readonly WadHeader header;
     private readonly long dataOffset;
     private readonly FrozenSet<string> existingFileNames;
     private readonly List<TargetFile> targetFileSourceList = [];
+    private Stream? stream;
 
     public WadArchive(FileSource source)
     {
         this.source = source;
-        stream = source.OpenRead();
-        reader = new BinaryReader(stream);
+        var stream = EnsureStream();
+        using var reader = CreateReader(stream);
         header = WadHeader.Read(reader);
         dataOffset = stream.Position;
         existingFileNames = header.Files
@@ -32,20 +31,22 @@ internal sealed class WadArchive : IDisposable
 
     public void Dispose()
     {
-        reader.Dispose();
-        stream.Dispose();
+        Close();
     }
 
     public bool Exists(string name) => existingFileNames.Contains(name);
 
     public byte[] Read(WadFile file)
     {
+        var stream = EnsureStream();
+        using var reader = CreateReader(stream);
         stream.Position = dataOffset + file.Offset;
         return reader.ReadBytes((int)file.Size);
     }
 
     public void Export(WadFile file, string path)
     {
+        var stream = EnsureStream();
         using var target = new FileTarget(path);
         stream.Position = dataOffset + file.Offset;
         stream.CopyBytesTo(target.Stream, file.Size);
@@ -87,22 +88,32 @@ internal sealed class WadArchive : IDisposable
         }
 
         var targetHeader = header with { Files = targetFiles };
-        using var target = source.CreateTarget();
-        using var writer = new BinaryWriter(target.Stream);
 
+        Close();
+
+        logger.LogInformation("creating target...");
+        var stopwatch = Stopwatch.StartNew();
+        var scope = logger.BeginScope("creating target");
+        using var target = source.CreateTarget(ReportProgress);
+        scope?.Dispose();
+        logger.LogInformation("writing header...");
+
+        using var writer = new BinaryWriter(target.Stream);
         targetHeader.WriteTo(writer);
         writer.Flush();
 
-        var totalLength = FormatLength(target.Stream.Position + targetFileSourceList.Sum(file => file.Body.GetLength()));
-        var stopwatch = Stopwatch.StartNew();
+        var totalLength = target.Stream.Position + targetFileSourceList.Sum(file => file.Body.GetLength());
 
-        logger.LogInformation("writing wad...");
+        logger.LogInformation("writing content...");
+        scope = logger.BeginScope("writing content");
+        stopwatch.Restart();
 
         foreach (var file in targetFileSourceList)
         {
             switch (file.Body)
             {
                 case TargetBody.Internal(var offset, var length):
+                    var stream = EnsureStream();
                     stream.Position = offset;
                     stream.CopyBytesTo(target.Stream, length);
                     break;
@@ -121,14 +132,32 @@ internal sealed class WadArchive : IDisposable
 
             if (stopwatch.Elapsed.TotalSeconds > 1)
             {
-                logger.LogDebug("written {count} of {total}", FormatLength(target.Stream.Position), totalLength);
+                ReportProgress(new ProgressPayload<long>(
+                    Total: totalLength,
+                    Position: target.Stream.Position));
+
                 stopwatch.Restart();
             }
         }
 
+        scope?.Dispose();
         logger.LogDebug("writing wad done.");
-        stream.Close();
+        Close();
         target.Commit();
+
+        void ReportProgress(ProgressPayload<long> progress)
+        {
+            if (stopwatch.Elapsed.TotalSeconds > 1)
+            {
+                logger.LogDebug(
+                    "written {count} of {total} ({progress:0.00}%)",
+                    FormatLength(progress.Position),
+                    FormatLength(progress.Total),
+                    progress.Position * 100.0 / progress.Total);
+
+                stopwatch.Restart();
+            }
+        }
     }
 
     private static string FormatLength(float length)
@@ -139,6 +168,23 @@ internal sealed class WadArchive : IDisposable
         length /= 1024;
         if (length < 1024) return $"{length:0.00}MB";
         return $"{length:0.00}GB";
+    }
+
+    private Stream EnsureStream() => stream ??= source.OpenRead();
+
+    private static BinaryReader CreateReader(Stream stream)
+    {
+        return new BinaryReader(stream, Encoding.UTF8, leaveOpen: true);
+    }
+
+    private void Close()
+    {
+        var disposable = stream;
+        if (disposable is not null)
+        {
+            stream = null;
+            disposable?.Dispose();
+        }
     }
 
     private record TargetFile(string Name, TargetBody Body);

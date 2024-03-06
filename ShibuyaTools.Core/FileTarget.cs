@@ -19,6 +19,25 @@ public sealed class FileTarget : IDisposable
     public FileStream Stream { get; }
     public string Extension => Path.GetExtension(path);
 
+    internal void CopyFileInfo(string sourcePath)
+    {
+        var sourceInfo = new FileInfo(sourcePath);
+        var targetInfo = new FileInfo(temporaryPath);
+        if (sourceInfo.Exists && targetInfo.Exists)
+        {
+            targetInfo.CreationTimeUtc = sourceInfo.CreationTimeUtc;
+            targetInfo.LastWriteTimeUtc = sourceInfo.LastWriteTimeUtc;
+            targetInfo.LastAccessTimeUtc = sourceInfo.LastAccessTimeUtc;
+            targetInfo.Attributes = sourceInfo.Attributes;
+            targetInfo.IsReadOnly = sourceInfo.IsReadOnly;
+
+            if (OperatingSystem.IsLinux())
+            {
+                targetInfo.UnixFileMode = sourceInfo.UnixFileMode;
+            }
+        }
+    }
+
     public void Commit()
     {
         if (disposed)

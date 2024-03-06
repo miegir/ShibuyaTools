@@ -20,6 +20,9 @@ internal class ExportCommand(ILogger<ExportCommand> logger)
     [Option("-e|--export-directory")]
     public string ExportDirectory { get; }
 
+    [Option("-b|--backup-directory")]
+    public string BackupDirectory { get; }
+
     [Option("-f|--force")]
     public bool Force { get; }
 
@@ -31,8 +34,14 @@ internal class ExportCommand(ILogger<ExportCommand> logger)
     {
         logger.LogInformation("executing...");
 
-        new ShibuyaGame(logger, GamePath)
-            .Export(new ExportArguments(ExportDirectory, Force: Force || ForceExport));
+        var game = new ShibuyaGame(
+            logger: logger,
+            gamePath: GamePath,
+            backupDirectory: BackupDirectory);
+
+        game.Export(new ExportArguments(
+            ExportDirectory: ExportDirectory,
+            Force: Force || ForceExport));
 
         logger.LogInformation("executed.");
     }

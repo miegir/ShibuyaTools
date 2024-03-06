@@ -1,8 +1,8 @@
-﻿using McMaster.Extensions.CommandLineUtils;
+﻿using System.ComponentModel.DataAnnotations;
+using McMaster.Extensions.CommandLineUtils;
 using Microsoft.Extensions.Logging;
 using ShibuyaTools.Core;
 using ShibuyaTools.Games;
-using System.ComponentModel.DataAnnotations;
 
 namespace ShibuyaTools;
 
@@ -14,6 +14,9 @@ internal class UnpackCommand(ILogger<UnpackCommand> logger)
     [FileExists]
     [Option("-g|--game-path")]
     public string GamePath { get; }
+
+    [Option("-b|--backup-directory")]
+    public string BackupDirectory { get; }
 
     [Required]
     [FileExists]
@@ -33,7 +36,11 @@ internal class UnpackCommand(ILogger<UnpackCommand> logger)
 
         using var stream = File.OpenRead(ArchivePath);
         using var container = new ObjectContainer(stream);
-        var game = new ShibuyaGame(logger, GamePath);
+
+        var game = new ShibuyaGame(
+            logger: logger,
+            gamePath: GamePath,
+            backupDirectory: BackupDirectory);
 
         game.Unpack(new UnpackArguments(
             Container: container,

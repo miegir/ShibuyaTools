@@ -6,6 +6,30 @@ public static class StreamExtensions
 {
     private const int DefaultBufferSize = 32767;
 
+    public static void CopyTo(this Stream source, Stream target, ProgressCallback<long> callback)
+    {
+        var buffer = ArrayPool<byte>.Shared.Rent(DefaultBufferSize);
+
+        try
+        {
+            int read;
+            var total = source.Length;
+            var copied = 0L;
+
+            while ((read = source.Read(buffer, 0, buffer.Length)) > 0)
+            {
+                target.Write(buffer, 0, read);
+
+                callback(new ProgressPayload<long>(
+                    Total: total, Position: copied += read));
+            }
+        }
+        finally
+        {
+            ArrayPool<byte>.Shared.Return(buffer);
+        }
+    }
+
     public static void CopyBytesTo(this Stream source, Stream target, long count)
     {
         var bufferSize = DefaultBufferSize;

@@ -25,6 +25,9 @@ internal class ImportCommand(ILogger<ImportCommand> logger)
     [Option("-j|--object-directory")]
     public string ObjectDirectory { get; }
 
+    [Option("-b|--backup-directory")]
+    public string BackupDirectory { get; }
+
     [Option("-f|--force")]
     public bool Force { get; }
 
@@ -45,7 +48,10 @@ internal class ImportCommand(ILogger<ImportCommand> logger)
     {
         logger.LogInformation("executing...");
 
-        var game = new ShibuyaGame(logger, GamePath);
+        var game = new ShibuyaGame(
+            logger: logger,
+            gamePath: GamePath,
+            backupDirectory: BackupDirectory);
 
         game.Import(new ImportArguments(
             SourceDirectory: SourceDirectory,

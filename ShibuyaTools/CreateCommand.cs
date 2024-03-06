@@ -1,8 +1,8 @@
-﻿using McMaster.Extensions.CommandLineUtils;
+﻿using System.ComponentModel.DataAnnotations;
+using McMaster.Extensions.CommandLineUtils;
 using Microsoft.Extensions.Logging;
 using ShibuyaTools.Core;
 using ShibuyaTools.Games;
-using System.ComponentModel.DataAnnotations;
 
 namespace ShibuyaTools;
 
@@ -25,6 +25,9 @@ internal class CreateCommand(ILogger<CreateCommand> logger)
     [Option("-j|--object-directory")]
     public string ObjectDirectory { get; }
 
+    [Option("-b|--backup-directory")]
+    public string BackupDirectory { get; }
+
     [Required]
     [LegalFilePath]
     [Option("-a|--archive-path")]
@@ -46,12 +49,16 @@ internal class CreateCommand(ILogger<CreateCommand> logger)
 
         var sink = new MusterSink(logger);
 
-        new ShibuyaGame(logger, GamePath)
-            .Muster(new MusterArguments(
-                Sink: sink,
-                SourceDirectory: SourceDirectory,
-                ObjectDirectory: ObjectDirectory,
-                ForceObjects: Force || ForceObjects));
+        var game = new ShibuyaGame(
+            logger: logger,
+            gamePath: GamePath,
+            backupDirectory: BackupDirectory);
+
+        game.Muster(new MusterArguments(
+            Sink: sink,
+            SourceDirectory: SourceDirectory,
+            ObjectDirectory: ObjectDirectory,
+            ForceObjects: Force || ForceObjects));
 
         sink.Pack(new PackArguments(
             ArchivePath: ArchivePath,
