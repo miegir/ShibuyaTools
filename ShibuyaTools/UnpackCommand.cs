@@ -27,6 +27,12 @@ internal class UnpackCommand(ILogger<UnpackCommand> logger)
     [Option("-m|--manifest-resource-name", Description = "Manifest resource name inside the bundle (when the bundle is an .exe or .dll). Do not specify a value for .zip bundles.")]
     public string ManifestResourceName { get; }
 
+    [Option("-f|--force", Description = "Overwrite unchanged files.")]
+    public bool Force { get; }
+
+    [Option("--force-targets", Description = "Overwrite unchanged game files.")]
+    public bool ForceTargets { get; }
+
     [Option("-d|--debug", Description = "Include debug information.")]
     public bool Debug { get; }
 
@@ -34,7 +40,7 @@ internal class UnpackCommand(ILogger<UnpackCommand> logger)
     public bool Launch { get; }
 #nullable restore
 
-    public void OnExecute()
+    public void OnExecute(CancellationToken cancellationToken)
     {
         logger.LogInformation("executing...");
 
@@ -46,15 +52,25 @@ internal class UnpackCommand(ILogger<UnpackCommand> logger)
             gamePath: GamePath,
             backupDirectory: BackupDirectory);
 
-        game.Unpack(new UnpackArguments(
-            Container: container,
-            Debug: Debug));
-
-        logger.LogInformation("executed.");
-
-        if (Launch)
+        try
         {
-            game.Launch();
+            game.Unpack(
+                new UnpackArguments(
+                    Container: container,
+                    ForceTargets: Force || ForceTargets,
+                    Debug: Debug),
+                cancellationToken);
+
+            logger.LogInformation("executed.");
+
+            if (Launch)
+            {
+                game.Launch();
+            }
+        }
+        catch (OperationCanceledException)
+        {
+            logger.LogInformation("canceled.");
         }
     }
 

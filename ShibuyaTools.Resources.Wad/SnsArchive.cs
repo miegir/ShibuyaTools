@@ -28,6 +28,12 @@ internal sealed class SnsArchive : IDisposable
         stream.Dispose();
     }
 
+    public string ReadName(SnsFile file)
+    {
+        stream.Position = file.Offset;
+        return reader.ReadString(0x30);
+    }
+
     public KeyValuePair<string, byte[]> Read(SnsFile file)
     {
         stream.Position = file.Offset;

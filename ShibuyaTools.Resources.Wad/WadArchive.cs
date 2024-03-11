@@ -71,8 +71,9 @@ internal sealed class WadArchive : IDisposable
         targetFileSourceList.Add(new TargetFile(Name: name, Body: body));
     }
 
-    public void Save(ILogger logger)
+    public void Save(ILogger logger, CancellationToken cancellationToken)
     {
+        cancellationToken.ThrowIfCancellationRequested();
         var targetFileOffset = 0L;
         var targetFiles = new WadFile[targetFileSourceList.Count];
         for (var i = 0; i < targetFiles.Length; i++)
@@ -91,11 +92,11 @@ internal sealed class WadArchive : IDisposable
 
         Close();
 
+        cancellationToken.ThrowIfCancellationRequested();
         logger.LogInformation("creating target...");
-        var scope = logger.BeginScope("creating target");
         var progressReporter = new ProgressReporter(logger);
-        using var target = source.CreateTarget(progressReporter.ReportProgress);
-        scope?.Dispose();
+        using var target = CreateTarget();
+
         logger.LogInformation("writing header...");
 
         using var writer = new BinaryWriter(target.Stream);
@@ -104,42 +105,55 @@ internal sealed class WadArchive : IDisposable
 
         var totalLength = target.Stream.Position + targetFileSourceList.Sum(file => file.Body.GetLength());
 
+        cancellationToken.ThrowIfCancellationRequested();
         logger.LogInformation("writing content...");
-        scope = logger.BeginScope("writing content");
-        progressReporter.Restart();
 
-        foreach (var file in targetFileSourceList)
+        using (logger.BeginScope("writing content"))
         {
-            switch (file.Body)
+            progressReporter.Restart();
+
+            foreach (var file in targetFileSourceList)
             {
-                case TargetBody.Internal(var offset, var length):
-                    var stream = EnsureStream();
-                    stream.Position = offset;
-                    stream.CopyBytesTo(target.Stream, length);
-                    break;
+                cancellationToken.ThrowIfCancellationRequested();
 
-                case TargetBody.External(var info):
-                    using (var infoStream = info.OpenRead())
-                    {
-                        infoStream.CopyTo(target.Stream);
+                switch (file.Body)
+                {
+                    case TargetBody.Internal(var offset, var length):
+                        var stream = EnsureStream();
+                        stream.Position = offset;
+                        stream.CopyBytesTo(target.Stream, length);
                         break;
-                    }
 
-                case TargetBody.Buffer(var buffer):
-                    target.Stream.Write(buffer);
-                    break;
+                    case TargetBody.External(var info):
+                        using (var infoStream = info.OpenRead())
+                        {
+                            infoStream.CopyTo(target.Stream);
+                            break;
+                        }
+
+                    case TargetBody.Buffer(var buffer):
+                        target.Stream.Write(buffer);
+                        break;
+                }
+
+                progressReporter.ReportProgress(
+                    progress: new ProgressPayload<long>(
+                        Total: totalLength,
+                        Position: target.Stream.Position));
             }
-
-            progressReporter.ReportProgress(
-                progress: new ProgressPayload<long>(
-                    Total: totalLength,
-                    Position: target.Stream.Position));
         }
 
-        scope?.Dispose();
         logger.LogDebug("writing wad done.");
         Close();
         target.Commit();
+
+        FileTarget CreateTarget()
+        {
+            using (logger.BeginScope("creating target"))
+            {
+                return source.CreateTarget(progressReporter.ReportProgress, cancellationToken);
+            }
+        }
     }
 
     private Stream EnsureStream() => stream ??= source.OpenRead();

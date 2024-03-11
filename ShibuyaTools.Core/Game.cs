@@ -14,28 +14,28 @@ public abstract class Game(ILogger logger)
 
     protected abstract IEnumerable<IResource> EnumerateResources();
 
-    public void Export(ExportArguments arguments) => EnumerateResources()
-        .SelectMany(r => r.BeginExport(arguments))
+    public void Export(ExportArguments arguments, CancellationToken cancellationToken = default) => EnumerateResources()
+        .SelectMany(r => r.BeginExport(arguments, cancellationToken))
         .Scoped(logger, "resource")
-        .Run();
+        .Run(cancellationToken);
 
-    public void Import(ImportArguments arguments) => EnumerateResources()
-        .SelectMany(r => r.BeginImport(arguments))
+    public void Import(ImportArguments arguments, CancellationToken cancellationToken = default) => EnumerateResources()
+        .SelectMany(r => r.BeginImport(arguments, cancellationToken))
         .Scoped(logger, "resource")
-        .Run();
+        .Run(cancellationToken);
 
-    public void Muster(MusterArguments arguments) => EnumerateResources()
-        .SelectMany(r => r.BeginMuster(arguments))
+    public void Muster(MusterArguments arguments, CancellationToken cancellationToken = default) => EnumerateResources()
+        .SelectMany(r => r.BeginMuster(arguments, cancellationToken))
         .Scoped(logger, "resource")
-        .Run();
+        .Run(cancellationToken);
 
-    public void Unpack(UnpackArguments arguments) => EnumerateResources()
-        .SelectMany(r => r.BeginUnpack(arguments))
+    public void Unpack(UnpackArguments arguments, CancellationToken cancellationToken = default) => EnumerateResources()
+        .SelectMany(r => r.BeginUnpack(arguments, cancellationToken))
         .Scoped(logger, "resource")
-        .Run();
+        .Run(cancellationToken);
 
-    public void Unroll() => EnumerateResources()
-        .SelectMany(r => r.BeginUnroll())
+    public void Unroll(CancellationToken cancellationToken = default) => EnumerateResources()
+        .SelectMany(r => r.BeginUnroll(cancellationToken))
         .Scoped(logger, "resource")
-        .Run();
+        .Run(cancellationToken);
 }

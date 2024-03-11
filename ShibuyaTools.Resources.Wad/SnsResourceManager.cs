@@ -1,4 +1,5 @@
-﻿using System.Text.Json;
+﻿using System;
+using System.Text.Json;
 using Microsoft.Extensions.Logging;
 using ShibuyaTools.Core;
 
@@ -6,9 +7,9 @@ namespace ShibuyaTools.Resources.Wad;
 
 internal class SnsResourceManager(ILogger logger, byte[] bytes)
 {
-    public void Export(ExportArguments arguments)
+    public void Export(ExportArguments arguments, CancellationToken cancellationToken)
     {
-        Enumerate().Scoped(logger, "file").Run();
+        Enumerate().Scoped(logger, "file").Run(cancellationToken);
 
         IEnumerable<Action> Enumerate()
         {
@@ -47,10 +48,11 @@ internal class SnsResourceManager(ILogger logger, byte[] bytes)
         }
     }
 
-    public byte[] Import(ImportArguments arguments, SourceChangeTracker sourceChangeTracker)
+    public byte[] Import(ImportArguments arguments, SourceChangeTracker sourceChangeTracker, CancellationToken cancellationToken)
     {
         using var archive = new SnsArchive(bytes);
-        Enumerate().Scoped(logger, "xml").Run();
+        Enumerate().Scoped(logger, "xml").Run(cancellationToken);
+        cancellationToken.ThrowIfCancellationRequested();
         return archive.Save();
 
         IEnumerable<Action> Enumerate()
@@ -94,10 +96,10 @@ internal class SnsResourceManager(ILogger logger, byte[] bytes)
         }
     }
 
-    public bool Muster(ObjectPath root, MusterArguments arguments)
+    public bool Muster(ObjectPath root, MusterArguments arguments, CancellationToken cancellationToken)
     {
         using var archive = new SnsArchive(bytes);
-        return Enumerate().Scoped(logger, "xml").Run();
+        return Enumerate().Scoped(logger, "xml").Run(cancellationToken);
 
         IEnumerable<Action> Enumerate()
         {
@@ -117,10 +119,24 @@ internal class SnsResourceManager(ILogger logger, byte[] bytes)
         }
     }
 
-    internal byte[] Unpack(ObjectPath root, UnpackArguments arguments)
+    public void UnpackTest(ObjectPath root, UnpackArguments arguments, WadChangeTracker changeTracker, CancellationToken cancellationToken)
     {
         using var archive = new SnsArchive(bytes);
-        Enumerate().Scoped(logger, "xml").Run();
+
+        foreach (var file in archive.Files)
+        {
+            var name = archive.ReadName(file);
+            if (arguments.Container.TryGetEntry(root.Append(name), out var entry))
+            {
+                changeTracker.Register(entry);
+            }
+        }
+    }
+
+    public byte[] Unpack(ObjectPath root, UnpackArguments arguments, CancellationToken cancellationToken)
+    {
+        using var archive = new SnsArchive(bytes);
+        Enumerate().Scoped(logger, "xml").Run(cancellationToken);
         return archive.Save();
 
         IEnumerable<Action> Enumerate()

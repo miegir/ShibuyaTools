@@ -7,7 +7,7 @@ public class WadResource(ILogger logger, FileSource source) : IResource
 {
     private readonly string name = source.FileName;
 
-    public IEnumerable<Action> BeginExport(ExportArguments arguments)
+    public IEnumerable<Action> BeginExport(ExportArguments arguments, CancellationToken cancellationToken)
     {
         var path = Path.Combine(arguments.ExportDirectory, name);
 
@@ -17,16 +17,16 @@ public class WadResource(ILogger logger, FileSource source) : IResource
             using (logger.BeginScope("{name}", name))
             {
                 var manager = new WadResourceManager(logger, source);
-                manager.Export(arguments with { ExportDirectory = path });
+                manager.Export(arguments with { ExportDirectory = path }, cancellationToken);
             }
         };
     }
 
-    public IEnumerable<Action> BeginImport(ImportArguments arguments)
+    public IEnumerable<Action> BeginImport(ImportArguments arguments, CancellationToken cancellationToken)
     {
         var sourceDirectory = Path.Combine(arguments.SourceDirectory, name);
 
-        return Directory.Exists(sourceDirectory) ? Enumerate() : BeginUnroll();
+        return Directory.Exists(sourceDirectory) ? Enumerate() : BeginUnroll(cancellationToken);
 
         IEnumerable<Action> Enumerate()
         {
@@ -46,7 +46,8 @@ public class WadResource(ILogger logger, FileSource source) : IResource
                             SourceDirectory = sourceDirectory,
                             ObjectDirectory = objectDirectory,
                         },
-                        sourceChangeTracker);
+                        sourceChangeTracker,
+                        cancellationToken);
 
                     if (shouldCommit)
                     {
@@ -57,7 +58,7 @@ public class WadResource(ILogger logger, FileSource source) : IResource
         }
     }
 
-    public IEnumerable<Action> BeginMuster(MusterArguments arguments)
+    public IEnumerable<Action> BeginMuster(MusterArguments arguments, CancellationToken cancellationToken)
     {
         var sourceDirectory = Path.Combine(arguments.SourceDirectory, name);
 
@@ -81,7 +82,8 @@ public class WadResource(ILogger logger, FileSource source) : IResource
                     {
                         SourceDirectory = sourceDirectory,
                         ObjectDirectory = objectDirectory,
-                    }))
+                    },
+                    cancellationToken))
                 {
                     arguments.Sink.ReportDirectory(directoryName);
                 }
@@ -89,11 +91,11 @@ public class WadResource(ILogger logger, FileSource source) : IResource
         };
     }
 
-    public IEnumerable<Action> BeginUnpack(UnpackArguments arguments)
+    public IEnumerable<Action> BeginUnpack(UnpackArguments arguments, CancellationToken cancellationToken)
     {
         var directory = ObjectPath.Root.Append(name);
 
-        return arguments.Container.HasDirectory(directory) ? Enumerate() : BeginUnroll();
+        return arguments.Container.HasDirectory(directory) ? Enumerate() : BeginUnroll(cancellationToken);
 
         IEnumerable<Action> Enumerate()
         {
@@ -103,13 +105,13 @@ public class WadResource(ILogger logger, FileSource source) : IResource
                 using (logger.BeginScope("{name}", name))
                 {
                     var manager = new WadResourceManager(logger, source);
-                    manager.Unpack(arguments, directory);
+                    manager.Unpack(arguments, directory, cancellationToken);
                 }
             };
         }
     }
 
-    public IEnumerable<Action> BeginUnroll()
+    public IEnumerable<Action> BeginUnroll(CancellationToken cancellationToken)
     {
         if (source.CanUnroll())
         {
@@ -119,7 +121,7 @@ public class WadResource(ILogger logger, FileSource source) : IResource
                 using (logger.BeginScope("unrolling {name}", name))
                 {
                     var progressReporter = new ProgressReporter(logger);
-                    source.Unroll(progressReporter.ReportProgress);
+                    source.Unroll(progressReporter.ReportProgress, cancellationToken);
                 }
             };
         }

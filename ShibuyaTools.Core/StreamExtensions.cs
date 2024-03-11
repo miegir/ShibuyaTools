@@ -6,7 +6,7 @@ public static class StreamExtensions
 {
     private const int DefaultBufferSize = 32767;
 
-    public static void CopyTo(this Stream source, Stream target, ProgressCallback<long> callback)
+    public static void CopyTo(this Stream source, Stream target, ProgressCallback<long> callback, CancellationToken cancellationToken)
     {
         var buffer = ArrayPool<byte>.Shared.Rent(DefaultBufferSize);
 
@@ -16,8 +16,12 @@ public static class StreamExtensions
             var total = source.Length;
             var copied = 0L;
 
+            cancellationToken.ThrowIfCancellationRequested();
+
             while ((read = source.Read(buffer, 0, buffer.Length)) > 0)
             {
+                cancellationToken.ThrowIfCancellationRequested();
+
                 target.Write(buffer, 0, read);
 
                 callback(new ProgressPayload<long>(

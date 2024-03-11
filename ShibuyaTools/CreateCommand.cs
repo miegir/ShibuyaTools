@@ -43,7 +43,7 @@ internal class CreateCommand(ILogger<CreateCommand> logger)
     public bool ForcePack { get; }
 #nullable restore
 
-    public void OnExecute()
+    public void OnExecute(CancellationToken cancellationToken)
     {
         logger.LogInformation("executing...");
 
@@ -54,16 +54,25 @@ internal class CreateCommand(ILogger<CreateCommand> logger)
             gamePath: GamePath,
             backupDirectory: BackupDirectory);
 
-        game.Muster(new MusterArguments(
-            Sink: sink,
-            SourceDirectory: SourceDirectory,
-            ObjectDirectory: ObjectDirectory,
-            ForceObjects: Force || ForceObjects));
+        try
+        {
+            game.Muster(
+                new MusterArguments(
+                    Sink: sink,
+                    SourceDirectory: SourceDirectory,
+                    ObjectDirectory: ObjectDirectory,
+                    ForceObjects: Force || ForceObjects),
+                cancellationToken);
 
-        sink.Pack(new PackArguments(
-            ArchivePath: ArchivePath,
-            Force: Force || ForcePack));
+            sink.Pack(new PackArguments(
+                ArchivePath: ArchivePath,
+                Force: Force || ForcePack));
 
-        logger.LogInformation("executed.");
+            logger.LogInformation("executed.");
+        }
+        catch (OperationCanceledException)
+        {
+            logger.LogInformation("canceled.");
+        }
     }
 }

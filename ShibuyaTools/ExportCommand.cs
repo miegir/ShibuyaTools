@@ -30,7 +30,7 @@ internal class ExportCommand(ILogger<ExportCommand> logger)
     public bool ForceExport { get; }
 #nullable restore
 
-    public void OnExecute()
+    public void OnExecute(CancellationToken cancellationToken)
     {
         logger.LogInformation("executing...");
 
@@ -39,10 +39,19 @@ internal class ExportCommand(ILogger<ExportCommand> logger)
             gamePath: GamePath,
             backupDirectory: BackupDirectory);
 
-        game.Export(new ExportArguments(
-            ExportDirectory: ExportDirectory,
-            Force: Force || ForceExport));
+        try
+        {
+            game.Export(
+                new ExportArguments(
+                    ExportDirectory: ExportDirectory,
+                    Force: Force || ForceExport),
+                cancellationToken);
 
-        logger.LogInformation("executed.");
+            logger.LogInformation("executed.");
+        }
+        catch (OperationCanceledException)
+        {
+            logger.LogInformation("canceled.");
+        }
     }
 }

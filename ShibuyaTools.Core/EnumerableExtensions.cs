@@ -34,12 +34,13 @@ public static class EnumerableExtensions
         }
     }
 
-    public static bool Run(this IEnumerable<Action> source)
+    public static bool Run(this IEnumerable<Action> source, CancellationToken cancellationToken)
     {
         var result = false;
 
         foreach (var item in source)
         {
+            cancellationToken.ThrowIfCancellationRequested();
             item();
             result = true;
         }

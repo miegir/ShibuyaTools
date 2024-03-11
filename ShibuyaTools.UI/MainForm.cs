@@ -149,6 +149,10 @@ public partial class MainForm : Form
 
                 logger.LogInformation("Done.");
             }
+            catch (OperationCanceledException e) when (e.CancellationToken == context.CancellationToken)
+            {
+                logger.LogError(e, "Canceled.");
+            }
             catch (Exception e)
             {
                 MessageBox.Show(e.GetBaseException().ToString());
@@ -183,19 +187,29 @@ public partial class MainForm : Form
 
     private void RollButton_Click(object sender, EventArgs e)
     {
-        PerformAction(context =>
-        {
-            using var stream = context.Resource.OpenRead();
-            using var container = new ObjectContainer(stream);
-            context.Game.Unpack(
-                new UnpackArguments(
-                    Container: container));
-        });
+        PerformAction(
+            canCancel: true,
+            action: context =>
+            {
+                using var stream = context.Resource.OpenRead();
+                using var container = new ObjectContainer(stream);
+                context.Game.Unpack(
+                    new UnpackArguments(
+                        Container: container,
+                        ForceTargets: ForceCheckBox.Checked),
+                    context.CancellationToken);
+            });
     }
 
     private void UnrollButton_Click(object sender, EventArgs e)
     {
-        PerformAction(context => context.Game.Unroll());
+        PerformAction(
+            canCancel: true,
+            action: context =>
+            {
+                context.Game.Unroll(
+                    context.CancellationToken);
+            });
     }
 
     private void UpdateVersionInfo()

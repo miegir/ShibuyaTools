@@ -12,7 +12,7 @@ public sealed class FileSource(string sourcePath, string backupPath)
     public FileStream OpenRead() => File.OpenRead(ReadPath);
     public bool CanUnroll() => File.Exists(backupPath);
 
-    public FileTarget CreateTarget(ProgressCallback<long> callback)
+    public FileTarget CreateTarget(ProgressCallback<long> callback, CancellationToken cancellationToken)
     {
         var createBackupIfNotExists = !Path.Exists(backupPath);
 
@@ -24,7 +24,7 @@ public sealed class FileSource(string sourcePath, string backupPath)
 
             if (sourceDir != backupDir)
             {
-                Copy(sourcePath, backupPath, callback);
+                Copy(sourcePath, backupPath, callback, cancellationToken);
                 createBackupIfNotExists = false; // already backed up
             }
         }
@@ -32,7 +32,7 @@ public sealed class FileSource(string sourcePath, string backupPath)
         return new(sourcePath, createBackupIfNotExists);
     }
 
-    public void Unroll(ProgressCallback<long> callback)
+    public void Unroll(ProgressCallback<long> callback, CancellationToken cancellationToken)
     {
         if (File.Exists(backupPath))
         {
@@ -46,16 +46,16 @@ public sealed class FileSource(string sourcePath, string backupPath)
             }
             else
             {
-                Copy(backupPath, sourcePath, callback);
+                Copy(backupPath, sourcePath, callback, cancellationToken);
             }
         }
     }
 
-    private static void Copy(string sourcePath, string targetPath, ProgressCallback<long> callback)
+    private static void Copy(string sourcePath, string targetPath, ProgressCallback<long> callback, CancellationToken cancellationToken)
     {
         using var target = new FileTarget(targetPath);
         using var source = File.OpenRead(sourcePath);
-        source.CopyTo(target.Stream, callback);
+        source.CopyTo(target.Stream, callback, cancellationToken);
         target.CopyFileInfo(sourcePath);
         target.Commit();
     }

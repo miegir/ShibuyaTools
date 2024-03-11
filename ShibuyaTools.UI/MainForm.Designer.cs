@@ -44,6 +44,7 @@
             ResourceVersionBox = new Label();
             GameVersionLabel = new Label();
             GameVersionBox = new Label();
+            ForceCheckBox = new CheckBox();
             ((System.ComponentModel.ISupportInitialize)SteamBox).BeginInit();
             SuspendLayout();
             // 
@@ -189,11 +190,23 @@
             GameVersionBox.TabIndex = 15;
             GameVersionBox.Text = "<unknown>";
             // 
+            // ForceCheckBox
+            // 
+            ForceCheckBox.Checked = true;
+            ForceCheckBox.CheckState = CheckState.Checked;
+            ForceCheckBox.Location = new Point(458, 109);
+            ForceCheckBox.Name = "ForceCheckBox";
+            ForceCheckBox.Size = new Size(71, 24);
+            ForceCheckBox.TabIndex = 16;
+            ForceCheckBox.Text = "&Force";
+            ForceCheckBox.UseVisualStyleBackColor = true;
+            // 
             // MainForm
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(784, 521);
+            Controls.Add(ForceCheckBox);
             Controls.Add(GameVersionBox);
             Controls.Add(GameVersionLabel);
             Controls.Add(ResourceVersionBox);
@@ -236,5 +249,6 @@
         private Label ResourceVersionBox;
         private Label GameVersionLabel;
         private Label GameVersionBox;
+        private CheckBox ForceCheckBox;
     }
 }

@@ -18,7 +18,7 @@ internal class UnrollCommand(ILogger<UnrollCommand> logger)
     public string BackupDirectory { get; }
 #nullable restore
 
-    public void OnExecute()
+    public void OnExecute(CancellationToken cancellationToken)
     {
         logger.LogInformation("executing...");
 
@@ -27,8 +27,15 @@ internal class UnrollCommand(ILogger<UnrollCommand> logger)
             gamePath: GamePath,
             backupDirectory: BackupDirectory);
 
-        game.Unroll();
+        try
+        {
+            game.Unroll(cancellationToken);
 
-        logger.LogInformation("executed.");
+            logger.LogInformation("executed.");
+        }
+        catch (OperationCanceledException)
+        {
+            logger.LogInformation("canceled.");
+        }
     }
 }

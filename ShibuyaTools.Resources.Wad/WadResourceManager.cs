@@ -13,10 +13,10 @@ internal class WadResourceManager(ILogger logger, FileSource source)
     private static bool IsSns(WadFile file) => HasExtension(file, ".sns");
     private static bool IsIvf(WadFile file) => HasExtension(file, ".ivf");
 
-    public void Export(ExportArguments arguments)
+    public void Export(ExportArguments arguments, CancellationToken cancellationToken)
     {
         using var archive = new WadArchive(source);
-        Enumerate().Scoped(logger, "file").Run();
+        Enumerate().Scoped(logger, "file").Run(cancellationToken);
 
         IEnumerable<Action> Enumerate()
         {
@@ -32,7 +32,7 @@ internal class WadResourceManager(ILogger logger, FileSource source)
                         var bytes = archive.Read(file);
                         SnsEncoder.DecodeBuffer(bytes);
                         var manager = new SnsResourceManager(logger, bytes);
-                        manager.Export(arguments with { ExportDirectory = path });
+                        manager.Export(arguments with { ExportDirectory = path }, cancellationToken);
                     }
                 }
                 else
@@ -52,7 +52,7 @@ internal class WadResourceManager(ILogger logger, FileSource source)
         }
     }
 
-    public bool Import(ImportArguments arguments, SourceChangeTracker sourceChangeTracker)
+    public bool Import(ImportArguments arguments, SourceChangeTracker sourceChangeTracker, CancellationToken cancellationToken)
     {
         var hasChanges = arguments.ForceTargets || sourceChangeTracker.HasChanges();
 
@@ -62,8 +62,8 @@ internal class WadResourceManager(ILogger logger, FileSource source)
         }
 
         using var archive = new WadArchive(source);
-        Enumerate().Scoped(logger, "file").Run();
-        archive.Save(logger);
+        Enumerate().Scoped(logger, "file").Run(cancellationToken);
+        archive.Save(logger, cancellationToken);
         return true;
 
         IEnumerable<Action> Enumerate()
@@ -92,7 +92,8 @@ internal class WadResourceManager(ILogger logger, FileSource source)
                                         SourceDirectory = sourcePath,
                                         ObjectDirectory = objectPath,
                                     },
-                                    sourceChangeTracker);
+                                    sourceChangeTracker,
+                                    cancellationToken);
 
                                 SnsEncoder.EncodeBuffer(bytes);
                                 archive.AddFile(file.Name, bytes);
@@ -148,10 +149,10 @@ internal class WadResourceManager(ILogger logger, FileSource source)
         }
     }
 
-    public bool Muster(ObjectPath root, MusterArguments arguments)
+    public bool Muster(ObjectPath root, MusterArguments arguments, CancellationToken cancellationToken)
     {
         using var archive = new WadArchive(source);
-        return Enumerate().Scoped(logger, "file").Run();
+        return Enumerate().Scoped(logger, "file").Run(cancellationToken);
 
         IEnumerable<Action> Enumerate()
         {
@@ -180,7 +181,8 @@ internal class WadResourceManager(ILogger logger, FileSource source)
                                     {
                                         SourceDirectory = sourcePath,
                                         ObjectDirectory = objectPath,
-                                    }))
+                                    },
+                                    cancellationToken))
                                 {
                                     arguments.Sink.ReportDirectory(musterPath);
                                 }
@@ -222,11 +224,21 @@ internal class WadResourceManager(ILogger logger, FileSource source)
         }
     }
 
-    public void Unpack(UnpackArguments arguments, ObjectPath root)
+    public void Unpack(UnpackArguments arguments, ObjectPath root, CancellationToken cancellationToken)
     {
+        var changeTracker = new WadChangeTracker(source.Destination);
         using var archive = new WadArchive(source);
-        Enumerate().Scoped(logger, "file").Run();
-        archive.Save(logger);
+        var actions = Enumerate().ToList();
+
+        if (arguments.ForceTargets || changeTracker.HasChanges())
+        {
+            actions.Scoped(logger, "file").Run(cancellationToken);
+            archive.Save(logger, cancellationToken);
+        }
+        else
+        {
+            logger.LogInformation("skipping unchanged file.");
+        }
 
         IEnumerable<Action> Enumerate()
         {
@@ -244,9 +256,15 @@ internal class WadResourceManager(ILogger logger, FileSource source)
                             var bytes = archive.Read(file);
                             SnsEncoder.DecodeBuffer(bytes);
                             var manager = new SnsResourceManager(logger, bytes);
-                            bytes = manager.Unpack(musterPath, arguments);
-                            SnsEncoder.EncodeBuffer(bytes);
-                            archive.AddFile(file.Name, bytes);
+                            manager.UnpackTest(root, arguments, changeTracker, cancellationToken);
+
+                            yield return () =>
+                            {
+                                logger.LogInformation("unpacking file {name}...", file.Name);
+                                var bytes = manager.Unpack(musterPath, arguments, cancellationToken);
+                                SnsEncoder.EncodeBuffer(bytes);
+                                archive.AddFile(file.Name, bytes);
+                            };
                         }
                     }
                     else
@@ -258,6 +276,8 @@ internal class WadResourceManager(ILogger logger, FileSource source)
                 {
                     if (arguments.Container.TryGetEntry(musterPath, out var entry))
                     {
+                        changeTracker.Register(entry);
+
                         yield return () =>
                         {
                             logger.LogInformation("unpacking file {name}...", file.Name);
@@ -277,6 +297,8 @@ internal class WadResourceManager(ILogger logger, FileSource source)
                     {
                         if (arguments.Container.TryGetEntry(root.Append(jsubtName), out var entry))
                         {
+                            changeTracker.Register(entry);
+
                             yield return () =>
                             {
                                 logger.LogInformation("unpacking file {name}...", jsubtName);

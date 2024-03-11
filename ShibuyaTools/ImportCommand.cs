@@ -44,7 +44,7 @@ internal class ImportCommand(ILogger<ImportCommand> logger)
     public bool Launch { get; }
 #nullable restore
 
-    public void OnExecute()
+    public void OnExecute(CancellationToken cancellationToken)
     {
         logger.LogInformation("executing...");
 
@@ -53,18 +53,27 @@ internal class ImportCommand(ILogger<ImportCommand> logger)
             gamePath: GamePath,
             backupDirectory: BackupDirectory);
 
-        game.Import(new ImportArguments(
-            SourceDirectory: SourceDirectory,
-            ObjectDirectory: ObjectDirectory,
-            ForceObjects: Force || ForceObjects,
-            ForceTargets: Force || ForceTargets,
-            Debug: Debug));
-
-        logger.LogInformation("executed.");
-
-        if (Launch)
+        try
         {
-            game.Launch();
+            game.Import(
+                new ImportArguments(
+                    SourceDirectory: SourceDirectory,
+                    ObjectDirectory: ObjectDirectory,
+                    ForceObjects: Force || ForceObjects,
+                    ForceTargets: Force || ForceTargets,
+                    Debug: Debug),
+                cancellationToken);
+
+            logger.LogInformation("executed.");
+
+            if (Launch)
+            {
+                game.Launch();
+            }
+        }
+        catch (OperationCanceledException)
+        {
+            logger.LogInformation("canceled.");
         }
     }
 }

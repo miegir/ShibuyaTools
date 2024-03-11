@@ -4,17 +4,11 @@ namespace ShibuyaTools.Core;
 
 public class GameVersionResource(ILogger logger, Game game) : IResource
 {
-    public IEnumerable<Action> BeginExport(ExportArguments arguments)
-    {
-        return Enumerable.Empty<Action>();
-    }
+    public IEnumerable<Action> BeginExport(ExportArguments arguments, CancellationToken cancellationToken) => [];
 
-    public IEnumerable<Action> BeginImport(ImportArguments arguments)
-    {
-        return Enumerable.Empty<Action>();
-    }
+    public IEnumerable<Action> BeginImport(ImportArguments arguments, CancellationToken cancellationToken) => [];
 
-    public IEnumerable<Action> BeginMuster(MusterArguments arguments)
+    public IEnumerable<Action> BeginMuster(MusterArguments arguments, CancellationToken cancellationToken)
     {
         yield return () =>
         {
@@ -33,15 +27,9 @@ public class GameVersionResource(ILogger logger, Game game) : IResource
         };
     }
 
-    public IEnumerable<Action> BeginUnpack(UnpackArguments arguments)
-    {
-        return Enumerable.Empty<Action>();
-    }
+    public IEnumerable<Action> BeginUnpack(UnpackArguments arguments, CancellationToken cancellationToken) => [];
 
-    public IEnumerable<Action> BeginUnroll()
-    {
-        return Enumerable.Empty<Action>();
-    }
+    public IEnumerable<Action> BeginUnroll(CancellationToken cancellationToken) => [];
 
     private class GameVersionStreamSource(GameVersionInfo info) : IObjectStreamSource
     {
