@@ -2882,7 +2882,7 @@
   {
     "key": "My family and my kin are utterly gone.",
     "trx": "Моя семья и мои родственники полностью исчезли.",
-    "val": "Моей семьи и мох родственников больше нет."
+    "val": "Моей семьи и моих родственников больше нет."
   },
   {
     "key": "Apart from the determination I already possessed, I knew I needed to hone myself.",
