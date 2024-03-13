@@ -3,7 +3,8 @@
   <PropertyGroup>
     <OutputType>WinExe</OutputType>
     <TargetFramework>net8.0-windows</TargetFramework>
-    <Nullable>enable</Nullable>
+		<RuntimeIdentifiers>win-x64</RuntimeIdentifiers>
+		<Nullable>enable</Nullable>
 		<RootNamespace>ShibuyaTools</RootNamespace>
 		<UseWindowsForms>true</UseWindowsForms>
     <ImplicitUsings>enable</ImplicitUsings>
