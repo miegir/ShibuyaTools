@@ -1,4 +1,5 @@
-﻿using Microsoft.Extensions.Logging;
+﻿using System.Diagnostics.CodeAnalysis;
+using Microsoft.Extensions.Logging;
 using ShibuyaTools.Core;
 
 namespace ShibuyaTools.Resources.Wad;
@@ -10,7 +11,24 @@ internal class WadResourceManager(ILogger logger, FileSource source)
         return Path.GetExtension(file.Name).Equals(extension, StringComparison.OrdinalIgnoreCase);
     }
 
-    private static bool IsSns(WadFile file) => HasExtension(file, ".sns");
+    private static bool IsSns(WadFile file, [NotNullWhen(true)] out Xml? xml)
+    {
+        if (HasExtension(file, ".sns"))
+        {
+            xml = Xml.Sns;
+            return true;
+        }
+
+        if (HasExtension(file, ".sns64"))
+        {
+            xml = Xml.Sns64;
+            return true;
+        }
+
+        xml = null;
+        return false;
+    }
+
     private static bool IsIvf(WadFile file) => HasExtension(file, ".ivf");
 
     public void Export(ExportArguments arguments, CancellationToken cancellationToken)
@@ -24,14 +42,14 @@ internal class WadResourceManager(ILogger logger, FileSource source)
             {
                 var path = Path.Combine(arguments.ExportDirectory, file.Name);
 
-                if (IsSns(file))
+                if (IsSns(file, out var xml))
                 {
                     logger.LogInformation("exporting sns {name}...", file.Name);
                     using (logger.BeginScope("sns {name}", file.Name))
                     {
                         var bytes = archive.Read(file);
                         SnsEncoder.DecodeBuffer(bytes);
-                        var manager = new SnsResourceManager(logger, bytes);
+                        var manager = new SnsResourceManager(logger, xml, bytes);
                         manager.Export(arguments with { ExportDirectory = path }, cancellationToken);
                     }
                 }
@@ -70,9 +88,9 @@ internal class WadResourceManager(ILogger logger, FileSource source)
         {
             foreach (var file in archive.Files)
             {
-                var sourcePath = Path.Combine(arguments.SourceDirectory, file.Name);
+                var sourcePath = ResolvePath(arguments.SourceDirectory, file.Name);
 
-                if (IsSns(file))
+                if (IsSns(file, out var xml))
                 {
                     if (Directory.Exists(sourcePath))
                     {
@@ -84,7 +102,7 @@ internal class WadResourceManager(ILogger logger, FileSource source)
                                 var objectPath = Path.Combine(arguments.ObjectDirectory, file.Name);
                                 var bytes = archive.Read(file);
                                 SnsEncoder.DecodeBuffer(bytes);
-                                var manager = new SnsResourceManager(logger, bytes);
+                                var manager = new SnsResourceManager(logger, xml, bytes);
 
                                 bytes = manager.Import(
                                     arguments with
@@ -158,10 +176,10 @@ internal class WadResourceManager(ILogger logger, FileSource source)
         {
             foreach (var file in archive.Files)
             {
-                var sourcePath = Path.Combine(arguments.SourceDirectory, file.Name);
+                var sourcePath = ResolvePath(arguments.SourceDirectory, file.Name);
                 var musterPath = root.Append(file.Name);
 
-                if (IsSns(file))
+                if (IsSns(file, out var xml))
                 {
                     if (Directory.Exists(sourcePath))
                     {
@@ -173,7 +191,7 @@ internal class WadResourceManager(ILogger logger, FileSource source)
                                 var objectPath = Path.Combine(arguments.ObjectDirectory, file.Name);
                                 var bytes = archive.Read(file);
                                 SnsEncoder.DecodeBuffer(bytes);
-                                var manager = new SnsResourceManager(logger, bytes);
+                                var manager = new SnsResourceManager(logger, xml, bytes);
 
                                 if (manager.Muster(
                                     musterPath,
@@ -246,7 +264,7 @@ internal class WadResourceManager(ILogger logger, FileSource source)
             {
                 var musterPath = root.Append(file.Name);
 
-                if (IsSns(file))
+                if (IsSns(file, out var xml))
                 {
                     if (arguments.Container.HasDirectory(musterPath))
                     {
@@ -255,8 +273,8 @@ internal class WadResourceManager(ILogger logger, FileSource source)
                         {
                             var bytes = archive.Read(file);
                             SnsEncoder.DecodeBuffer(bytes);
-                            var manager = new SnsResourceManager(logger, bytes);
-                            manager.UnpackTest(root, arguments, changeTracker, cancellationToken);
+                            var manager = new SnsResourceManager(logger, xml, bytes);
+                            manager.UnpackTest(root, arguments, changeTracker);
 
                             yield return () =>
                             {
@@ -309,5 +327,22 @@ internal class WadResourceManager(ILogger logger, FileSource source)
                 }
             }
         }
+    }
+
+    private static string ResolvePath(string path1, string path2)
+    {
+        return ResolvePath(Path.Combine(path1, path2));
+    }
+
+    private static string ResolvePath(string path)
+    {
+        var symlinkPath = path + ".symlink";
+
+        if (File.Exists(symlinkPath))
+        {
+            path = Path.Combine(path, File.ReadAllText(symlinkPath));
+        }
+
+        return Path.GetFullPath(path);
     }
 }

@@ -3,18 +3,19 @@ using ShibuyaTools.Core;
 
 namespace ShibuyaTools.Resources.Wad;
 
-internal static class Xml
+internal abstract class Xml
 {
+    public static readonly Xml Sns = new XmlSns();
+    public static readonly Xml Sns64 = new XmlSns64();
+
     private record Bookmark(int Location, long LocationOffset);
 
-    public static XmlTranslation[] Parse(byte[] body)
+    public XmlTranslation[] Parse(byte[] body)
     {
         using var stream = new MemoryStream(body);
         using var reader = new BinaryReader(stream);
 
-        stream.Position = 1072;
-
-        var scriptOffset = reader.ReadInt32();
+        var scriptOffset = (int)ReadScriptOffset(reader);
         var bookmarkList = ReadBookmarkList(reader, scriptOffset);
 
         var sourcePtr = scriptOffset;
@@ -41,10 +42,10 @@ internal static class Xml
             }
 
             sourcePtr += body.Length;
-        }        
+        }
     }
 
-    public static ReadOnlySpan<byte> Translate(ILogger logger, XmlTranslation[] existing, ReadOnlySpan<byte> body)
+    public ReadOnlySpan<byte> Translate(ILogger logger, XmlTranslation[] existing, ReadOnlySpan<byte> body)
     {
         var index = 0;
         var showError = true;
@@ -77,9 +78,8 @@ internal static class Xml
         using var reader = new BinaryReader(stream);
 
         stream.Write(body);
-        stream.Position = 1072;
 
-        var scriptOffset = reader.ReadInt32();
+        var scriptOffset = (int)ReadScriptOffset(reader);
         var bookmarkList = ReadBookmarkList(reader, scriptOffset);
 
         var sourcePtr = scriptOffset;
@@ -143,6 +143,8 @@ internal static class Xml
         return result;
     }
 
+    protected abstract long ReadScriptOffset(BinaryReader reader);
+
     private static List<Bookmark> ReadBookmarkList(BinaryReader reader, long scriptOffset)
     {
         var stream = reader.BaseStream;
@@ -166,5 +168,25 @@ internal static class Xml
         bookmarkList.Sort((a, b) => a.Location - b.Location);
 
         return bookmarkList;
+    }
+
+    private class XmlSns : Xml
+    {
+        protected override long ReadScriptOffset(BinaryReader reader)
+        {
+            reader.BaseStream.Position = 0x430;
+
+            return reader.ReadInt32();
+        }
+    }
+
+    private class XmlSns64 : Xml
+    {
+        protected override long ReadScriptOffset(BinaryReader reader)
+        {
+            reader.BaseStream.Position = 0x830;
+
+            return reader.ReadInt64();
+        }
     }
 }

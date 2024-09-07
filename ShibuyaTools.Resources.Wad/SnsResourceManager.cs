@@ -1,11 +1,10 @@
-﻿using System;
-using System.Text.Json;
+﻿using System.Text.Json;
 using Microsoft.Extensions.Logging;
 using ShibuyaTools.Core;
 
 namespace ShibuyaTools.Resources.Wad;
 
-internal class SnsResourceManager(ILogger logger, byte[] bytes)
+internal class SnsResourceManager(ILogger logger, Xml xml, byte[] bytes)
 {
     public void Export(ExportArguments arguments, CancellationToken cancellationToken)
     {
@@ -38,7 +37,7 @@ internal class SnsResourceManager(ILogger logger, byte[] bytes)
                     yield return () =>
                     {
                         logger.LogInformation("exporting txt {name}...", name);
-                        var translations = Xml.Parse(bytes);
+                        var translations = xml.Parse(bytes);
                         using var target = new FileTarget(txtPath);
                         JsonSerializer.Serialize(target.Stream, translations, XmlContext.Relaxed.XmlTranslationArray);
                         target.Commit();
@@ -77,7 +76,7 @@ internal class SnsResourceManager(ILogger logger, byte[] bytes)
                             var translations = JsonSerializer.Deserialize(stream, XmlContext.Relaxed.XmlTranslationArray);
                             if (translations != null && translations.Length > 0)
                             {
-                                bytes = Xml.Translate(logger, translations, bytes).ToArray();
+                                bytes = xml.Translate(logger, translations, bytes).ToArray();
                             }
 
                             archive.AddFile(name, bytes);
@@ -119,7 +118,7 @@ internal class SnsResourceManager(ILogger logger, byte[] bytes)
         }
     }
 
-    public void UnpackTest(ObjectPath root, UnpackArguments arguments, WadChangeTracker changeTracker, CancellationToken cancellationToken)
+    public void UnpackTest(ObjectPath root, UnpackArguments arguments, WadChangeTracker changeTracker)
     {
         using var archive = new SnsArchive(bytes);
 
@@ -155,7 +154,7 @@ internal class SnsResourceManager(ILogger logger, byte[] bytes)
 
                             if (translations.Length > 0)
                             {
-                                bytes = Xml.Translate(logger, translations, bytes).ToArray();
+                                bytes = xml.Translate(logger, translations, bytes).ToArray();
                             }
 
                             archive.AddFile(name, bytes);
