@@ -30,5 +30,5 @@ jobs:
     - name: Upload assets
       uses: shogo82148/actions-upload-release-asset@v1
       with:
-        upload_url: ${{ steps.create_release.outputs.upload_url }}
+        upload_url: ${{ github.event.release.upload_url }}
         asset_path: ./ShibuyaTools/bin/Release/net8.0/publish/linux-x64/ShibuyaTools
