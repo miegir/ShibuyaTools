@@ -45,6 +45,8 @@
             GameVersionLabel = new Label();
             GameVersionBox = new Label();
             ForceCheckBox = new CheckBox();
+            ExportLogButton = new Button();
+            ExportLogDialog = new SaveFileDialog();
             ((System.ComponentModel.ISupportInitialize)SteamBox).BeginInit();
             SuspendLayout();
             // 
@@ -142,7 +144,7 @@
             LogBox.ItemHeight = 15;
             LogBox.Location = new Point(12, 138);
             LogBox.Name = "LogBox";
-            LogBox.Size = new Size(760, 371);
+            LogBox.Size = new Size(760, 342);
             LogBox.TabIndex = 10;
             // 
             // SteamBox
@@ -192,6 +194,7 @@
             // 
             // ForceCheckBox
             // 
+            ForceCheckBox.Anchor = AnchorStyles.Top | AnchorStyles.Right;
             ForceCheckBox.Checked = true;
             ForceCheckBox.CheckState = CheckState.Checked;
             ForceCheckBox.Location = new Point(458, 109);
@@ -200,6 +203,22 @@
             ForceCheckBox.TabIndex = 16;
             ForceCheckBox.Text = "&Force";
             ForceCheckBox.UseVisualStyleBackColor = true;
+            // 
+            // ExportLogButton
+            // 
+            ExportLogButton.Anchor = AnchorStyles.Bottom | AnchorStyles.Right;
+            ExportLogButton.Location = new Point(616, 486);
+            ExportLogButton.Name = "ExportLogButton";
+            ExportLogButton.Size = new Size(156, 23);
+            ExportLogButton.TabIndex = 4;
+            ExportLogButton.Text = "&Export log...";
+            ExportLogButton.UseVisualStyleBackColor = true;
+            ExportLogButton.Click += ExportLogButton_Click;
+            // 
+            // ExportLogDialog
+            // 
+            ExportLogDialog.FileName = "ShibuyaTools.log";
+            ExportLogDialog.Filter = "Log Files|*.log|All Files|*.*";
             // 
             // MainForm
             // 
@@ -216,6 +235,7 @@
             Controls.Add(CancellationButton);
             Controls.Add(UnrollButton);
             Controls.Add(RollButton);
+            Controls.Add(ExportLogButton);
             Controls.Add(GamePathBrowseButton);
             Controls.Add(GamePathBox);
             Controls.Add(GamePathLabel);
@@ -250,5 +270,7 @@
         private Label GameVersionLabel;
         private Label GameVersionBox;
         private CheckBox ForceCheckBox;
+        private Button ExportLogButton;
+        private SaveFileDialog ExportLogDialog;
     }
 }

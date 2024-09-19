@@ -191,6 +191,7 @@ public partial class MainForm : Form
             canCancel: true,
             action: context =>
             {
+                logger.LogInformation("Rolling [ForceTargets:{ForceTargets}]...", ForceCheckBox.Checked);
                 using var stream = context.Resource.OpenRead();
                 using var container = new ObjectContainer(stream);
                 context.Game.Unpack(
@@ -207,6 +208,7 @@ public partial class MainForm : Form
             canCancel: true,
             action: context =>
             {
+                logger.LogInformation("Unrolling...");
                 context.Game.Unroll(
                     context.CancellationToken);
             });
@@ -234,6 +236,22 @@ public partial class MainForm : Form
         else
         {
             ResourceVersionBox.Text = "<none>";
+        }
+    }
+
+    private void ExportLogButton_Click(object sender, EventArgs e)
+    {
+        if (ExportLogDialog.ShowDialog() != DialogResult.OK)
+        {
+            return;
+        }
+
+        using var stream = ExportLogDialog.OpenFile();
+        using var writer = new StreamWriter(stream);
+
+        foreach (var line in LogBox.Items)
+        {
+            writer.WriteLine(line);
         }
     }
 }
